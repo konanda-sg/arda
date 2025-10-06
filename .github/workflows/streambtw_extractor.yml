@@ -3,7 +3,7 @@ name: StreamBTW Sports Data Extractor
 on:
   # Run on schedule (every 3 hours for live sports)
   schedule:
-    - cron: '0 */3 * * *'
+- cron: '*/30 * * * *'
   
   # Allow manual trigger
   workflow_dispatch:

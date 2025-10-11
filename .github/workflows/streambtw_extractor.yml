@@ -1,9 +1,9 @@
 name: StreamBTW Sports Data Extractor
 
 on:
-  # Run on schedule (every 3 hours for live sports)
+  # Run on schedule (every 30 minutes for live sports)
   schedule:
-- cron: '*/30 * * * *'
+    - cron: '*/30 * * * *'
   
   # Allow manual trigger
   workflow_dispatch:
@@ -53,7 +53,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0  # ✅ fetch full history (required for rebase)
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -62,7 +64,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install requests beautifulsoup4 lxml jq
       
       - name: Run extractor
         run: |
@@ -78,11 +80,9 @@ jobs:
             echo "file_exists=true" >> $GITHUB_OUTPUT
             echo "✅ Data file created successfully"
             
-            # Show file size
             FILE_SIZE=$(du -h streambtw_data.json | cut -f1)
             echo "📦 File size: $FILE_SIZE"
             
-            # Show item count
             ITEM_COUNT=$(jq '.total_items' streambtw_data.json)
             echo "📊 Total items: $ITEM_COUNT"
           else
@@ -134,7 +134,7 @@ jobs:
           
           ## 🔄 Update Frequency
           
-          This data is automatically updated every 3 hours.
+          This data is automatically updated every 30 minutes.
           
           ---
           
@@ -148,7 +148,6 @@ jobs:
           EOF
       
       - name: Commit and push results
-             - name: Commit and push results
         if: steps.check_file.outputs.file_exists == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -171,21 +170,14 @@ jobs:
               git commit -m "Update StreamBTW data - $(date +'%Y-%m-%d %H:%M:%S UTC') | Events: $ITEM_COUNT | Sports: $SPORTS_COUNT"
             fi
 
-            # ⚡ Fetch and rebase remote changes to avoid rejection
+            # ✅ Safely rebase remote changes to prevent push rejection
             git fetch origin main
             git rebase origin/main || git rebase --abort
 
-            git push origin main
+            # ✅ Push with safety (avoids non-fast-forward issues)
+            git push --force-with-lease origin main
           fi
-
-            # Fetch remote and rebase to prevent push rejection
-            git fetch origin main
-            git rebase origin/main || git rebase --abort
-
-            # Push changes after rebase
-            git push origin main
-          fi
-
+      
       - name: Upload artifacts
         if: always() && steps.check_file.outputs.file_exists == 'true'
         uses: actions/upload-artifact@v4

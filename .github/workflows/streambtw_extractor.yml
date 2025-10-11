@@ -148,35 +148,39 @@ jobs:
           EOF
       
       - name: Commit and push results
+            - name: Commit and push results
         if: steps.check_file.outputs.file_exists == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
+
           # Add files
           git add streambtw_data.json || echo "No JSON to add"
-          
-          # Conditionally add other files if they exist
           [ -f "streambtw_data.html" ] && git add streambtw_data.html
           [ -f "STREAMBTW_README.md" ] && git add STREAMBTW_README.md
-          
+
           # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            # Get stats for commit message
             ITEM_COUNT=$(jq '.total_items' streambtw_data.json)
             SPORTS_COUNT=$(jq '.sports_count' streambtw_data.json)
             M3U8_COUNT=$(jq '.m3u8_extracted // 0' streambtw_data.json)
-            
+
             if [ "$M3U8_COUNT" -gt 0 ]; then
               git commit -m "Update StreamBTW data - $(date +'%Y-%m-%d %H:%M:%S UTC') | Events: $ITEM_COUNT | Sports: $SPORTS_COUNT | M3U8: $M3U8_COUNT"
             else
               git commit -m "Update StreamBTW data - $(date +'%Y-%m-%d %H:%M:%S UTC') | Events: $ITEM_COUNT | Sports: $SPORTS_COUNT"
             fi
-            git push
+
+            # Fetch remote and rebase to prevent push rejection
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+
+            # Push changes after rebase
+            git push origin main
           fi
-      
+
       - name: Upload artifacts
         if: always() && steps.check_file.outputs.file_exists == 'true'
         uses: actions/upload-artifact@v4

@@ -148,18 +148,16 @@ jobs:
           EOF
       
       - name: Commit and push results
-            - name: Commit and push results
+             - name: Commit and push results
         if: steps.check_file.outputs.file_exists == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          # Add files
           git add streambtw_data.json || echo "No JSON to add"
           [ -f "streambtw_data.html" ] && git add streambtw_data.html
           [ -f "STREAMBTW_README.md" ] && git add STREAMBTW_README.md
 
-          # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -172,6 +170,13 @@ jobs:
             else
               git commit -m "Update StreamBTW data - $(date +'%Y-%m-%d %H:%M:%S UTC') | Events: $ITEM_COUNT | Sports: $SPORTS_COUNT"
             fi
+
+            # ⚡ Fetch and rebase remote changes to avoid rejection
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+
+            git push origin main
+          fi
 
             # Fetch remote and rebase to prevent push rejection
             git fetch origin main

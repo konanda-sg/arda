@@ -1,1 +1,2117 @@
-
+{
+  "extracted_at": "2025-10-16T17:00:04.851413Z",
+  "total_events": 135,
+  "total_channels": 232,
+  "statistics": {
+    "successful": 0,
+    "failed": 226,
+    "success_rate": "0.0%"
+  },
+  "events": [
+    {
+      "time": "17:45",
+      "event_name": "Atletico Madrid W x Manchester United W",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 44
+    },
+    {
+      "time": "19:45",
+      "event_name": "Basketball Champions League: Fuchse Berlin x Kolstad",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 47
+    },
+    {
+      "time": "20:00",
+      "event_name": "PSG W x Real Madrid W",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 48
+    },
+    {
+      "time": "20:00",
+      "event_name": "SL Benfica W x Arsenal W",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/btv.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 51
+    },
+    {
+      "time": "20:00",
+      "event_name": "Bayern W x Juventus W",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 53
+    },
+    {
+      "time": "20:00",
+      "event_name": "Huddersfield Town x Bolton Wanderers",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 54
+    },
+    {
+      "time": "23:00",
+      "event_name": "MotoGP: Australia FP",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 55
+    },
+    {
+      "time": "23:00",
+      "event_name": "GrÃªmio x SÃ£o Paulo",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 58
+    },
+    {
+      "time": "01:30",
+      "event_name": "VitÃ³ria x Bahia",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 59
+    },
+    {
+      "time": "01:30",
+      "event_name": "Fluminense x Juventude",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 60
+    },
+    {
+      "time": "03:15",
+      "event_name": "MotoGP: Australia Practice",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 61
+    },
+    {
+      "time": "07:00",
+      "event_name": "ATP World Tour 250: Almaty",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 85
+    },
+    {
+      "time": "07:30",
+      "event_name": "DP World Tour: India Championship - D2",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 86
+    },
+    {
+      "time": "09:00",
+      "event_name": "Adelaide United x Sydney FC",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 87
+    },
+    {
+      "time": "11:05",
+      "event_name": "Brisbane Roar x Macarthur",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 88
+    },
+    {
+      "time": "12:30",
+      "event_name": "ATP World Tour 250: European Open",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 89
+    },
+    {
+      "time": "15:30",
+      "event_name": "CSMS IaÅi x CS Dinamo BucureÈti",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 90
+    },
+    {
+      "time": "16:05",
+      "event_name": "Al Feiha x Al Ittihad",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 91
+    },
+    {
+      "time": "17:00",
+      "event_name": "Motor Lublin x Katowice",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 92
+    },
+    {
+      "time": "17:30",
+      "event_name": "Hannover 96 x Schalke 04",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 93
+    },
+    {
+      "time": "18:00",
+      "event_name": "Formula 1: US Grand Prix - Practice 1",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 95
+    },
+    {
+      "time": "18:30",
+      "event_name": "Farul ConstanÈa x SCM ArgeÅul PiteÅti",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 97
+    },
+    {
+      "time": "19:30",
+      "event_name": "Union Berlin x Borussia M'gladbach",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 98
+    },
+    {
+      "time": "19:30",
+      "event_name": "Virtus Entella x Sampdoria",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 101
+    },
+    {
+      "time": "19:30",
+      "event_name": "Chaves x Benfica",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 102
+    },
+    {
+      "time": "19:30",
+      "event_name": "FC Andorra x Granada",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 103
+    },
+    {
+      "time": "19:30",
+      "event_name": "Widzew ÅÃ³dÅº x Radomiak Radom",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 104
+    },
+    {
+      "time": "19:45",
+      "event_name": "PSG x Strasbourg",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 105
+    },
+    {
+      "time": "20:00",
+      "event_name": "Real Oviedo x Espanyol",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 107
+    },
+    {
+      "time": "20:00",
+      "event_name": "Middlesbrough x Ipswich Town",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 110
+    },
+    {
+      "time": "22:00",
+      "event_name": "Formula 1: US Grand Prix - Sprint Qualifying",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 113
+    },
+    {
+      "time": "22:30",
+      "event_name": "MotoGP: Australia - Practice 2 - Moto3 & Moto2",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 115
+    },
+    {
+      "time": "00:00",
+      "event_name": "Amazonas x Novorizontino",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 118
+    },
+    {
+      "time": "00:00",
+      "event_name": "MotoGP: Australia - MotoGP Free Practice 2 & Qualifying",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 119
+    },
+    {
+      "time": "02:00",
+      "event_name": "Puebla x Tijuana",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 122
+    },
+    {
+      "time": "02:45",
+      "event_name": "MotoGP: Australia - Qualifying - Moto3 & Moto2",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 123
+    },
+    {
+      "time": "04:00",
+      "event_name": "AtlÃ©tico San Luis x Atlas",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 126
+    },
+    {
+      "time": "04:00",
+      "event_name": "Tigres UANL x Necaxa",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 127
+    },
+    {
+      "time": "04:45",
+      "event_name": "MotoGP: Australia - MotoGP Sprint Race",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 128
+    },
+    {
+      "time": "07:30",
+      "event_name": "DP World Tour: India Championship - D3",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 152
+    },
+    {
+      "time": "12:00",
+      "event_name": "Karlsruher SC x Kaiserslautern",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 153
+    },
+    {
+      "time": "12:30",
+      "event_name": "Nottingham Forest x Chelsea",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 155
+    },
+    {
+      "time": "12:30",
+      "event_name": "Queens Park Rangers x Millwall",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 158
+    },
+    {
+      "time": "13:00",
+      "event_name": "Sevilla x Mallorca",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 159
+    },
+    {
+      "time": "13:00",
+      "event_name": "Sevilla X Mallorca",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 162
+    },
+    {
+      "time": "13:45",
+      "event_name": "Korona Kielce x GÃ³rnik Zabrze",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 163
+    },
+    {
+      "time": "14:00",
+      "event_name": "Lecce x Sassuolo",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 164
+    },
+    {
+      "time": "14:00",
+      "event_name": "Pisa x Hellas Verona",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 166
+    },
+    {
+      "time": "14:30",
+      "event_name": "Mainz 05 x Bayer Leverkusen",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 167
+    },
+    {
+      "time": "15:00",
+      "event_name": "Brighton & Hove Albion x Newcastle United",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 170
+    },
+    {
+      "time": "15:00",
+      "event_name": "Manchester City x Everton",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 172
+    },
+    {
+      "time": "15:00",
+      "event_name": "Sunderland x Wolverhampton Wanderers",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 175
+    },
+    {
+      "time": "15:00",
+      "event_name": "Burnley x Leeds United",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 176
+    },
+    {
+      "time": "15:00",
+      "event_name": "Crystal Palace x AFC Bournemouth",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 177
+    },
+    {
+      "time": "15:00",
+      "event_name": "BeÅiktaÅ x GenÃ§lerbirliÄi",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 178
+    },
+    {
+      "time": "15:00",
+      "event_name": "AtlÃ©tico-MG U17 x GrÃªmio U17",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 179
+    },
+    {
+      "time": "15:15",
+      "event_name": "Barcelona x Girona",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 180
+    },
+    {
+      "time": "15:15",
+      "event_name": "Barcelona X Girona",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 183
+    },
+    {
+      "time": "15:15",
+      "event_name": "BraganÃ§a X Sporting Braga",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 184
+    },
+    {
+      "time": "16:00",
+      "event_name": "Nice x Olympique Lyonnais",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 185
+    },
+    {
+      "time": "17:00",
+      "event_name": "Torino x Napoli",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 187
+    },
+    {
+      "time": "17:15",
+      "event_name": "Formula 1: US Grand Prix: Sprint",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 190
+    },
+    {
+      "time": "17:30",
+      "event_name": "Fulham x Arsenal",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 193
+    },
+    {
+      "time": "17:30",
+      "event_name": "Fulham X Arsenal",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 195
+    },
+    {
+      "time": "17:30",
+      "event_name": "Bayern MÃ¼nchen x Borussia Dortmund",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "pending"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "pending"
+        }
+      ],
+      "line_number": 196
+    },
+    {
+      "time": "17:30",
+      "event_name": "Villarreal x Real Betis",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 201
+    },
+    {
+      "time": "17:45",
+      "event_name": "PSV x Go Ahead Eagles",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 202
+    },
+    {
+      "time": "18:00",
+      "event_name": "Angers SCO x Monaco",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 203
+    },
+    {
+      "time": "18:00",
+      "event_name": "Celoricense x Porto",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 205
+    },
+    {
+      "time": "18:00",
+      "event_name": "Pyramids FC x RSB Berkane",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 206
+    },
+    {
+      "time": "19:00",
+      "event_name": "Al Nassr x Al Fateh",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 207
+    },
+    {
+      "time": "19:30",
+      "event_name": "Bochum x Hertha BSC",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 209
+    },
+    {
+      "time": "19:45",
+      "event_name": "Roma x Internazionale",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 210
+    },
+    {
+      "time": "20:00",
+      "event_name": "AtlÃ©tico Madrid x Osasuna",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "pending"
+        }
+      ],
+      "line_number": 213
+    },
+    {
+      "time": "20:00",
+      "event_name": "AtlÃ©tico Goianiense X Vila Nova",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 217
+    },
+    {
+      "time": "20:00",
+      "event_name": "Ajax x AZ",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 218
+    },
+    {
+      "time": "20:05",
+      "event_name": "Olympique Marseille x Le Havre",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 220
+    },
+    {
+      "time": "20:15",
+      "event_name": "PaÃ§os de Ferreira x Sporting CP",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 222
+    },
+    {
+      "time": "21:00",
+      "event_name": "Formula 1: US Grand Prix: Qualifying",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 223
+    },
+    {
+      "time": "22:00",
+      "event_name": "Boca Juniors x Belgrano",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 226
+    },
+    {
+      "time": "22:00",
+      "event_name": "Boca Juniors X Belgrano",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 228
+    },
+    {
+      "time": "22:00",
+      "event_name": "UFC Fight Night: Prelims",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 229
+    },
+    {
+      "time": "22:10",
+      "event_name": "Rionegro Ãguilas x Alianza",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 230
+    },
+    {
+      "time": "23:00",
+      "event_name": "Nashville SC x Inter Miami",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 231
+    },
+    {
+      "time": "00:00",
+      "event_name": "UFC Fight Night: De Ridder v Allen",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 232
+    },
+    {
+      "time": "00:00",
+      "event_name": "Moto3: GP of Australia",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 234
+    },
+    {
+      "time": "00:20",
+      "event_name": "Junior x Deportivo Pereira",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 237
+    },
+    {
+      "time": "01:00",
+      "event_name": "Cruzeiro x Fortaleza",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 238
+    },
+    {
+      "time": "02:00",
+      "event_name": "Monterrey x Pumas UNAM",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 239
+    },
+    {
+      "time": "02:00",
+      "event_name": "Moto2: GP of Australia",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 240
+    },
+    {
+      "time": "02:15",
+      "event_name": "Talleres CÃ³rdoba x River Plate",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 243
+    },
+    {
+      "time": "02:30",
+      "event_name": "Deportivo Cali x AmÃ©rica de Cali",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 245
+    },
+    {
+      "time": "03:15",
+      "event_name": "MotoGP: GP of Australia",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 246
+    },
+    {
+      "time": "04:05",
+      "event_name": "Cruz Azul x AmÃ©rica",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 249
+    },
+    {
+      "time": "11:00",
+      "event_name": "ATP World Tour 250: Almaty - Final",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 271
+    },
+    {
+      "time": "11:15",
+      "event_name": "Telstar x Heerenveen",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 272
+    },
+    {
+      "time": "11:30",
+      "event_name": "Como x Juventus",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 273
+    },
+    {
+      "time": "12:00",
+      "event_name": "Dundee x Celtic",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 276
+    },
+    {
+      "time": "12:30",
+      "event_name": "NÃ¼rnberg x Holstein Kiel",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 277
+    },
+    {
+      "time": "12:30",
+      "event_name": "Kayserispor x Samsunspor",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 278
+    },
+    {
+      "time": "13:00",
+      "event_name": "Elche x Athletic Club",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 279
+    },
+    {
+      "time": "13:30",
+      "event_name": "Groningen x Sparta Rotterdam",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 282
+    },
+    {
+      "time": "14:00",
+      "event_name": "Tottenham Hotspur x Aston Villa",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 283
+    },
+    {
+      "time": "14:00",
+      "event_name": "Lens x Paris",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 286
+    },
+    {
+      "time": "14:00",
+      "event_name": "ATP World Tour 250: Stockholm - Final",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 288
+    },
+    {
+      "time": "14:00",
+      "event_name": "Cagliari x Bologna",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 289
+    },
+    {
+      "time": "14:00",
+      "event_name": "Genoa x Parma",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 291
+    },
+    {
+      "time": "14:30",
+      "event_name": "Freiburg x Eintracht Frankfurt",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 292
+    },
+    {
+      "time": "15:00",
+      "event_name": "Alanyaspor x GÃ¶ztepe",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 293
+    },
+    {
+      "time": "15:15",
+      "event_name": "Celta de Vigo x Real Sociedad",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 294
+    },
+    {
+      "time": "15:30",
+      "event_name": "Penafiel x Feirense",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 297
+    },
+    {
+      "time": "15:45",
+      "event_name": "Heracles x Feyenoord",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 298
+    },
+    {
+      "time": "16:15",
+      "event_name": "Rennes x Auxerre",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 299
+    },
+    {
+      "time": "16:15",
+      "event_name": "Toulouse x Metz",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 300
+    },
+    {
+      "time": "16:30",
+      "event_name": "Liverpool x Manchester United",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 301
+    },
+    {
+      "time": "16:30",
+      "event_name": "St. Pauli x Hoffenheim",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 304
+    },
+    {
+      "time": "17:00",
+      "event_name": "Atalanta x Lazio",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 305
+    },
+    {
+      "time": "17:30",
+      "event_name": "Levante x Rayo Vallecano",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 307
+    },
+    {
+      "time": "18:00",
+      "event_name": "FenerbahÃ§e x Fatih KaragÃ¼mrÃ¼k",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 310
+    },
+    {
+      "time": "19:00",
+      "event_name": "AEK Athens x PAOK",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 312
+    },
+    {
+      "time": "19:45",
+      "event_name": "Nantes x Lille",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 313
+    },
+    {
+      "time": "19:45",
+      "event_name": "Milan x Fiorentina",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br4.php",
+          "m3u8_url": null,
+          "status": "pending"
+        }
+      ],
+      "line_number": 315
+    },
+    {
+      "time": "20:00",
+      "event_name": "Getafe x Real Madrid",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 319
+    },
+    {
+      "time": "20:00",
+      "event_name": "Flamengo x Palmeiras",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 323
+    },
+    {
+      "time": "20:00",
+      "event_name": "AvaÃ­ x CriciÃºma",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 324
+    },
+    {
+      "time": "20:00",
+      "event_name": "Formula 1: US Grand Prix",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd8.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "pending"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "pending"
+        }
+      ],
+      "line_number": 325
+    },
+    {
+      "time": "20:00",
+      "event_name": "FIFA U-20 World Cup: Final",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 330
+    },
+    {
+      "time": "21:25",
+      "event_name": "NFL: Commanders @ Cowboys",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 331
+    },
+    {
+      "time": "22:00",
+      "event_name": "Angel City x Portland Thorns",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 332
+    },
+    {
+      "time": "22:00",
+      "event_name": "Rosario Central x Platense",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 334
+    },
+    {
+      "time": "22:30",
+      "event_name": "Internacional x Sport Recife",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 335
+    },
+    {
+      "time": "22:30",
+      "event_name": "Mirassol x SÃ£o Paulo",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 336
+    },
+    {
+      "time": "22:30",
+      "event_name": "CearÃ¡ x Botafogo",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 337
+    },
+    {
+      "time": "00:30",
+      "event_name": "Bahia x GrÃªmio",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 338
+    },
+    {
+      "time": "01:10",
+      "event_name": "NFL: Falcons @ 49ers",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 339
+    }
+  ]
+}

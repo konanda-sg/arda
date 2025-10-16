@@ -1,5 +1,4 @@
 name: Extract Sports Streams
-
 on:
   schedule:
     # Run every 6 hours
@@ -8,7 +7,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   extract-streams:
     runs-on: ubuntu-latest
@@ -34,7 +32,16 @@ jobs:
     - name: Check if data changed
       id: check_changes
       run: |
-        git diff --exit-code streams_data.json || echo "changed=true" >> $GITHUB_OUTPUT
+        if [ ! -f streams_data.json ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "First run - file doesn't exist yet"
+        elif ! git diff --exit-code streams_data.json; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "File has changes"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
         
     - name: Commit and push if changed
       if: steps.check_changes.outputs.changed == 'true'

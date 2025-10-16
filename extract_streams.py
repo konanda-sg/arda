@@ -30,52 +30,70 @@ class SportsStreamExtractor:
         lines = content.strip().split('\n')
         
         print(f"\nParsing {len(lines)} lines...")
-        print(f"First 5 lines preview:")
-        for i, line in enumerate(lines[:5]):
-            print(f"  {i+1}: {line[:100]}")
-        
-        current_event = None
         
         for line_num, line in enumerate(lines, 1):
             line = line.strip()
             if not line:
                 continue
             
-            # Try multiple patterns to detect event lines
-            # Pattern 1: Time | Event name
-            if '|' in line and not line.startswith(('http://', 'https://')):
-                parts = line.split('|', 1)
-                if len(parts) >= 2:
-                    if current_event and current_event['channels']:
-                        events.append(current_event)
-                    
-                    current_event = {
-                        'time': parts[0].strip(),
-                        'event_name': parts[1].strip(),
-                        'channels': [],
-                        'line_number': line_num
-                    }
-                    print(f"  Found event at line {line_num}: {parts[1].strip()[:50]}")
+            # Skip header lines and non-event lines
+            if line.startswith('=') or line.startswith('*') or line.startswith('𝐑𝐄𝐀𝐃') or \
+               line.startswith('𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓') or line.startswith('𝐔𝐏𝐃𝐀𝐓𝐄') or \
+               'LAST UPDATE' in line or 'INFO:' in line or 'EMAIL:' in line or \
+               'CHANNELS https://' in line or 'IMPORTANT: USE' in line or \
+               line in ['THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY']:
+                continue
             
-            # Pattern 2: URLs (channel links)
-            elif line.startswith(('http://', 'https://')):
-                if current_event is not None:
-                    current_event['channels'].append({
-                        'url': line,
+            # Skip channel identifier lines (HD1, BR1, etc.)
+            if re.match(r'^(HD|BR|PT)\d+\s+(ENGLISH|BRAZILIAN|SPANISH|GERMAN|ITALIAN|POLISH|ROMANIAN)', line):
+                continue
+            
+            # Parse event lines: TIME   Event Name | URL
+            # Pattern: starts with time (HH:MM), has text, pipe, then URL
+            match = re.match(r'^(\d{2}:\d{2})\s+(.+?)\s*\|\s*(https?://\S+)', line)
+            
+            if match:
+                time_str = match.group(1)
+                event_name = match.group(2).strip()
+                url = match.group(3).strip()
+                
+                # Check if this event already exists
+                existing_event = None
+                for event in events:
+                    if event['time'] == time_str and event['event_name'] == event_name:
+                        existing_event = event
+                        break
+                
+                if existing_event:
+                    # Add channel to existing event
+                    existing_event['channels'].append({
+                        'url': url,
                         'iframe_url': None,
                         'm3u8_url': None,
                         'status': 'pending'
                     })
-                    print(f"    Added channel: {line[:60]}")
+                    print(f"  Added channel to existing event: {event_name[:40]} at {time_str}")
                 else:
-                    # URL without event context - create standalone entry
-                    print(f"  Found standalone URL at line {line_num}: {line[:60]}")
-        
-        # Add the last event
-        if current_event and current_event['channels']:
-            events.append(current_event)
+                    # Create new event
+                    events.append({
+                        'time': time_str,
+                        'event_name': event_name,
+                        'channels': [{
+                            'url': url,
+                            'iframe_url': None,
+                            'm3u8_url': None,
+                            'status': 'pending'
+                        }],
+                        'line_number': line_num
+                    })
+                    print(f"  Found event at line {line_num}: {event_name[:40]} at {time_str}")
         
         print(f"\n✓ Parsed {len(events)} events with channels")
+        
+        # Print summary
+        total_channels = sum(len(event['channels']) for event in events)
+        print(f"  Total channels: {total_channels}")
+        
         return events
     
     def extract_iframe_from_url(self, url):

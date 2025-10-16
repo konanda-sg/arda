@@ -258,7 +258,7 @@ class SportsStreamExtractor:
         return filename
 
 def main():
-    prog_url = "https://sportsonline.site/prog.txt"
+    prog_url = "https://sportsonline.sn/prog.txt"
     
     print("=" * 60)
     print("Sports Stream Extractor")

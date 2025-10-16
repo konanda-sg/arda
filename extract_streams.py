@@ -159,7 +159,7 @@ class SportsStreamExtractor:
         return filename
 
 def main():
-    prog_url = "https://sportsonline.site/prog.txt"
+    prog_url = "https://sportsonline.sn/prog.txt"
     
     print("=== Sports Stream Extractor ===\n")
     print(f"Fetching data from: {prog_url}\n")

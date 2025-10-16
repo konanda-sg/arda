@@ -96,8 +96,8 @@ class SportsStreamExtractor:
         
         return events
     
-    def extract_iframe_from_url(self, url):
-        """Extract iframe URL from the given URL"""
+    def extract_m3u8_from_page(self, url):
+        """Extract M3U8 URL directly from the channel page"""
         try:
             print(f"    Fetching page: {url[:60]}...")
             response = requests.get(url, headers=self.headers, timeout=15, allow_redirects=True)
@@ -105,51 +105,87 @@ class SportsStreamExtractor:
             
             content = response.text
             
-            # Method 1: Standard iframe tags
-            iframe_patterns = [
-                r'<iframe[^>]+src=["\']([^"\']+)["\']',
-                r'<iframe[^>]+src=([^\s>]+)',
-                r'src=["\']([^"\']*embed[^"\']*)["\']',
-            ]
+            # Method 1: Direct .m3u8 URLs in the page
+            m3u8_pattern = r'https?://[^\s<>"\']+\.m3u8(?:\?[^\s<>"\']*)?'
+            m3u8_urls = re.findall(m3u8_pattern, content)
             
-            for pattern in iframe_patterns:
-                iframes = re.findall(pattern, content, re.IGNORECASE)
-                if iframes:
-                    iframe_url = iframes[0].strip()
-                    # Handle relative URLs
-                    if iframe_url.startswith('//'):
-                        iframe_url = 'https:' + iframe_url
-                    elif iframe_url.startswith('/'):
-                        parsed = urlparse(url)
-                        iframe_url = f"{parsed.scheme}://{parsed.netloc}{iframe_url}"
-                    elif not iframe_url.startswith('http'):
-                        iframe_url = urljoin(url, iframe_url)
-                    
-                    print(f"    ✓ Found iframe: {iframe_url[:60]}")
-                    return iframe_url
+            if m3u8_urls:
+                # Prefer master playlist
+                for m3u8_url in m3u8_urls:
+                    if 'master' in m3u8_url.lower() or 'playlist' in m3u8_url.lower():
+                        print(f"    ✓ Found M3U8 (master): {m3u8_url[:60]}")
+                        return m3u8_url
+                print(f"    ✓ Found M3U8: {m3u8_urls[0][:60]}")
+                return m3u8_urls[0]
             
-            # Method 2: Look for player URLs in JavaScript
+            # Method 2: Look in JavaScript variables
             js_patterns = [
-                r'["\']https?://[^"\']*(?:embed|player)[^"\']*["\']',
-                r'player["\']?\s*:\s*["\']([^"\']+)["\']',
-                r'source["\']?\s*:\s*["\']([^"\']+)["\']',
+                r'["\']([^"\']*\.m3u8[^"\']*)["\']',
+                r'source["\']?\s*:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
+                r'file["\']?\s*:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
+                r'hlsUrl["\']?\s*:\s*["\']([^"\']+)["\']',
+                r'src["\']?\s*:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
             ]
             
             for pattern in js_patterns:
                 matches = re.findall(pattern, content, re.IGNORECASE)
                 if matches:
                     for match in matches:
-                        url_match = match.strip('"\'')
-                        if 'embed' in url_match or 'player' in url_match:
-                            print(f"    ✓ Found player URL: {url_match[:60]}")
-                            return url_match
+                        m3u8_url = match
+                        # Handle relative URLs
+                        if m3u8_url.startswith('//'):
+                            m3u8_url = 'https:' + m3u8_url
+                        elif m3u8_url.startswith('/'):
+                            parsed = urlparse(url)
+                            m3u8_url = f"{parsed.scheme}://{parsed.netloc}{m3u8_url}"
+                        elif not m3u8_url.startswith('http'):
+                            m3u8_url = urljoin(url, m3u8_url)
+                        
+                        if '.m3u8' in m3u8_url:
+                            print(f"    ✓ Found M3U8 (JS): {m3u8_url[:60]}")
+                            return m3u8_url
             
-            print(f"    ✗ No iframe found")
+            # Method 3: Extract iframe and try to get M3U8 from it
+            iframe_url = self.extract_iframe_from_page(content, url)
+            if iframe_url:
+                print(f"    Found iframe: {iframe_url[:60]}")
+                # Try to fetch M3U8 from iframe
+                m3u8_from_iframe = self.extract_m3u8_from_iframe(iframe_url)
+                if m3u8_from_iframe:
+                    return m3u8_from_iframe
+            
+            print(f"    ✗ No M3U8 found")
             return None
             
         except Exception as e:
-            print(f"    ✗ Error extracting iframe: {e}")
+            print(f"    ✗ Error extracting m3u8: {e}")
             return None
+    
+    def extract_iframe_from_page(self, content, base_url):
+        """Extract iframe URL from page content"""
+        # Standard iframe tags
+        iframe_patterns = [
+            r'<iframe[^>]+src=["\']([^"\']+)["\']',
+            r'<iframe[^>]+src=([^\s>]+)',
+            r'src=["\']([^"\']*embed[^"\']*)["\']',
+        ]
+        
+        for pattern in iframe_patterns:
+            iframes = re.findall(pattern, content, re.IGNORECASE)
+            if iframes:
+                iframe_url = iframes[0].strip()
+                # Handle relative URLs
+                if iframe_url.startswith('//'):
+                    iframe_url = 'https:' + iframe_url
+                elif iframe_url.startswith('/'):
+                    parsed = urlparse(base_url)
+                    iframe_url = f"{parsed.scheme}://{parsed.netloc}{iframe_url}"
+                elif not iframe_url.startswith('http'):
+                    iframe_url = urljoin(base_url, iframe_url)
+                
+                return iframe_url
+        
+        return None
     
     def extract_m3u8_from_iframe(self, iframe_url):
         """Extract M3U8 URL from iframe content"""
@@ -198,15 +234,15 @@ class SportsStreamExtractor:
                         print(f"      ✓ Found M3U8 (JS): {url[:60]}")
                         return url
             
-            print(f"      ✗ No M3U8 found")
+            print(f"      ✗ No M3U8 found in iframe")
             return None
             
         except Exception as e:
-            print(f"      ✗ Error extracting m3u8: {e}")
+            print(f"      ✗ Error extracting m3u8 from iframe: {e}")
             return None
     
     def process_events(self, events, max_channels_per_event=3):
-        """Process all events and extract iframe and m3u8 URLs"""
+        """Process all events and extract M3U8 URLs"""
         total_channels = sum(len(event['channels']) for event in events)
         processed = 0
         
@@ -217,26 +253,16 @@ class SportsStreamExtractor:
                 processed += 1
                 print(f"  Channel {channel_idx}/{len(event['channels'])}: {channel['url'][:60]}")
                 
-                # Extract iframe
-                iframe_url = self.extract_iframe_from_url(channel['url'])
-                if iframe_url:
-                    channel['iframe_url'] = iframe_url
-                    channel['status'] = 'iframe_found'
-                    
-                    # Small delay to avoid rate limiting
-                    time.sleep(0.5)
-                    
-                    # Extract m3u8 from iframe
-                    m3u8_url = self.extract_m3u8_from_iframe(iframe_url)
-                    if m3u8_url:
-                        channel['m3u8_url'] = m3u8_url
-                        channel['status'] = 'complete'
-                    else:
-                        channel['status'] = 'no_m3u8'
-                else:
-                    channel['status'] = 'no_iframe'
+                # Extract M3U8 directly from the channel page
+                m3u8_url = self.extract_m3u8_from_page(channel['url'])
                 
-                # Small delay between requests
+                if m3u8_url:
+                    channel['m3u8_url'] = m3u8_url
+                    channel['status'] = 'complete'
+                else:
+                    channel['status'] = 'no_m3u8'
+                
+                # Small delay between requests to avoid rate limiting
                 time.sleep(0.5)
         
         print(f"\n✓ Processed {processed} channels")
@@ -247,8 +273,7 @@ class SportsStreamExtractor:
         # Calculate statistics
         total_channels = sum(len(event['channels']) for event in events)
         complete = sum(1 for event in events for ch in event['channels'] if ch['status'] == 'complete')
-        iframe_only = sum(1 for event in events for ch in event['channels'] if ch['status'] == 'iframe_found')
-        no_iframe = sum(1 for event in events for ch in event['channels'] if ch['status'] == 'no_iframe')
+        failed = sum(1 for event in events for ch in event['channels'] if ch['status'] == 'no_m3u8')
         
         output = {
             'extracted_at': datetime.utcnow().isoformat() + 'Z',
@@ -256,8 +281,7 @@ class SportsStreamExtractor:
             'total_channels': total_channels,
             'statistics': {
                 'complete': complete,
-                'iframe_only': iframe_only,
-                'no_iframe': no_iframe,
+                'failed': failed,
                 'success_rate': f"{(complete/total_channels*100):.1f}%" if total_channels > 0 else "0%"
             },
             'events': events
@@ -270,8 +294,8 @@ class SportsStreamExtractor:
         print(f"  Events: {len(events)}")
         print(f"  Total channels: {total_channels}")
         print(f"  Complete (with M3U8): {complete}")
-        print(f"  Iframe only: {iframe_only}")
-        print(f"  Failed: {no_iframe}")
+        print(f"  Failed: {failed}")
+        print(f"  Success rate: {(complete/total_channels*100):.1f}%" if total_channels > 0 else "0%")
         
         return filename
 
@@ -306,7 +330,7 @@ def main():
     print(f"Starting extraction for {len(events)} events")
     print(f"{'=' * 60}")
     
-    # Process events to extract iframes and m3u8 URLs
+    # Process events to extract M3U8 URLs
     processed_events = extractor.process_events(events)
     
     # Save to JSON

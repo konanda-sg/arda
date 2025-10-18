@@ -1,444 +1,13 @@
 {
-  "extracted_at": "2025-10-17T01:26:39.655371Z",
-  "total_events": 129,
-  "total_channels": 223,
+  "extracted_at": "2025-10-18T01:20:18.226802Z",
+  "total_events": 122,
+  "total_channels": 203,
   "statistics": {
     "successful": 0,
-    "failed": 217,
+    "failed": 197,
     "success_rate": "0.0%"
   },
   "events": [
-    {
-      "time": "23:00",
-      "event_name": "MotoGP: Australia FP",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br6.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 39
-    },
-    {
-      "time": "23:00",
-      "event_name": "GrÃªmio x SÃ£o Paulo",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/bra/br1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 42
-    },
-    {
-      "time": "01:30",
-      "event_name": "VitÃ³ria x Bahia",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/bra/br1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 43
-    },
-    {
-      "time": "01:30",
-      "event_name": "Fluminense x Juventude",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/bra/br5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 44
-    },
-    {
-      "time": "03:15",
-      "event_name": "MotoGP: Australia Practice",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br6.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 45
-    },
-    {
-      "time": "07:00",
-      "event_name": "ATP World Tour 250: Almaty",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 69
-    },
-    {
-      "time": "07:30",
-      "event_name": "DP World Tour: India Championship - D2",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 70
-    },
-    {
-      "time": "09:00",
-      "event_name": "Adelaide United x Sydney FC",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 71
-    },
-    {
-      "time": "11:05",
-      "event_name": "Brisbane Roar x Macarthur",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 72
-    },
-    {
-      "time": "12:30",
-      "event_name": "ATP World Tour 250: European Open",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 73
-    },
-    {
-      "time": "15:30",
-      "event_name": "CSMS IaÅi x CS Dinamo BucureÈti",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd11.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 74
-    },
-    {
-      "time": "16:05",
-      "event_name": "Al Feiha x Al Ittihad",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/bra/br5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 75
-    },
-    {
-      "time": "17:00",
-      "event_name": "Motor Lublin x Katowice",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd10.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 76
-    },
-    {
-      "time": "17:30",
-      "event_name": "Hannover 96 x Schalke 04",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd9.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/eleven2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 77
-    },
-    {
-      "time": "18:00",
-      "event_name": "Formula 1: US Grand Prix - Practice 1",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/hd/hd8.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 79
-    },
-    {
-      "time": "18:30",
-      "event_name": "Farul ConstanÈa x SCM ArgeÅul PiteÅti",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd11.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 82
-    },
-    {
-      "time": "19:30",
-      "event_name": "Union Berlin x Borussia M'gladbach",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd3.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/eleven1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 83
-    },
-    {
-      "time": "19:30",
-      "event_name": "Virtus Entella x Sampdoria",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd7.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 86
-    },
-    {
-      "time": "19:30",
-      "event_name": "Chaves x Benfica",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 87
-    },
-    {
-      "time": "19:30",
-      "event_name": "FC Andorra x Granada",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd9.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 88
-    },
-    {
-      "time": "19:30",
-      "event_name": "Widzew ÅÃ³dÅº x Radomiak Radom",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd10.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 89
-    },
-    {
-      "time": "19:45",
-      "event_name": "PSG x Strasbourg",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd4.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 90
-    },
-    {
-      "time": "20:00",
-      "event_name": "Real Oviedo x Espanyol",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd6.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/eleven2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 92
-    },
-    {
-      "time": "20:00",
-      "event_name": "Middlesbrough x Ipswich Town",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd1.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br3.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 95
-    },
-    {
-      "time": "22:00",
-      "event_name": "Formula 1: US Grand Prix - Sprint Qualifying",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/hd/hd8.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 98
-    },
-    {
-      "time": "22:30",
-      "event_name": "MotoGP: Australia - Practice 2 - Moto3 & Moto2",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br6.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 101
-    },
-    {
-      "time": "00:00",
-      "event_name": "Amazonas x Novorizontino",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/bra/br2.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 104
-    },
-    {
-      "time": "00:00",
-      "event_name": "MotoGP: Australia - MotoGP Free Practice 2 & Qualifying",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd5.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/pt/sporttv4.php",
-          "m3u8_url": null,
-          "status": "failed"
-        },
-        {
-          "url": "https://sportzonline.st/channels/bra/br6.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 105
-    },
     {
       "time": "02:00",
       "event_name": "Puebla x Tijuana",
@@ -449,7 +18,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 108
+      "line_number": 40
     },
     {
       "time": "02:45",
@@ -471,7 +40,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 109
+      "line_number": 41
     },
     {
       "time": "04:00",
@@ -483,7 +52,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 112
+      "line_number": 44
     },
     {
       "time": "04:00",
@@ -495,7 +64,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 113
+      "line_number": 45
     },
     {
       "time": "04:45",
@@ -517,7 +86,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 114
+      "line_number": 46
     },
     {
       "time": "07:30",
@@ -529,7 +98,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 138
+      "line_number": 70
     },
     {
       "time": "12:00",
@@ -546,7 +115,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 139
+      "line_number": 71
     },
     {
       "time": "12:30",
@@ -568,7 +137,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 141
+      "line_number": 73
     },
     {
       "time": "12:30",
@@ -580,7 +149,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 144
+      "line_number": 76
     },
     {
       "time": "13:00",
@@ -602,7 +171,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 145
+      "line_number": 77
     },
     {
       "time": "13:00",
@@ -614,7 +183,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 148
+      "line_number": 80
     },
     {
       "time": "13:45",
@@ -626,7 +195,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 149
+      "line_number": 81
     },
     {
       "time": "14:00",
@@ -643,7 +212,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 150
+      "line_number": 82
     },
     {
       "time": "14:00",
@@ -655,7 +224,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 152
+      "line_number": 84
     },
     {
       "time": "14:30",
@@ -677,7 +246,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 153
+      "line_number": 85
     },
     {
       "time": "15:00",
@@ -694,7 +263,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 156
+      "line_number": 88
     },
     {
       "time": "15:00",
@@ -716,7 +285,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 158
+      "line_number": 90
     },
     {
       "time": "15:00",
@@ -728,7 +297,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 161
+      "line_number": 93
     },
     {
       "time": "15:00",
@@ -740,7 +309,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 162
+      "line_number": 94
     },
     {
       "time": "15:00",
@@ -752,7 +321,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 163
+      "line_number": 95
     },
     {
       "time": "15:00",
@@ -764,7 +333,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 164
+      "line_number": 96
     },
     {
       "time": "15:00",
@@ -776,7 +345,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 165
+      "line_number": 97
     },
     {
       "time": "15:15",
@@ -798,7 +367,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 166
+      "line_number": 98
     },
     {
       "time": "15:15",
@@ -810,7 +379,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 169
+      "line_number": 101
     },
     {
       "time": "15:15",
@@ -822,7 +391,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 170
+      "line_number": 102
     },
     {
       "time": "16:00",
@@ -839,7 +408,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 171
+      "line_number": 103
     },
     {
       "time": "17:00",
@@ -861,7 +430,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 173
+      "line_number": 105
     },
     {
       "time": "17:15",
@@ -883,7 +452,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 176
+      "line_number": 108
     },
     {
       "time": "17:30",
@@ -900,7 +469,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 179
+      "line_number": 111
     },
     {
       "time": "17:30",
@@ -912,7 +481,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 181
+      "line_number": 113
     },
     {
       "time": "17:30",
@@ -944,7 +513,7 @@
           "status": "pending"
         }
       ],
-      "line_number": 182
+      "line_number": 114
     },
     {
       "time": "17:30",
@@ -956,7 +525,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 187
+      "line_number": 119
     },
     {
       "time": "17:45",
@@ -968,7 +537,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 188
+      "line_number": 120
     },
     {
       "time": "18:00",
@@ -985,7 +554,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 189
+      "line_number": 121
     },
     {
       "time": "18:00",
@@ -997,7 +566,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 191
+      "line_number": 123
     },
     {
       "time": "18:00",
@@ -1009,7 +578,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 192
+      "line_number": 124
     },
     {
       "time": "19:00",
@@ -1026,7 +595,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 193
+      "line_number": 125
     },
     {
       "time": "19:30",
@@ -1038,7 +607,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 195
+      "line_number": 127
     },
     {
       "time": "19:45",
@@ -1060,7 +629,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 196
+      "line_number": 128
     },
     {
       "time": "20:00",
@@ -1087,7 +656,7 @@
           "status": "pending"
         }
       ],
-      "line_number": 199
+      "line_number": 131
     },
     {
       "time": "20:00",
@@ -1099,7 +668,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 203
+      "line_number": 135
     },
     {
       "time": "20:00",
@@ -1116,7 +685,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 204
+      "line_number": 136
     },
     {
       "time": "20:05",
@@ -1133,7 +702,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 206
+      "line_number": 138
     },
     {
       "time": "20:15",
@@ -1145,7 +714,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 208
+      "line_number": 140
     },
     {
       "time": "21:00",
@@ -1167,7 +736,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 209
+      "line_number": 141
     },
     {
       "time": "22:00",
@@ -1184,7 +753,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 212
+      "line_number": 144
     },
     {
       "time": "22:00",
@@ -1196,7 +765,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 214
+      "line_number": 146
     },
     {
       "time": "22:00",
@@ -1208,7 +777,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 215
+      "line_number": 147
     },
     {
       "time": "22:10",
@@ -1220,7 +789,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 216
+      "line_number": 148
     },
     {
       "time": "23:00",
@@ -1232,7 +801,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 217
+      "line_number": 149
     },
     {
       "time": "00:00",
@@ -1249,7 +818,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 218
+      "line_number": 150
     },
     {
       "time": "00:00",
@@ -1271,7 +840,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 220
+      "line_number": 152
     },
     {
       "time": "00:20",
@@ -1283,7 +852,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 223
+      "line_number": 155
     },
     {
       "time": "01:00",
@@ -1295,7 +864,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 224
+      "line_number": 156
     },
     {
       "time": "02:00",
@@ -1307,7 +876,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 225
+      "line_number": 157
     },
     {
       "time": "02:00",
@@ -1329,7 +898,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 226
+      "line_number": 158
     },
     {
       "time": "02:15",
@@ -1346,7 +915,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 229
+      "line_number": 161
     },
     {
       "time": "02:30",
@@ -1358,7 +927,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 231
+      "line_number": 163
     },
     {
       "time": "03:15",
@@ -1380,7 +949,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 232
+      "line_number": 164
     },
     {
       "time": "04:05",
@@ -1392,7 +961,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 235
+      "line_number": 167
     },
     {
       "time": "11:00",
@@ -1404,7 +973,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 257
+      "line_number": 189
     },
     {
       "time": "11:15",
@@ -1416,7 +985,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 258
+      "line_number": 190
     },
     {
       "time": "11:30",
@@ -1438,7 +1007,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 259
+      "line_number": 191
     },
     {
       "time": "12:00",
@@ -1450,7 +1019,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 262
+      "line_number": 194
     },
     {
       "time": "12:30",
@@ -1462,7 +1031,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 263
+      "line_number": 195
     },
     {
       "time": "12:30",
@@ -1474,7 +1043,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 264
+      "line_number": 196
     },
     {
       "time": "13:00",
@@ -1496,7 +1065,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 265
+      "line_number": 197
     },
     {
       "time": "13:30",
@@ -1508,7 +1077,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 268
+      "line_number": 200
     },
     {
       "time": "14:00",
@@ -1530,7 +1099,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 269
+      "line_number": 201
     },
     {
       "time": "14:00",
@@ -1547,7 +1116,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 272
+      "line_number": 204
     },
     {
       "time": "14:00",
@@ -1559,7 +1128,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 274
+      "line_number": 206
     },
     {
       "time": "14:00",
@@ -1576,7 +1145,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 275
+      "line_number": 207
     },
     {
       "time": "14:00",
@@ -1588,7 +1157,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 277
+      "line_number": 209
     },
     {
       "time": "14:30",
@@ -1600,7 +1169,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 278
+      "line_number": 210
     },
     {
       "time": "15:00",
@@ -1612,7 +1181,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 279
+      "line_number": 211
     },
     {
       "time": "15:15",
@@ -1634,7 +1203,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 280
+      "line_number": 212
     },
     {
       "time": "15:30",
@@ -1646,7 +1215,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 283
+      "line_number": 215
     },
     {
       "time": "15:45",
@@ -1658,7 +1227,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 284
+      "line_number": 216
     },
     {
       "time": "16:15",
@@ -1670,7 +1239,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 285
+      "line_number": 217
     },
     {
       "time": "16:15",
@@ -1682,7 +1251,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 286
+      "line_number": 218
     },
     {
       "time": "16:30",
@@ -1704,7 +1273,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 287
+      "line_number": 219
     },
     {
       "time": "16:30",
@@ -1716,7 +1285,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 290
+      "line_number": 222
     },
     {
       "time": "17:00",
@@ -1733,7 +1302,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 291
+      "line_number": 223
     },
     {
       "time": "17:30",
@@ -1755,7 +1324,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 293
+      "line_number": 225
     },
     {
       "time": "18:00",
@@ -1772,7 +1341,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 296
+      "line_number": 228
     },
     {
       "time": "19:00",
@@ -1784,7 +1353,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 298
+      "line_number": 230
     },
     {
       "time": "19:45",
@@ -1801,7 +1370,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 299
+      "line_number": 231
     },
     {
       "time": "19:45",
@@ -1828,7 +1397,7 @@
           "status": "pending"
         }
       ],
-      "line_number": 301
+      "line_number": 233
     },
     {
       "time": "20:00",
@@ -1850,7 +1419,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 305
+      "line_number": 237
     },
     {
       "time": "20:00",
@@ -1862,7 +1431,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 309
+      "line_number": 241
     },
     {
       "time": "20:00",
@@ -1874,7 +1443,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 310
+      "line_number": 242
     },
     {
       "time": "20:00",
@@ -1906,19 +1475,7 @@
           "status": "pending"
         }
       ],
-      "line_number": 311
-    },
-    {
-      "time": "20:00",
-      "event_name": "FIFA U-20 World Cup: Final",
-      "channels": [
-        {
-          "url": "https://sportzonline.st/channels/hd/hd10.php",
-          "m3u8_url": null,
-          "status": "failed"
-        }
-      ],
-      "line_number": 316
+      "line_number": 243
     },
     {
       "time": "21:25",
@@ -1930,7 +1487,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 317
+      "line_number": 248
     },
     {
       "time": "22:00",
@@ -1947,7 +1504,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 318
+      "line_number": 249
     },
     {
       "time": "22:00",
@@ -1959,7 +1516,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 320
+      "line_number": 251
     },
     {
       "time": "22:30",
@@ -1971,7 +1528,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 321
+      "line_number": 252
     },
     {
       "time": "22:30",
@@ -1983,7 +1540,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 322
+      "line_number": 253
     },
     {
       "time": "22:30",
@@ -1995,7 +1552,19 @@
           "status": "failed"
         }
       ],
-      "line_number": 323
+      "line_number": 254
+    },
+    {
+      "time": "00:00",
+      "event_name": "FIFA U-20 World Cup: Argentina x Morocco",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 255
     },
     {
       "time": "00:30",
@@ -2007,7 +1576,7 @@
           "status": "failed"
         }
       ],
-      "line_number": 324
+      "line_number": 256
     },
     {
       "time": "01:10",
@@ -2024,7 +1593,289 @@
           "status": "failed"
         }
       ],
-      "line_number": 325
+      "line_number": 257
+    },
+    {
+      "time": "10:00",
+      "event_name": "ODI Cricket: Sri Lanka V Bangladesh",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 278
+    },
+    {
+      "time": "12:30",
+      "event_name": "ATP World Tour 500: Vienna",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 279
+    },
+    {
+      "time": "13:00",
+      "event_name": "ATP World Tour 500: Basel",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 280
+    },
+    {
+      "time": "14:45",
+      "event_name": "Al Wahda x Al Duhail",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 281
+    },
+    {
+      "time": "16:00",
+      "event_name": "Hermannstadt x Csikszereda",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 282
+    },
+    {
+      "time": "17:00",
+      "event_name": "Al Shorta x Al Ittihad",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 283
+    },
+    {
+      "time": "18:00",
+      "event_name": "EyÃ¼pspor x KasÄ±mpaÅa",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd11.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 285
+    },
+    {
+      "time": "18:00",
+      "event_name": "WisÅa PÅock x Nieciecza",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd5.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 286
+    },
+    {
+      "time": "18:30",
+      "event_name": "Petrolul 52 x CFR Cluj",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd10.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 287
+    },
+    {
+      "time": "19:15",
+      "event_name": "Al-Ahli x Al Gharafa",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 288
+    },
+    {
+      "time": "19:30",
+      "event_name": "CÃ¡diz x Burgos",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 289
+    },
+    {
+      "time": "19:45",
+      "event_name": "Nancy x Amiens SC",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 290
+    },
+    {
+      "time": "19:45",
+      "event_name": "Cremonese x Udinese",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd7.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/sporttv1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 291
+    },
+    {
+      "time": "20:00",
+      "event_name": "West Ham United x Brentford",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 293
+    },
+    {
+      "time": "20:00",
+      "event_name": "Deportivo AlavÃ©s x Valencia",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/hd/hd6.php",
+          "m3u8_url": null,
+          "status": "failed"
+        },
+        {
+          "url": "https://sportzonline.st/channels/pt/eleven2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 296
+    },
+    {
+      "time": "23:00",
+      "event_name": "Tigre x Barracas Central",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd9.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 299
+    },
+    {
+      "time": "23:30",
+      "event_name": "Vasco da Gama x Fluminense",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br3.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 300
+    },
+    {
+      "time": "23:30",
+      "event_name": "FerroviÃ¡ria x Paysandu",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br2.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 301
+    },
+    {
+      "time": "23:00",
+      "event_name": "Juventude x RB Bragantino",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br4.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 302
+    },
+    {
+      "time": "00:00",
+      "event_name": "NFL: Tampa Bay Buccaneers @ Detroit Lions",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/hd/hd1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 303
+    },
+    {
+      "time": "01:30",
+      "event_name": "Santos x VitÃ³ria",
+      "channels": [
+        {
+          "url": "https://sportzonline.st/channels/bra/br1.php",
+          "m3u8_url": null,
+          "status": "failed"
+        }
+      ],
+      "line_number": 304
     }
   ]
 }

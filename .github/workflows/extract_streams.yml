@@ -1,12 +1,11 @@
-name: Extract Sports Streams
+name: Extract M3U8 Streams
+
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # Allow manual trigger
-  push:
-    branches:
-      - main
+    # Run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Manual trigger
+
 jobs:
   extract-streams:
     runs-on: ubuntu-latest
@@ -16,45 +15,24 @@ jobs:
       uses: actions/checkout@v4
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install requests playwright
+        playwright install chromium
+        playwright install-deps
         
     - name: Run extraction script
       run: |
-        python extract_streams.py
-        
-    - name: Check if data changed
-      id: check_changes
-      run: |
-        if [ ! -f streams_data.json ]; then
-          echo "changed=true" >> $GITHUB_OUTPUT
-          echo "First run - file doesn't exist yet"
-        elif ! git diff --exit-code streams_data.json; then
-          echo "changed=true" >> $GITHUB_OUTPUT
-          echo "File has changes"
-        else
-          echo "changed=false" >> $GITHUB_OUTPUT
-          echo "No changes detected"
-        fi
+        python extract_m3u8.py
         
     - name: Commit and push if changed
-      if: steps.check_changes.outputs.changed == 'true'
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add streams_data.json
-        git commit -m "Update streams data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-        git push
-        
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: streams-data
-        path: streams_data.json
-        retention-days: 30
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add streams.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update streams.json - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)

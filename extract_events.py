@@ -1,26 +1,22 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Enhanced event extractor for rereyano.ru
-Includes iframe URLs and .m3u8 extraction with headers.
+extract_events_playwright.py
+Scrapes https://rereyano.ru/ events, executes JS in player pages,
+captures live .m3u8 requests, and stores results in events.json.
 """
 
 import re
 import json
-import base64
+import asyncio
 from datetime import datetime
-from urllib.parse import unquote
 import requests
-from bs4 import BeautifulSoup
+from playwright.async_api import async_playwright
 
 BASE_URL = "https://rereyano.ru/"
 OUTPUT_FILE = "events.json"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0",
-    "Accept": "*/*",
-    "Referer": BASE_URL,
-}
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0"
 
 PLAYER_MAP = {
     "CH1": "https://rereyano.ru/player/1/1",
@@ -29,58 +25,8 @@ PLAYER_MAP = {
     "CH4": "https://rereyano.ru/player/4/1",
 }
 
-# Regex patterns
 EVENT_RE = re.compile(r"(\d{2}-\d{2}-\d{4})\s*\((\d{2}:\d{2})\)\s*([^:]+)\s*:\s*(.+?)\s*((?:\(CH[0-9]+[a-zA-Z]*\)\s*)+)")
 CH_RE = re.compile(r"CH\d+[a-zA-Z]*")
-M3U8_RE = re.compile(r"https?://[^\s'\"<>]+\.m3u8[^\s'\"<>]*")
-BASE64_RE = re.compile(r"[A-Za-z0-9+/=]{40,}")
-
-session = requests.Session()
-session.headers.update(HEADERS)
-
-
-def safe_get(url, timeout=12):
-    try:
-        resp = session.get(url, timeout=timeout)
-        resp.raise_for_status()
-        return resp.text
-    except Exception as e:
-        print(f"[WARN] {url} failed: {e}")
-        return ""
-
-
-def find_m3u8s(text):
-    found = re.findall(M3U8_RE, text or "")
-    return list(set(found))
-
-
-def decode_base64_strings(text):
-    urls = []
-    for match in BASE64_RE.findall(text):
-        try:
-            dec = base64.b64decode(match + "==").decode("utf-8", errors="ignore")
-            urls += find_m3u8s(dec)
-        except Exception:
-            continue
-    return list(set(urls))
-
-
-def extract_m3u8_from_iframe(iframe_url):
-    html = safe_get(iframe_url)
-    if not html:
-        return []
-
-    urls = find_m3u8s(html)
-    urls += decode_base64_strings(html)
-
-    # check <script> contents for embedded streams
-    soup = BeautifulSoup(html, "html.parser")
-    for script in soup.find_all("script"):
-        txt = script.string or script.get_text() or ""
-        urls += find_m3u8s(txt)
-        urls += decode_base64_strings(txt)
-
-    return list(set(urls))
 
 
 def guess_player_url(ch_code):
@@ -95,16 +41,15 @@ def guess_player_url(ch_code):
     return PLAYER_MAP["CH4"]
 
 
-def parse_events(main_html):
+def parse_events(html):
     events = []
-    for match in EVENT_RE.finditer(main_html):
+    for match in EVENT_RE.finditer(html):
         date_str, time_str, league, teams, ch_block = match.groups()
         channels = CH_RE.findall(ch_block)
-        iso_dt = f"{date_str} {time_str}"
         try:
-            iso_dt = datetime.strptime(iso_dt, "%d-%m-%Y %H:%M").isoformat()
+            iso_dt = datetime.strptime(f"{date_str} {time_str}", "%d-%m-%Y %H:%M").isoformat()
         except:
-            pass
+            iso_dt = f"{date_str} {time_str}"
 
         ev = {
             "date": date_str,
@@ -112,45 +57,71 @@ def parse_events(main_html):
             "datetime": iso_dt,
             "competition": league.strip(),
             "teams": teams.strip(),
-            "channels": [],
+            "channels": [{"channel_code": ch, "iframe": guess_player_url(ch)} for ch in channels],
         }
-
-        for ch in channels:
-            iframe_url = guess_player_url(ch)
-            m3u8s = extract_m3u8_from_iframe(iframe_url)
-            ch_entry = {
-                "channel_code": ch,
-                "iframe": iframe_url,
-                "headers": HEADERS,
-                "m3u8_links": m3u8s,
-            }
-            ev["channels"].append(ch_entry)
-
         events.append(ev)
     return events
 
 
-def main():
-    print("[INFO] Fetching main site…")
-    html = safe_get(BASE_URL)
-    if not html:
-        print("[ERROR] Could not fetch main site.")
-        return
+async def extract_m3u8_with_playwright(iframe_url):
+    """Open iframe URL in headless Chromium, capture .m3u8 requests."""
+    print(f"[PLAYWRIGHT] {iframe_url}")
+    m3u8_links = set()
 
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context(
+            user_agent=USER_AGENT,
+            viewport={"width": 1280, "height": 720},
+            extra_http_headers={"Referer": BASE_URL},
+        )
+        page = await context.new_page()
+
+        page.on("request", lambda req: (
+            m3u8_links.add(req.url)
+            if ".m3u8" in req.url else None
+        ))
+
+        try:
+            await page.goto(iframe_url, wait_until="networkidle", timeout=20000)
+            await asyncio.sleep(6)
+        except Exception as e:
+            print(f"[WARN] Failed to load {iframe_url}: {e}")
+        finally:
+            await browser.close()
+
+    return list(m3u8_links)
+
+
+async def main():
+    print("[INFO] Fetching main page…")
+    html = requests.get(BASE_URL, headers={"User-Agent": USER_AGENT}).text
     events = parse_events(html)
-    print(f"[INFO] Extracted {len(events)} events")
+    print(f"[INFO] Found {len(events)} events")
 
-    data = {
+    for ev in events:
+        for ch in ev["channels"]:
+            iframe = ch["iframe"]
+            links = await extract_m3u8_with_playwright(iframe)
+            ch["headers"] = {
+                "User-Agent": USER_AGENT,
+                "Referer": BASE_URL,
+                "Origin": "https://rereyano.ru",
+                "Accept": "*/*",
+            }
+            ch["m3u8_links"] = links
+            print(f"  → {ch['channel_code']}: {len(links)} streams")
+
+    output = {
         "source": BASE_URL,
         "fetched_at": datetime.utcnow().isoformat() + "Z",
         "events": events,
     }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-    print(f"[OK] Saved → {OUTPUT_FILE}")
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    print(f"[✅] Saved {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

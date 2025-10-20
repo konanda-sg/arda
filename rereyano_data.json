@@ -1,86 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-20T21:50:40.737183",
-  "total_events": 17,
+  "last_updated": "2025-10-20T22:14:13.977230",
+  "total_events": 14,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "20-10-2025",
-      "time": "21:00",
-      "datetime": "20-10-2025 21:00",
-      "league": "Laliga",
-      "teams": "Alaves - Valence",
-      "channels": [
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-10-2025 (21:00) Laliga : Alaves - Valence  (CH51es) (CH71es) (CH89es)"
-    },
-    {
-      "date": "20-10-2025",
-      "time": "21:00",
-      "datetime": "20-10-2025 21:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Racing Montevideo - Juventud",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        },
-        {
-          "id": "74",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-10-2025 (21:00) Liga AUF Uruguaya : Racing Montevideo - Juventud  (CH109es) (CH74es)"
-    },
-    {
-      "date": "20-10-2025",
-      "time": "21:00",
-      "datetime": "20-10-2025 21:00",
-      "league": "Premier League",
-      "teams": "West Ham - Brentford",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-10-2025 (21:00) Premier League : West Ham - Brentford  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH88es) (CH155es)"
-    },
     {
       "date": "21-10-2025",
       "time": "00:00",
@@ -313,7 +239,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-20T21:50:33.266684"
+      "extracted_at": "2025-10-20T22:14:06.840838"
     },
     "hoca": {
       "name": "hoca",
@@ -322,7 +248,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-20T21:50:35.037890"
+      "extracted_at": "2025-10-20T22:14:08.481973"
     },
     "Caster": {
       "name": "Caster",
@@ -331,7 +257,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-20T21:50:37.343950"
+      "extracted_at": "2025-10-20T22:14:10.650671"
     },
     "WIGI": {
       "name": "WIGI",
@@ -340,7 +266,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-20T21:50:39.737023"
+      "extracted_at": "2025-10-20T22:14:12.977090"
     }
   },
   "player_urls": {

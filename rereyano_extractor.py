@@ -286,40 +286,31 @@ class RereYanoExtractor:
                 except:
                     continue
             
-            # === METHOD 4: Look in external scripts ===
+            # Also check inline scripts for M3U8
             soup = BeautifulSoup(content, "html.parser")
-            scripts = soup.find_all("script", src=True)
+            scripts = soup.find_all("script")
             
-            for script in scripts[:3]:  # Limit to first 3 scripts
-                script_url = script.get("src")
-                if not script_url:
-                    continue
-                
-                if not script_url.startswith('http'):
-                    script_url = urljoin(iframe_url, script_url)
-                
-                # Skip common libraries
-                if any(lib in script_url.lower() for lib in ['jquery', 'bootstrap', 'angular', 'react']):
-                    continue
-                
-                try:
-                    print(f"    🔄 Checking script: {script_url[:50]}...")
-                    script_response = requests.get(script_url, headers=headers, timeout=10)
+            for script in scripts:
+                if script.string:
+                    script_content = script.string
                     
-                    # Look for M3U8 in script content
-                    for pattern in m3u8_patterns[:5]:
-                        script_matches = re.findall(pattern, script_response.text, re.IGNORECASE)
-                        if script_matches:
-                            m3u8_url = script_matches[0]
-                            if not m3u8_url.startswith('http'):
-                                m3u8_url = urljoin(script_url, m3u8_url)
+                    # Look for M3U8 in inline scripts
+                    for pattern in m3u8_patterns[:8]:
+                        matches = re.findall(pattern, script_content, re.IGNORECASE)
+                        for match in matches:
+                            m3u8_url = match.strip()
+                            
+                            if any(skip in m3u8_url.lower() for skip in ['example', 'test', 'placeholder']):
+                                continue
+                            
                             if '.m3u8' in m3u8_url:
-                                print(f"    ✅ Found M3U8 (external script): {m3u8_url[:80]}...")
+                                if not m3u8_url.startswith('http'):
+                                    m3u8_url = urljoin(player_url, m3u8_url)
+                                
+                                print(f"    ✅ Found M3U8: {m3u8_url[:80]}...")
                                 return m3u8_url
-                except:
-                    continue
             
-            print(f"    ❌ No M3U8 found in iframe")
+            print(f"    ❌ No M3U8 found")
             return None
             
         except Exception as e:

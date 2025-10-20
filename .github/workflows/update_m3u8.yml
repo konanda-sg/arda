@@ -1,47 +1,39 @@
-- name: Install dependencies
-  run: |
-    pip install requests playwright
-    playwright install chromium
-
+name: Update M3U8 JSON
 
 on:
   schedule:
-    # every 15 minutes
-    - cron: '*/15 * * * *'
-  workflow_dispatch: {}
+    - cron: '*/15 * * * *'  # Runs every 15 minutes
+  workflow_dispatch:        # Allow manual trigger
 
 jobs:
-  build:
+  extract:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install requirements
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests playwright
+          playwright install chromium
 
-      - name: Run extractor
-        run: |
-          python3 extract_events.py
+      - name: Run extractor script
+        run: python extract_m3u8.py
 
-      - name: Commit events.json if changed
+      - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git status --porcelain | grep -q events.json; then
-            git add events.json
-            git commit -m "Auto-update events.json: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-            git push
-          else
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@github.com"
+          git add data/events.json
+          git commit -m "Updated M3U8 JSON [skip ci]" || echo "No changes to commit"
+          git push
+ else
             echo "No changes to events.json"
           fi
         env:

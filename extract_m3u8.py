@@ -1,127 +1,135 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-extract_events_playwright.py
-Scrapes https://rereyano.ru/ events, executes JS in player pages,
-captures live .m3u8 requests, and stores results in events.json.
-"""
-
 import re
 import json
-import asyncio
-from datetime import datetime
+import datetime
 import requests
-from playwright.async_api import async_playwright
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://rereyano.ru/"
-OUTPUT_FILE = "events.json"
+PLAYER_BASE = "https://rereyano.ru/player/"
+OUTPUT_FILE = "data/events.json"
 
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0"
-
-PLAYER_MAP = {
-    "CH1": "https://rereyano.ru/player/1/1",
-    "CH2": "https://rereyano.ru/player/2/1",
-    "CH3": "https://rereyano.ru/player/3/1",
-    "CH4": "https://rereyano.ru/player/4/1",
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0",
+    "Accept": "*/*",
+    "Referer": BASE_URL,
 }
 
-EVENT_RE = re.compile(r"(\d{2}-\d{2}-\d{4})\s*\((\d{2}:\d{2})\)\s*([^:]+)\s*:\s*(.+?)\s*((?:\(CH[0-9]+[a-zA-Z]*\)\s*)+)")
-CH_RE = re.compile(r"CH\d+[a-zA-Z]*")
+CHANNEL_TYPES = {
+    1: "Cartel",
+    2: "Hoca",
+    3: "Caster",
+    4: "WIGI"
+}
 
 
-def guess_player_url(ch_code):
-    """Map CH code to known player endpoints."""
-    num = re.search(r"CH(\d+)", ch_code)
-    if not num:
-        return PLAYER_MAP["CH4"]
-    prefix = f"CH{num.group(1)[0]}"
-    for key in PLAYER_MAP.keys():
-        if prefix.startswith(key):
-            return PLAYER_MAP[key]
-    return PLAYER_MAP["CH4"]
+def get_website_text():
+    """Fetch main site content."""
+    response = requests.get(BASE_URL, headers=HEADERS, timeout=20)
+    response.raise_for_status()
+    return response.text
 
 
-def parse_events(html):
+def parse_events(text):
+    """Extract events with channel codes."""
     events = []
-    for match in EVENT_RE.finditer(html):
-        date_str, time_str, league, teams, ch_block = match.groups()
-        channels = CH_RE.findall(ch_block)
-        try:
-            iso_dt = datetime.strptime(f"{date_str} {time_str}", "%d-%m-%Y %H:%M").isoformat()
-        except:
-            iso_dt = f"{date_str} {time_str}"
+    pattern = re.compile(
+        r"(\d{2}-\d{2}-\d{4}) \((\d{2}:\d{2})\) (.+?) : (.+?)  (.+)"
+    )
 
-        ev = {
-            "date": date_str,
-            "time": time_str,
-            "datetime": iso_dt,
-            "competition": league.strip(),
-            "teams": teams.strip(),
-            "channels": [{"channel_code": ch, "iframe": guess_player_url(ch)} for ch in channels],
-        }
-        events.append(ev)
+    for line in text.splitlines():
+        match = pattern.search(line)
+        if match:
+            date, time, competition, teams, channels_raw = match.groups()
+            ch_codes = re.findall(r"CH\d+\w*", channels_raw)
+            dt_obj = datetime.datetime.strptime(f"{date} {time}", "%d-%m-%Y %H:%M")
+
+            events.append({
+                "date": date,
+                "time": time,
+                "datetime": dt_obj.isoformat(),
+                "competition": competition.strip(),
+                "teams": teams.strip(),
+                "channels": ch_codes,
+            })
+
     return events
 
 
-async def extract_m3u8_with_playwright(iframe_url):
-    """Open iframe URL in headless Chromium, capture .m3u8 requests."""
-    print(f"[PLAYWRIGHT] {iframe_url}")
-    m3u8_links = set()
+def extract_m3u8(iframe_url):
+    """Extract m3u8 links from iframe using Playwright."""
+    m3u8_links = []
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(extra_http_headers=HEADERS)
+            page = context.new_page()
+            page.goto(iframe_url, timeout=30000)
 
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            user_agent=USER_AGENT,
-            viewport={"width": 1280, "height": 720},
-            extra_http_headers={"Referer": BASE_URL},
-        )
-        page = await context.new_page()
+            # Capture network requests
+            for request in page.context.requests:
+                if ".m3u8" in request.url and request.url not in m3u8_links:
+                    m3u8_links.append(request.url)
 
-        page.on("request", lambda req: (
-            m3u8_links.add(req.url)
-            if ".m3u8" in req.url else None
-        ))
+            # Backup: search page HTML
+            html = page.content()
+            found = re.findall(r"https?://[^'\"]+\.m3u8[^'\"]*", html)
+            for url in found:
+                if url not in m3u8_links:
+                    m3u8_links.append(url)
 
-        try:
-            await page.goto(iframe_url, wait_until="networkidle", timeout=20000)
-            await asyncio.sleep(6)
-        except Exception as e:
-            print(f"[WARN] Failed to load {iframe_url}: {e}")
-        finally:
-            await browser.close()
+            browser.close()
+    except Exception as e:
+        print(f"⚠️ Failed to extract {iframe_url}: {e}")
 
-    return list(m3u8_links)
+    return m3u8_links
 
 
-async def main():
-    print("[INFO] Fetching main page…")
-    html = requests.get(BASE_URL, headers={"User-Agent": USER_AGENT}).text
-    events = parse_events(html)
-    print(f"[INFO] Found {len(events)} events")
+def build_data():
+    print("Fetching events from rereyano.ru ...")
+    html_text = get_website_text()
+    events = parse_events(html_text)
+    final_data = []
 
-    for ev in events:
-        for ch in ev["channels"]:
-            iframe = ch["iframe"]
-            links = await extract_m3u8_with_playwright(iframe)
-            ch["headers"] = {
-                "User-Agent": USER_AGENT,
-                "Referer": BASE_URL,
-                "Origin": "https://rereyano.ru",
-                "Accept": "*/*",
-            }
-            ch["m3u8_links"] = links
-            print(f"  → {ch['channel_code']}: {len(links)} streams")
+    for event in events:
+        channel_entries = []
 
-    output = {
-        "source": BASE_URL,
-        "fetched_at": datetime.utcnow().isoformat() + "Z",
-        "events": events,
-    }
+        for ch_code in event["channels"]:
+            match = re.search(r"CH(\d+)", ch_code)
+            if not match:
+                continue
 
+            channel_id = match.group(1)
+
+            # Dynamically generate iframes for each type
+            for player_num, player_name in CHANNEL_TYPES.items():
+                iframe_url = f"{PLAYER_BASE}{player_num}/{channel_id}"
+                print(f"🎬 Extracting {player_name} -> {iframe_url}")
+
+                m3u8_links = extract_m3u8(iframe_url)
+
+                channel_entries.append({
+                    "channel_code": ch_code,
+                    "provider": player_name,
+                    "iframe": iframe_url,
+                    "headers": HEADERS,
+                    "m3u8_links": m3u8_links,
+                })
+
+        event["channel_entries"] = channel_entries
+        final_data.append(event)
+
+    return final_data
+
+
+def save_json(data):
+    import os
+    os.makedirs("data", exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"[✅] Saved {OUTPUT_FILE}")
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"✅ Saved {len(data)} events to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    data = build_data()
+    save_json(data)

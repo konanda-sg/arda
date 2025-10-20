@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-20T21:41:48.379411",
-  "total_events": 19,
+  "last_updated": "2025-10-20T21:50:40.737183",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "20-10-2025",
-      "time": "20:45",
-      "datetime": "20-10-2025 20:45",
-      "league": "Ligue 2",
-      "teams": "Nancy - Amiens",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "20-10-2025 (20:45) Ligue 2 : Nancy - Amiens  (CH1fr)"
-    },
-    {
-      "date": "20-10-2025",
-      "time": "20:45",
-      "datetime": "20-10-2025 20:45",
-      "league": "Serie A",
-      "teams": "Cremonese - Udinese",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-10-2025 (20:45) Serie A : Cremonese - Udinese  (CH45fr) (CH138it) (CH124de) (CH156es)"
-    },
     {
       "date": "20-10-2025",
       "time": "21:00",
@@ -353,7 +313,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-20T21:41:39.975894"
+      "extracted_at": "2025-10-20T21:50:33.266684"
     },
     "hoca": {
       "name": "hoca",
@@ -362,7 +322,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-20T21:41:41.966401"
+      "extracted_at": "2025-10-20T21:50:35.037890"
     },
     "Caster": {
       "name": "Caster",
@@ -371,7 +331,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-20T21:41:44.790391"
+      "extracted_at": "2025-10-20T21:50:37.343950"
     },
     "WIGI": {
       "name": "WIGI",
@@ -380,7 +340,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-20T21:41:47.379235"
+      "extracted_at": "2025-10-20T21:50:39.737023"
     }
   },
   "player_urls": {

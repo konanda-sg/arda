@@ -1,4 +1,8 @@
-name: Update m3u8 events
+- name: Install dependencies
+  run: |
+    pip install requests playwright
+    playwright install chromium
+
 
 on:
   schedule:

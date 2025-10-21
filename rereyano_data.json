@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-21T09:51:07.520969",
+  "last_updated": "2025-10-21T10:17:00.755935",
   "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -14,31 +14,34 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-21T09:50:56.474110"
+      "extracted_at": "2025-10-21T10:16:53.603572"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": null,
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2025-10-21T09:51:00.190623"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2025-10-21T10:16:55.276330"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": null,
+      "iframe_url": "https://lostfascinate.net/embed/zj52139k3",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2025-10-21T09:51:03.299142"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2025-10-21T10:16:57.597051"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://rereyano.ru/player/4/1",
-      "iframe_url": null,
+      "iframe_url": "https://rightflourish.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2025-10-21T09:51:06.520769"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2025-10-21T10:16:59.755775"
     }
   },
   "player_urls": {

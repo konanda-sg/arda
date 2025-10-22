@@ -1,45 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-22T05:50:24.516308",
-  "total_events": 2,
+  "last_updated": "2025-10-22T06:24:08.197789",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "22-10-2025",
-      "time": "05:00",
-      "datetime": "22-10-2025 05:00",
-      "league": "Liga Mx",
-      "teams": "Mazatlan FC - Santos Laguna",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-10-2025 (05:00) Liga Mx : Mazatlan FC - Santos Laguna  (CH68es) (CH156es)"
-    },
-    {
-      "date": "22-10-2025",
-      "time": "05:05",
-      "datetime": "22-10-2025 05:05",
-      "league": "Liga Mx",
-      "teams": "Monterrey - Juarez",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-10-2025 (05:05) Liga Mx : Monterrey - Juarez  (CH157es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -47,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-22T05:50:17.349320"
+      "extracted_at": "2025-10-22T06:24:01.306822"
     },
     "hoca": {
       "name": "hoca",
@@ -56,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-22T05:50:19.012544"
+      "extracted_at": "2025-10-22T06:24:02.822377"
     },
     "Caster": {
       "name": "Caster",
@@ -65,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-22T05:50:21.141997"
+      "extracted_at": "2025-10-22T06:24:05.174710"
     },
     "WIGI": {
       "name": "WIGI",
@@ -74,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-22T05:50:23.516165"
+      "extracted_at": "2025-10-22T06:24:07.197653"
     }
   },
   "player_urls": {

@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-23T05:49:32.404852",
-  "total_events": 3,
+  "last_updated": "2025-10-23T06:23:23.039886",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "23-10-2025",
-      "time": "05:00",
-      "datetime": "23-10-2025 05:00",
-      "league": "Liga Mx",
-      "teams": "Atlas - Leon",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-10-2025 (05:00) Liga Mx : Atlas - Leon  (CH156es)"
-    },
-    {
-      "date": "23-10-2025",
-      "time": "05:00",
-      "datetime": "23-10-2025 05:00",
-      "league": "Liga Mx",
-      "teams": "Tijuana - Toluca",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-10-2025 (05:00) Liga Mx : Tijuana - Toluca  (CH68es)"
-    },
-    {
-      "date": "23-10-2025",
-      "time": "05:05",
-      "datetime": "23-10-2025 05:05",
-      "league": "Liga Mx",
-      "teams": "U.N.A.M. - Atl. San Luis",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-10-2025 (05:05) Liga Mx : U.N.A.M. - Atl. San Luis  (CH157es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -57,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-23T05:49:25.096781"
+      "extracted_at": "2025-10-23T06:23:14.949714"
     },
     "hoca": {
       "name": "hoca",
@@ -66,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-23T05:49:26.815125"
+      "extracted_at": "2025-10-23T06:23:16.917718"
     },
     "Caster": {
       "name": "Caster",
@@ -75,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-23T05:49:29.138564"
+      "extracted_at": "2025-10-23T06:23:19.298902"
     },
     "WIGI": {
       "name": "WIGI",
@@ -84,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-23T05:49:31.404702"
+      "extracted_at": "2025-10-23T06:23:22.039733"
     }
   },
   "player_urls": {

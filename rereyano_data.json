@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-23T14:44:20.262577",
+  "last_updated": "2025-10-23T14:54:53.738933",
   "total_events": 57,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -139,7 +139,7 @@
           "lang": "fr"
         },
         {
-          "id": "171",
+          "id": "172",
           "lang": "es"
         },
         {
@@ -151,7 +151,7 @@
           "lang": "de"
         }
       ],
-      "raw_line": "23-10-2025 (18:45) Conference League : SK Rapid - Fiorentina  (CH42fr) (CH171es) (CH138it) (CH112de)"
+      "raw_line": "23-10-2025 (18:45) Conference League : SK Rapid - Fiorentina  (CH42fr) (CH172es) (CH138it) (CH112de)"
     },
     {
       "date": "23-10-2025",
@@ -251,7 +251,7 @@
           "lang": "fr"
         },
         {
-          "id": "165",
+          "id": "171",
           "lang": "es"
         },
         {
@@ -259,7 +259,7 @@
           "lang": "gb"
         }
       ],
-      "raw_line": "23-10-2025 (18:45) Ligue Europa : Brann - Rangers  (CH40fr) (CH165es) (CH129gb)"
+      "raw_line": "23-10-2025 (18:45) Ligue Europa : Brann - Rangers  (CH40fr) (CH171es) (CH129gb)"
     },
     {
       "date": "23-10-2025",
@@ -324,6 +324,32 @@
         }
       ],
       "raw_line": "23-10-2025 (18:45) Ligue Europa : Fenerbahce - Stuttgart  (CH34fr) (CH164es) (CH116de) (CH68es) (CH93es) (CH98es)"
+    },
+    {
+      "date": "23-10-2025",
+      "time": "18:45",
+      "datetime": "23-10-2025 18:45",
+      "league": "Ligue Europa",
+      "teams": "Feyenoord - Panathinaikos",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-10-2025 (18:45) Ligue Europa : Feyenoord - Panathinaikos  (CH36fr) (CH165es) (CH141nl) (CH90es)"
     },
     {
       "date": "23-10-2025",
@@ -559,11 +585,11 @@
           "lang": "fr"
         },
         {
-          "id": "173",
+          "id": "179",
           "lang": "es"
         }
       ],
-      "raw_line": "23-10-2025 (21:00) Conference League : Lincoln - Lech  (CH44fr) (CH173es)"
+      "raw_line": "23-10-2025 (21:00) Conference League : Lincoln - Lech  (CH44fr) (CH179es)"
     },
     {
       "date": "23-10-2025",
@@ -577,7 +603,7 @@
           "lang": "fr"
         },
         {
-          "id": "172",
+          "id": "173",
           "lang": "es"
         },
         {
@@ -585,7 +611,7 @@
           "lang": "de"
         }
       ],
-      "raw_line": "23-10-2025 (21:00) Conference League : Mayence - Zrinjski  (CH51fr) (CH172es) (CH118de)"
+      "raw_line": "23-10-2025 (21:00) Conference League : Mayence - Zrinjski  (CH51fr) (CH173es) (CH118de)"
     },
     {
       "date": "23-10-2025",
@@ -772,32 +798,6 @@
         }
       ],
       "raw_line": "23-10-2025 (21:00) Ligue Europa : Celtic - Sturm Graz  (CH35fr) (CH165es) (CH129gb) (CH90es) (CH100es)"
-    },
-    {
-      "date": "23-10-2025",
-      "time": "21:00",
-      "datetime": "23-10-2025 21:00",
-      "league": "Ligue Europa",
-      "teams": "Feyenoord - Panathinaikos",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "171",
-          "lang": "es"
-        },
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-10-2025 (21:00) Ligue Europa : Feyenoord - Panathinaikos  (CH162es) (CH171es) (CH141nl) (CH90es)"
     },
     {
       "date": "23-10-2025",
@@ -1189,7 +1189,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-23T14:44:12.794391"
+      "extracted_at": "2025-10-23T14:54:46.601824"
     },
     "hoca": {
       "name": "hoca",
@@ -1198,7 +1198,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-23T14:44:14.484535"
+      "extracted_at": "2025-10-23T14:54:48.231529"
     },
     "Caster": {
       "name": "Caster",
@@ -1207,7 +1207,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-23T14:44:16.819331"
+      "extracted_at": "2025-10-23T14:54:50.406849"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1216,7 +1216,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-23T14:44:19.262435"
+      "extracted_at": "2025-10-23T14:54:52.738750"
     }
   },
   "player_urls": {

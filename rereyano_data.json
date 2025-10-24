@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-24T02:39:07.899499",
-  "total_events": 11,
+  "last_updated": "2025-10-24T03:24:55.721199",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "24-10-2025",
-      "time": "02:10",
-      "datetime": "24-10-2025 02:10",
-      "league": "Copa Argentina",
-      "teams": "Belgrano - Argentinos Jrs",
-      "channels": [
-        {
-          "id": "77",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-10-2025 (02:10) Copa Argentina : Belgrano - Argentinos Jrs  (CH77es)"
-    },
-    {
-      "date": "24-10-2025",
-      "time": "02:15",
-      "datetime": "24-10-2025 02:15",
-      "league": "NFL",
-      "teams": "Los Angeles Chargers - Minnesota Vikings",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "192",
-          "lang": "us"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        },
-        {
-          "id": "104",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-10-2025 (02:15) NFL : Los Angeles Chargers - Minnesota Vikings  (CH1fr) (CH192us) (CH101es) (CH104es) (CH91es)"
-    },
     {
       "date": "24-10-2025",
       "time": "03:00",
@@ -217,7 +173,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-24T02:39:01.097144"
+      "extracted_at": "2025-10-24T03:24:48.286458"
     },
     "hoca": {
       "name": "hoca",
@@ -226,7 +182,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-24T02:39:02.528742"
+      "extracted_at": "2025-10-24T03:24:50.003914"
     },
     "Caster": {
       "name": "Caster",
@@ -235,7 +191,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-24T02:39:04.769436"
+      "extracted_at": "2025-10-24T03:24:52.376946"
     },
     "WIGI": {
       "name": "WIGI",
@@ -244,7 +200,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-24T02:39:06.899365"
+      "extracted_at": "2025-10-24T03:24:54.721060"
     }
   },
   "player_urls": {

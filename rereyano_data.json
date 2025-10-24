@@ -1,31 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-24T09:49:35.709856",
-  "total_events": 1,
+  "last_updated": "2025-10-24T10:17:54.105518",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "24-10-2025",
-      "time": "09:00",
-      "datetime": "24-10-2025 09:00",
-      "league": "MotoGP",
-      "teams": "Essais des Moto GP -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-10-2025 (09:00) MotoGP : Essais des Moto GP -   (CH14fr) (CH56es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -33,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-24T09:49:28.657935"
+      "extracted_at": "2025-10-24T10:17:45.577193"
     },
     "hoca": {
       "name": "hoca",
@@ -42,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-24T09:49:30.321312"
+      "extracted_at": "2025-10-24T10:17:47.637637"
     },
     "Caster": {
       "name": "Caster",
@@ -51,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-24T09:49:32.517226"
+      "extracted_at": "2025-10-24T10:17:50.340965"
     },
     "WIGI": {
       "name": "WIGI",
@@ -60,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-24T09:49:34.709707"
+      "extracted_at": "2025-10-24T10:17:53.105378"
     }
   },
   "player_urls": {

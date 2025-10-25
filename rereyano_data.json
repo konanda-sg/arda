@@ -1,198 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-25T21:49:08.372666",
-  "total_events": 169,
+  "last_updated": "2025-10-25T22:13:42.183769",
+  "total_events": 158,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Mushuc Runa - Manta",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Ecuador Ligapro : Mushuc Runa - Manta  (CH86es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Eredivisie",
-      "teams": "Zwolle - Nijmegen",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Eredivisie : Zwolle - Nijmegen  (CH142nl)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Laliga",
-      "teams": "Valence - Villarreal",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Laliga : Valence - Villarreal  (CH2fr) (CH49es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Laliga 2",
-      "teams": "Mirandes - Racing Santander",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Laliga 2 : Mirandes - Racing Santander  (CH53es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Cerro CA - Penarol",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Liga AUF Uruguaya : Cerro CA - Penarol  (CH109es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Envigado - Chico",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Liga Betplay Dimayor : Envigado - Chico  (CH81es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Liga Endesa",
-      "teams": "San Pablo Burgos - Zaragoza",
-      "channels": [
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Liga Endesa : San Pablo Burgos - Zaragoza  (CH67es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Premier League",
-      "teams": "Brentford - Liverpool",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "us"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Premier League : Brentford - Liverpool  (CH12fr) (CH126us) (CH120de) (CH56es) (CH87es)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Serie A Bresil",
-      "teams": "Vitoria - Corinthians",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Serie A Bresil : Vitoria - Corinthians  (CH159pt)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:00",
-      "datetime": "25-10-2025 21:00",
-      "league": "Top 14",
-      "teams": "Bordeaux Bègles - Aviron Bayonnais",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:00) Top 14 : Bordeaux Bègles - Aviron Bayonnais  (CH11fr)"
-    },
-    {
-      "date": "25-10-2025",
-      "time": "21:05",
-      "datetime": "25-10-2025 21:05",
-      "league": "Ligue 1",
-      "teams": "Lens - Marseille",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-10-2025 (21:05) Ligue 1 : Lens - Marseille  (CH20fr) (CH69es)"
-    },
     {
       "date": "25-10-2025",
       "time": "21:30",
@@ -2885,7 +2699,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-25T21:49:01.512900"
+      "extracted_at": "2025-10-25T22:13:34.907017"
     },
     "hoca": {
       "name": "hoca",
@@ -2894,7 +2708,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-25T21:49:02.983464"
+      "extracted_at": "2025-10-25T22:13:36.591378"
     },
     "Caster": {
       "name": "Caster",
@@ -2903,7 +2717,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-25T21:49:05.222481"
+      "extracted_at": "2025-10-25T22:13:38.890204"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2912,7 +2726,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-25T21:49:07.372513"
+      "extracted_at": "2025-10-25T22:13:41.183596"
     }
   },
   "player_urls": {

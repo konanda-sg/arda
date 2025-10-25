@@ -1,11 +1,901 @@
 {
   "extractor": "StreamBTW",
-  "last_updated": "2025-10-25T19:38:49.340071",
-  "total_items": 0,
-  "sports_count": 0,
-  "m3u8_extracted": 0,
-  "accessible_streams": 0,
-  "sports": [],
-  "items": [],
-  "by_sport": {}
+  "last_updated": "2025-10-25T20:54:59.164514",
+  "total_items": 38,
+  "sports_count": 13,
+  "m3u8_extracted": 6,
+  "accessible_streams": 6,
+  "sports": [
+    "F1",
+    "MOTOGP",
+    "UFC",
+    "BOXING",
+    "PREMIER LEAGUE",
+    "LALIGA",
+    "BUNDESLIGA",
+    "SERIE A",
+    "LIGUE 1",
+    "LIGA PORTUGAL",
+    "EFL",
+    "NBA",
+    "MLB"
+  ],
+  "items": [
+    {
+      "title": "Formula 1 Live Stream",
+      "sport": "F1",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/f1.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/23bf83ee-6d7a-3957-8b67-8014ddb9ca47/logo/original_201809071300.svg",
+      "extracted_at": "2025-10-25T20:40:35.949257"
+    },
+    {
+      "title": "MotoGP live Stream",
+      "sport": "MOTOGP",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/moto.php",
+      "thumbnail": "https://static.dorna.com/assets/logos/mgp/brand/mgp-logo-on-dark.svg?v2",
+      "extracted_at": "2025-10-25T20:40:35.949475",
+      "playable_link": {
+        "m3u8_url": "https://streameast247.com/playlist/stream_moto.m3u8?md5=r5TigkwzVk5FdOoEEWm_Kg&expires=1761428490",
+        "iframe_url": "https://streambtw.com/iframe/moto.php",
+        "page_url": "https://streambtw.com/iframe/moto.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://streambtw.com/iframe/moto.php",
+          "Origin": "https://streambtw.com",
+          "Accept": "*/*",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "cross-site"
+        },
+        "is_accessible": true,
+        "origin": "https://streambtw.com",
+        "referer": "https://streambtw.com/iframe/moto.php",
+        "extracted_at": "2025-10-25T20:41:31.359111"
+      }
+    },
+    {
+      "title": "UFC 321: Aspinall vs Gane",
+      "sport": "UFC",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ufc.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/394dad60-8a1a-31a8-912c-a207555bc939/logo/original_20211113210745.svg",
+      "extracted_at": "2025-10-25T20:40:35.949657"
+    },
+    {
+      "title": "Parker vs Wardley",
+      "sport": "BOXING",
+      "icon": "🥊",
+      "link": "https://streambtw.com/iframe/box1.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/889c6d08-03c6-31cc-93da-ef344c22a1c4/logo/original_201809051644.svg",
+      "extracted_at": "2025-10-25T20:40:35.949870"
+    },
+    {
+      "title": "Newcastle United vs Fulham",
+      "sport": "PREMIER LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch1.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+      "extracted_at": "2025-10-25T20:40:35.950036"
+    },
+    {
+      "title": "Chelsea vs Sunderland",
+      "sport": "PREMIER LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch2.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+      "extracted_at": "2025-10-25T20:40:35.950197"
+    },
+    {
+      "title": "Manchester United vs Brighton & Hove Albion",
+      "sport": "PREMIER LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch3.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+      "extracted_at": "2025-10-25T20:40:35.950349"
+    },
+    {
+      "title": "Brentford vs Liverpool",
+      "sport": "PREMIER LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch1.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+      "extracted_at": "2025-10-25T20:40:35.950502"
+    },
+    {
+      "title": "Girona vs Real Oviedo",
+      "sport": "LALIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch6.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+      "extracted_at": "2025-10-25T20:40:35.950698"
+    },
+    {
+      "title": "Espanyol vs Elche",
+      "sport": "LALIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch6.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+      "extracted_at": "2025-10-25T20:40:35.950871"
+    },
+    {
+      "title": "Athletic Club vs Getafe",
+      "sport": "LALIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch6.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+      "extracted_at": "2025-10-25T20:40:35.951025"
+    },
+    {
+      "title": "Valencia vs Villarreal",
+      "sport": "LALIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch6.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+      "extracted_at": "2025-10-25T20:40:35.951178"
+    },
+    {
+      "title": "Borussia Monchengladbach vs Bayern Munchen",
+      "sport": "BUNDESLIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch9.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+      "extracted_at": "2025-10-25T20:40:35.951329",
+      "playable_link": {
+        "m3u8_url": "https://playlist.streameast247.com/playlist/stream_9.m3u8?md5=jt4yrm_QiSVjzHbnKJOImA&expires=1761428667",
+        "iframe_url": "https://streambtw.com/iframe/ch9.php",
+        "page_url": "https://streambtw.com/iframe/ch9.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://streambtw.com/iframe/ch9.php",
+          "Origin": "https://streambtw.com",
+          "Accept": "*/*",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "cross-site"
+        },
+        "is_accessible": true,
+        "origin": "https://streambtw.com",
+        "referer": "https://streambtw.com/iframe/ch9.php",
+        "extracted_at": "2025-10-25T20:44:28.748826"
+      }
+    },
+    {
+      "title": "Hamburger SV vs Wolfsburg",
+      "sport": "BUNDESLIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch10.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+      "extracted_at": "2025-10-25T20:40:35.951480"
+    },
+    {
+      "title": "Hoffenheim vs Heidenheim",
+      "sport": "BUNDESLIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch11.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+      "extracted_at": "2025-10-25T20:40:35.951651"
+    },
+    {
+      "title": "Augsburg vs RB Leipzig",
+      "sport": "BUNDESLIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch13.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+      "extracted_at": "2025-10-25T20:40:35.951810",
+      "playable_link": {
+        "m3u8_url": "https://playlist.streameast247.com/playlist/stream_13.m3u8?md5=VwoSsTWUq5DyVUL0FqzbYg&expires=1761428740",
+        "iframe_url": "https://streambtw.com/iframe/ch13.php",
+        "page_url": "https://streambtw.com/iframe/ch13.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://streambtw.com/iframe/ch13.php",
+          "Origin": "https://streambtw.com",
+          "Accept": "*/*",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "cross-site"
+        },
+        "is_accessible": true,
+        "origin": "https://streambtw.com",
+        "referer": "https://streambtw.com/iframe/ch13.php",
+        "extracted_at": "2025-10-25T20:45:41.251322"
+      }
+    },
+    {
+      "title": "Eintracht Frankfurt vs St. Pauli",
+      "sport": "BUNDESLIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch14.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+      "extracted_at": "2025-10-25T20:40:35.951964"
+    },
+    {
+      "title": "Borussia Dortmund vs Koln",
+      "sport": "BUNDESLIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch9.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+      "extracted_at": "2025-10-25T20:40:35.952120",
+      "playable_link": {
+        "m3u8_url": "https://playlist.streameast247.com/playlist/stream_9.m3u8?md5=uCli1GLpybRXQDeNNQoBbg&expires=1761428797",
+        "iframe_url": "https://streambtw.com/iframe/ch9.php",
+        "page_url": "https://streambtw.com/iframe/ch9.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://streambtw.com/iframe/ch9.php",
+          "Origin": "https://streambtw.com",
+          "Accept": "*/*",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "cross-site"
+        },
+        "is_accessible": true,
+        "origin": "https://streambtw.com",
+        "referer": "https://streambtw.com/iframe/ch9.php",
+        "extracted_at": "2025-10-25T20:46:37.900343"
+      }
+    },
+    {
+      "title": "Parma vs como",
+      "sport": "SERIE A",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch7.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+      "extracted_at": "2025-10-25T20:40:35.952270"
+    },
+    {
+      "title": "Udinese vs Lecce",
+      "sport": "SERIE A",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch4.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+      "extracted_at": "2025-10-25T20:40:35.952420",
+      "playable_link": {
+        "m3u8_url": "https://streameast247.com/playlist/stream_4.m3u8?md5=1dWNQaj4MQZ5upJL79UuZA&expires=1761428884",
+        "iframe_url": "https://streambtw.com/iframe/ch4.php",
+        "page_url": "https://streambtw.com/iframe/ch4.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://streambtw.com/iframe/ch4.php",
+          "Origin": "https://streambtw.com",
+          "Accept": "*/*",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "cross-site"
+        },
+        "is_accessible": true,
+        "origin": "https://streambtw.com",
+        "referer": "https://streambtw.com/iframe/ch4.php",
+        "extracted_at": "2025-10-25T20:48:05.611570"
+      }
+    },
+    {
+      "title": "Napoli vs Internazionale",
+      "sport": "SERIE A",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch7.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+      "extracted_at": "2025-10-25T20:40:35.952570",
+      "playable_link": {
+        "m3u8_url": "https://streameast247.com/playlist/stream_7.m3u8?md5=yHQOhlvqZ6zd2dBYzde5ig&expires=1761428924",
+        "iframe_url": "https://streambtw.com/iframe/ch7.php",
+        "page_url": "https://streambtw.com/iframe/ch7.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://streambtw.com/iframe/ch7.php",
+          "Origin": "https://streambtw.com",
+          "Accept": "*/*",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "cross-site"
+        },
+        "is_accessible": true,
+        "origin": "https://streambtw.com",
+        "referer": "https://streambtw.com/iframe/ch7.php",
+        "extracted_at": "2025-10-25T20:48:44.805201"
+      }
+    },
+    {
+      "title": "Cremonese vs Atalanta",
+      "sport": "SERIE A",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch7.php",
+      "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+      "extracted_at": "2025-10-25T20:40:35.952737"
+    },
+    {
+      "title": "Brest vs PSG",
+      "sport": "LIGUE 1",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch8.php",
+      "thumbnail": "https://ligue1.com/images/Logo_Ligue_1.webp",
+      "extracted_at": "2025-10-25T20:40:35.952891"
+    },
+    {
+      "title": "Monaco vs Toulouse",
+      "sport": "LIGUE 1",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch8.php",
+      "thumbnail": "https://ligue1.com/images/Logo_Ligue_1.webp",
+      "extracted_at": "2025-10-25T20:40:35.953042"
+    },
+    {
+      "title": "Lens vs Olympique Marseille",
+      "sport": "LIGUE 1",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch8.php",
+      "thumbnail": "https://ligue1.com/images/Logo_Ligue_1.webp",
+      "extracted_at": "2025-10-25T20:40:35.953191"
+    },
+    {
+      "title": "Santa Clara vs AVS",
+      "sport": "LIGA PORTUGAL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch12.php",
+      "thumbnail": "https://www.ligaportugal.pt/media/app_liga_portugal.png",
+      "extracted_at": "2025-10-25T20:40:35.953341"
+    },
+    {
+      "title": "Benfica vs Arouca",
+      "sport": "LIGA PORTUGAL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch12.php",
+      "thumbnail": "https://www.ligaportugal.pt/media/app_liga_portugal.png",
+      "extracted_at": "2025-10-25T20:40:35.953491"
+    },
+    {
+      "title": "Blackburn Rovers vs Southampton",
+      "sport": "EFL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch15.php",
+      "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+      "extracted_at": "2025-10-25T20:40:35.953660"
+    },
+    {
+      "title": "Bristol City vs Birmingham City",
+      "sport": "EFL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch16.php",
+      "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+      "extracted_at": "2025-10-25T20:40:35.953812"
+    },
+    {
+      "title": "Middlesbrough vs Wrexham",
+      "sport": "EFL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch17.php",
+      "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+      "extracted_at": "2025-10-25T20:40:35.953960"
+    },
+    {
+      "title": "Millwall vs Leicester City",
+      "sport": "EFL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch18.php",
+      "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+      "extracted_at": "2025-10-25T20:40:35.954111"
+    },
+    {
+      "title": "Swansea City vs Norwich City",
+      "sport": "EFL",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/ch19.php",
+      "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+      "extracted_at": "2025-10-25T20:40:35.954260"
+    },
+    {
+      "title": "Orlando Magic vs Chicago Bulls",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/nba1.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+      "extracted_at": "2025-10-25T20:40:35.954407"
+    },
+    {
+      "title": "Atlanta Hawks vs Oklahoma City Thunder",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/nba2.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+      "extracted_at": "2025-10-25T20:40:35.954556"
+    },
+    {
+      "title": "Philadelphia 76ers vs Charlotte Hornets",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/nba3.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+      "extracted_at": "2025-10-25T20:40:35.954737"
+    },
+    {
+      "title": "Memphis Grizzlies vs Indiana Pacers",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/nba4.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+      "extracted_at": "2025-10-25T20:40:35.954893"
+    },
+    {
+      "title": "Denver Nuggets vs Phoenix Suns",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/nba5.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+      "extracted_at": "2025-10-25T20:40:35.955047"
+    },
+    {
+      "title": "Dodgers vs Blue Jays",
+      "sport": "MLB",
+      "icon": "🎯",
+      "link": "https://streambtw.com/iframe/mlb1.php",
+      "thumbnail": "https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg",
+      "extracted_at": "2025-10-25T20:40:35.955196"
+    }
+  ],
+  "by_sport": {
+    "F1": [
+      {
+        "title": "Formula 1 Live Stream",
+        "sport": "F1",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/f1.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/23bf83ee-6d7a-3957-8b67-8014ddb9ca47/logo/original_201809071300.svg",
+        "extracted_at": "2025-10-25T20:40:35.949257"
+      }
+    ],
+    "MOTOGP": [
+      {
+        "title": "MotoGP live Stream",
+        "sport": "MOTOGP",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/moto.php",
+        "thumbnail": "https://static.dorna.com/assets/logos/mgp/brand/mgp-logo-on-dark.svg?v2",
+        "extracted_at": "2025-10-25T20:40:35.949475",
+        "playable_link": {
+          "m3u8_url": "https://streameast247.com/playlist/stream_moto.m3u8?md5=r5TigkwzVk5FdOoEEWm_Kg&expires=1761428490",
+          "iframe_url": "https://streambtw.com/iframe/moto.php",
+          "page_url": "https://streambtw.com/iframe/moto.php",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://streambtw.com/iframe/moto.php",
+            "Origin": "https://streambtw.com",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site"
+          },
+          "is_accessible": true,
+          "origin": "https://streambtw.com",
+          "referer": "https://streambtw.com/iframe/moto.php",
+          "extracted_at": "2025-10-25T20:41:31.359111"
+        }
+      }
+    ],
+    "UFC": [
+      {
+        "title": "UFC 321: Aspinall vs Gane",
+        "sport": "UFC",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ufc.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/394dad60-8a1a-31a8-912c-a207555bc939/logo/original_20211113210745.svg",
+        "extracted_at": "2025-10-25T20:40:35.949657"
+      }
+    ],
+    "BOXING": [
+      {
+        "title": "Parker vs Wardley",
+        "sport": "BOXING",
+        "icon": "🥊",
+        "link": "https://streambtw.com/iframe/box1.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/889c6d08-03c6-31cc-93da-ef344c22a1c4/logo/original_201809051644.svg",
+        "extracted_at": "2025-10-25T20:40:35.949870"
+      }
+    ],
+    "PREMIER LEAGUE": [
+      {
+        "title": "Newcastle United vs Fulham",
+        "sport": "PREMIER LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch1.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+        "extracted_at": "2025-10-25T20:40:35.950036"
+      },
+      {
+        "title": "Chelsea vs Sunderland",
+        "sport": "PREMIER LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch2.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+        "extracted_at": "2025-10-25T20:40:35.950197"
+      },
+      {
+        "title": "Manchester United vs Brighton & Hove Albion",
+        "sport": "PREMIER LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch3.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+        "extracted_at": "2025-10-25T20:40:35.950349"
+      },
+      {
+        "title": "Brentford vs Liverpool",
+        "sport": "PREMIER LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch1.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&transparent=true&w=60&h=60",
+        "extracted_at": "2025-10-25T20:40:35.950502"
+      }
+    ],
+    "LALIGA": [
+      {
+        "title": "Girona vs Real Oviedo",
+        "sport": "LALIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch6.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+        "extracted_at": "2025-10-25T20:40:35.950698"
+      },
+      {
+        "title": "Espanyol vs Elche",
+        "sport": "LALIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch6.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+        "extracted_at": "2025-10-25T20:40:35.950871"
+      },
+      {
+        "title": "Athletic Club vs Getafe",
+        "sport": "LALIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch6.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+        "extracted_at": "2025-10-25T20:40:35.951025"
+      },
+      {
+        "title": "Valencia vs Villarreal",
+        "sport": "LALIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch6.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg",
+        "extracted_at": "2025-10-25T20:40:35.951178"
+      }
+    ],
+    "BUNDESLIGA": [
+      {
+        "title": "Borussia Monchengladbach vs Bayern Munchen",
+        "sport": "BUNDESLIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch9.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+        "extracted_at": "2025-10-25T20:40:35.951329",
+        "playable_link": {
+          "m3u8_url": "https://playlist.streameast247.com/playlist/stream_9.m3u8?md5=jt4yrm_QiSVjzHbnKJOImA&expires=1761428667",
+          "iframe_url": "https://streambtw.com/iframe/ch9.php",
+          "page_url": "https://streambtw.com/iframe/ch9.php",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://streambtw.com/iframe/ch9.php",
+            "Origin": "https://streambtw.com",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site"
+          },
+          "is_accessible": true,
+          "origin": "https://streambtw.com",
+          "referer": "https://streambtw.com/iframe/ch9.php",
+          "extracted_at": "2025-10-25T20:44:28.748826"
+        }
+      },
+      {
+        "title": "Hamburger SV vs Wolfsburg",
+        "sport": "BUNDESLIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch10.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+        "extracted_at": "2025-10-25T20:40:35.951480"
+      },
+      {
+        "title": "Hoffenheim vs Heidenheim",
+        "sport": "BUNDESLIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch11.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+        "extracted_at": "2025-10-25T20:40:35.951651"
+      },
+      {
+        "title": "Augsburg vs RB Leipzig",
+        "sport": "BUNDESLIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch13.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+        "extracted_at": "2025-10-25T20:40:35.951810",
+        "playable_link": {
+          "m3u8_url": "https://playlist.streameast247.com/playlist/stream_13.m3u8?md5=VwoSsTWUq5DyVUL0FqzbYg&expires=1761428740",
+          "iframe_url": "https://streambtw.com/iframe/ch13.php",
+          "page_url": "https://streambtw.com/iframe/ch13.php",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://streambtw.com/iframe/ch13.php",
+            "Origin": "https://streambtw.com",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site"
+          },
+          "is_accessible": true,
+          "origin": "https://streambtw.com",
+          "referer": "https://streambtw.com/iframe/ch13.php",
+          "extracted_at": "2025-10-25T20:45:41.251322"
+        }
+      },
+      {
+        "title": "Eintracht Frankfurt vs St. Pauli",
+        "sport": "BUNDESLIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch14.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+        "extracted_at": "2025-10-25T20:40:35.951964"
+      },
+      {
+        "title": "Borussia Dortmund vs Koln",
+        "sport": "BUNDESLIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch9.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg",
+        "extracted_at": "2025-10-25T20:40:35.952120",
+        "playable_link": {
+          "m3u8_url": "https://playlist.streameast247.com/playlist/stream_9.m3u8?md5=uCli1GLpybRXQDeNNQoBbg&expires=1761428797",
+          "iframe_url": "https://streambtw.com/iframe/ch9.php",
+          "page_url": "https://streambtw.com/iframe/ch9.php",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://streambtw.com/iframe/ch9.php",
+            "Origin": "https://streambtw.com",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site"
+          },
+          "is_accessible": true,
+          "origin": "https://streambtw.com",
+          "referer": "https://streambtw.com/iframe/ch9.php",
+          "extracted_at": "2025-10-25T20:46:37.900343"
+        }
+      }
+    ],
+    "SERIE A": [
+      {
+        "title": "Parma vs como",
+        "sport": "SERIE A",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch7.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+        "extracted_at": "2025-10-25T20:40:35.952270"
+      },
+      {
+        "title": "Udinese vs Lecce",
+        "sport": "SERIE A",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch4.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+        "extracted_at": "2025-10-25T20:40:35.952420",
+        "playable_link": {
+          "m3u8_url": "https://streameast247.com/playlist/stream_4.m3u8?md5=1dWNQaj4MQZ5upJL79UuZA&expires=1761428884",
+          "iframe_url": "https://streambtw.com/iframe/ch4.php",
+          "page_url": "https://streambtw.com/iframe/ch4.php",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://streambtw.com/iframe/ch4.php",
+            "Origin": "https://streambtw.com",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site"
+          },
+          "is_accessible": true,
+          "origin": "https://streambtw.com",
+          "referer": "https://streambtw.com/iframe/ch4.php",
+          "extracted_at": "2025-10-25T20:48:05.611570"
+        }
+      },
+      {
+        "title": "Napoli vs Internazionale",
+        "sport": "SERIE A",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch7.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+        "extracted_at": "2025-10-25T20:40:35.952570",
+        "playable_link": {
+          "m3u8_url": "https://streameast247.com/playlist/stream_7.m3u8?md5=yHQOhlvqZ6zd2dBYzde5ig&expires=1761428924",
+          "iframe_url": "https://streambtw.com/iframe/ch7.php",
+          "page_url": "https://streambtw.com/iframe/ch7.php",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://streambtw.com/iframe/ch7.php",
+            "Origin": "https://streambtw.com",
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site"
+          },
+          "is_accessible": true,
+          "origin": "https://streambtw.com",
+          "referer": "https://streambtw.com/iframe/ch7.php",
+          "extracted_at": "2025-10-25T20:48:44.805201"
+        }
+      },
+      {
+        "title": "Cremonese vs Atalanta",
+        "sport": "SERIE A",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch7.php",
+        "thumbnail": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80",
+        "extracted_at": "2025-10-25T20:40:35.952737"
+      }
+    ],
+    "LIGUE 1": [
+      {
+        "title": "Brest vs PSG",
+        "sport": "LIGUE 1",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch8.php",
+        "thumbnail": "https://ligue1.com/images/Logo_Ligue_1.webp",
+        "extracted_at": "2025-10-25T20:40:35.952891"
+      },
+      {
+        "title": "Monaco vs Toulouse",
+        "sport": "LIGUE 1",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch8.php",
+        "thumbnail": "https://ligue1.com/images/Logo_Ligue_1.webp",
+        "extracted_at": "2025-10-25T20:40:35.953042"
+      },
+      {
+        "title": "Lens vs Olympique Marseille",
+        "sport": "LIGUE 1",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch8.php",
+        "thumbnail": "https://ligue1.com/images/Logo_Ligue_1.webp",
+        "extracted_at": "2025-10-25T20:40:35.953191"
+      }
+    ],
+    "LIGA PORTUGAL": [
+      {
+        "title": "Santa Clara vs AVS",
+        "sport": "LIGA PORTUGAL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch12.php",
+        "thumbnail": "https://www.ligaportugal.pt/media/app_liga_portugal.png",
+        "extracted_at": "2025-10-25T20:40:35.953341"
+      },
+      {
+        "title": "Benfica vs Arouca",
+        "sport": "LIGA PORTUGAL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch12.php",
+        "thumbnail": "https://www.ligaportugal.pt/media/app_liga_portugal.png",
+        "extracted_at": "2025-10-25T20:40:35.953491"
+      }
+    ],
+    "EFL": [
+      {
+        "title": "Blackburn Rovers vs Southampton",
+        "sport": "EFL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch15.php",
+        "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+        "extracted_at": "2025-10-25T20:40:35.953660"
+      },
+      {
+        "title": "Bristol City vs Birmingham City",
+        "sport": "EFL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch16.php",
+        "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+        "extracted_at": "2025-10-25T20:40:35.953812"
+      },
+      {
+        "title": "Middlesbrough vs Wrexham",
+        "sport": "EFL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch17.php",
+        "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+        "extracted_at": "2025-10-25T20:40:35.953960"
+      },
+      {
+        "title": "Millwall vs Leicester City",
+        "sport": "EFL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch18.php",
+        "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+        "extracted_at": "2025-10-25T20:40:35.954111"
+      },
+      {
+        "title": "Swansea City vs Norwich City",
+        "sport": "EFL",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/ch19.php",
+        "thumbnail": "https://www.efl.com/efl-logo-large.svg",
+        "extracted_at": "2025-10-25T20:40:35.954260"
+      }
+    ],
+    "NBA": [
+      {
+        "title": "Orlando Magic vs Chicago Bulls",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/nba1.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+        "extracted_at": "2025-10-25T20:40:35.954407"
+      },
+      {
+        "title": "Atlanta Hawks vs Oklahoma City Thunder",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/nba2.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+        "extracted_at": "2025-10-25T20:40:35.954556"
+      },
+      {
+        "title": "Philadelphia 76ers vs Charlotte Hornets",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/nba3.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+        "extracted_at": "2025-10-25T20:40:35.954737"
+      },
+      {
+        "title": "Memphis Grizzlies vs Indiana Pacers",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/nba4.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+        "extracted_at": "2025-10-25T20:40:35.954893"
+      },
+      {
+        "title": "Denver Nuggets vs Phoenix Suns",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/nba5.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
+        "extracted_at": "2025-10-25T20:40:35.955047"
+      }
+    ],
+    "MLB": [
+      {
+        "title": "Dodgers vs Blue Jays",
+        "sport": "MLB",
+        "icon": "🎯",
+        "link": "https://streambtw.com/iframe/mlb1.php",
+        "thumbnail": "https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg",
+        "extracted_at": "2025-10-25T20:40:35.955196"
+      }
+    ]
+  }
 }

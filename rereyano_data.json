@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-26T08:50:51.008104",
+  "last_updated": "2025-10-26T09:14:17.389130",
   "total_events": 129,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -15,7 +15,7 @@
       "teams": "La course des Moto GP -",
       "channels": [
         {
-          "id": "11",
+          "id": "14",
           "lang": "fr"
         },
         {
@@ -23,7 +23,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "26-10-2025 (08:00) MotoGP : La course des Moto GP -   (CH11fr) (CH56es)"
+      "raw_line": "26-10-2025 (08:00) MotoGP : La course des Moto GP -   (CH14fr) (CH56es)"
     },
     {
       "date": "26-10-2025",
@@ -651,7 +651,7 @@
       "teams": "Angers - Lorient",
       "channels": [
         {
-          "id": "40",
+          "id": "21",
           "lang": "fr"
         },
         {
@@ -659,7 +659,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "26-10-2025 (17:15) Ligue 1 : Angers - Lorient  (CH40fr) (CH69es)"
+      "raw_line": "26-10-2025 (17:15) Ligue 1 : Angers - Lorient  (CH21fr) (CH69es)"
     },
     {
       "date": "26-10-2025",
@@ -687,7 +687,7 @@
       "teams": "Rennes - Nice",
       "channels": [
         {
-          "id": "21",
+          "id": "40",
           "lang": "fr"
         },
         {
@@ -695,7 +695,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "26-10-2025 (17:15) Ligue 1 : Rennes - Nice  (CH21fr) (CH69es)"
+      "raw_line": "26-10-2025 (17:15) Ligue 1 : Rennes - Nice  (CH40fr) (CH69es)"
     },
     {
       "date": "26-10-2025",
@@ -1263,6 +1263,10 @@
       "teams": "Lazio - Juventus",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "137",
           "lang": "it"
         },
@@ -1283,7 +1287,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "26-10-2025 (20:45) Serie A : Lazio - Juventus  (CH137it) (CH123de) (CH88es) (CH97es) (CH70es)"
+      "raw_line": "26-10-2025 (20:45) Serie A : Lazio - Juventus  (CH45fr) (CH137it) (CH123de) (CH88es) (CH97es) (CH70es)"
     },
     {
       "date": "26-10-2025",
@@ -1879,7 +1883,7 @@
       "teams": "Gaziantep - Fenerbahce",
       "channels": [
         {
-          "id": "12",
+          "id": "2",
           "lang": "fr"
         },
         {
@@ -1899,7 +1903,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "27-10-2025 (18:00) Super Lig : Gaziantep - Fenerbahce  (CH12fr) (CH151tr) (CH91es) (CH97es) (CH79es)"
+      "raw_line": "27-10-2025 (18:00) Super Lig : Gaziantep - Fenerbahce  (CH2fr) (CH151tr) (CH91es) (CH97es) (CH79es)"
     },
     {
       "date": "27-10-2025",
@@ -1941,7 +1945,7 @@
       "teams": "Betis - Atl. Madrid",
       "channels": [
         {
-          "id": "2",
+          "id": "1",
           "lang": "fr"
         },
         {
@@ -1957,7 +1961,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "27-10-2025 (21:00) Laliga : Betis - Atl. Madrid  (CH2fr) (CH49es) (CH123de) (CH94es)"
+      "raw_line": "27-10-2025 (21:00) Laliga : Betis - Atl. Madrid  (CH1fr) (CH49es) (CH123de) (CH94es)"
     },
     {
       "date": "27-10-2025",
@@ -2225,7 +2229,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-26T08:50:44.048605"
+      "extracted_at": "2025-10-26T09:14:10.231387"
     },
     "hoca": {
       "name": "hoca",
@@ -2234,7 +2238,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T08:50:45.599107"
+      "extracted_at": "2025-10-26T09:14:11.744167"
     },
     "Caster": {
       "name": "Caster",
@@ -2243,7 +2247,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T08:50:47.706674"
+      "extracted_at": "2025-10-26T09:14:14.109572"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2252,7 +2256,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T08:50:50.007954"
+      "extracted_at": "2025-10-26T09:14:16.388990"
     }
   },
   "player_urls": {

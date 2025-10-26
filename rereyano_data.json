@@ -1,110 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-26T17:29:38.591195",
-  "total_events": 106,
+  "last_updated": "2025-10-26T17:40:29.385104",
+  "total_events": 100,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "26-10-2025",
-      "time": "15:30",
-      "datetime": "26-10-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "Bayer Leverkusen - Fribourg",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (15:30) Bundesliga : Bayer Leverkusen - Fribourg  (CH6fr) (CH123de) (CH88es) (CH116es)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "16:00",
-      "datetime": "26-10-2025 16:00",
-      "league": "Betfred Super League",
-      "teams": "Levadiakos - Aris",
-      "channels": [
-        {
-          "id": "148",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "26-10-2025 (16:00) Betfred Super League : Levadiakos - Aris  (CH148gr)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "16:00",
-      "datetime": "26-10-2025 16:00",
-      "league": "Premiership",
-      "teams": "Rangers - Kilmarnock",
-      "channels": [
-        {
-          "id": "135",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "26-10-2025 (16:00) Premiership : Rangers - Kilmarnock  (CH135us)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "16:00",
-      "datetime": "26-10-2025 16:00",
-      "league": "Pro League",
-      "teams": "Cercle Bruges - Zulte-Waregem",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "26-10-2025 (16:00) Pro League : Cercle Bruges - Zulte-Waregem  (CH153fr)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "16:15",
-      "datetime": "26-10-2025 16:15",
-      "league": "Laliga",
-      "teams": "Real Madrid - Barcelone",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (16:15) Laliga : Real Madrid - Barcelone  (CH1fr) (CH51es) (CH124de) (CH71es) (CH87es)"
-    },
     {
       "date": "26-10-2025",
       "time": "16:30",
@@ -1176,32 +1078,6 @@
       "raw_line": "26-10-2025 (23:00) NBA : Washington Wizards - Charlotte Hornets  (CH164us)"
     },
     {
-      "date": "26-10-2025",
-      "time": "23:40",
-      "datetime": "26-10-2025 23:40",
-      "league": "formula 1",
-      "teams": "Essais qualificatifs -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        },
-        {
-          "id": "121",
-          "lang": "de"
-        },
-        {
-          "id": "134",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "26-10-2025 (23:40) formula 1 : Essais qualificatifs -   (CH13fr) (CH60es) (CH121de) (CH134gb)"
-    },
-    {
       "date": "27-10-2025",
       "time": "00:00",
       "datetime": "27-10-2025 00:00",
@@ -1807,7 +1683,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-26T17:29:31.372891"
+      "extracted_at": "2025-10-26T17:40:20.497590"
     },
     "hoca": {
       "name": "hoca",
@@ -1816,7 +1692,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T17:29:32.919355"
+      "extracted_at": "2025-10-26T17:40:21.830743"
     },
     "Caster": {
       "name": "Caster",
@@ -1825,7 +1701,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T17:29:35.240577"
+      "extracted_at": "2025-10-26T17:40:25.833682"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1834,7 +1710,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T17:29:37.591051"
+      "extracted_at": "2025-10-26T17:40:28.384964"
     }
   },
   "player_urls": {

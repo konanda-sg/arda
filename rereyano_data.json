@@ -1,64 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-26T22:33:05.638220",
-  "total_events": 57,
+  "last_updated": "2025-10-26T22:49:36.828980",
+  "total_events": 55,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "26-10-2025",
-      "time": "20:45",
-      "datetime": "26-10-2025 20:45",
-      "league": "Ligue 1",
-      "teams": "Lyon - Strasbourg",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (20:45) Ligue 1 : Lyon - Strasbourg  (CH20fr) (CH69es)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "20:45",
-      "datetime": "26-10-2025 20:45",
-      "league": "Serie A",
-      "teams": "Lazio - Juventus",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (20:45) Serie A : Lazio - Juventus  (CH45fr) (CH137it) (CH123de) (CH88es) (CH97es) (CH70es)"
-    },
     {
       "date": "26-10-2025",
       "time": "21:00",
@@ -973,7 +921,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-26T22:32:58.149066"
+      "extracted_at": "2025-10-26T22:49:29.231637"
     },
     "hoca": {
       "name": "hoca",
@@ -982,7 +930,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T22:32:59.822027"
+      "extracted_at": "2025-10-26T22:49:30.965122"
     },
     "Caster": {
       "name": "Caster",
@@ -991,7 +939,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T22:33:02.089518"
+      "extracted_at": "2025-10-26T22:49:33.343123"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1000,7 +948,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T22:33:04.638054"
+      "extracted_at": "2025-10-26T22:49:35.828828"
     }
   },
   "player_urls": {

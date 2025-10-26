@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-26T14:13:16.711670",
-  "total_events": 128,
+  "last_updated": "2025-10-26T14:31:00.041033",
+  "total_events": 125,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "26-10-2025",
-      "time": "12:15",
-      "datetime": "26-10-2025 12:15",
-      "league": "Eredivisie",
-      "teams": "Twente - Ajax",
-      "channels": [
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (12:15) Eredivisie : Twente - Ajax  (CH141nl) (CH88es) (CH99es)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "12:30",
-      "datetime": "26-10-2025 12:30",
-      "league": "Serie A",
-      "teams": "Torino - Genoa",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (12:30) Serie A : Torino - Genoa  (CH137it) (CH123de) (CH87es) (CH97es)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "12:30",
-      "datetime": "26-10-2025 12:30",
-      "league": "Super Lig",
-      "teams": "Antalyaspor - Basaksehir",
-      "channels": [
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "26-10-2025 (12:30) Super Lig : Antalyaspor - Basaksehir  (CH152tr)"
-    },
     {
       "date": "26-10-2025",
       "time": "13:00",
@@ -2211,7 +2149,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-26T14:13:09.294768"
+      "extracted_at": "2025-10-26T14:30:52.543616"
     },
     "hoca": {
       "name": "hoca",
@@ -2220,7 +2158,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T14:13:10.929653"
+      "extracted_at": "2025-10-26T14:30:54.059068"
     },
     "Caster": {
       "name": "Caster",
@@ -2229,7 +2167,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T14:13:13.369775"
+      "extracted_at": "2025-10-26T14:30:56.409666"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2238,7 +2176,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T14:13:15.711561"
+      "extracted_at": "2025-10-26T14:30:59.040879"
     }
   },
   "player_urls": {

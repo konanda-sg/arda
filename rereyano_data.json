@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-26T15:49:55.132051",
-  "total_events": 119,
+  "last_updated": "2025-10-26T16:17:15.479084",
+  "total_events": 117,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "26-10-2025",
-      "time": "14:00",
-      "datetime": "26-10-2025 14:00",
-      "league": "Laliga",
-      "teams": "Majorque - Levante",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (14:00) Laliga : Majorque - Levante  (CH5fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "26-10-2025",
-      "time": "14:00",
-      "datetime": "26-10-2025 14:00",
-      "league": "Laliga 2",
-      "teams": "Malaga - Andorra",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-10-2025 (14:00) Laliga 2 : Malaga - Andorra  (CH53es)"
-    },
     {
       "date": "26-10-2025",
       "time": "14:30",
@@ -481,13 +441,9 @@
         {
           "id": "21",
           "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
         }
       ],
-      "raw_line": "26-10-2025 (17:15) Ligue 1 : Angers - Lorient  (CH21fr) (CH69es)"
+      "raw_line": "26-10-2025 (17:15) Ligue 1 : Angers - Lorient  (CH21fr)"
     },
     {
       "date": "26-10-2025",
@@ -499,13 +455,9 @@
         {
           "id": "22",
           "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
         }
       ],
-      "raw_line": "26-10-2025 (17:15) Ligue 1 : Auxerre - Le Havre  (CH22fr) (CH69es)"
+      "raw_line": "26-10-2025 (17:15) Ligue 1 : Auxerre - Le Havre  (CH22fr)"
     },
     {
       "date": "26-10-2025",
@@ -2057,7 +2009,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-26T15:49:48.392902"
+      "extracted_at": "2025-10-26T16:17:09.037859"
     },
     "hoca": {
       "name": "hoca",
@@ -2066,7 +2018,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T15:49:49.803899"
+      "extracted_at": "2025-10-26T16:17:10.534457"
     },
     "Caster": {
       "name": "Caster",
@@ -2075,7 +2027,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T15:49:51.947390"
+      "extracted_at": "2025-10-26T16:17:12.729568"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2084,7 +2036,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-26T15:49:54.131903"
+      "extracted_at": "2025-10-26T16:17:14.478945"
     }
   },
   "player_urls": {

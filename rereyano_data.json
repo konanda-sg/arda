@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-27T12:33:26.953637",
-  "total_events": 21,
+  "last_updated": "2025-10-27T13:20:35.479579",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -103,7 +103,7 @@
       "teams": "Moreirense - FC Porto",
       "channels": [
         {
-          "id": "4",
+          "id": "2",
           "lang": "fr"
         },
         {
@@ -111,7 +111,7 @@
           "lang": "pt"
         }
       ],
-      "raw_line": "27-10-2025 (21:15) Liga Portugal : Moreirense - FC Porto  (CH4fr) (CH147pt)"
+      "raw_line": "27-10-2025 (21:15) Liga Portugal : Moreirense - FC Porto  (CH2fr) (CH147pt)"
     },
     {
       "date": "27-10-2025",
@@ -172,6 +172,64 @@
         }
       ],
       "raw_line": "28-10-2025 (00:00) NBA : Philadelphia 76ers - Orlando Magic  (CH161us)"
+    },
+    {
+      "date": "28-10-2025",
+      "time": "00:00",
+      "datetime": "28-10-2025 00:00",
+      "league": "NHL",
+      "teams": "Pittsburgh Penguins - St. Louis Blues",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-10-2025 (00:00) NHL : Pittsburgh Penguins - St. Louis Blues  (CH4fr) (CH183us)"
+    },
+    {
+      "date": "28-10-2025",
+      "time": "00:30",
+      "datetime": "28-10-2025 00:30",
+      "league": "NHL",
+      "teams": "Ottawa Senators - Boston Bruins",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-10-2025 (00:30) NHL : Ottawa Senators - Boston Bruins  (CH184us)"
+    },
+    {
+      "date": "28-10-2025",
+      "time": "01:00",
+      "datetime": "28-10-2025 01:00",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
+          "id": "195",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-10-2025 (01:00) MLB : Los Angeles Dodgers - Toronto Blue Jays  (CH3fr) (CH195us) (CH88es) (CH97es)"
     },
     {
       "date": "28-10-2025",
@@ -237,6 +295,10 @@
       "teams": "Kansas City Chiefs - Washington Commanders",
       "channels": [
         {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
           "id": "182",
           "lang": "us"
         },
@@ -249,7 +311,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "28-10-2025 (01:15) NFL : Kansas City Chiefs - Washington Commanders  (CH182us) (CH89es) (CH98es)"
+      "raw_line": "28-10-2025 (01:15) NFL : Kansas City Chiefs - Washington Commanders  (CH2fr) (CH182us) (CH89es) (CH98es)"
     },
     {
       "date": "28-10-2025",
@@ -361,7 +423,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-27T12:32:42.029719"
+      "extracted_at": "2025-10-27T13:20:28.268413"
     },
     "hoca": {
       "name": "hoca",
@@ -370,7 +432,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-27T12:32:43.688641"
+      "extracted_at": "2025-10-27T13:20:29.761460"
     },
     "Caster": {
       "name": "Caster",
@@ -379,7 +441,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-27T12:33:04.758683"
+      "extracted_at": "2025-10-27T13:20:31.364808"
     },
     "WIGI": {
       "name": "WIGI",
@@ -388,7 +450,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-27T12:33:25.953529"
+      "extracted_at": "2025-10-27T13:20:34.479430"
     }
   },
   "player_urls": {

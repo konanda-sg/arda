@@ -1,44 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-28T03:58:02.077413",
-  "total_events": 5,
+  "last_updated": "2025-10-28T04:24:03.608660",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-10-2025",
-      "time": "02:00",
-      "datetime": "28-10-2025 02:00",
-      "league": "MLS",
-      "teams": "Minnesota - Seattle Sounders",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-10-2025 (02:00) MLS : Minnesota - Seattle Sounders  (CH194us) (CH155es)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "02:00",
-      "datetime": "28-10-2025 02:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Phoenix Suns",
-      "channels": [
-        {
-          "id": "167",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (02:00) NBA : Utah Jazz - Phoenix Suns  (CH167us)"
-    },
     {
       "date": "28-10-2025",
       "time": "02:30",
@@ -89,7 +57,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-28T03:57:55.216333"
+      "extracted_at": "2025-10-28T04:23:56.275002"
     },
     "hoca": {
       "name": "hoca",
@@ -98,7 +66,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-28T03:57:56.662391"
+      "extracted_at": "2025-10-28T04:23:57.853632"
     },
     "Caster": {
       "name": "Caster",
@@ -107,7 +75,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-28T03:57:58.988140"
+      "extracted_at": "2025-10-28T04:24:00.175195"
     },
     "WIGI": {
       "name": "WIGI",
@@ -116,7 +84,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-28T03:58:01.077267"
+      "extracted_at": "2025-10-28T04:24:02.608505"
     }
   },
   "player_urls": {

@@ -1,90 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-28T01:08:23.996392",
-  "total_events": 18,
+  "last_updated": "2025-10-28T02:45:16.125933",
+  "total_events": 13,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "27-10-2025",
-      "time": "23:45",
-      "datetime": "27-10-2025 23:45",
-      "league": "MLS",
-      "teams": "Cincinnati - Columbus Crew",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "27-10-2025 (23:45) MLS : Cincinnati - Columbus Crew  (CH193us) (CH155es)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "00:00",
-      "datetime": "28-10-2025 00:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (00:00) NBA : Detroit Pistons - Cleveland Cavaliers  (CH160us)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "00:00",
-      "datetime": "28-10-2025 00:00",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - Orlando Magic",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (00:00) NBA : Philadelphia 76ers - Orlando Magic  (CH161us)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "00:00",
-      "datetime": "28-10-2025 00:00",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - St. Louis Blues",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (00:00) NHL : Pittsburgh Penguins - St. Louis Blues  (CH4fr) (CH183us)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "00:30",
-      "datetime": "28-10-2025 00:30",
-      "league": "NHL",
-      "teams": "Ottawa Senators - Boston Bruins",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (00:30) NHL : Ottawa Senators - Boston Bruins  (CH184us)"
-    },
     {
       "date": "28-10-2025",
       "time": "01:00",
@@ -303,7 +225,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-28T01:08:17.216578"
+      "extracted_at": "2025-10-28T02:45:08.985832"
     },
     "hoca": {
       "name": "hoca",
@@ -312,7 +234,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-28T01:08:18.709021"
+      "extracted_at": "2025-10-28T02:45:10.541569"
     },
     "Caster": {
       "name": "Caster",
@@ -321,7 +243,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-28T01:08:20.759209"
+      "extracted_at": "2025-10-28T02:45:12.906426"
     },
     "WIGI": {
       "name": "WIGI",
@@ -330,7 +252,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-28T01:08:22.996235"
+      "extracted_at": "2025-10-28T02:45:15.125770"
     }
   },
   "player_urls": {

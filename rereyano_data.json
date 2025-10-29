@@ -1,142 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-29T01:14:03.018521",
-  "total_events": 22,
+  "last_updated": "2025-10-29T02:53:44.038955",
+  "total_events": 13,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-10-2025",
-      "time": "23:30",
-      "datetime": "28-10-2025 23:30",
-      "league": "NHL",
-      "teams": "Carolina Hurricanes - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (23:30) NHL : Carolina Hurricanes - Vegas Golden Knights  (CH182us)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "23:45",
-      "datetime": "28-10-2025 23:45",
-      "league": "MLS",
-      "teams": "Charlotte - New York City",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-10-2025 (23:45) MLS : Charlotte - New York City  (CH165us) (CH155es)"
-    },
-    {
-      "date": "28-10-2025",
-      "time": "23:45",
-      "datetime": "28-10-2025 23:45",
-      "league": "NHL",
-      "teams": "Buffalo Sabres - Columbus Blue Jackets",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-10-2025 (23:45) NHL : Buffalo Sabres - Columbus Blue Jackets  (CH183us)"
-    },
-    {
-      "date": "29-10-2025",
-      "time": "00:00",
-      "datetime": "29-10-2025 00:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-10-2025 (00:00) NBA : Washington Wizards - Philadelphia 76ers  (CH160us)"
-    },
-    {
-      "date": "29-10-2025",
-      "time": "00:00",
-      "datetime": "29-10-2025 00:00",
-      "league": "NHL",
-      "teams": "Florida Panthers - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-10-2025 (00:00) NHL : Florida Panthers - Anaheim Ducks  (CH184us)"
-    },
-    {
-      "date": "29-10-2025",
-      "time": "00:10",
-      "datetime": "29-10-2025 00:10",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Dep. Cali - Alianza",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-10-2025 (00:10) Liga Betplay Dimayor : Dep. Cali - Alianza  (CH81es)"
-    },
-    {
-      "date": "29-10-2025",
-      "time": "00:15",
-      "datetime": "29-10-2025 00:15",
-      "league": "NHL",
-      "teams": "Boston Bruins - New York Islanders",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-10-2025 (00:15) NHL : Boston Bruins - New York Islanders  (CH185us)"
-    },
-    {
-      "date": "29-10-2025",
-      "time": "00:30",
-      "datetime": "29-10-2025 00:30",
-      "league": "NBA",
-      "teams": "Miami Heat - Charlotte Hornets",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-10-2025 (00:30) NBA : Miami Heat - Charlotte Hornets  (CH161us)"
-    },
-    {
-      "date": "29-10-2025",
-      "time": "00:45",
-      "datetime": "29-10-2025 00:45",
-      "league": "NHL",
-      "teams": "Nashville Predators - Tampa Bay Lightning",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-10-2025 (00:45) NHL : Nashville Predators - Tampa Bay Lightning  (CH186us)"
-    },
     {
       "date": "29-10-2025",
       "time": "01:00",
@@ -347,7 +217,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-29T01:13:55.300258"
+      "extracted_at": "2025-10-29T02:53:36.020706"
     },
     "hoca": {
       "name": "hoca",
@@ -356,7 +226,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-29T01:13:56.937144"
+      "extracted_at": "2025-10-29T02:53:37.891768"
     },
     "Caster": {
       "name": "Caster",
@@ -365,7 +235,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-29T01:13:59.489417"
+      "extracted_at": "2025-10-29T02:53:40.445553"
     },
     "WIGI": {
       "name": "WIGI",
@@ -374,7 +244,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-29T01:14:02.018375"
+      "extracted_at": "2025-10-29T02:53:43.038807"
     }
   },
   "player_urls": {

@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-30T19:49:45.879152",
-  "total_events": 40,
+  "last_updated": "2025-10-30T20:18:57.518475",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -250,14 +250,42 @@
       "time": "21:00",
       "datetime": "30-10-2025 21:00",
       "league": "Coupe Du Roi",
-      "teams": "Murcia - Antequera",
+      "teams": "Estepona - Malaga",
       "channels": [
         {
-          "id": "00",
+          "id": "60",
           "lang": "es"
         }
       ],
-      "raw_line": "30-10-2025 (21:00) Coupe Du Roi : Murcia - Antequera  (CH00es)"
+      "raw_line": "30-10-2025 (21:00) Coupe Du Roi : Estepona - Malaga  (CH60es)"
+    },
+    {
+      "date": "30-10-2025",
+      "time": "21:00",
+      "datetime": "30-10-2025 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Getxo CD - Deportivo Alaves",
+      "channels": [
+        {
+          "id": "51",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-10-2025 (21:00) Coupe Du Roi : Getxo CD - Deportivo Alaves  (CH51es)"
+    },
+    {
+      "date": "30-10-2025",
+      "time": "21:00",
+      "datetime": "30-10-2025 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Murcia - Antequera",
+      "channels": [
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-10-2025 (21:00) Coupe Du Roi : Murcia - Antequera  (CH60es)"
     },
     {
       "date": "30-10-2025",
@@ -267,7 +295,7 @@
       "teams": "Palma del Rio - Betis",
       "channels": [
         {
-          "id": "51",
+          "id": "52",
           "lang": "es"
         },
         {
@@ -275,7 +303,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "30-10-2025 (21:00) Coupe Du Roi : Palma del Rio - Betis  (CH51es) (CH82es)"
+      "raw_line": "30-10-2025 (21:00) Coupe Du Roi : Palma del Rio - Betis  (CH52es) (CH82es)"
     },
     {
       "date": "30-10-2025",
@@ -635,7 +663,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-30T19:49:38.788552"
+      "extracted_at": "2025-10-30T20:18:49.516377"
     },
     "hoca": {
       "name": "hoca",
@@ -644,7 +672,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-30T19:49:40.349493"
+      "extracted_at": "2025-10-30T20:18:51.255279"
     },
     "Caster": {
       "name": "Caster",
@@ -653,7 +681,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-30T19:49:42.437557"
+      "extracted_at": "2025-10-30T20:18:54.096042"
     },
     "WIGI": {
       "name": "WIGI",
@@ -662,7 +690,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-30T19:49:44.878690"
+      "extracted_at": "2025-10-30T20:18:56.518329"
     }
   },
   "player_urls": {

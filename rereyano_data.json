@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-30T02:49:54.446059",
-  "total_events": 9,
+  "last_updated": "2025-10-30T03:40:51.433543",
+  "total_events": 6,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-10-2025",
-      "time": "01:00",
-      "datetime": "30-10-2025 01:00",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        },
-        {
-          "id": "62",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-10-2025 (01:00) MLB : Los Angeles Dodgers - Toronto Blue Jays  (CH171us) (CH62es) (CH97es) (CH88es)"
-    },
-    {
-      "date": "30-10-2025",
-      "time": "01:00",
-      "datetime": "30-10-2025 01:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Sacramento Kings",
-      "channels": [
-        {
-          "id": "164",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-10-2025 (01:00) NBA : Chicago Bulls - Sacramento Kings  (CH164us)"
-    },
-    {
-      "date": "30-10-2025",
-      "time": "01:30",
-      "datetime": "30-10-2025 01:30",
-      "league": "NBA",
-      "teams": "Dallas Mavericks - Indiana Pacers",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-10-2025 (01:30) NBA : Dallas Mavericks - Indiana Pacers  (CH165us)"
-    },
     {
       "date": "30-10-2025",
       "time": "02:00",
@@ -161,7 +107,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-30T02:49:47.141685"
+      "extracted_at": "2025-10-30T03:40:44.265353"
     },
     "hoca": {
       "name": "hoca",
@@ -170,7 +116,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-30T02:49:48.938783"
+      "extracted_at": "2025-10-30T03:40:45.822556"
     },
     "Caster": {
       "name": "Caster",
@@ -179,7 +125,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-30T02:49:51.035880"
+      "extracted_at": "2025-10-30T03:40:48.195180"
     },
     "WIGI": {
       "name": "WIGI",
@@ -188,7 +134,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-30T02:49:53.445913"
+      "extracted_at": "2025-10-30T03:40:50.433422"
     }
   },
   "player_urls": {

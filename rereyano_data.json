@@ -1,12 +1,951 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-31T14:15:57.620962",
-  "total_events": 0,
+  "last_updated": "2025-10-31T14:38:26.060315",
+  "total_events": 61,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "31-10-2025",
+      "time": "15:50",
+      "datetime": "31-10-2025 15:50",
+      "league": "Saudi Pro League",
+      "teams": "Al-Hilal - Al Shabab",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (15:50) Saudi Pro League : Al-Hilal - Al Shabab  (CH55es) (CH70es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "18:00",
+      "datetime": "31-10-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Basaksehir - Kocaelispor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "31-10-2025 (18:00) Super Lig : Basaksehir - Kocaelispor  (CH151tr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "18:30",
+      "datetime": "31-10-2025 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "31-10-2025 (18:30) Bundesliga 2 : Bundesliga 2 konferenz -   (CH112de)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "18:30",
+      "datetime": "31-10-2025 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Elversberg - Hanovre",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (18:30) Bundesliga 2 : Elversberg - Hanovre  (CH113de) (CH78es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "18:30",
+      "datetime": "31-10-2025 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Münster - Holstein Kiel",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "31-10-2025 (18:30) Bundesliga 2 : Münster - Holstein Kiel  (CH114de)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:00",
+      "datetime": "31-10-2025 19:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "A. Italiano - Cobresal",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:00) Campeonato Itaú Chile : A. Italiano - Cobresal  (CH83es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:00",
+      "datetime": "31-10-2025 19:00",
+      "league": "EuroLeague",
+      "teams": "Monaco - Panathinaikos",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:00) EuroLeague : Monaco - Panathinaikos  (CH65es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:00",
+      "datetime": "31-10-2025 19:00",
+      "league": "Pro D2",
+      "teams": "AS Béziers - Colomiers Rugby",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:00) Pro D2 : AS Béziers - Colomiers Rugby  (CH13fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "National",
+      "teams": "Chateauroux - Aubagne",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) National : Chateauroux - Aubagne  (CH41fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "National",
+      "teams": "Valenciennes - QRM",
+      "channels": [
+        {
+          "id": "42",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) National : Valenciennes - QRM  (CH42fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "Pro D2",
+      "teams": "RC Vannes - Valence Romans",
+      "channels": [
+        {
+          "id": "33",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) Pro D2 : RC Vannes - Valence Romans  (CH33fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "Pro D2",
+      "teams": "SU Agen - US Dax",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) Pro D2 : SU Agen - US Dax  (CH35fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Stade Aurillacois - Oyonnax Rugby",
+      "channels": [
+        {
+          "id": "32",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) Pro D2 : Stade Aurillacois - Oyonnax Rugby  (CH32fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Stade Montois - USO Nevers Rugby",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) Pro D2 : Stade Montois - USO Nevers Rugby  (CH34fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "19:30",
+      "datetime": "31-10-2025 19:30",
+      "league": "Pro D2",
+      "teams": "US Carcassonne - Biarritz Olympique",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (19:30) Pro D2 : US Carcassonne - Biarritz Olympique  (CH36fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Eredivisie",
+      "teams": "PSV - Sittard",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Eredivisie : PSV - Sittard  (CH142nl)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Multiplex Ligue 2 -",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Ligue 2 : Multiplex Ligue 2 -   (CH1fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Annecy - Boulogne",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Ligue 2 : Annecy - Boulogne  (CH8fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Bastia - Clermont",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Ligue 2 : Bastia - Clermont  (CH7fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Guingamp - Laval",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Ligue 2 : Guingamp - Laval  (CH6fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Le Mans - Nancy",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Ligue 2 : Le Mans - Nancy  (CH5fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:00",
+      "datetime": "31-10-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Montpellier - Rodez",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:00) Ligue 2 : Montpellier - Rodez  (CH4fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:15",
+      "datetime": "31-10-2025 20:15",
+      "league": "EuroLeague",
+      "teams": "Olympiakos - Hapoel Tel-Aviv",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:15) EuroLeague : Olympiakos - Hapoel Tel-Aviv  (CH66es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:30",
+      "datetime": "31-10-2025 20:30",
+      "league": "Bundesliga",
+      "teams": "Augsburg - Dortmund",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:30) Bundesliga : Augsburg - Dortmund  (CH2fr) (CH111de) (CH87es) (CH116es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:30",
+      "datetime": "31-10-2025 20:30",
+      "league": "EuroLeague",
+      "teams": "Baskonia - Anadolu Efes",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:30) EuroLeague : Baskonia - Anadolu Efes  (CH62es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:30",
+      "datetime": "31-10-2025 20:30",
+      "league": "EuroLeague",
+      "teams": "Partizan - Barcelone",
+      "channels": [
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:30) EuroLeague : Partizan - Barcelone  (CH64es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:30",
+      "datetime": "31-10-2025 20:30",
+      "league": "Fa Cup",
+      "teams": "Luton - Forest Green",
+      "channels": [
+        {
+          "id": "126",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:30) Fa Cup : Luton - Forest Green  (CH126gb)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:30",
+      "datetime": "31-10-2025 20:30",
+      "league": "Laliga 2",
+      "teams": "Racing Santander - Real Sociedad B",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:30) Laliga 2 : Racing Santander - Real Sociedad B  (CH53es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "20:45",
+      "datetime": "31-10-2025 20:45",
+      "league": "Pro League",
+      "teams": "Standard Liège - Charleroi",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (20:45) Pro League : Standard Liège - Charleroi  (CH153fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:00",
+      "datetime": "31-10-2025 21:00",
+      "league": "Championship",
+      "teams": "Wrexham - Coventry",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:00) Championship : Wrexham - Coventry  (CH127gb) (CH71es) (CH99es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:00",
+      "datetime": "31-10-2025 21:00",
+      "league": "D1 Féminin",
+      "teams": "Marseille F - Strasbourg F",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:00) D1 Féminin : Marseille F - Strasbourg F  (CH12fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:00",
+      "datetime": "31-10-2025 21:00",
+      "league": "Laliga",
+      "teams": "Getafe - Gérone",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:00) Laliga : Getafe - Gérone  (CH9fr) (CH51es) (CH124de) (CH71es) (CH90es) (CH107es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:00",
+      "datetime": "31-10-2025 21:00",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Colorado Avalanche",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:00) NHL : Vegas Golden Knights - Colorado Avalanche  (CH171us)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:00",
+      "datetime": "31-10-2025 21:00",
+      "league": "Pro D2",
+      "teams": "Provence Rugby - CA Brive",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:00) Pro D2 : Provence Rugby - CA Brive  (CH13fr)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:15",
+      "datetime": "31-10-2025 21:15",
+      "league": "Liga Portugal",
+      "teams": "Sporting - Alverca",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:15) Liga Portugal : Sporting - Alverca  (CH10fr) (CH144pt) (CH74es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "21:30",
+      "datetime": "31-10-2025 21:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Deportes Iquique - La Serena",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (21:30) Campeonato Itaú Chile : Deportes Iquique - La Serena  (CH83es)"
+    },
+    {
+      "date": "31-10-2025",
+      "time": "23:00",
+      "datetime": "31-10-2025 23:00",
+      "league": "Torneo LPF",
+      "teams": "San Lorenzo - Dep. Riestra",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "31-10-2025 (23:00) Torneo LPF : San Lorenzo - Dep. Riestra  (CH76es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "00:00",
+      "datetime": "01-11-2025 00:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Wanderers - Boston River",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (00:00) Liga AUF Uruguaya : Wanderers - Boston River  (CH109es) (CH74es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "00:00",
+      "datetime": "01-11-2025 00:00",
+      "league": "Liga Mx Women",
+      "teams": "Guadalajara F - Necaxa F",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (00:00) Liga Mx Women : Guadalajara F - Necaxa F  (CH156es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "00:00",
+      "datetime": "01-11-2025 00:00",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (00:00) NBA : Indiana Pacers - Atlanta Hawks  (CH160us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "00:00",
+      "datetime": "01-11-2025 00:00",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Boston Celtics",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (00:00) NBA : Philadelphia 76ers - Boston Celtics  (CH161us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "00:00",
+      "datetime": "01-11-2025 00:00",
+      "league": "NHL",
+      "teams": "Washington Capitals - New York Islanders",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (00:00) NHL : Washington Capitals - New York Islanders  (CH162us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "00:30",
+      "datetime": "01-11-2025 00:30",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Toronto Raptors",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (00:30) NBA : Cleveland Cavaliers - Toronto Raptors  (CH163us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "01:00",
+      "datetime": "01-11-2025 01:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Delfin - Dep. Cuenca",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (01:00) Ecuador Ligapro : Delfin - Dep. Cuenca  (CH86es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "01:00",
+      "datetime": "01-11-2025 01:00",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "us"
+        },
+        {
+          "id": "62",
+          "lang": "es"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (01:00) MLB : Toronto Blue Jays - Los Angeles Dodgers  (CH3fr) (CH164us) (CH62es) (CH55es) (CH88es) (CH97es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "01:00",
+      "datetime": "01-11-2025 01:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - New York Knicks",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (01:00) NBA : Chicago Bulls - New York Knicks  (CH165us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "01:15",
+      "datetime": "01-11-2025 01:15",
+      "league": "Torneo LPF",
+      "teams": "Instituto - Rosario",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (01:15) Torneo LPF : Instituto - Rosario  (CH76es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "01:15",
+      "datetime": "01-11-2025 01:15",
+      "league": "Torneo LPF",
+      "teams": "Newells Old Boys - Union Santa Fe",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (01:15) Torneo LPF : Newells Old Boys - Union Santa Fe  (CH75es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "02:00",
+      "datetime": "01-11-2025 02:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "A. Lima - Melgar",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (02:00) Liga 1 Te Apuesto : A. Lima - Melgar  (CH84es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "02:00",
+      "datetime": "01-11-2025 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Correcaminos - Zacatecas Mineros",
+      "channels": [
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (02:00) Liga De Expansion Mx : Correcaminos - Zacatecas Mineros  (CH99es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "02:00",
+      "datetime": "01-11-2025 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Irapuato - Tapatio",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (02:00) Liga De Expansion Mx : Irapuato - Tapatio  (CH98es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "02:00",
+      "datetime": "01-11-2025 02:00",
+      "league": "Liga Mx",
+      "teams": "Necaxa - Santos Laguna",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (02:00) Liga Mx : Necaxa - Santos Laguna  (CH68es) (CH109es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "02:00",
+      "datetime": "01-11-2025 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Juarez F - Queretaro F",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (02:00) Liga Mx Women : Juarez F - Queretaro F  (CH156es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "02:30",
+      "datetime": "01-11-2025 02:30",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (02:30) NBA : Memphis Grizzlies - Los Angeles Lakers  (CH166us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "03:00",
+      "datetime": "01-11-2025 03:00",
+      "league": "NBA",
+      "teams": "Phoenix Suns - Utah Jazz",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (03:00) NBA : Phoenix Suns - Utah Jazz  (CH167us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "03:00",
+      "datetime": "01-11-2025 03:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Denver Nuggets",
+      "channels": [
+        {
+          "id": "168",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (03:00) NBA : Portland Trail Blazers - Denver Nuggets  (CH168us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "03:00",
+      "datetime": "01-11-2025 03:00",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - Detroit Red Wings",
+      "channels": [
+        {
+          "id": "169",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (03:00) NHL : Anaheim Ducks - Detroit Red Wings  (CH169us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "03:30",
+      "datetime": "01-11-2025 03:30",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - New Orleans Pelicans",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "01-11-2025 (03:30) NBA : Los Angeles Clippers - New Orleans Pelicans  (CH170us)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "04:00",
+      "datetime": "01-11-2025 04:00",
+      "league": "Liga Mx",
+      "teams": "Atl. San Luis - Juarez",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (04:00) Liga Mx : Atl. San Luis - Juarez  (CH98es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "04:00",
+      "datetime": "01-11-2025 04:00",
+      "league": "Liga Mx Women",
+      "teams": "Tijuana F - Pachuca F",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (04:00) Liga Mx Women : Tijuana F - Pachuca F  (CH156es)"
+    },
+    {
+      "date": "01-11-2025",
+      "time": "04:05",
+      "datetime": "01-11-2025 04:05",
+      "league": "Liga Mx",
+      "teams": "Puebla - Cruz Azul",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "01-11-2025 (04:05) Liga Mx : Puebla - Cruz Azul  (CH109es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +953,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-31T14:15:49.047139"
+      "extracted_at": "2025-10-31T14:38:18.798370"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +962,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-31T14:15:51.086258"
+      "extracted_at": "2025-10-31T14:38:20.429015"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +971,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-31T14:15:54.080965"
+      "extracted_at": "2025-10-31T14:38:22.730377"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +980,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-31T14:15:56.620804"
+      "extracted_at": "2025-10-31T14:38:25.060140"
     }
   },
   "player_urls": {

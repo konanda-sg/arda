@@ -1,366 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-01T16:49:49.053309",
-  "total_events": 242,
+  "last_updated": "2025-11-01T17:11:40.323698",
+  "total_events": 221,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-11-2025",
-      "time": "15:00",
-      "datetime": "01-11-2025 15:00",
-      "league": "Serie A",
-      "teams": "Udinese - Atalanta",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:00) Serie A : Udinese - Atalanta  (CH137it)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:00",
-      "datetime": "01-11-2025 15:00",
-      "league": "Super Lig",
-      "teams": "Goztepe - Genclerbirligi",
-      "channels": [
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:00) Super Lig : Goztepe - Genclerbirligi  (CH152tr)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:30",
-      "datetime": "01-11-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "bundesliga konferenz -",
-      "channels": [
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:30) Bundesliga : bundesliga konferenz -   (CH123de)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:30",
-      "datetime": "01-11-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "Heidenheim - Eintracht Francfort",
-      "channels": [
-        {
-          "id": "10",
-          "lang": "fr"
-        },
-        {
-          "id": "113",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:30) Bundesliga : Heidenheim - Eintracht Francfort  (CH10fr) (CH113de)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:30",
-      "datetime": "01-11-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "Mayence - Werder Brême",
-      "channels": [
-        {
-          "id": "114",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:30) Bundesliga : Mayence - Werder Brême  (CH114de)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:30",
-      "datetime": "01-11-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "RB Leipzig - Stuttgart",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:30) Bundesliga : RB Leipzig - Stuttgart  (CH6fr) (CH111de) (CH91es)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:30",
-      "datetime": "01-11-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "St. Pauli - B. Monchengladbach",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:30) Bundesliga : St. Pauli - B. Monchengladbach  (CH112de)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "15:30",
-      "datetime": "01-11-2025 15:30",
-      "league": "Bundesliga",
-      "teams": "Union Berlin - Fribourg",
-      "channels": [
-        {
-          "id": "115",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-11-2025 (15:30) Bundesliga : Union Berlin - Fribourg  (CH115de)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Championship",
-      "teams": "Charlton - Swansea",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Championship : Charlton - Swansea  (CH197us)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Championship",
-      "teams": "Oxford Utd - Millwall",
-      "channels": [
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Championship : Oxford Utd - Millwall  (CH198us)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Championship",
-      "teams": "QPR - Ipswich",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Championship : QPR - Ipswich  (CH8fr)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Championship",
-      "teams": "Southampton - Preston",
-      "channels": [
-        {
-          "id": "199",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Championship : Southampton - Preston  (CH199us)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Championship",
-      "teams": "Stoke - Bristol City",
-      "channels": [
-        {
-          "id": "200",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Championship : Stoke - Bristol City  (CH200us)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Championship",
-      "teams": "Watford - Middlesbrough",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Championship : Watford - Middlesbrough  (CH196us)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Premier League",
-      "teams": "Multiplex Premier League -",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Premier League : Multiplex Premier League -   (CH12fr)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Premier League",
-      "teams": "Brighton - Leeds",
-      "channels": [
-        {
-          "id": "39",
-          "lang": "fr"
-        },
-        {
-          "id": "129",
-          "lang": "us"
-        },
-        {
-          "id": "194",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Premier League : Brighton - Leeds  (CH39fr) (CH129us) (CH194es)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Premier League",
-      "teams": "Burnley - Arsenal",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "130",
-          "lang": "us"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Premier League : Burnley - Arsenal  (CH14fr) (CH130us) (CH56es) (CH72es)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Premier League",
-      "teams": "Crystal Palace - Brentford",
-      "channels": [
-        {
-          "id": "38",
-          "lang": "fr"
-        },
-        {
-          "id": "131",
-          "lang": "us"
-        },
-        {
-          "id": "58",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Premier League : Crystal Palace - Brentford  (CH38fr) (CH131us) (CH58es)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Premier League",
-      "teams": "Fulham - Wolves",
-      "channels": [
-        {
-          "id": "40",
-          "lang": "fr"
-        },
-        {
-          "id": "132",
-          "lang": "us"
-        },
-        {
-          "id": "195",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Premier League : Fulham - Wolves  (CH40fr) (CH132us) (CH195es)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Premier League",
-      "teams": "Nottingham - Manchester Utd",
-      "channels": [
-        {
-          "id": "37",
-          "lang": "fr"
-        },
-        {
-          "id": "133",
-          "lang": "us"
-        },
-        {
-          "id": "57",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Premier League : Nottingham - Manchester Utd  (CH37fr) (CH133us) (CH57es) (CH72es)"
-    },
-    {
-      "date": "01-11-2025",
-      "time": "16:00",
-      "datetime": "01-11-2025 16:00",
-      "league": "Pro League",
-      "teams": "Zulte-Waregem - Royale Union SG",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "01-11-2025 (16:00) Pro League : Zulte-Waregem - Royale Union SG  (CH153fr)"
-    },
     {
       "date": "01-11-2025",
       "time": "16:15",
@@ -643,9 +289,13 @@
         {
           "id": "111",
           "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "01-11-2025 (18:30) Bundesliga : Bayern Munich - Bayer Leverkusen  (CH2fr) (CH111de)"
+      "raw_line": "01-11-2025 (18:30) Bundesliga : Bayern Munich - Bayer Leverkusen  (CH2fr) (CH111de) (CH116es)"
     },
     {
       "date": "01-11-2025",
@@ -2097,9 +1747,13 @@
         {
           "id": "124",
           "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "02-11-2025 (15:30) Bundesliga : FC Cologne - Hambourg SV  (CH1fr) (CH124de)"
+      "raw_line": "02-11-2025 (15:30) Bundesliga : FC Cologne - Hambourg SV  (CH1fr) (CH124de) (CH116es)"
     },
     {
       "date": "02-11-2025",
@@ -2327,9 +1981,13 @@
         {
           "id": "123",
           "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "02-11-2025 (17:30) Bundesliga : Wolfsburg - Hoffenheim  (CH5fr) (CH123de)"
+      "raw_line": "02-11-2025 (17:30) Bundesliga : Wolfsburg - Hoffenheim  (CH5fr) (CH123de) (CH116es)"
     },
     {
       "date": "02-11-2025",
@@ -4007,7 +3665,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-01T16:49:42.501407"
+      "extracted_at": "2025-11-01T17:11:33.731526"
     },
     "hoca": {
       "name": "hoca",
@@ -4016,7 +3674,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-01T16:49:44.060638"
+      "extracted_at": "2025-11-01T17:11:35.334442"
     },
     "Caster": {
       "name": "Caster",
@@ -4025,7 +3683,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-01T16:49:46.152791"
+      "extracted_at": "2025-11-01T17:11:37.167413"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4034,7 +3692,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-01T16:49:48.053168"
+      "extracted_at": "2025-11-01T17:11:39.323554"
     }
   },
   "player_urls": {

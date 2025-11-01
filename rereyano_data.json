@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-01T17:11:40.323698",
-  "total_events": 221,
+  "last_updated": "2025-11-01T17:27:33.504678",
+  "total_events": 222,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -319,13 +319,9 @@
         {
           "id": "71",
           "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
         }
       ],
-      "raw_line": "01-11-2025 (18:30) Laliga : Real Sociedad - Ath. Bilbao  (CH9fr) (CH49es) (CH124de) (CH71es) (CH87xes)"
+      "raw_line": "01-11-2025 (18:30) Laliga : Real Sociedad - Ath. Bilbao  (CH9fr) (CH49es) (CH124de) (CH71es)"
     },
     {
       "date": "01-11-2025",
@@ -1695,15 +1691,11 @@
           "lang": "it"
         },
         {
-          "id": "97",
-          "lang": "xes"
-        },
-        {
           "id": "70",
           "lang": "es"
         }
       ],
-      "raw_line": "02-11-2025 (15:00) Serie A : Torino - Pisa  (CH139it) (CH97xes) (CH70es)"
+      "raw_line": "02-11-2025 (15:00) Serie A : Torino - Pisa  (CH139it) (CH70es)"
     },
     {
       "date": "02-11-2025",
@@ -1916,6 +1908,20 @@
       "time": "17:15",
       "datetime": "02-11-2025 17:15",
       "league": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "02-11-2025 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
+    },
+    {
+      "date": "02-11-2025",
+      "time": "17:15",
+      "datetime": "02-11-2025 17:15",
+      "league": "Ligue 1",
       "teams": "Lens - Lorient",
       "channels": [
         {
@@ -2045,15 +2051,11 @@
           "lang": "it"
         },
         {
-          "id": "97",
-          "lang": "xes"
-        },
-        {
           "id": "70",
           "lang": "es"
         }
       ],
-      "raw_line": "02-11-2025 (18:00) Serie A : Parme - Bologne  (CH138it) (CH97xes) (CH70es)"
+      "raw_line": "02-11-2025 (18:00) Serie A : Parme - Bologne  (CH138it) (CH70es)"
     },
     {
       "date": "02-11-2025",
@@ -3665,7 +3667,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-01T17:11:33.731526"
+      "extracted_at": "2025-11-01T17:27:27.074148"
     },
     "hoca": {
       "name": "hoca",
@@ -3674,7 +3676,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-01T17:11:35.334442"
+      "extracted_at": "2025-11-01T17:27:28.490327"
     },
     "Caster": {
       "name": "Caster",
@@ -3683,7 +3685,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-01T17:11:37.167413"
+      "extracted_at": "2025-11-01T17:27:30.504265"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3692,7 +3694,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-01T17:11:39.323554"
+      "extracted_at": "2025-11-01T17:27:32.504541"
     }
   },
   "player_urls": {

@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-10-31T23:49:25.753121",
-  "total_events": 25,
+  "last_updated": "2025-11-01T01:14:52.284141",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "31-10-2025",
-      "time": "23:00",
-      "datetime": "31-10-2025 23:00",
-      "league": "Torneo LPF",
-      "teams": "San Lorenzo - Dep. Riestra",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-10-2025 (23:00) Torneo LPF : San Lorenzo - Dep. Riestra  (CH76es)"
-    },
     {
       "date": "01-11-2025",
       "time": "00:00",
@@ -253,11 +239,11 @@
           "lang": "es"
         },
         {
-          "id": "109",
+          "id": "108",
           "lang": "es"
         }
       ],
-      "raw_line": "01-11-2025 (02:00) Liga Mx : Necaxa - Santos Laguna  (CH68es) (CH109es)"
+      "raw_line": "01-11-2025 (02:00) Liga Mx : Necaxa - Santos Laguna  (CH68es) (CH108es)"
     },
     {
       "date": "01-11-2025",
@@ -379,11 +365,11 @@
       "teams": "Puebla - Cruz Azul",
       "channels": [
         {
-          "id": "109",
+          "id": "108",
           "lang": "es"
         }
       ],
-      "raw_line": "01-11-2025 (04:05) Liga Mx : Puebla - Cruz Azul  (CH109es)"
+      "raw_line": "01-11-2025 (04:05) Liga Mx : Puebla - Cruz Azul  (CH108es)"
     }
   ],
   "player_streams": {
@@ -393,7 +379,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-10-31T23:49:18.041114"
+      "extracted_at": "2025-11-01T01:14:45.496960"
     },
     "hoca": {
       "name": "hoca",
@@ -402,7 +388,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-31T23:49:19.616938"
+      "extracted_at": "2025-11-01T01:14:47.040883"
     },
     "Caster": {
       "name": "Caster",
@@ -411,7 +397,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-31T23:49:22.108606"
+      "extracted_at": "2025-11-01T01:14:49.115273"
     },
     "WIGI": {
       "name": "WIGI",
@@ -420,7 +406,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-10-31T23:49:24.752936"
+      "extracted_at": "2025-11-01T01:14:51.283990"
     }
   },
   "player_urls": {

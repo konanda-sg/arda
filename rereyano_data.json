@@ -1,64 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-02T19:23:27.051959",
-  "total_events": 101,
+  "last_updated": "2025-11-02T19:36:15.557262",
+  "total_events": 99,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-11-2025",
-      "time": "17:30",
-      "datetime": "02-11-2025 17:30",
-      "league": "Bundesliga",
-      "teams": "Wolfsburg - Hoffenheim",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (17:30) Bundesliga : Wolfsburg - Hoffenheim  (CH5fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "17:30",
-      "datetime": "02-11-2025 17:30",
-      "league": "Premier League",
-      "teams": "Manchester City - Bournemouth",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "us"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (17:30) Premier League : Manchester City - Bournemouth  (CH11fr) (CH127us) (CH56es) (CH120de) (CH73es)"
-    },
     {
       "date": "02-11-2025",
       "time": "18:00",
@@ -1701,7 +1649,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-02T19:23:20.194817"
+      "extracted_at": "2025-11-02T19:36:07.927726"
     },
     "hoca": {
       "name": "hoca",
@@ -1710,7 +1658,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T19:23:21.719932"
+      "extracted_at": "2025-11-02T19:36:09.776297"
     },
     "Caster": {
       "name": "Caster",
@@ -1719,7 +1667,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T19:23:23.857017"
+      "extracted_at": "2025-11-02T19:36:11.870031"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1728,7 +1676,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T19:23:26.051797"
+      "extracted_at": "2025-11-02T19:36:14.557088"
     }
   },
   "player_urls": {

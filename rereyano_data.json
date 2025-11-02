@@ -1,60 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-02T22:31:35.952346",
-  "total_events": 73,
+  "last_updated": "2025-11-02T22:49:26.086984",
+  "total_events": 71,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-11-2025",
-      "time": "20:45",
-      "datetime": "02-11-2025 20:45",
-      "league": "Ligue 1",
-      "teams": "Brest - Lyon",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (20:45) Ligue 1 : Brest - Lyon  (CH20fr) (CH69es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "20:45",
-      "datetime": "02-11-2025 20:45",
-      "league": "Serie A",
-      "teams": "AC Milan - AS Rome",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (20:45) Serie A : AC Milan - AS Rome  (CH137it) (CH123de) (CH87es) (CH97es) (CH70es)"
-    },
     {
       "date": "02-11-2025",
       "time": "21:00",
@@ -1221,7 +1173,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-02T22:31:29.124980"
+      "extracted_at": "2025-11-02T22:49:19.231465"
     },
     "hoca": {
       "name": "hoca",
@@ -1230,7 +1182,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T22:31:30.610685"
+      "extracted_at": "2025-11-02T22:49:20.967747"
     },
     "Caster": {
       "name": "Caster",
@@ -1239,7 +1191,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T22:31:32.877455"
+      "extracted_at": "2025-11-02T22:49:22.769893"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1248,7 +1200,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T22:31:34.952195"
+      "extracted_at": "2025-11-02T22:49:25.086829"
     }
   },
   "player_urls": {

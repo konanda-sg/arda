@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-03T22:34:45.285682",
-  "total_events": 28,
+  "last_updated": "2025-11-03T22:49:43.790604",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-11-2025",
-      "time": "20:45",
-      "datetime": "03-11-2025 20:45",
-      "league": "Ligue 2",
-      "teams": "Pau FC - Troyes",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "03-11-2025 (20:45) Ligue 2 : Pau FC - Troyes  (CH1fr)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "20:45",
-      "datetime": "03-11-2025 20:45",
-      "league": "Serie A",
-      "teams": "Lazio - Cagliari",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (20:45) Serie A : Lazio - Cagliari  (CH138it) (CH124de) (CH89es) (CH98es) (CH70es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "20:45",
-      "datetime": "03-11-2025 20:45",
-      "league": "Torneo LPF",
-      "teams": "Defensa y Justicia - Huracan",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (20:45) Torneo LPF : Defensa y Justicia - Huracan  (CH76es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "20:45",
-      "datetime": "03-11-2025 20:45",
-      "league": "Torneo LPF",
-      "teams": "Platense - Sarmiento Junin",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (20:45) Torneo LPF : Platense - Sarmiento Junin  (CH75es)"
-    },
     {
       "date": "03-11-2025",
       "time": "21:00",
@@ -475,7 +403,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-03T22:34:37.986174"
+      "extracted_at": "2025-11-03T22:49:36.156107"
     },
     "hoca": {
       "name": "hoca",
@@ -484,7 +412,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T22:34:39.649314"
+      "extracted_at": "2025-11-03T22:49:37.865547"
     },
     "Caster": {
       "name": "Caster",
@@ -493,7 +421,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T22:34:41.912693"
+      "extracted_at": "2025-11-03T22:49:40.372793"
     },
     "WIGI": {
       "name": "WIGI",
@@ -502,7 +430,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T22:34:44.285550"
+      "extracted_at": "2025-11-03T22:49:42.790409"
     }
   },
   "player_urls": {

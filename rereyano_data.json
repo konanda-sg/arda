@@ -1,196 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-03T01:14:33.735565",
-  "total_events": 54,
+  "last_updated": "2025-11-03T02:55:10.363495",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "Ecuador Ligapro",
-      "teams": "U. Catolica - Barcelone SC",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) Ecuador Ligapro : U. Catolica - Barcelone SC  (CH86es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Cienciano - Juan Pablo II",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) Liga 1 Te Apuesto : Cienciano - Juan Pablo II  (CH84es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Sport Boys - Cajamarca",
-      "channels": [
-        {
-          "id": "85",
-          "lang": "es"
-        },
-        {
-          "id": "74",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) Liga 1 Te Apuesto : Sport Boys - Cajamarca  (CH85es) (CH74es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Atlante - Cancun",
-      "channels": [
-        {
-          "id": "105",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) Liga De Expansion Mx : Atlante - Cancun  (CH105es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "Liga Mx",
-      "teams": "Queretaro - Mazatlan FC",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) Liga Mx : Queretaro - Mazatlan FC  (CH68es) (CH155es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) NBA : Brooklyn Nets - Philadelphia 76ers  (CH174us)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "NBA",
-      "teams": "Charlotte Hornets - Utah Jazz",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) NBA : Charlotte Hornets - Utah Jazz  (CH175us)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "NBA",
-      "teams": "Cleveland Cavaliers - Atlanta Hawks",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) NBA : Cleveland Cavaliers - Atlanta Hawks  (CH176us)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:00",
-      "datetime": "03-11-2025 00:00",
-      "league": "NBA",
-      "teams": "Toronto Raptors - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:00) NBA : Toronto Raptors - Memphis Grizzlies  (CH177us)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:30",
-      "datetime": "03-11-2025 00:30",
-      "league": "Campeonato Itaú Chile",
-      "teams": "Everton - U. Espanola",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:30) Campeonato Itaú Chile : Everton - U. Espanola  (CH83es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:30",
-      "datetime": "03-11-2025 00:30",
-      "league": "MLS",
-      "teams": "Columbus Crew - Cincinnati",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:30) MLS : Columbus Crew - Cincinnati  (CH178us)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "00:30",
-      "datetime": "03-11-2025 00:30",
-      "league": "Torneo LPF",
-      "teams": "River Plate - Gimnasia L.P.",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (00:30) Torneo LPF : River Plate - Gimnasia L.P.  (CH76es) (CH61es) (CH87es)"
-    },
     {
       "date": "03-11-2025",
       "time": "01:00",
@@ -883,7 +699,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-03T01:14:26.655529"
+      "extracted_at": "2025-11-03T02:55:03.997372"
     },
     "hoca": {
       "name": "hoca",
@@ -892,7 +708,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T01:14:28.254995"
+      "extracted_at": "2025-11-03T02:55:05.607691"
     },
     "Caster": {
       "name": "Caster",
@@ -901,7 +717,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T01:14:30.442414"
+      "extracted_at": "2025-11-03T02:55:07.430174"
     },
     "WIGI": {
       "name": "WIGI",
@@ -910,7 +726,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T01:14:32.735175"
+      "extracted_at": "2025-11-03T02:55:09.363349"
     }
   },
   "player_urls": {

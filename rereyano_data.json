@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-03T22:49:43.790604",
-  "total_events": 24,
+  "last_updated": "2025-11-03T23:14:26.609588",
+  "total_events": 22,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-11-2025",
-      "time": "21:00",
-      "datetime": "03-11-2025 21:00",
-      "league": "Laliga",
-      "teams": "R. Oviedo - Osasuna",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "95",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (21:00) Laliga : R. Oviedo - Osasuna  (CH4fr) (CH51es) (CH123de) (CH71es) (CH95es)"
-    },
-    {
-      "date": "03-11-2025",
-      "time": "21:00",
-      "datetime": "03-11-2025 21:00",
-      "league": "Premier League",
-      "teams": "Sunderland - Everton",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "us"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-11-2025 (21:00) Premier League : Sunderland - Everton  (CH12fr) (CH127us) (CH56es) (CH120de) (CH87es)"
-    },
     {
       "date": "03-11-2025",
       "time": "21:45",
@@ -403,7 +343,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-03T22:49:36.156107"
+      "extracted_at": "2025-11-03T23:14:18.642076"
     },
     "hoca": {
       "name": "hoca",
@@ -412,7 +352,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T22:49:37.865547"
+      "extracted_at": "2025-11-03T23:14:20.659460"
     },
     "Caster": {
       "name": "Caster",
@@ -421,7 +361,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T22:49:40.372793"
+      "extracted_at": "2025-11-03T23:14:23.086854"
     },
     "WIGI": {
       "name": "WIGI",
@@ -430,7 +370,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-03T22:49:42.790409"
+      "extracted_at": "2025-11-03T23:14:25.609451"
     }
   },
   "player_urls": {

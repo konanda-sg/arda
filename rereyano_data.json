@@ -1,138 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-02T23:49:16.221224",
-  "total_events": 61,
+  "last_updated": "2025-11-03T01:14:33.735565",
+  "total_events": 54,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-11-2025",
-      "time": "22:05",
-      "datetime": "02-11-2025 22:05",
-      "league": "NFL",
-      "teams": "Las Vegas Raiders - Jacksonville Jaguars",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "102",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (22:05) NFL : Las Vegas Raiders - Jacksonville Jaguars  (CH170us) (CH102es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "22:05",
-      "datetime": "02-11-2025 22:05",
-      "league": "NFL",
-      "teams": "Los Angeles Rams - New Orleans Saints",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        },
-        {
-          "id": "79",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (22:05) NFL : Los Angeles Rams - New Orleans Saints  (CH171us) (CH93es) (CH101es) (CH79es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "22:25",
-      "datetime": "02-11-2025 22:25",
-      "league": "NFL",
-      "teams": "Buffalo Bills - Kansas City Chiefs",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "80",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (22:25) NFL : Buffalo Bills - Kansas City Chiefs  (CH172us) (CH91es) (CH80es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "22:30",
-      "datetime": "02-11-2025 22:30",
-      "league": "Serie A Bresil",
-      "teams": "Juventude - Palmeiras",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "pt"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (22:30) Serie A Bresil : Juventude - Palmeiras  (CH158pt) (CH55es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "22:30",
-      "datetime": "02-11-2025 22:30",
-      "league": "Torneo LPF",
-      "teams": "Godoy Cruz - San Martin S.J.",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (22:30) Torneo LPF : Godoy Cruz - San Martin S.J.  (CH75es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "23:00",
-      "datetime": "02-11-2025 23:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Penarol - Defensor Sp.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-11-2025 (23:00) Liga AUF Uruguaya : Penarol - Defensor Sp.  (CH109es)"
-    },
-    {
-      "date": "02-11-2025",
-      "time": "23:00",
-      "datetime": "02-11-2025 23:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Columbus Blue Jackets",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-11-2025 (23:00) NHL : New York Islanders - Columbus Blue Jackets  (CH173us)"
-    },
     {
       "date": "03-11-2025",
       "time": "00:00",
@@ -1009,7 +883,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-02T23:49:09.004578"
+      "extracted_at": "2025-11-03T01:14:26.655529"
     },
     "hoca": {
       "name": "hoca",
@@ -1018,7 +892,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T23:49:10.670389"
+      "extracted_at": "2025-11-03T01:14:28.254995"
     },
     "Caster": {
       "name": "Caster",
@@ -1027,7 +901,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T23:49:12.746294"
+      "extracted_at": "2025-11-03T01:14:30.442414"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1036,7 +910,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-02T23:49:15.221016"
+      "extracted_at": "2025-11-03T01:14:32.735175"
     }
   },
   "player_urls": {

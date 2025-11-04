@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-04T03:58:49.142578",
-  "total_events": 10,
+  "last_updated": "2025-11-04T04:26:21.070682",
+  "total_events": 7,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-11-2025",
-      "time": "02:00",
-      "datetime": "04-11-2025 02:00",
-      "league": "NBA",
-      "teams": "Houston Rockets - Dallas Mavericks",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-11-2025 (02:00) NBA : Houston Rockets - Dallas Mavericks  (CH165us)"
-    },
-    {
-      "date": "04-11-2025",
-      "time": "02:00",
-      "datetime": "04-11-2025 02:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Detroit Pistons",
-      "channels": [
-        {
-          "id": "166",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-11-2025 (02:00) NBA : Memphis Grizzlies - Detroit Pistons  (CH166us)"
-    },
-    {
-      "date": "04-11-2025",
-      "time": "02:15",
-      "datetime": "04-11-2025 02:15",
-      "league": "NFL",
-      "teams": "Dallas Cowboys - Arizona Cardinals",
-      "channels": [
-        {
-          "id": "167",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-11-2025 (02:15) NFL : Dallas Cowboys - Arizona Cardinals  (CH167us) (CH88es) (CH97es) (CH71es)"
-    },
     {
       "date": "04-11-2025",
       "time": "02:30",
@@ -167,7 +113,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-04T03:58:42.126420"
+      "extracted_at": "2025-11-04T04:26:13.999310"
     },
     "hoca": {
       "name": "hoca",
@@ -176,7 +122,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T03:58:43.743685"
+      "extracted_at": "2025-11-04T04:26:15.615933"
     },
     "Caster": {
       "name": "Caster",
@@ -185,7 +131,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T03:58:45.816177"
+      "extracted_at": "2025-11-04T04:26:17.785792"
     },
     "WIGI": {
       "name": "WIGI",
@@ -194,7 +140,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T03:58:48.142460"
+      "extracted_at": "2025-11-04T04:26:20.070541"
     }
   },
   "player_urls": {

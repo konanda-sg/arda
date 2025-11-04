@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-04T04:26:21.070682",
-  "total_events": 7,
+  "last_updated": "2025-11-04T04:43:36.683779",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-11-2025",
-      "time": "02:30",
-      "datetime": "04-11-2025 02:30",
-      "league": "NHL",
-      "teams": "Nashville Predators - Vancouver Canucks",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-11-2025 (02:30) NHL : Nashville Predators - Vancouver Canucks  (CH168us)"
-    },
-    {
-      "date": "04-11-2025",
-      "time": "02:30",
-      "datetime": "04-11-2025 02:30",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Edmonton Oilers",
-      "channels": [
-        {
-          "id": "169",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-11-2025 (02:30) NHL : St. Louis Blues - Edmonton Oilers  (CH169us)"
-    },
     {
       "date": "04-11-2025",
       "time": "03:00",
@@ -113,7 +85,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-04T04:26:13.999310"
+      "extracted_at": "2025-11-04T04:43:29.433894"
     },
     "hoca": {
       "name": "hoca",
@@ -122,7 +94,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T04:26:15.615933"
+      "extracted_at": "2025-11-04T04:43:31.149357"
     },
     "Caster": {
       "name": "Caster",
@@ -131,7 +103,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T04:26:17.785792"
+      "extracted_at": "2025-11-04T04:43:33.495912"
     },
     "WIGI": {
       "name": "WIGI",
@@ -140,7 +112,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T04:26:20.070541"
+      "extracted_at": "2025-11-04T04:43:35.683650"
     }
   },
   "player_urls": {

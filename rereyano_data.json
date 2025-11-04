@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-04T05:50:31.039498",
-  "total_events": 4,
+  "last_updated": "2025-11-04T06:23:52.037725",
+  "total_events": 2,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-11-2025",
-      "time": "04:00",
-      "datetime": "04-11-2025 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-11-2025 (04:00) NBA : Portland Trail Blazers - Los Angeles Lakers  (CH171us)"
-    },
-    {
-      "date": "04-11-2025",
-      "time": "04:00",
-      "datetime": "04-11-2025 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-11-2025 (04:00) NHL : Seattle Kraken - Chicago Blackhawks  (CH172us)"
-    },
     {
       "date": "04-11-2025",
       "time": "04:30",
@@ -71,7 +43,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-04T05:50:23.288115"
+      "extracted_at": "2025-11-04T06:23:45.324391"
     },
     "hoca": {
       "name": "hoca",
@@ -80,7 +52,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T05:50:25.081368"
+      "extracted_at": "2025-11-04T06:23:46.791491"
     },
     "Caster": {
       "name": "Caster",
@@ -89,7 +61,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T05:50:27.565762"
+      "extracted_at": "2025-11-04T06:23:48.930178"
     },
     "WIGI": {
       "name": "WIGI",
@@ -98,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-04T05:50:30.039350"
+      "extracted_at": "2025-11-04T06:23:51.037604"
     }
   },
   "player_urls": {

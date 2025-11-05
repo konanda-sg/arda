@@ -1,12 +1,719 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-05T11:51:17.778118",
-  "total_events": 0,
+  "last_updated": "2025-11-05T12:32:25.203007",
+  "total_events": 39,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "05-11-2025",
+      "time": "14:00",
+      "datetime": "05-11-2025 14:00",
+      "league": "Youth League",
+      "teams": "Ajax -19 - Galatasaray -19",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (14:00) Youth League : Ajax -19 - Galatasaray -19  (CH162es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "16:00",
+      "datetime": "05-11-2025 16:00",
+      "league": "Youth League",
+      "teams": "Newcastle -19 - Ath. Bilbao -19",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "05-11-2025 (16:00) Youth League : Newcastle -19 - Ath. Bilbao -19  (CH161es) (CH129gb)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "18:45",
+      "datetime": "05-11-2025 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Pafos - Villarreal",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (18:45) Ligue Des Champions : Pafos - Villarreal  (CH13fr) (CH161es) (CH130gb) (CH88es) (CH78es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "18:45",
+      "datetime": "05-11-2025 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Qarabag - Chelsea",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (18:45) Ligue Des Champions : Qarabag - Chelsea  (CH12fr) (CH163es) (CH129gb) (CH138it) (CH87es) (CH68es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "20:00",
+      "datetime": "05-11-2025 20:00",
+      "league": "EuroLeague",
+      "teams": "Étoile Rouge Belgrade - Panathinaikos",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (20:00) EuroLeague : Étoile Rouge Belgrade - Panathinaikos  (CH62es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "20:00",
+      "datetime": "05-11-2025 20:00",
+      "league": "Laliga 2",
+      "teams": "Real Sociedad B - Huesca",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (20:00) Laliga 2 : Real Sociedad B - Huesca  (CH53es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "20:45",
+      "datetime": "05-11-2025 20:45",
+      "league": "Championship",
+      "teams": "Preston - Swansea",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-11-2025 (20:45) Championship : Preston - Swansea  (CH196us)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "20:45",
+      "datetime": "05-11-2025 20:45",
+      "league": "Championship",
+      "teams": "QPR - Southampton",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-11-2025 (20:45) Championship : QPR - Southampton  (CH197us)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "20:45",
+      "datetime": "05-11-2025 20:45",
+      "league": "Championship",
+      "teams": "Sheffield Wed - Norwich",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-11-2025 (20:45) Championship : Sheffield Wed - Norwich  (CH198us)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Championship",
+      "teams": "Portsmouth - Wrexham",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Championship : Portsmouth - Wrexham  (CH5fr) (CH127us)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Multiplex Ligue des Champions -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Multiplex Ligue des Champions -   (CH14fr) (CH164es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Ajax - Galatasaray",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "169",
+          "lang": "es"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Ajax - Galatasaray  (CH37fr) (CH169es) (CH141nl) (CH89es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Benfica - Bayer Leverkusen",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Benfica - Bayer Leverkusen  (CH36fr) (CH166es) (CH144pt) (CH114de) (CH93es) (CH79es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Club Brugge - Barcelone",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Club Brugge - Barcelone  (CH13fr) (CH161es) (CH131gb) (CH87es) (CH68es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Inter - Kairat Almaty",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Inter - Kairat Almaty  (CH34fr) (CH167es) (CH137it) (CH91es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Manchester City - Dortmund",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Manchester City - Dortmund  (CH12fr) (CH165es) (CH126gb) (CH123de) (CH88es) (CH78es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Marseille - Atalanta",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "168",
+          "lang": "es"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "92",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Marseille - Atalanta  (CH11fr) (CH168es) (CH139it) (CH92es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:00",
+      "datetime": "05-11-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Newcastle - Ath. Bilbao",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:00) Ligue Des Champions : Newcastle - Ath. Bilbao  (CH35fr) (CH162es) (CH129gb) (CH90es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:15",
+      "datetime": "05-11-2025 21:15",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Los Chankas - A. Lima",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:15) Liga 1 Te Apuesto : Los Chankas - A. Lima  (CH84es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "21:30",
+      "datetime": "05-11-2025 21:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. De Chile - Everton",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-11-2025 (21:30) Campeonato Itaú Chile : U. De Chile - Everton  (CH83es)"
+    },
+    {
+      "date": "05-11-2025",
+      "time": "23:00",
+      "datetime": "05-11-2025 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Bragantino - Corinthians",
+      "channels": [
+        {
+          "id": "159",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "05-11-2025 (23:00) Serie A Bresil : Bragantino - Corinthians  (CH159pt)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:00",
+      "datetime": "06-11-2025 01:00",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:00) NBA : Cleveland Cavaliers - Philadelphia 76ers  (CH180us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:00",
+      "datetime": "06-11-2025 01:00",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Utah Jazz",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:00) NBA : Detroit Pistons - Utah Jazz  (CH181us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:00",
+      "datetime": "06-11-2025 01:00",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:00) NBA : Indiana Pacers - Brooklyn Nets  (CH182us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:00",
+      "datetime": "06-11-2025 01:00",
+      "league": "NHL",
+      "teams": "Toronto Maple Leafs - Utah Mammoth",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:00) NHL : Toronto Maple Leafs - Utah Mammoth  (CH183us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:10",
+      "datetime": "06-11-2025 01:10",
+      "league": "Copa Argentina",
+      "teams": "Ind. Rivadavia - Argentinos Jrs",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:10) Copa Argentina : Ind. Rivadavia - Argentinos Jrs  (CH77es)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:30",
+      "datetime": "06-11-2025 01:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Washington Wizards",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:30) NBA : Boston Celtics - Washington Wizards  (CH184us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:30",
+      "datetime": "06-11-2025 01:30",
+      "league": "NBA",
+      "teams": "New York Knicks - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:30) NBA : New York Knicks - Minnesota Timberwolves  (CH185us) (CH88es)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:30",
+      "datetime": "06-11-2025 01:30",
+      "league": "NHL",
+      "teams": "Washington Capitals - St. Louis Blues",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:30) NHL : Washington Capitals - St. Louis Blues  (CH186us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "01:30",
+      "datetime": "06-11-2025 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Sao Paulo - Flamengo",
+      "channels": [
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-11-2025 (01:30) Serie A Bresil : Sao Paulo - Flamengo  (CH82es)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "02:00",
+      "datetime": "06-11-2025 02:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Houston Rockets",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (02:00) NBA : Memphis Grizzlies - Houston Rockets  (CH187us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "02:30",
+      "datetime": "06-11-2025 02:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - New Orleans Pelicans",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (02:30) NBA : Dallas Mavericks - New Orleans Pelicans  (CH188us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "03:00",
+      "datetime": "06-11-2025 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Miami Heat",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (03:00) NBA : Denver Nuggets - Miami Heat  (CH189us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "03:30",
+      "datetime": "06-11-2025 03:30",
+      "league": "NHL",
+      "teams": "Calgary Flames - Columbus Blue Jackets",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (03:30) NHL : Calgary Flames - Columbus Blue Jackets  (CH190us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "04:00",
+      "datetime": "06-11-2025 04:00",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-11-2025 (04:00) NBA : Los Angeles Lakers - San Antonio Spurs  (CH191us) (CH88es)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "04:00",
+      "datetime": "06-11-2025 04:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (04:00) NBA : Portland Trail Blazers - Oklahoma City Thunder  (CH192us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "04:00",
+      "datetime": "06-11-2025 04:00",
+      "league": "NBA",
+      "teams": "Sacramento Kings - Golden State Warriors",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (04:00) NBA : Sacramento Kings - Golden State Warriors  (CH193us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "04:00",
+      "datetime": "06-11-2025 04:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - San Jose Sharks",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (04:00) NHL : Seattle Kraken - San Jose Sharks  (CH194us)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "04:00",
+      "datetime": "06-11-2025 04:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - Chicago Blackhawks",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-11-2025 (04:00) NHL : Vancouver Canucks - Chicago Blackhawks  (CH195us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +721,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-05T11:51:10.162486"
+      "extracted_at": "2025-11-05T12:32:17.687694"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +730,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-05T11:51:11.820553"
+      "extracted_at": "2025-11-05T12:32:19.591781"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +739,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-05T11:51:14.354302"
+      "extracted_at": "2025-11-05T12:32:22.081336"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +748,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-05T11:51:16.777975"
+      "extracted_at": "2025-11-05T12:32:24.202884"
     }
   },
   "player_urls": {

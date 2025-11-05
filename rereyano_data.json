@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-05T06:23:47.797980",
-  "total_events": 2,
+  "last_updated": "2025-11-05T06:52:49.497303",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "05-11-2025",
-      "time": "04:30",
-      "datetime": "05-11-2025 04:30",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Winnipeg Jets",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-11-2025 (04:30) NHL : Los Angeles Kings - Winnipeg Jets  (CH195us)"
-    },
     {
       "date": "05-11-2025",
       "time": "05:00",
@@ -43,34 +29,31 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-05T06:23:39.148471"
+      "extracted_at": "2025-11-05T06:51:15.333471"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-11-05T06:23:41.260902"
+      "status": "no_iframe",
+      "extracted_at": "2025-11-05T06:51:46.372334"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": "https://lostfascinate.net/embed/zj52139k3",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-11-05T06:23:43.950440"
+      "status": "no_iframe",
+      "extracted_at": "2025-11-05T06:52:17.436523"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://rereyano.ru/player/4/1",
-      "iframe_url": "https://rightflourish.net/embed/ysagetp2j4x",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-11-05T06:23:46.797839"
+      "status": "no_iframe",
+      "extracted_at": "2025-11-05T06:52:48.497174"
     }
   },
   "player_urls": {

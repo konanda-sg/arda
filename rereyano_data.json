@@ -1,87 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-06T05:50:09.881091",
-  "total_events": 5,
+  "last_updated": "2025-11-06T06:24:08.707435",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "06-11-2025",
-      "time": "04:00",
-      "datetime": "06-11-2025 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-11-2025 (04:00) NBA : Los Angeles Lakers - San Antonio Spurs  (CH191us) (CH88es)"
-    },
-    {
-      "date": "06-11-2025",
-      "time": "04:00",
-      "datetime": "06-11-2025 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-11-2025 (04:00) NBA : Portland Trail Blazers - Oklahoma City Thunder  (CH192us)"
-    },
-    {
-      "date": "06-11-2025",
-      "time": "04:00",
-      "datetime": "06-11-2025 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Golden State Warriors",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-11-2025 (04:00) NBA : Sacramento Kings - Golden State Warriors  (CH193us)"
-    },
-    {
-      "date": "06-11-2025",
-      "time": "04:00",
-      "datetime": "06-11-2025 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - San Jose Sharks",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-11-2025 (04:00) NHL : Seattle Kraken - San Jose Sharks  (CH194us)"
-    },
-    {
-      "date": "06-11-2025",
-      "time": "04:00",
-      "datetime": "06-11-2025 04:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-11-2025 (04:00) NHL : Vancouver Canucks - Chicago Blackhawks  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -89,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-06T05:50:02.897753"
+      "extracted_at": "2025-11-06T06:24:01.463240"
     },
     "hoca": {
       "name": "hoca",
@@ -98,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-06T05:50:04.515698"
+      "extracted_at": "2025-11-06T06:24:03.151291"
     },
     "Caster": {
       "name": "Caster",
@@ -107,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-06T05:50:06.741291"
+      "extracted_at": "2025-11-06T06:24:05.344325"
     },
     "WIGI": {
       "name": "WIGI",
@@ -116,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-06T05:50:08.880934"
+      "extracted_at": "2025-11-06T06:24:07.707286"
     }
   },
   "player_urls": {

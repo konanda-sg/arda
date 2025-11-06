@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-06T16:21:02.623526",
-  "total_events": 58,
+  "last_updated": "2025-11-06T16:50:41.995194",
+  "total_events": 60,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -190,6 +190,24 @@
         }
       ],
       "raw_line": "06-11-2025 (18:45) EuroLeague : Fenerbahce - Lyon-Villeurbanne  (CH63es)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "18:45",
+      "datetime": "06-11-2025 18:45",
+      "league": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-11-2025 (18:45) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH163es)"
     },
     {
       "date": "06-11-2025",
@@ -638,6 +656,24 @@
         }
       ],
       "raw_line": "06-11-2025 (21:00) EuroLeague : Paris - Bayern  (CH62es)"
+    },
+    {
+      "date": "06-11-2025",
+      "time": "21:00",
+      "datetime": "06-11-2025 21:00",
+      "league": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-11-2025 (21:00) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH163es)"
     },
     {
       "date": "06-11-2025",
@@ -1115,7 +1151,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-06T16:20:55.241584"
+      "extracted_at": "2025-11-06T16:50:33.506368"
     },
     "hoca": {
       "name": "hoca",
@@ -1124,7 +1160,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-06T16:20:57.053925"
+      "extracted_at": "2025-11-06T16:50:35.660565"
     },
     "Caster": {
       "name": "Caster",
@@ -1133,7 +1169,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-06T16:20:59.272367"
+      "extracted_at": "2025-11-06T16:50:38.470824"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1142,7 +1178,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-06T16:21:01.623369"
+      "extracted_at": "2025-11-06T16:50:40.995019"
     }
   },
   "player_urls": {

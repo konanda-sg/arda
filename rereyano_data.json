@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-07T19:49:37.122028",
-  "total_events": 336,
+  "last_updated": "2025-11-07T20:17:29.542528",
+  "total_events": 337,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-11-2025",
-      "time": "18:00",
-      "datetime": "07-11-2025 18:00",
-      "league": "Super Lig",
-      "teams": "Genclerbirligi - Basaksehir",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "07-11-2025 (18:00) Super Lig : Genclerbirligi - Basaksehir  (CH151tr)"
-    },
     {
       "date": "07-11-2025",
       "time": "18:30",
@@ -5510,6 +5496,34 @@
         }
       ],
       "raw_line": "10-11-2025 (20:30) Laliga 2 : Burgos CF - Castellon  (CH4fr) (CH53es)"
+    },
+    {
+      "date": "10-11-2025",
+      "time": "21:00",
+      "datetime": "10-11-2025 21:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "AD Tarma - Los Chankas",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-11-2025 (21:00) Liga 1 Te Apuesto : AD Tarma - Los Chankas  (CH84es)"
+    },
+    {
+      "date": "10-11-2025",
+      "time": "21:00",
+      "datetime": "10-11-2025 21:00",
+      "league": "Torneo LPF",
+      "teams": "Gimnasia L.P. - Velez Sarsfield",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-11-2025 (21:00) Torneo LPF : Gimnasia L.P. - Velez Sarsfield  (CH76es)"
     }
   ],
   "player_streams": {
@@ -5519,7 +5533,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-07T19:49:30.462009"
+      "extracted_at": "2025-11-07T20:17:21.766015"
     },
     "hoca": {
       "name": "hoca",
@@ -5528,7 +5542,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T19:49:32.042075"
+      "extracted_at": "2025-11-07T20:17:23.679253"
     },
     "Caster": {
       "name": "Caster",
@@ -5537,7 +5551,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T19:49:34.104907"
+      "extracted_at": "2025-11-07T20:17:26.130014"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5546,7 +5560,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T19:49:36.121884"
+      "extracted_at": "2025-11-07T20:17:28.542384"
     }
   },
   "player_urls": {

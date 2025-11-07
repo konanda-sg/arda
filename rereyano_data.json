@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-07T16:55:22.188519",
+  "last_updated": "2025-11-07T17:14:22.742974",
   "total_events": 337,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -9,21 +9,21 @@
   "events": [
     {
       "date": "07-11-2025",
-      "time": "15:05",
-      "datetime": "07-11-2025 15:05",
-      "league": "Moto2",
-      "teams": "Grand Prix du Portugal Essais des Moto 2 -",
+      "time": "15:30",
+      "datetime": "07-11-2025 15:30",
+      "league": "formula 1",
+      "teams": "Grand Prix de Sao Paulo Essais libres 1 -",
       "channels": [
         {
-          "id": "14",
+          "id": "13",
           "lang": "fr"
         },
         {
-          "id": "56",
+          "id": "60",
           "lang": "es"
         }
       ],
-      "raw_line": "07-11-2025 (15:05) Moto2 : Grand Prix du Portugal Essais des Moto 2 -   (CH14fr) (CH56es)"
+      "raw_line": "07-11-2025 (15:30) formula 1 : Grand Prix de Sao Paulo Essais libres 1 -   (CH13fr) (CH60es)"
     },
     {
       "date": "07-11-2025",
@@ -284,6 +284,24 @@
         }
       ],
       "raw_line": "07-11-2025 (19:30) Pro D2 : Valence Romans - Stade Aurillacois  (CH35fr)"
+    },
+    {
+      "date": "07-11-2025",
+      "time": "19:30",
+      "datetime": "07-11-2025 19:30",
+      "league": "formula 1",
+      "teams": "Grand Prix de Sao Paulo Qualifications Sprint -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-11-2025 (19:30) formula 1 : Grand Prix de Sao Paulo Qualifications Sprint -   (CH13fr) (CH60es)"
     },
     {
       "date": "07-11-2025",
@@ -1491,6 +1509,24 @@
     },
     {
       "date": "08-11-2025",
+      "time": "15:00",
+      "datetime": "08-11-2025 15:00",
+      "league": "formula 1",
+      "teams": "Grand Prix de Sao Paulo Sprint -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-11-2025 (15:00) formula 1 : Grand Prix de Sao Paulo Sprint -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "08-11-2025",
       "time": "15:30",
       "datetime": "08-11-2025 15:30",
       "league": "Bundesliga",
@@ -1590,24 +1626,6 @@
         }
       ],
       "raw_line": "08-11-2025 (15:30) Bundesliga : Union Berlin - Bayern Munich  (CH4fr) (CH112de) (CH87es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "15:30",
-      "datetime": "08-11-2025 15:30",
-      "league": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Essais libres 1 -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (15:30) formula 1 : Grand Prix de Sao Paulo Essais libres 1 -   (CH13fr) (CH60es)"
     },
     {
       "date": "08-11-2025",
@@ -2311,13 +2329,17 @@
     },
     {
       "date": "08-11-2025",
-      "time": "19:30",
-      "datetime": "08-11-2025 19:30",
+      "time": "19:00",
+      "datetime": "08-11-2025 19:00",
       "league": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Qualifications Sprint -",
+      "teams": "Grand Prix de Sao Paulo Essais qualificatifs -",
       "channels": [
         {
           "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "11",
           "lang": "fr"
         },
         {
@@ -2325,7 +2347,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "08-11-2025 (19:30) formula 1 : Grand Prix de Sao Paulo Qualifications Sprint -   (CH13fr) (CH60es)"
+      "raw_line": "08-11-2025 (19:00) formula 1 : Grand Prix de Sao Paulo Essais qualificatifs -   (CH13fr) (CH11fr) (CH60es)"
     },
     {
       "date": "08-11-2025",
@@ -3825,24 +3847,6 @@
     },
     {
       "date": "09-11-2025",
-      "time": "15:00",
-      "datetime": "09-11-2025 15:00",
-      "league": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Sprint -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (15:00) formula 1 : Grand Prix de Sao Paulo Sprint -   (CH13fr) (CH60es)"
-    },
-    {
-      "date": "09-11-2025",
       "time": "15:30",
       "datetime": "09-11-2025 15:30",
       "league": "Bundesliga",
@@ -4307,6 +4311,32 @@
     },
     {
       "date": "09-11-2025",
+      "time": "18:00",
+      "datetime": "09-11-2025 18:00",
+      "league": "formula 1",
+      "teams": "Formule 1 GP de Sao Paulo -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        },
+        {
+          "id": "134",
+          "lang": "gb"
+        },
+        {
+          "id": "121",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "09-11-2025 (18:00) formula 1 : Formule 1 GP de Sao Paulo -   (CH11fr) (CH60es) (CH134gb) (CH121de)"
+    },
+    {
+      "date": "09-11-2025",
       "time": "18:30",
       "datetime": "09-11-2025 18:30",
       "league": "Laliga",
@@ -4600,28 +4630,6 @@
         }
       ],
       "raw_line": "09-11-2025 (19:00) NHL : Detroit Red Wings - Chicago Blackhawks  (CH178us)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "19:00",
-      "datetime": "09-11-2025 19:00",
-      "league": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Essais qualificatifs -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (19:00) formula 1 : Grand Prix de Sao Paulo Essais qualificatifs -   (CH13fr) (CH11fr) (CH60es)"
     },
     {
       "date": "09-11-2025",
@@ -5529,7 +5537,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-07T16:55:15.239230"
+      "extracted_at": "2025-11-07T17:14:15.603194"
     },
     "hoca": {
       "name": "hoca",
@@ -5538,7 +5546,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T16:55:16.764055"
+      "extracted_at": "2025-11-07T17:14:17.073482"
     },
     "Caster": {
       "name": "Caster",
@@ -5547,7 +5555,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T16:55:19.017360"
+      "extracted_at": "2025-11-07T17:14:19.350754"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5556,7 +5564,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T16:55:21.188358"
+      "extracted_at": "2025-11-07T17:14:21.742837"
     }
   },
   "player_urls": {

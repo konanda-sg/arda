@@ -1,76 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-07T03:59:15.769141",
-  "total_events": 9,
+  "last_updated": "2025-11-07T04:27:35.427546",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-11-2025",
-      "time": "02:00",
-      "datetime": "07-11-2025 02:00",
-      "league": "NHL",
-      "teams": "Dallas Stars - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-11-2025 (02:00) NHL : Dallas Stars - Anaheim Ducks  (CH185us)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "02:00",
-      "datetime": "07-11-2025 02:00",
-      "league": "NHL",
-      "teams": "Nashville Predators - Philadelphia Flyers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-11-2025 (02:00) NHL : Nashville Predators - Philadelphia Flyers  (CH186us)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "02:15",
-      "datetime": "07-11-2025 02:15",
-      "league": "Liga Mx Women",
-      "teams": "Monterrey F - Club America F",
-      "channels": [
-        {
-          "id": "106",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-11-2025 (02:15) Liga Mx Women : Monterrey F - Club America F  (CH106es)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "02:15",
-      "datetime": "07-11-2025 02:15",
-      "league": "NFL",
-      "teams": "Denver Broncos - Las Vegas Raiders",
-      "channels": [
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "187",
-          "lang": "us"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-11-2025 (02:15) NFL : Denver Broncos - Las Vegas Raiders  (CH127gb) (CH187us) (CH91es)"
-    },
     {
       "date": "07-11-2025",
       "time": "03:00",
@@ -153,7 +89,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-07T03:59:08.999290"
+      "extracted_at": "2025-11-07T04:27:27.665071"
     },
     "hoca": {
       "name": "hoca",
@@ -162,7 +98,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T03:59:10.508883"
+      "extracted_at": "2025-11-07T04:27:29.490899"
     },
     "Caster": {
       "name": "Caster",
@@ -171,7 +107,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T03:59:12.769922"
+      "extracted_at": "2025-11-07T04:27:31.788657"
     },
     "WIGI": {
       "name": "WIGI",
@@ -180,7 +116,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T03:59:14.769001"
+      "extracted_at": "2025-11-07T04:27:34.427399"
     }
   },
   "player_urls": {

@@ -1,124 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-07T21:49:51.795880",
-  "total_events": 320,
+  "last_updated": "2025-11-07T22:14:34.394145",
+  "total_events": 313,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Eredivisie",
-      "teams": "Twente - Telstar",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Eredivisie : Twente - Telstar  (CH142nl)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Multiplex Ligue 2 -",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Multiplex Ligue 2 -   (CH1fr)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Bastia - Reims",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Bastia - Reims  (CH4fr)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Clermont - Amiens",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Clermont - Amiens  (CH9fr)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Dunkerque - Boulogne",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Dunkerque - Boulogne  (CH7fr)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Grenoble - Rodez",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Grenoble - Rodez  (CH8fr)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Montpellier - Annecy",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Montpellier - Annecy  (CH5fr)"
-    },
-    {
-      "date": "07-11-2025",
-      "time": "20:00",
-      "datetime": "07-11-2025 20:00",
-      "league": "Ligue 2",
-      "teams": "Nancy - Laval",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-11-2025 (20:00) Ligue 2 : Nancy - Laval  (CH6fr)"
-    },
     {
       "date": "07-11-2025",
       "time": "20:15",
@@ -5278,6 +5166,20 @@
         }
       ],
       "raw_line": "10-11-2025 (21:00) Torneo LPF : Gimnasia L.P. - Velez Sarsfield  (CH76es)"
+    },
+    {
+      "date": "10-11-2025",
+      "time": "23:00",
+      "datetime": "10-11-2025 23:00",
+      "league": "Torneo LPF",
+      "teams": "Dep. Riestra - Independiente",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-11-2025 (23:00) Torneo LPF : Dep. Riestra - Independiente  (CH75es)"
     }
   ],
   "player_streams": {
@@ -5287,7 +5189,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-07T21:49:44.068874"
+      "extracted_at": "2025-11-07T22:14:26.442826"
     },
     "hoca": {
       "name": "hoca",
@@ -5296,7 +5198,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T21:49:45.638193"
+      "extracted_at": "2025-11-07T22:14:28.403533"
     },
     "Caster": {
       "name": "Caster",
@@ -5305,7 +5207,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T21:49:48.373694"
+      "extracted_at": "2025-11-07T22:14:30.864625"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5314,7 +5216,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T21:49:50.795726"
+      "extracted_at": "2025-11-07T22:14:33.393994"
     }
   },
   "player_urls": {

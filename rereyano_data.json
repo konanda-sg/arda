@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-07T19:26:59.050464",
-  "total_events": 335,
+  "last_updated": "2025-11-07T19:37:09.500915",
+  "total_events": 336,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -5492,6 +5492,24 @@
         }
       ],
       "raw_line": "10-11-2025 (04:15) Liga Mx Women : Toluca F - Guadalajara F  (CH68es)"
+    },
+    {
+      "date": "10-11-2025",
+      "time": "20:30",
+      "datetime": "10-11-2025 20:30",
+      "league": "Laliga 2",
+      "teams": "Burgos CF - Castellon",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-11-2025 (20:30) Laliga 2 : Burgos CF - Castellon  (CH4fr) (CH53es)"
     }
   ],
   "player_streams": {
@@ -5501,7 +5519,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-07T19:26:51.084461"
+      "extracted_at": "2025-11-07T19:37:02.572803"
     },
     "hoca": {
       "name": "hoca",
@@ -5510,7 +5528,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T19:26:53.141080"
+      "extracted_at": "2025-11-07T19:37:04.202922"
     },
     "Caster": {
       "name": "Caster",
@@ -5519,7 +5537,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T19:26:55.301909"
+      "extracted_at": "2025-11-07T19:37:06.293705"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5528,7 +5546,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-07T19:26:58.050317"
+      "extracted_at": "2025-11-07T19:37:08.500793"
     }
   },
   "player_urls": {

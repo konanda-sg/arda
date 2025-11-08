@@ -1,54 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-08T03:26:52.614239",
-  "total_events": 305,
+  "last_updated": "2025-11-08T03:49:29.445581",
+  "total_events": 303,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-11-2025",
-      "time": "01:30",
-      "datetime": "08-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Atlanta Hawks - Toronto Raptors",
-      "channels": [
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:30) NBA : Atlanta Hawks - Toronto Raptors  (CH174us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:30",
-      "datetime": "08-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Detroit Pistons",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:30) NBA : Brooklyn Nets - Detroit Pistons  (CH175us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:30",
-      "datetime": "08-11-2025 01:30",
-      "league": "NBA",
-      "teams": "San Antonio Spurs - Houston Rockets",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:30) NBA : San Antonio Spurs - Houston Rockets  (CH176us)"
-    },
     {
       "date": "08-11-2025",
       "time": "02:00",
@@ -5036,6 +4994,20 @@
         }
       ],
       "raw_line": "11-11-2025 (04:00) NHL : Vegas Golden Knights - Florida Panthers  (CH182us)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "04:30",
+      "datetime": "11-11-2025 04:30",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-11-2025 (04:30) NBA : Los Angeles Clippers - Atlanta Hawks  (CH173us)"
     }
   ],
   "player_streams": {
@@ -5045,7 +5017,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-08T03:26:45.860435"
+      "extracted_at": "2025-11-08T03:49:21.562061"
     },
     "hoca": {
       "name": "hoca",
@@ -5054,7 +5026,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T03:26:47.387799"
+      "extracted_at": "2025-11-08T03:49:23.242737"
     },
     "Caster": {
       "name": "Caster",
@@ -5063,7 +5035,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T03:26:49.598073"
+      "extracted_at": "2025-11-08T03:49:25.923611"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5072,7 +5044,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T03:26:51.614097"
+      "extracted_at": "2025-11-08T03:49:28.445407"
     }
   },
   "player_urls": {

@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-08T01:08:05.164815",
-  "total_events": 309,
+  "last_updated": "2025-11-08T02:40:12.873415",
+  "total_events": 311,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-11-2025",
-      "time": "23:30",
-      "datetime": "07-11-2025 23:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Cerro Largo - Liverpool M.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        },
-        {
-          "id": "74",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-11-2025 (23:30) Liga AUF Uruguaya : Cerro Largo - Liverpool M.  (CH109es) (CH74es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "00:00",
-      "datetime": "08-11-2025 00:00",
-      "league": "Campeonato Itaú Chile",
-      "teams": "U. Calera - Deportes Iquique",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (00:00) Campeonato Itaú Chile : U. Calera - Deportes Iquique  (CH83es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "00:10",
-      "datetime": "08-11-2025 00:10",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Pereira - Ind. Medellin",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (00:10) Liga Betplay Dimayor : Pereira - Ind. Medellin  (CH81es)"
-    },
     {
       "date": "08-11-2025",
       "time": "01:00",
@@ -5084,6 +5038,92 @@
         }
       ],
       "raw_line": "11-11-2025 (02:00) NBA : Chicago Bulls - San Antonio Spurs  (CH176us)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "02:15",
+      "datetime": "11-11-2025 02:15",
+      "league": "NFL",
+      "teams": "Green Bay Packers - Philadelphia Eagles",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "177",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-11-2025 (02:15) NFL : Green Bay Packers - Philadelphia Eagles  (CH2fr) (CH177us) (CH88es) (CH97es) (CH71es)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "02:30",
+      "datetime": "11-11-2025 02:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-11-2025 (02:30) NBA : Dallas Mavericks - Milwaukee Bucks  (CH178us)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "02:30",
+      "datetime": "11-11-2025 02:30",
+      "league": "NHL",
+      "teams": "Edmonton Oilers - Columbus Blue Jackets",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-11-2025 (02:30) NHL : Edmonton Oilers - Columbus Blue Jackets  (CH179us)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "03:00",
+      "datetime": "11-11-2025 03:00",
+      "league": "NBA",
+      "teams": "Phoenix Suns - New Orleans Pelicans",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-11-2025 (03:00) NBA : Phoenix Suns - New Orleans Pelicans  (CH180us)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "03:00",
+      "datetime": "11-11-2025 03:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-11-2025 (03:00) NBA : Utah Jazz - Minnesota Timberwolves  (CH184us)"
     }
   ],
   "player_streams": {
@@ -5093,7 +5133,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-08T01:07:57.343135"
+      "extracted_at": "2025-11-08T02:40:05.555445"
     },
     "hoca": {
       "name": "hoca",
@@ -5102,7 +5142,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T01:07:59.362322"
+      "extracted_at": "2025-11-08T02:40:07.063968"
     },
     "Caster": {
       "name": "Caster",
@@ -5111,7 +5151,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T01:08:01.830096"
+      "extracted_at": "2025-11-08T02:40:09.124726"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5120,7 +5160,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T01:08:04.164665"
+      "extracted_at": "2025-11-08T02:40:11.873274"
     }
   },
   "player_urls": {

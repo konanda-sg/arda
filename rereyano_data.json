@@ -1,114 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-08T02:40:12.873415",
-  "total_events": 311,
+  "last_updated": "2025-11-08T03:26:52.614239",
+  "total_events": 305,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Macara",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) Ecuador Ligapro : Dep. Cuenca - Macara  (CH86es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "MLS",
-      "teams": "Charlotte - New York City",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) MLS : Charlotte - New York City  (CH160us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "NBA",
-      "teams": "Orlando Magic - Boston Celtics",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) NBA : Orlando Magic - Boston Celtics  (CH170us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) NBA : Washington Wizards - Cleveland Cavaliers  (CH171us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "NHL",
-      "teams": "Detroit Red Wings - New York Rangers",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) NHL : Detroit Red Wings - New York Rangers  (CH172us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Minnesota Wild",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) NHL : New York Islanders - Minnesota Wild  (CH173us)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "01:00",
-      "datetime": "08-11-2025 01:00",
-      "league": "Torneo LPF",
-      "teams": "Rosario - San Lorenzo",
-      "channels": [
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (01:00) Torneo LPF : Rosario - San Lorenzo  (CH61es) (CH75es)"
-    },
     {
       "date": "08-11-2025",
       "time": "01:30",
@@ -5124,6 +5022,20 @@
         }
       ],
       "raw_line": "11-11-2025 (03:00) NBA : Utah Jazz - Minnesota Timberwolves  (CH184us)"
+    },
+    {
+      "date": "11-11-2025",
+      "time": "04:00",
+      "datetime": "11-11-2025 04:00",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Florida Panthers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-11-2025 (04:00) NHL : Vegas Golden Knights - Florida Panthers  (CH182us)"
     }
   ],
   "player_streams": {
@@ -5133,7 +5045,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-08T02:40:05.555445"
+      "extracted_at": "2025-11-08T03:26:45.860435"
     },
     "hoca": {
       "name": "hoca",
@@ -5142,7 +5054,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T02:40:07.063968"
+      "extracted_at": "2025-11-08T03:26:47.387799"
     },
     "Caster": {
       "name": "Caster",
@@ -5151,7 +5063,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T02:40:09.124726"
+      "extracted_at": "2025-11-08T03:26:49.598073"
     },
     "WIGI": {
       "name": "WIGI",
@@ -5160,7 +5072,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T02:40:11.873274"
+      "extracted_at": "2025-11-08T03:26:51.614097"
     }
   },
   "player_urls": {

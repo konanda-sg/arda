@@ -1,174 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-08T22:49:36.882780",
-  "total_events": 208,
+  "last_updated": "2025-11-08T23:14:00.510490",
+  "total_events": 199,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "D1 Féminin",
-      "teams": "PSG F - Fleury 91 F",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) D1 Féminin : PSG F - Fleury 91 F  (CH14fr)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "Eredivisie",
-      "teams": "Zwolle - Sparta Rotterdam",
-      "channels": [
-        {
-          "id": "141",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) Eredivisie : Zwolle - Sparta Rotterdam  (CH141nl)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "Laliga",
-      "teams": "Espanyol - Villarreal",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) Laliga : Espanyol - Villarreal  (CH2fr) (CH51es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "Laliga 2",
-      "teams": "Malaga - Cordoba",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) Laliga 2 : Malaga - Cordoba  (CH9fr) (CH53es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "Premier League",
-      "teams": "Chelsea - Wolves",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) Premier League : Chelsea - Wolves  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH72es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "Torneo LPF",
-      "teams": "Huracan - Newells Old Boys",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) Torneo LPF : Huracan - Newells Old Boys  (CH75es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:00",
-      "datetime": "08-11-2025 21:00",
-      "league": "Torneo LPF",
-      "teams": "Racing Club - Defensa y Justicia",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:00) Torneo LPF : Racing Club - Defensa y Justicia  (CH76es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:05",
-      "datetime": "08-11-2025 21:05",
-      "league": "Ligue 1",
-      "teams": "Monaco - Lens",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:05) Ligue 1 : Monaco - Lens  (CH20fr) (CH69es)"
-    },
-    {
-      "date": "08-11-2025",
-      "time": "21:10",
-      "datetime": "08-11-2025 21:10",
-      "league": "Tournée Automne",
-      "teams": "France - Afrique du Sud",
-      "channels": [
-        {
-          "id": "24",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "08-11-2025 (21:10) Tournée Automne : France - Afrique du Sud  (CH24fr)"
-    },
     {
       "date": "08-11-2025",
       "time": "21:15",
@@ -3395,7 +3233,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-08T22:49:29.538416"
+      "extracted_at": "2025-11-08T23:13:53.605359"
     },
     "hoca": {
       "name": "hoca",
@@ -3404,7 +3242,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T22:49:31.069267"
+      "extracted_at": "2025-11-08T23:13:55.107219"
     },
     "Caster": {
       "name": "Caster",
@@ -3413,7 +3251,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T22:49:33.637013"
+      "extracted_at": "2025-11-08T23:13:57.204882"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3422,7 +3260,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-08T22:49:35.882634"
+      "extracted_at": "2025-11-08T23:13:59.510338"
     }
   },
   "player_urls": {

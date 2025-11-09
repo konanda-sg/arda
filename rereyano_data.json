@@ -1,140 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-09T19:36:30.853170",
-  "total_events": 109,
+  "last_updated": "2025-11-09T19:49:22.937816",
+  "total_events": 103,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-11-2025",
-      "time": "17:15",
-      "datetime": "09-11-2025 17:15",
-      "league": "Ligue 1",
-      "teams": "Multiplex Ligue 1 -",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-11-2025 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "17:15",
-      "datetime": "09-11-2025 17:15",
-      "league": "Ligue 1",
-      "teams": "Angers - Auxerre",
-      "channels": [
-        {
-          "id": "40",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-11-2025 (17:15) Ligue 1 : Angers - Auxerre  (CH40fr)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "17:15",
-      "datetime": "09-11-2025 17:15",
-      "league": "Ligue 1",
-      "teams": "Metz - Nice",
-      "channels": [
-        {
-          "id": "22",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-11-2025 (17:15) Ligue 1 : Metz - Nice  (CH22fr)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "17:15",
-      "datetime": "09-11-2025 17:15",
-      "league": "Ligue 1",
-      "teams": "Strasbourg - Lille",
-      "channels": [
-        {
-          "id": "21",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (17:15) Ligue 1 : Strasbourg - Lille  (CH21fr) (CH69es)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "17:30",
-      "datetime": "09-11-2025 17:30",
-      "league": "Bundesliga",
-      "teams": "Stuttgart - Augsburg",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (17:30) Bundesliga : Stuttgart - Augsburg  (CH8fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "17:30",
-      "datetime": "09-11-2025 17:30",
-      "league": "Premier League",
-      "teams": "Manchester City - Liverpool",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "57",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (17:30) Premier League : Manchester City - Liverpool  (CH14fr) (CH127gb) (CH57es) (CH61es) (CH120de) (CH87es) (CH155es) (CH72es) (CH73es)"
-    },
     {
       "date": "09-11-2025",
       "time": "18:00",
@@ -1781,7 +1653,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-09T19:36:23.866665"
+      "extracted_at": "2025-11-09T19:49:16.528141"
     },
     "hoca": {
       "name": "hoca",
@@ -1790,7 +1662,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T19:36:25.196038"
+      "extracted_at": "2025-11-09T19:49:17.848604"
     },
     "Caster": {
       "name": "Caster",
@@ -1799,7 +1671,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T19:36:27.590374"
+      "extracted_at": "2025-11-09T19:49:19.827413"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1808,7 +1680,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T19:36:29.853007"
+      "extracted_at": "2025-11-09T19:49:21.937680"
     }
   },
   "player_urls": {

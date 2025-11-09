@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-09T22:49:17.245593",
-  "total_events": 64,
+  "last_updated": "2025-11-09T23:14:02.927170",
+  "total_events": 62,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-11-2025",
-      "time": "21:00",
-      "datetime": "09-11-2025 21:00",
-      "league": "Laliga",
-      "teams": "Celta Vigo - Barcelone",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (21:00) Laliga : Celta Vigo - Barcelone  (CH1fr) (CH49es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "21:00",
-      "datetime": "09-11-2025 21:00",
-      "league": "Laliga 2",
-      "teams": "Cadix CF - Valladolid",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (21:00) Laliga 2 : Cadix CF - Valladolid  (CH53es)"
-    },
     {
       "date": "09-11-2025",
       "time": "21:15",
@@ -1007,7 +967,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-09T22:49:09.506559"
+      "extracted_at": "2025-11-09T23:13:56.305590"
     },
     "hoca": {
       "name": "hoca",
@@ -1016,7 +976,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T22:49:11.229059"
+      "extracted_at": "2025-11-09T23:13:57.671036"
     },
     "Caster": {
       "name": "Caster",
@@ -1025,7 +985,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T22:49:13.783528"
+      "extracted_at": "2025-11-09T23:13:59.779175"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1034,7 +994,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T22:49:16.245466"
+      "extracted_at": "2025-11-09T23:14:01.927013"
     }
   },
   "player_urls": {

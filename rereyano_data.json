@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-09T22:32:06.381341",
-  "total_events": 66,
+  "last_updated": "2025-11-09T22:49:17.245593",
+  "total_events": 64,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-11-2025",
-      "time": "20:45",
-      "datetime": "09-11-2025 20:45",
-      "league": "Ligue 1",
-      "teams": "Lyon - PSG",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (20:45) Ligue 1 : Lyon - PSG  (CH20fr) (CH69es)"
-    },
-    {
-      "date": "09-11-2025",
-      "time": "20:45",
-      "datetime": "09-11-2025 20:45",
-      "league": "Serie A",
-      "teams": "Inter - Lazio",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-11-2025 (20:45) Serie A : Inter - Lazio  (CH45fr) (CH137it) (CH159es)"
-    },
     {
       "date": "09-11-2025",
       "time": "21:00",
@@ -1047,7 +1007,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-09T22:31:59.651403"
+      "extracted_at": "2025-11-09T22:49:09.506559"
     },
     "hoca": {
       "name": "hoca",
@@ -1056,7 +1016,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T22:32:01.147120"
+      "extracted_at": "2025-11-09T22:49:11.229059"
     },
     "Caster": {
       "name": "Caster",
@@ -1065,7 +1025,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T22:32:03.245890"
+      "extracted_at": "2025-11-09T22:49:13.783528"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1074,7 +1034,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-09T22:32:05.381195"
+      "extracted_at": "2025-11-09T22:49:16.245466"
     }
   },
   "player_urls": {

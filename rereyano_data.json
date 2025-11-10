@@ -1,345 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-10T20:43:43.817100",
-  "total_events": 22,
+  "last_updated": "2025-11-10T20:55:24.018039",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-11-2025",
-      "time": "20:30",
-      "datetime": "10-11-2025 20:30",
-      "league": "Laliga 2",
-      "teams": "Burgos CF - Castellon",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-11-2025 (20:30) Laliga 2 : Burgos CF - Castellon  (CH4fr) (CH53es)"
-    },
-    {
-      "date": "10-11-2025",
-      "time": "21:00",
-      "datetime": "10-11-2025 21:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "AD Tarma - Los Chankas",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-11-2025 (21:00) Liga 1 Te Apuesto : AD Tarma - Los Chankas  (CH84es)"
-    },
-    {
-      "date": "10-11-2025",
-      "time": "21:00",
-      "datetime": "10-11-2025 21:00",
-      "league": "Torneo LPF",
-      "teams": "Gimnasia L.P. - Velez Sarsfield",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-11-2025 (21:00) Torneo LPF : Gimnasia L.P. - Velez Sarsfield  (CH76es)"
-    },
-    {
-      "date": "10-11-2025",
-      "time": "23:00",
-      "datetime": "10-11-2025 23:00",
-      "league": "Torneo LPF",
-      "teams": "Dep. Riestra - Independiente",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-11-2025 (23:00) Torneo LPF : Dep. Riestra - Independiente  (CH75es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:00",
-      "datetime": "11-11-2025 01:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Aucas - Delfin",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:00) Ecuador Ligapro : Aucas - Delfin  (CH86es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:00",
-      "datetime": "11-11-2025 01:00",
-      "league": "NBA",
-      "teams": "Charlotte Hornets - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:00) NBA : Charlotte Hornets - Los Angeles Lakers  (CH170us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:00",
-      "datetime": "11-11-2025 01:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Washington Wizards",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:00) NBA : Detroit Pistons - Washington Wizards  (CH1fr) (CH171us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:00",
-      "datetime": "11-11-2025 01:00",
-      "league": "NBA",
-      "teams": "Orlando Magic - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:00) NBA : Orlando Magic - Portland Trail Blazers  (CH172us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:00",
-      "datetime": "11-11-2025 01:00",
-      "league": "NHL",
-      "teams": "New Jersey Devils - New York Islanders",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:00) NHL : New Jersey Devils - New York Islanders  (CH173us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:00",
-      "datetime": "11-11-2025 01:00",
-      "league": "NHL",
-      "teams": "New York Rangers - Nashville Predators",
-      "channels": [
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:00) NHL : New York Rangers - Nashville Predators  (CH174us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:15",
-      "datetime": "11-11-2025 01:15",
-      "league": "Torneo LPF",
-      "teams": "Argentinos Jrs - Belgrano",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:15) Torneo LPF : Argentinos Jrs - Belgrano  (CH75es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:15",
-      "datetime": "11-11-2025 01:15",
-      "league": "Torneo LPF",
-      "teams": "Ind. Rivadavia - Central Cordoba",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:15) Torneo LPF : Ind. Rivadavia - Central Cordoba  (CH76es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:30",
-      "datetime": "11-11-2025 01:30",
-      "league": "Copa Colombia",
-      "teams": "Ind. Medellin - Envigado",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:30) Copa Colombia : Ind. Medellin - Envigado  (CH81es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "01:30",
-      "datetime": "11-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Miami Heat - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (01:30) NBA : Miami Heat - Cleveland Cavaliers  (CH175us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "02:00",
-      "datetime": "11-11-2025 02:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:00) NBA : Chicago Bulls - San Antonio Spurs  (CH176us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "02:15",
-      "datetime": "11-11-2025 02:15",
-      "league": "NFL",
-      "teams": "Green Bay Packers - Philadelphia Eagles",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "177",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:15) NFL : Green Bay Packers - Philadelphia Eagles  (CH2fr) (CH177us) (CH88es) (CH97es) (CH71es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "02:30",
-      "datetime": "11-11-2025 02:30",
-      "league": "NBA",
-      "teams": "Dallas Mavericks - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:30) NBA : Dallas Mavericks - Milwaukee Bucks  (CH178us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "02:30",
-      "datetime": "11-11-2025 02:30",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Columbus Blue Jackets",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:30) NHL : Edmonton Oilers - Columbus Blue Jackets  (CH179us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "03:00",
-      "datetime": "11-11-2025 03:00",
-      "league": "NBA",
-      "teams": "Phoenix Suns - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (03:00) NBA : Phoenix Suns - New Orleans Pelicans  (CH180us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "03:00",
-      "datetime": "11-11-2025 03:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Minnesota Timberwolves",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (03:00) NBA : Utah Jazz - Minnesota Timberwolves  (CH184us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "04:00",
-      "datetime": "11-11-2025 04:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Florida Panthers",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (04:00) NHL : Vegas Golden Knights - Florida Panthers  (CH182us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "04:30",
-      "datetime": "11-11-2025 04:30",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Atlanta Hawks",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (04:30) NBA : Los Angeles Clippers - Atlanta Hawks  (CH173us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -347,16 +14,15 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-10T20:43:36.155101"
+      "extracted_at": "2025-11-10T20:54:43.620952"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-11-10T20:43:37.628853"
+      "status": "no_iframe",
+      "extracted_at": "2025-11-10T20:55:04.106123"
     },
     "Caster": {
       "name": "Caster",
@@ -365,7 +31,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-10T20:43:40.401480"
+      "extracted_at": "2025-11-10T20:55:20.912774"
     },
     "WIGI": {
       "name": "WIGI",
@@ -374,7 +40,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-10T20:43:42.816915"
+      "extracted_at": "2025-11-10T20:55:23.017889"
     }
   },
   "player_urls": {

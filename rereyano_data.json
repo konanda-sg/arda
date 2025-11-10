@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-10T03:49:23.863837",
-  "total_events": 32,
+  "last_updated": "2025-11-10T04:24:13.600307",
+  "total_events": 29,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "10-11-2025",
-      "time": "02:00",
-      "datetime": "10-11-2025 02:00",
-      "league": "NHL",
-      "teams": "Minnesota Wild - Calgary Flames",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-11-2025 (02:00) NHL : Minnesota Wild - Calgary Flames  (CH191us)"
-    },
-    {
-      "date": "10-11-2025",
-      "time": "02:15",
-      "datetime": "10-11-2025 02:15",
-      "league": "Liga Mx Women",
-      "teams": "Club America F - Monterrey F",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-11-2025 (02:15) Liga Mx Women : Club America F - Monterrey F  (CH68es)"
-    },
-    {
-      "date": "10-11-2025",
-      "time": "02:20",
-      "datetime": "10-11-2025 02:20",
-      "league": "NFL",
-      "teams": "Los Angeles Chargers - Pittsburgh Steelers",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "192",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-11-2025 (02:20) NFL : Los Angeles Chargers - Pittsburgh Steelers  (CH3fr) (CH192us) (CH88es) (CH97es) (CH72es)"
-    },
     {
       "date": "10-11-2025",
       "time": "02:30",
@@ -503,7 +445,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-10T03:49:14.874529"
+      "extracted_at": "2025-11-10T04:24:05.979523"
     },
     "hoca": {
       "name": "hoca",
@@ -512,7 +454,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-10T03:49:17.346998"
+      "extracted_at": "2025-11-10T04:24:07.783792"
     },
     "Caster": {
       "name": "Caster",
@@ -521,7 +463,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-10T03:49:20.224314"
+      "extracted_at": "2025-11-10T04:24:10.258148"
     },
     "WIGI": {
       "name": "WIGI",
@@ -530,7 +472,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-10T03:49:22.863683"
+      "extracted_at": "2025-11-10T04:24:12.600162"
     }
   },
   "player_urls": {

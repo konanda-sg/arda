@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-11T04:02:29.392920",
-  "total_events": 7,
+  "last_updated": "2025-11-11T04:38:22.308447",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-11-2025",
-      "time": "02:15",
-      "datetime": "11-11-2025 02:15",
-      "league": "NFL",
-      "teams": "Green Bay Packers - Philadelphia Eagles",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "177",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:15) NFL : Green Bay Packers - Philadelphia Eagles  (CH2fr) (CH177us) (CH88es) (CH97es) (CH71es)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "02:30",
-      "datetime": "11-11-2025 02:30",
-      "league": "NBA",
-      "teams": "Dallas Mavericks - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:30) NBA : Dallas Mavericks - Milwaukee Bucks  (CH178us)"
-    },
-    {
-      "date": "11-11-2025",
-      "time": "02:30",
-      "datetime": "11-11-2025 02:30",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Columbus Blue Jackets",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-11-2025 (02:30) NHL : Edmonton Oilers - Columbus Blue Jackets  (CH179us)"
-    },
     {
       "date": "11-11-2025",
       "time": "03:00",
@@ -129,7 +71,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-11T04:02:22.301246"
+      "extracted_at": "2025-11-11T04:38:14.895039"
     },
     "hoca": {
       "name": "hoca",
@@ -138,7 +80,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-11T04:02:23.960513"
+      "extracted_at": "2025-11-11T04:38:16.446174"
     },
     "Caster": {
       "name": "Caster",
@@ -147,7 +89,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-11T04:02:26.149243"
+      "extracted_at": "2025-11-11T04:38:18.952745"
     },
     "WIGI": {
       "name": "WIGI",
@@ -156,7 +98,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-11T04:02:28.392772"
+      "extracted_at": "2025-11-11T04:38:21.308299"
     }
   },
   "player_urls": {

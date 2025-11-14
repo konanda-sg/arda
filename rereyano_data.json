@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-14T10:18:16.906189",
-  "total_events": 6,
+  "last_updated": "2025-11-14T10:44:06.586717",
+  "total_events": 44,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-11-2025",
-      "time": "09:00",
-      "datetime": "14-11-2025 09:00",
-      "league": "Moto3",
-      "teams": "Grand Prix C.valencienne Essais libres 1 des Moto 3 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-11-2025 (09:00) Moto3 : Grand Prix C.valencienne Essais libres 1 des Moto 3 -   (CH14fr) (CH56es)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "09:50",
-      "datetime": "14-11-2025 09:50",
-      "league": "Moto2",
-      "teams": "Grand Prix C.valencienne Essais libres 1 des Moto 2 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-11-2025 (09:50) Moto2 : Grand Prix C.valencienne Essais libres 1 des Moto 2 -   (CH14fr) (CH56es)"
-    },
     {
       "date": "14-11-2025",
       "time": "10:45",
@@ -81,6 +45,20 @@
     },
     {
       "date": "14-11-2025",
+      "time": "14:00",
+      "datetime": "14-11-2025 14:00",
+      "league": "Amical International",
+      "teams": "Egypte B - Algérie B",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "dz"
+        }
+      ],
+      "raw_line": "14-11-2025 (14:00) Amical International : Egypte B - Algérie B  (CH111dz)"
+    },
+    {
+      "date": "14-11-2025",
       "time": "14:05",
       "datetime": "14-11-2025 14:05",
       "league": "Moto2",
@@ -114,6 +92,584 @@
         }
       ],
       "raw_line": "14-11-2025 (15:10) MotoGP : Grand Prix C.valencienne Essais des Moto GP -   (CH14fr) (CH56es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "17:00",
+      "datetime": "14-11-2025 17:00",
+      "league": "Amical International",
+      "teams": "Angola - Argentine",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (17:00) Amical International : Angola - Argentine  (CH77es) (CH155es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "17:00",
+      "datetime": "14-11-2025 17:00",
+      "league": "Amical International",
+      "teams": "Ouzbekistan - Egypte",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (17:00) Amical International : Ouzbekistan - Egypte  (CH70es) (CH97es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "17:00",
+      "datetime": "14-11-2025 17:00",
+      "league": "EuroLeague",
+      "teams": "Dubai - Zalgiris Kaunas",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (17:00) EuroLeague : Dubai - Zalgiris Kaunas  (CH62es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "17:45",
+      "datetime": "14-11-2025 17:45",
+      "league": "Amical International",
+      "teams": "Tunisie - Jordanie",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "tn"
+        }
+      ],
+      "raw_line": "14-11-2025 (17:45) Amical International : Tunisie - Jordanie  (CH112tn)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "18:00",
+      "datetime": "14-11-2025 18:00",
+      "league": "EuroLeague",
+      "teams": "Anadolu Efes - Bayern",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (18:00) EuroLeague : Anadolu Efes - Bayern  (CH66es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "18:00",
+      "datetime": "14-11-2025 18:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Finlande - Malte",
+      "channels": [
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (18:00) Qualif. Cm Europe : Finlande - Malte  (CH88es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "19:00",
+      "datetime": "14-11-2025 19:00",
+      "league": "Pro D2",
+      "teams": "Colomiers Rugby - USO Nevers Rugby",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (19:00) Pro D2 : Colomiers Rugby - USO Nevers Rugby  (CH13fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "19:30",
+      "datetime": "14-11-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Biarritz Olympique - US Dax",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (19:30) Pro D2 : Biarritz Olympique - US Dax  (CH35fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "19:30",
+      "datetime": "14-11-2025 19:30",
+      "league": "Pro D2",
+      "teams": "SU Agen - Oyonnax Rugby",
+      "channels": [
+        {
+          "id": "33",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (19:30) Pro D2 : SU Agen - Oyonnax Rugby  (CH33fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "19:30",
+      "datetime": "14-11-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Stade Aurillacois - Provence Rugby",
+      "channels": [
+        {
+          "id": "32",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (19:30) Pro D2 : Stade Aurillacois - Provence Rugby  (CH32fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "19:30",
+      "datetime": "14-11-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Stade Montois - Soyaux Angoulême",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (19:30) Pro D2 : Stade Montois - Soyaux Angoulême  (CH34fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "19:30",
+      "datetime": "14-11-2025 19:30",
+      "league": "Pro D2",
+      "teams": "US Carcassonne - Valence Romans",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (19:30) Pro D2 : US Carcassonne - Valence Romans  (CH36fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:00",
+      "datetime": "14-11-2025 20:00",
+      "league": "Amical International",
+      "teams": "Maroc - Mozambique",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "ma"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:00) Amical International : Maroc - Mozambique  (CH113ma)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:00",
+      "datetime": "14-11-2025 20:00",
+      "league": "EuroLeague",
+      "teams": "Lyon-Villeurbanne - Partizan",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:00) EuroLeague : Lyon-Villeurbanne - Partizan  (CH67es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:00",
+      "datetime": "14-11-2025 20:00",
+      "league": "NHL",
+      "teams": "Nashville Predators - Pittsburgh Penguins",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:00) NHL : Nashville Predators - Pittsburgh Penguins  (CH180us)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:30",
+      "datetime": "14-11-2025 20:30",
+      "league": "EuroLeague",
+      "teams": "Barcelone - Virtus Bologna",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:30) EuroLeague : Barcelone - Virtus Bologna  (CH62es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:30",
+      "datetime": "14-11-2025 20:30",
+      "league": "EuroLeague",
+      "teams": "Milano - Olympiakos",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:30) EuroLeague : Milano - Olympiakos  (CH66es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:30",
+      "datetime": "14-11-2025 20:30",
+      "league": "Laliga 2",
+      "teams": "Valladolid - Las Palmas",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "53",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:30) Laliga 2 : Valladolid - Las Palmas  (CH6fr) (CH53es) (CH71es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:45",
+      "datetime": "14-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Multiplex Coupe du Monde 2026 -",
+      "channels": [
+        {
+          "id": "19",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:45) Qualif. Cm Europe : Multiplex Coupe du Monde 2026 -   (CH19fr)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:45",
+      "datetime": "14-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Croatie - Iles Féroé",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:45) Qualif. Cm Europe : Croatie - Iles Féroé  (CH114us)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:45",
+      "datetime": "14-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Gibraltar - Monténégro",
+      "channels": [
+        {
+          "id": "115",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:45) Qualif. Cm Europe : Gibraltar - Monténégro  (CH115us)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:45",
+      "datetime": "14-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Luxembourg - Allemagne",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        },
+        {
+          "id": "116",
+          "lang": "de"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:45) Qualif. Cm Europe : Luxembourg - Allemagne  (CH41fr) (CH116de) (CH156es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:45",
+      "datetime": "14-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Pologne - Pays-Bas",
+      "channels": [
+        {
+          "id": "42",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "nl"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:45) Qualif. Cm Europe : Pologne - Pays-Bas  (CH42fr) (CH130nl) (CH87es)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "20:45",
+      "datetime": "14-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Slovaquie - Irlande du Nord",
+      "channels": [
+        {
+          "id": "129",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "14-11-2025 (20:45) Qualif. Cm Europe : Slovaquie - Irlande du Nord  (CH129gb)"
+    },
+    {
+      "date": "14-11-2025",
+      "time": "21:00",
+      "datetime": "14-11-2025 21:00",
+      "league": "Pro D2",
+      "teams": "AS Béziers - CA Brive",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-11-2025 (21:00) Pro D2 : AS Béziers - CA Brive  (CH13fr)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "00:00",
+      "datetime": "15-11-2025 00:00",
+      "league": "Torneo LPF",
+      "teams": "Lanus - Atl. Tucuman",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-11-2025 (00:00) Torneo LPF : Lanus - Atl. Tucuman  (CH76es)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "01:00",
+      "datetime": "15-11-2025 01:00",
+      "league": "NBA",
+      "teams": "New York Knicks - Miami Heat",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (01:00) NBA : New York Knicks - Miami Heat  (CH160us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "01:00",
+      "datetime": "15-11-2025 01:00",
+      "league": "NBA",
+      "teams": "Orlando Magic - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (01:00) NBA : Orlando Magic - Brooklyn Nets  (CH161us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "01:00",
+      "datetime": "15-11-2025 01:00",
+      "league": "NHL",
+      "teams": "Carolina Hurricanes - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (01:00) NHL : Carolina Hurricanes - Vancouver Canucks  (CH181us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "01:30",
+      "datetime": "15-11-2025 01:30",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (01:30) NBA : Detroit Pistons - Philadelphia 76ers  (CH162us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "02:00",
+      "datetime": "15-11-2025 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (02:00) NBA : Houston Rockets - Portland Trail Blazers  (CH163us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "02:00",
+      "datetime": "15-11-2025 02:00",
+      "league": "NBA",
+      "teams": "Milwaukee Bucks - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (02:00) NBA : Milwaukee Bucks - Charlotte Hornets  (CH164us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "02:00",
+      "datetime": "15-11-2025 02:00",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Sacramento Kings",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (02:00) NBA : Minnesota Timberwolves - Sacramento Kings  (CH165us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "02:00",
+      "datetime": "15-11-2025 02:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (02:00) NBA : New Orleans Pelicans - Los Angeles Lakers  (CH166us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "02:00",
+      "datetime": "15-11-2025 02:00",
+      "league": "NHL",
+      "teams": "St. Louis Blues - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (02:00) NHL : St. Louis Blues - Philadelphia Flyers  (CH182us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "02:30",
+      "datetime": "15-11-2025 02:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (02:30) NBA : Dallas Mavericks - Los Angeles Clippers  (CH167us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "03:00",
+      "datetime": "15-11-2025 03:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - New York Islanders",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (03:00) NHL : Utah Mammoth - New York Islanders  (CH183us)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "03:30",
+      "datetime": "15-11-2025 03:30",
+      "league": "Amical International",
+      "teams": "Venezuela - Australie",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-11-2025 (03:30) Amical International : Venezuela - Australie  (CH70es)"
+    },
+    {
+      "date": "15-11-2025",
+      "time": "03:30",
+      "datetime": "15-11-2025 03:30",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Golden State Warriors",
+      "channels": [
+        {
+          "id": "168",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-11-2025 (03:30) NBA : San Antonio Spurs - Golden State Warriors  (CH168us)"
     }
   ],
   "player_streams": {
@@ -123,7 +679,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-14T10:18:09.400222"
+      "extracted_at": "2025-11-14T10:43:58.571888"
     },
     "hoca": {
       "name": "hoca",
@@ -132,7 +688,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-14T10:18:11.238788"
+      "extracted_at": "2025-11-14T10:44:00.469816"
     },
     "Caster": {
       "name": "Caster",
@@ -141,7 +697,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-14T10:18:13.573124"
+      "extracted_at": "2025-11-14T10:44:03.165980"
     },
     "WIGI": {
       "name": "WIGI",
@@ -150,7 +706,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-14T10:18:15.906049"
+      "extracted_at": "2025-11-14T10:44:05.586570"
     }
   },
   "player_urls": {

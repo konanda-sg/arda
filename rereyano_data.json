@@ -1,128 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-14T04:51:32.031150",
-  "total_events": 17,
+  "last_updated": "2025-11-14T05:15:56.734224",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "NBA",
-      "teams": "Phoenix Suns - Indiana Pacers",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) NBA : Phoenix Suns - Indiana Pacers  (CH161us)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Atlanta Hawks",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) NBA : Utah Jazz - Atlanta Hawks  (CH1fr) (CH162us)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "NHL",
-      "teams": "Calgary Flames - San Jose Sharks",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) NHL : Calgary Flames - San Jose Sharks  (CH186us)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "NHL",
-      "teams": "Colorado Avalanche - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) NHL : Colorado Avalanche - Buffalo Sabres  (CH187us)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "Qualif. Cm Concacaf",
-      "teams": "Guatemala - Panama",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) Qualif. Cm Concacaf : Guatemala - Panama  (CH155es)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "Qualif. Cm Concacaf",
-      "teams": "Haïti - Costa Rica",
-      "channels": [
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) Qualif. Cm Concacaf : Haïti - Costa Rica  (CH73es)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:00",
-      "datetime": "14-11-2025 03:00",
-      "league": "Qualif. Cm Concacaf",
-      "teams": "Nicaragua - Honduras",
-      "channels": [
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:00) Qualif. Cm Concacaf : Nicaragua - Honduras  (CH72es)"
-    },
-    {
-      "date": "14-11-2025",
-      "time": "03:07",
-      "datetime": "14-11-2025 03:07",
-      "league": "Liga Mx Women",
-      "teams": "Guadalajara F - Club America F",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-11-2025 (03:07) Liga Mx Women : Guadalajara F - Club America F  (CH159es)"
-    },
     {
       "date": "14-11-2025",
       "time": "03:30",
@@ -281,7 +165,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-14T04:51:24.881030"
+      "extracted_at": "2025-11-14T05:15:50.107718"
     },
     "hoca": {
       "name": "hoca",
@@ -290,7 +174,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-14T04:51:26.445513"
+      "extracted_at": "2025-11-14T05:15:51.701134"
     },
     "Caster": {
       "name": "Caster",
@@ -299,7 +183,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-14T04:51:28.704541"
+      "extracted_at": "2025-11-14T05:15:53.683546"
     },
     "WIGI": {
       "name": "WIGI",
@@ -308,7 +192,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-14T04:51:31.031002"
+      "extracted_at": "2025-11-14T05:15:55.734090"
     }
   },
   "player_urls": {

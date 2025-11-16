@@ -1,12 +1,103 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-16T09:15:16.112728",
-  "total_events": 0,
+  "last_updated": "2025-11-16T09:31:35.691051",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "16-11-2025",
+      "time": "09:40",
+      "datetime": "16-11-2025 09:40",
+      "league": "MotoGP",
+      "teams": "Warm Up des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (09:40) MotoGP : Warm Up des Moto GP -   (CH14fr) (CH56es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "10:00",
+      "datetime": "16-11-2025 10:00",
+      "league": "MotoGP",
+      "teams": "Parade des pilotes -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (10:00) MotoGP : Parade des pilotes -   (CH14fr) (CH56es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "11:00",
+      "datetime": "16-11-2025 11:00",
+      "league": "Moto3",
+      "teams": "La course des Moto 3 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (11:00) Moto3 : La course des Moto 3 -   (CH14fr) (CH56es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "12:10",
+      "datetime": "16-11-2025 12:10",
+      "league": "Moto2",
+      "teams": "La course des Moto 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (12:10) Moto2 : La course des Moto 2 -   (CH14fr) (CH56es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "14:00",
+      "datetime": "16-11-2025 14:00",
+      "league": "MotoGP",
+      "teams": "La course des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (14:00) MotoGP : La course des Moto GP -   (CH14fr) (CH56es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +105,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-16T09:15:09.227159"
+      "extracted_at": "2025-11-16T09:31:28.879991"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +114,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-16T09:15:10.769955"
+      "extracted_at": "2025-11-16T09:31:30.444637"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +123,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-16T09:15:13.010191"
+      "extracted_at": "2025-11-16T09:31:32.551040"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +132,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-16T09:15:15.112540"
+      "extracted_at": "2025-11-16T09:31:34.690910"
     }
   },
   "player_urls": {

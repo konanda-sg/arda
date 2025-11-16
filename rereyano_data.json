@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-16T09:31:35.691051",
-  "total_events": 5,
+  "last_updated": "2025-11-16T09:49:04.694839",
+  "total_events": 69,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -83,11 +83,53 @@
       "date": "16-11-2025",
       "time": "14:00",
       "datetime": "16-11-2025 14:00",
-      "league": "MotoGP",
-      "teams": "La course des Moto GP -",
+      "league": "Coupe De France",
+      "teams": "ES Cappelle - Abbeville",
       "channels": [
         {
-          "id": "14",
+          "id": "191",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (14:00) Coupe De France : ES Cappelle - Abbeville  (CH191fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "14:00",
+      "datetime": "16-11-2025 14:00",
+      "league": "Coupe De France",
+      "teams": "Saint-Cyr Collonges - Thonon-Evian",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (14:00) Coupe De France : Saint-Cyr Collonges - Thonon-Evian  (CH190fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "14:00",
+      "datetime": "16-11-2025 14:00",
+      "league": "Laliga 2",
+      "teams": "Ceuta - Leganes",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (14:00) Laliga 2 : Ceuta - Leganes  (CH53es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "14:00",
+      "datetime": "16-11-2025 14:00",
+      "league": "MotoGP",
+      "teams": "Grand Prix de la Communauté valencienne Moto GP -",
+      "channels": [
+        {
+          "id": "11",
           "lang": "fr"
         },
         {
@@ -95,7 +137,969 @@
           "lang": "es"
         }
       ],
-      "raw_line": "16-11-2025 (14:00) MotoGP : La course des Moto GP -   (CH14fr) (CH56es)"
+      "raw_line": "16-11-2025 (14:00) MotoGP : Grand Prix de la Communauté valencienne Moto GP -   (CH11fr) (CH56es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:00",
+      "datetime": "16-11-2025 15:00",
+      "league": "NHL",
+      "teams": "Pittsburgh Penguins - Nashville Predators",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:00) NHL : Pittsburgh Penguins - Nashville Predators  (CH182us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:00",
+      "datetime": "16-11-2025 15:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Hongrie - Irlande",
+      "channels": [
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:00) Qualif. Cm Europe : Hongrie - Irlande  (CH129gb) (CH111es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:00",
+      "datetime": "16-11-2025 15:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Portugal - Arménie",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "pt"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:00) Qualif. Cm Europe : Portugal - Arménie  (CH41fr) (CH112pt) (CH87es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:30",
+      "datetime": "16-11-2025 15:30",
+      "league": "NFL",
+      "teams": "Miami Dolphins - Washington Commanders",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
+          "id": "170",
+          "lang": "us"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:30) NFL : Miami Dolphins - Washington Commanders  (CH3fr) (CH170us) (CH93es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:45",
+      "datetime": "16-11-2025 15:45",
+      "league": "Coupe De France",
+      "teams": "Blois - Clermont",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:45) Coupe De France : Blois - Clermont  (CH193fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:45",
+      "datetime": "16-11-2025 15:45",
+      "league": "Coupe De France",
+      "teams": "Boulogne - Dunkerque",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:45) Coupe De France : Boulogne - Dunkerque  (CH192fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:45",
+      "datetime": "16-11-2025 15:45",
+      "league": "Coupe De France",
+      "teams": "EBBE - Bordeaux",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:45) Coupe De France : EBBE - Bordeaux  (CH4fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "15:45",
+      "datetime": "16-11-2025 15:45",
+      "league": "Coupe De France",
+      "teams": "Nancy - GSA Tomblaine",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (15:45) Coupe De France : Nancy - GSA Tomblaine  (CH194fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "16:10",
+      "datetime": "16-11-2025 16:10",
+      "league": "Tournée Automne",
+      "teams": "Ecosse - Argentine",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (16:10) Tournée Automne : Ecosse - Argentine  (CH1fr) (CH91es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "16:15",
+      "datetime": "16-11-2025 16:15",
+      "league": "Laliga 2",
+      "teams": "Almeria - Cadix CF",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (16:15) Laliga 2 : Almeria - Cadix CF  (CH53es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "16:15",
+      "datetime": "16-11-2025 16:15",
+      "league": "Laliga 2",
+      "teams": "Gijon - Eibar",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (16:15) Laliga 2 : Gijon - Eibar  (CH54es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "17:00",
+      "datetime": "16-11-2025 17:00",
+      "league": "Liga Endesa",
+      "teams": "Real Madrid - Bilbao",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (17:00) Liga Endesa : Real Madrid - Bilbao  (CH67es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "18:00",
+      "datetime": "16-11-2025 18:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Albanie - Angleterre",
+      "channels": [
+        {
+          "id": "19",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (18:00) Qualif. Cm Europe : Albanie - Angleterre  (CH19fr) (CH130gb) (CH87es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "18:00",
+      "datetime": "16-11-2025 18:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Azerbaïdjan - France",
+      "channels": [
+        {
+          "id": "24",
+          "lang": "fr"
+        },
+        {
+          "id": "113",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (18:00) Qualif. Cm Europe : Azerbaïdjan - France  (CH24fr) (CH113es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "18:00",
+      "datetime": "16-11-2025 18:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Serbie - Lettonie",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (18:00) Qualif. Cm Europe : Serbie - Lettonie  (CH114us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "18:00",
+      "datetime": "16-11-2025 18:00",
+      "league": "Qualif. Cm Europe",
+      "teams": "Ukraine - Islande",
+      "channels": [
+        {
+          "id": "115",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (18:00) Qualif. Cm Europe : Ukraine - Islande  (CH115us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "18:30",
+      "datetime": "16-11-2025 18:30",
+      "league": "Laliga 2",
+      "teams": "Cordoba - La Corogne",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (18:30) Laliga 2 : Cordoba - La Corogne  (CH53es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "18:30",
+      "datetime": "16-11-2025 18:30",
+      "league": "Laliga 2",
+      "teams": "Mirandes - Burgos CF",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (18:30) Laliga 2 : Mirandes - Burgos CF  (CH54es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "Liga Endesa",
+      "teams": "Barcelone - Baskonia",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) Liga Endesa : Barcelone - Baskonia  (CH67es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "Atlanta Falcons - Carolina Panthers",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : Atlanta Falcons - Carolina Panthers  (CH171us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "Buffalo Bills - Tampa Bay Buccaneers",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : Buffalo Bills - Tampa Bay Buccaneers  (CH172us) (CH91es) (CH101es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "Jacksonville Jaguars - Los Angeles Chargers",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : Jacksonville Jaguars - Los Angeles Chargers  (CH173us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "Minnesota Vikings - Chicago Bears",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        },
+        {
+          "id": "102",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : Minnesota Vikings - Chicago Bears  (CH174us) (CH102es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "NFL RedZone -",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : NFL RedZone -   (CH4fr) (CH100es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "New York Giants - Green Bay Packers",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : New York Giants - Green Bay Packers  (CH175us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "Pittsburgh Steelers - Cincinnati Bengals",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        },
+        {
+          "id": "92",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : Pittsburgh Steelers - Cincinnati Bengals  (CH176us) (CH92es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "19:00",
+      "datetime": "16-11-2025 19:00",
+      "league": "NFL",
+      "teams": "Tennessee Titans - Houston Texans",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (19:00) NFL : Tennessee Titans - Houston Texans  (CH177us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "20:00",
+      "datetime": "16-11-2025 20:00",
+      "league": "Qualif. Cm Afrique",
+      "teams": "Nigéria - RD Congo",
+      "channels": [
+        {
+          "id": "42",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (20:00) Qualif. Cm Afrique : Nigéria - RD Congo  (CH42fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "20:45",
+      "datetime": "16-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Israel - Moldavie",
+      "channels": [
+        {
+          "id": "116",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (20:45) Qualif. Cm Europe : Israel - Moldavie  (CH116us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "20:45",
+      "datetime": "16-11-2025 20:45",
+      "league": "Qualif. Cm Europe",
+      "teams": "Italie - Norvège",
+      "channels": [
+        {
+          "id": "19",
+          "lang": "fr"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (20:45) Qualif. Cm Europe : Italie - Norvège  (CH19fr) (CH87es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "21:00",
+      "datetime": "16-11-2025 21:00",
+      "league": "Laliga 2",
+      "teams": "Saragosse - Huesca",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (21:00) Laliga 2 : Saragosse - Huesca  (CH53es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "21:00",
+      "datetime": "16-11-2025 21:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Sport Boys - Alianza Atl.",
+      "channels": [
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (21:00) Liga 1 Te Apuesto : Sport Boys - Alianza Atl.  (CH85es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "21:00",
+      "datetime": "16-11-2025 21:00",
+      "league": "Pro D2",
+      "teams": "RC Vannes - FC Grenoble",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-11-2025 (21:00) Pro D2 : RC Vannes - FC Grenoble  (CH11fr)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "21:00",
+      "datetime": "16-11-2025 21:00",
+      "league": "Torneo LPF",
+      "teams": "Instituto - Talleres Cordoba",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (21:00) Torneo LPF : Instituto - Talleres Cordoba  (CH76es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "21:00",
+      "datetime": "16-11-2025 21:00",
+      "league": "Torneo LPF",
+      "teams": "Velez Sarsfield - River Plate",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (21:00) Torneo LPF : Velez Sarsfield - River Plate  (CH75es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "21:30",
+      "datetime": "16-11-2025 21:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (21:30) NBA : Boston Celtics - Los Angeles Clippers  (CH160us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "22:00",
+      "datetime": "16-11-2025 22:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Liverpool M. - Penarol",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (22:00) Liga AUF Uruguaya : Liverpool M. - Penarol  (CH109es) (CH74es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "22:00",
+      "datetime": "16-11-2025 22:00",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Sacramento Kings",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (22:00) NBA : San Antonio Spurs - Sacramento Kings  (CH161us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "22:05",
+      "datetime": "16-11-2025 22:05",
+      "league": "NFL",
+      "teams": "Arizona Cardinals - San Francisco 49ers",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        },
+        {
+          "id": "102",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (22:05) NFL : Arizona Cardinals - San Francisco 49ers  (CH178us) (CH102es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "22:05",
+      "datetime": "16-11-2025 22:05",
+      "league": "NFL",
+      "teams": "Los Angeles Rams - Seattle Seahawks",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (22:05) NFL : Los Angeles Rams - Seattle Seahawks  (CH179us) (CH93es) (CH101es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "22:25",
+      "datetime": "16-11-2025 22:25",
+      "league": "NFL",
+      "teams": "Cleveland Browns - Baltimore Ravens",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (22:25) NFL : Cleveland Browns - Baltimore Ravens  (CH180us)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "22:25",
+      "datetime": "16-11-2025 22:25",
+      "league": "NFL",
+      "teams": "Denver Broncos - Kansas City Chiefs",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "181",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (22:25) NFL : Denver Broncos - Kansas City Chiefs  (CH2fr) (CH181us) (CH91es) (CH157es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "23:00",
+      "datetime": "16-11-2025 23:00",
+      "league": "Copa Colombia",
+      "teams": "America De Cali - Atl. Nacional",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-11-2025 (23:00) Copa Colombia : America De Cali - Atl. Nacional  (CH81es)"
+    },
+    {
+      "date": "16-11-2025",
+      "time": "23:00",
+      "datetime": "16-11-2025 23:00",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-11-2025 (23:00) NHL : Tampa Bay Lightning - Vancouver Canucks  (CH183us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:00",
+      "datetime": "17-11-2025 00:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Cancun - Atl. Morelia",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:00) Liga De Expansion Mx : Cancun - Atl. Morelia  (CH105es) (CH97es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:00",
+      "datetime": "17-11-2025 00:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:00) NBA : Washington Wizards - Brooklyn Nets  (CH162us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:00",
+      "datetime": "17-11-2025 00:00",
+      "league": "NHL",
+      "teams": "Minnesota Wild - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:00) NHL : Minnesota Wild - Vegas Golden Knights  (CH184us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:15",
+      "datetime": "17-11-2025 00:15",
+      "league": "Torneo LPF",
+      "teams": "Boca Juniors - Tigre",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:15) Torneo LPF : Boca Juniors - Tigre  (CH76es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:15",
+      "datetime": "17-11-2025 00:15",
+      "league": "Torneo LPF",
+      "teams": "Central Cordoba - Banfield",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:15) Torneo LPF : Central Cordoba - Banfield  (CH155es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:15",
+      "datetime": "17-11-2025 00:15",
+      "league": "Torneo LPF",
+      "teams": "Estudiantes - Argentinos Jrs",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:15) Torneo LPF : Estudiantes - Argentinos Jrs  (CH156es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "00:15",
+      "datetime": "17-11-2025 00:15",
+      "league": "Torneo LPF",
+      "teams": "Newells Old Boys - Racing Club",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (00:15) Torneo LPF : Newells Old Boys - Racing Club  (CH75es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "01:00",
+      "datetime": "17-11-2025 01:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Orlando Magic",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (01:00) NBA : Houston Rockets - Orlando Magic  (CH163us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "01:00",
+      "datetime": "17-11-2025 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Golden State Warriors",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (01:00) NBA : New Orleans Pelicans - Golden State Warriors  (CH164us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "01:00",
+      "datetime": "17-11-2025 01:00",
+      "league": "NHL",
+      "teams": "New York Rangers - Detroit Red Wings",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (01:00) NHL : New York Rangers - Detroit Red Wings  (CH185us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "01:30",
+      "datetime": "17-11-2025 01:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (01:30) NBA : Dallas Mavericks - Portland Trail Blazers  (CH165us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "02:00",
+      "datetime": "17-11-2025 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Club America F - Guadalajara F",
+      "channels": [
+        {
+          "id": "106",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (02:00) Liga Mx Women : Club America F - Guadalajara F  (CH106es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "02:00",
+      "datetime": "17-11-2025 02:00",
+      "league": "NBA",
+      "teams": "Phoenix Suns - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (02:00) NBA : Phoenix Suns - Atlanta Hawks  (CH166us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "02:00",
+      "datetime": "17-11-2025 02:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Chicago Bulls",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (02:00) NBA : Utah Jazz - Chicago Bulls  (CH167us)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "02:20",
+      "datetime": "17-11-2025 02:20",
+      "league": "NFL",
+      "teams": "Philadelphia Eagles - Detroit Lions",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "170",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (02:20) NFL : Philadelphia Eagles - Detroit Lions  (CH2fr) (CH170us) (CH88es) (CH97es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "03:00",
+      "datetime": "17-11-2025 03:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Tampico Madero - Leones Negros",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-11-2025 (03:00) Liga De Expansion Mx : Tampico Madero - Leones Negros  (CH105es) (CH100es)"
+    },
+    {
+      "date": "17-11-2025",
+      "time": "03:00",
+      "datetime": "17-11-2025 03:00",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - New York Islanders",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-11-2025 (03:00) NHL : Colorado Avalanche - New York Islanders  (CH186us)"
     }
   ],
   "player_streams": {
@@ -105,7 +1109,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-16T09:31:28.879991"
+      "extracted_at": "2025-11-16T09:48:58.043212"
     },
     "hoca": {
       "name": "hoca",
@@ -114,7 +1118,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-16T09:31:30.444637"
+      "extracted_at": "2025-11-16T09:48:59.334255"
     },
     "Caster": {
       "name": "Caster",
@@ -123,7 +1127,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-16T09:31:32.551040"
+      "extracted_at": "2025-11-16T09:49:01.639297"
     },
     "WIGI": {
       "name": "WIGI",
@@ -132,7 +1136,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-16T09:31:34.690910"
+      "extracted_at": "2025-11-16T09:49:03.694696"
     }
   },
   "player_urls": {

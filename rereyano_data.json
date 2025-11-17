@@ -1,114 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-17T01:13:23.992538",
-  "total_events": 17,
+  "last_updated": "2025-11-17T02:53:12.272877",
+  "total_events": 10,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "17-11-2025",
-      "time": "00:00",
-      "datetime": "17-11-2025 00:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Cancun - Atl. Morelia",
-      "channels": [
-        {
-          "id": "105",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:00) Liga De Expansion Mx : Cancun - Atl. Morelia  (CH105es) (CH97es)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "00:00",
-      "datetime": "17-11-2025 00:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - Brooklyn Nets",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:00) NBA : Washington Wizards - Brooklyn Nets  (CH162us)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "00:00",
-      "datetime": "17-11-2025 00:00",
-      "league": "NHL",
-      "teams": "Minnesota Wild - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:00) NHL : Minnesota Wild - Vegas Golden Knights  (CH184us)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "00:15",
-      "datetime": "17-11-2025 00:15",
-      "league": "Torneo LPF",
-      "teams": "Boca Juniors - Tigre",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:15) Torneo LPF : Boca Juniors - Tigre  (CH76es)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "00:15",
-      "datetime": "17-11-2025 00:15",
-      "league": "Torneo LPF",
-      "teams": "Central Cordoba - Banfield",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:15) Torneo LPF : Central Cordoba - Banfield  (CH155es)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "00:15",
-      "datetime": "17-11-2025 00:15",
-      "league": "Torneo LPF",
-      "teams": "Estudiantes - Argentinos Jrs",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:15) Torneo LPF : Estudiantes - Argentinos Jrs  (CH156es)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "00:15",
-      "datetime": "17-11-2025 00:15",
-      "league": "Torneo LPF",
-      "teams": "Newells Old Boys - Racing Club",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-11-2025 (00:15) Torneo LPF : Newells Old Boys - Racing Club  (CH75es)"
-    },
     {
       "date": "17-11-2025",
       "time": "01:00",
@@ -273,7 +171,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-17T01:13:17.212176"
+      "extracted_at": "2025-11-17T02:53:04.928741"
     },
     "hoca": {
       "name": "hoca",
@@ -282,7 +180,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-17T01:13:18.507767"
+      "extracted_at": "2025-11-17T02:53:06.814831"
     },
     "Caster": {
       "name": "Caster",
@@ -291,7 +189,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-17T01:13:20.743317"
+      "extracted_at": "2025-11-17T02:53:09.049876"
     },
     "WIGI": {
       "name": "WIGI",
@@ -300,7 +198,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-17T01:13:22.992393"
+      "extracted_at": "2025-11-17T02:53:11.272746"
     }
   },
   "player_urls": {

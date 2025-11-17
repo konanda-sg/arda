@@ -1,45 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-17T04:46:20.220954",
-  "total_events": 2,
+  "last_updated": "2025-11-17T05:16:53.817033",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "17-11-2025",
-      "time": "03:00",
-      "datetime": "17-11-2025 03:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Tampico Madero - Leones Negros",
-      "channels": [
-        {
-          "id": "105",
-          "lang": "es"
-        },
-        {
-          "id": "100",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-11-2025 (03:00) Liga De Expansion Mx : Tampico Madero - Leones Negros  (CH105es) (CH100es)"
-    },
-    {
-      "date": "17-11-2025",
-      "time": "03:00",
-      "datetime": "17-11-2025 03:00",
-      "league": "NHL",
-      "teams": "Colorado Avalanche - New York Islanders",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-11-2025 (03:00) NHL : Colorado Avalanche - New York Islanders  (CH186us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -47,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-17T04:46:13.558299"
+      "extracted_at": "2025-11-17T05:16:45.728025"
     },
     "hoca": {
       "name": "hoca",
@@ -56,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-17T04:46:15.089169"
+      "extracted_at": "2025-11-17T05:16:47.203457"
     },
     "Caster": {
       "name": "Caster",
@@ -65,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-17T04:46:17.226252"
+      "extracted_at": "2025-11-17T05:16:49.970538"
     },
     "WIGI": {
       "name": "WIGI",
@@ -74,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-17T04:46:19.220801"
+      "extracted_at": "2025-11-17T05:16:52.816893"
     }
   },
   "player_urls": {

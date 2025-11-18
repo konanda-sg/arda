@@ -1,25 +1,24 @@
 {
   "extractor": "StreamBTW",
-  "last_updated": "2025-11-18T17:42:58.956720",
-  "total_items": 12,
-  "sports_count": 3,
-  "m3u8_extracted": 12,
-  "accessible_streams": 12,
+  "last_updated": "2025-11-18T18:31:27.952743",
+  "total_items": 7,
+  "sports_count": 2,
+  "m3u8_extracted": 7,
+  "accessible_streams": 7,
   "sports": [
     "SOCCER",
-    "NFL",
     "NBA"
   ],
   "items": [
     {
-      "title": "Germany vs Slovakia",
+      "title": "Spain vs Turkey",
       "sport": "SOCCER",
       "icon": "⚽",
       "link": "https://streambtw.live/iframe/ch1.php",
       "thumbnail": "https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg",
-      "extracted_at": "2025-11-18T17:42:49.190941",
+      "extracted_at": "2025-11-18T18:31:19.289001",
       "playable_link": {
-        "m3u8_url": "https://streameast.asia/playlist/stream_1.m3u8?md5=guSZVQiH6gpSf1qowl8xow&expires=1763491369",
+        "m3u8_url": "https://streameast.asia/playlist/stream_1.m3u8?md5=XL5Y_rfJTA10XSZMKkySnw&expires=1763494280",
         "iframe_url": "https://streambtw.live/iframe/ch1.php",
         "page_url": "https://streambtw.live/iframe/ch1.php",
         "headers": {
@@ -36,102 +35,18 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/ch1.php",
-        "extracted_at": "2025-11-18T17:42:50.396527"
+        "extracted_at": "2025-11-18T18:31:21.063946"
       }
     },
     {
-      "title": "Netherlands vs Lithuania",
-      "sport": "SOCCER",
-      "icon": "⚽",
-      "link": "https://streambtw.live/iframe/ch2.php",
-      "thumbnail": "https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg",
-      "extracted_at": "2025-11-18T17:42:49.191182",
-      "playable_link": {
-        "m3u8_url": "https://streameast.asia/playlist/stream_2.m3u8?md5=OfEHZLzG3bB7hp_eWXCakA&expires=1763491370",
-        "iframe_url": "https://streambtw.live/iframe/ch2.php",
-        "page_url": "https://streambtw.live/iframe/ch2.php",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "Referer": "https://streambtw.live/iframe/ch2.php",
-          "Origin": "https://streambtw.live",
-          "Accept": "*/*",
-          "Accept-Language": "en-US,en;q=0.9",
-          "Connection": "keep-alive",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site"
-        },
-        "is_accessible": true,
-        "origin": "https://streambtw.live",
-        "referer": "https://streambtw.live/iframe/ch2.php",
-        "extracted_at": "2025-11-18T17:42:51.520658"
-      }
-    },
-    {
-      "title": "Northern Ireland vs Luxembourg",
-      "sport": "SOCCER",
-      "icon": "⚽",
-      "link": "https://streambtw.live/iframe/ch3.php",
-      "thumbnail": "https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg",
-      "extracted_at": "2025-11-18T17:42:49.191354",
-      "playable_link": {
-        "m3u8_url": "https://streameast.asia/playlist/stream_3.m3u8?md5=agj37OxVkttsgJXNSojdNw&expires=1763491371",
-        "iframe_url": "https://streambtw.live/iframe/ch3.php",
-        "page_url": "https://streambtw.live/iframe/ch3.php",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "Referer": "https://streambtw.live/iframe/ch3.php",
-          "Origin": "https://streambtw.live",
-          "Accept": "*/*",
-          "Accept-Language": "en-US,en;q=0.9",
-          "Connection": "keep-alive",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site"
-        },
-        "is_accessible": true,
-        "origin": "https://streambtw.live",
-        "referer": "https://streambtw.live/iframe/ch3.php",
-        "extracted_at": "2025-11-18T17:42:52.497484"
-      }
-    },
-    {
-      "title": "Oakland Raiders vs Dallas Cowboys",
-      "sport": "NFL",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/nfl1.php",
-      "thumbnail": "https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg",
-      "extracted_at": "2025-11-18T17:42:49.191515",
-      "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nfl1.m3u8?md5=x07jqSyRm08jay6-wYh0dg&expires=1763491372",
-        "iframe_url": "https://streambtw.live/iframe/nfl1.php",
-        "page_url": "https://streambtw.live/iframe/nfl1.php",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "Referer": "https://streambtw.live/iframe/nfl1.php",
-          "Origin": "https://streambtw.live",
-          "Accept": "*/*",
-          "Accept-Language": "en-US,en;q=0.9",
-          "Connection": "keep-alive",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site"
-        },
-        "is_accessible": true,
-        "origin": "https://streambtw.live",
-        "referer": "https://streambtw.live/iframe/nfl1.php",
-        "extracted_at": "2025-11-18T17:42:53.298136"
-      }
-    },
-    {
-      "title": "Philadelphia 76ers vs LA Clippers",
+      "title": "Orlando Magic vs Golden State Warriors",
       "sport": "NBA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba1.php",
       "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.191681",
+      "extracted_at": "2025-11-18T18:31:19.289217",
       "playable_link": {
-        "m3u8_url": "https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=kyHqHObe_aSC3-WWP4gIDw&expires=1763491373",
+        "m3u8_url": "https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=0GyHRZcYxCtjaADn1_ksQg&expires=1763494281",
         "iframe_url": "https://streambtw.live/iframe/nba1.php",
         "page_url": "https://streambtw.live/iframe/nba1.php",
         "headers": {
@@ -148,18 +63,18 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/nba1.php",
-        "extracted_at": "2025-11-18T17:42:54.079330"
+        "extracted_at": "2025-11-18T18:31:22.107911"
       }
     },
     {
-      "title": "Detroit Pistons vs Indiana Pacers",
+      "title": "Brooklyn Nets vs Boston Celtics",
       "sport": "NBA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba2.php",
       "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.191839",
+      "extracted_at": "2025-11-18T18:31:19.289385",
       "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba2.m3u8?md5=mxfefRdkOCiBzgDo7YXn6g&expires=1763491374",
+        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba2.m3u8?md5=QojP2eHzW7f3B6rNb_c8ug&expires=1763494282",
         "iframe_url": "https://streambtw.live/iframe/nba2.php",
         "page_url": "https://streambtw.live/iframe/nba2.php",
         "headers": {
@@ -176,18 +91,18 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/nba2.php",
-        "extracted_at": "2025-11-18T17:42:54.860104"
+        "extracted_at": "2025-11-18T18:31:23.249081"
       }
     },
     {
-      "title": "Cleveland Cavaliers vs Milwaukee Bucks",
+      "title": "Atlanta Hawks vs Detroit Pistons",
       "sport": "NBA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba3.php",
       "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.191991",
+      "extracted_at": "2025-11-18T18:31:19.289545",
       "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba3.m3u8?md5=SOWoi8_fguRbDl5u7w4-xg&expires=1763491375",
+        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba3.m3u8?md5=6rt29sG5CuCujbbXqQUOyQ&expires=1763494283",
         "iframe_url": "https://streambtw.live/iframe/nba3.php",
         "page_url": "https://streambtw.live/iframe/nba3.php",
         "headers": {
@@ -204,18 +119,18 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/nba3.php",
-        "extracted_at": "2025-11-18T17:42:55.763199"
+        "extracted_at": "2025-11-18T18:31:24.251861"
       }
     },
     {
-      "title": "Toronto Raptors vs Charlotte Hornets",
+      "title": "San Antonio Spurs vs Memphis Grizzlies",
       "sport": "NBA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba4.php",
       "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.192158",
+      "extracted_at": "2025-11-18T18:31:19.289709",
       "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba4.m3u8?md5=jl_MQ1dydZtT-3G4R6lciA&expires=1763491376",
+        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba4.m3u8?md5=fCmzDeeKsWxvCeE_zDzKFg&expires=1763494284",
         "iframe_url": "https://streambtw.live/iframe/nba4.php",
         "page_url": "https://streambtw.live/iframe/nba4.php",
         "headers": {
@@ -232,18 +147,18 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/nba4.php",
-        "extracted_at": "2025-11-18T17:42:56.429166"
+        "extracted_at": "2025-11-18T18:31:25.708418"
       }
     },
     {
-      "title": "Miami Heat vs New York Knicks",
+      "title": "Los Angeles Lakers vs Utah Jazz",
       "sport": "NBA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba5.php",
       "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.192315",
+      "extracted_at": "2025-11-18T18:31:19.289883",
       "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba5.m3u8?md5=hQXf6kTG-NpOYzKcWwH4Qg&expires=1763491376",
+        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba5.m3u8?md5=g43eQA3UwxyngkXolNAvHg&expires=1763494286",
         "iframe_url": "https://streambtw.live/iframe/nba5.php",
         "page_url": "https://streambtw.live/iframe/nba5.php",
         "headers": {
@@ -260,18 +175,18 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/nba5.php",
-        "extracted_at": "2025-11-18T17:42:57.069558"
+        "extracted_at": "2025-11-18T18:31:26.872358"
       }
     },
     {
-      "title": "New Orleans Pelicans vs Oklahoma City Thunder",
+      "title": "Portland Trail Blazers vs Phoenix Suns",
       "sport": "NBA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba6.php",
       "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.192470",
+      "extracted_at": "2025-11-18T18:31:19.290040",
       "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba6.m3u8?md5=chbM3__nUWCezeRYs-O2Iw&expires=1763491377",
+        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba6.m3u8?md5=HXRqiHAt4GbBhdQZ7w1uzQ&expires=1763494287",
         "iframe_url": "https://streambtw.live/iframe/nba6.php",
         "page_url": "https://streambtw.live/iframe/nba6.php",
         "headers": {
@@ -288,77 +203,21 @@
         "is_accessible": true,
         "origin": "https://streambtw.live",
         "referer": "https://streambtw.live/iframe/nba6.php",
-        "extracted_at": "2025-11-18T17:42:57.593671"
-      }
-    },
-    {
-      "title": "Minnesota Timberwolves vs Dallas Mavericks",
-      "sport": "NBA",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/nba7.php",
-      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.192621",
-      "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba7.m3u8?md5=jeVna17rO_ucnTkNikxeYQ&expires=1763491377",
-        "iframe_url": "https://streambtw.live/iframe/nba7.php",
-        "page_url": "https://streambtw.live/iframe/nba7.php",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "Referer": "https://streambtw.live/iframe/nba7.php",
-          "Origin": "https://streambtw.live",
-          "Accept": "*/*",
-          "Accept-Language": "en-US,en;q=0.9",
-          "Connection": "keep-alive",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site"
-        },
-        "is_accessible": true,
-        "origin": "https://streambtw.live",
-        "referer": "https://streambtw.live/iframe/nba7.php",
-        "extracted_at": "2025-11-18T17:42:58.273216"
-      }
-    },
-    {
-      "title": "Denver Nuggets vs Chicago Bulls",
-      "sport": "NBA",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/nba8.php",
-      "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-      "extracted_at": "2025-11-18T17:42:49.192772",
-      "playable_link": {
-        "m3u8_url": "https://play.streameast247.com/playlist/stream_nba8.m3u8?md5=XYLClb16Y-o8CvLZ-An5Lg&expires=1763491378",
-        "iframe_url": "https://streambtw.live/iframe/nba8.php",
-        "page_url": "https://streambtw.live/iframe/nba8.php",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "Referer": "https://streambtw.live/iframe/nba8.php",
-          "Origin": "https://streambtw.live",
-          "Accept": "*/*",
-          "Accept-Language": "en-US,en;q=0.9",
-          "Connection": "keep-alive",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site"
-        },
-        "is_accessible": true,
-        "origin": "https://streambtw.live",
-        "referer": "https://streambtw.live/iframe/nba8.php",
-        "extracted_at": "2025-11-18T17:42:58.956680"
+        "extracted_at": "2025-11-18T18:31:27.952510"
       }
     }
   ],
   "by_sport": {
     "SOCCER": [
       {
-        "title": "Germany vs Slovakia",
+        "title": "Spain vs Turkey",
         "sport": "SOCCER",
         "icon": "⚽",
         "link": "https://streambtw.live/iframe/ch1.php",
         "thumbnail": "https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg",
-        "extracted_at": "2025-11-18T17:42:49.190941",
+        "extracted_at": "2025-11-18T18:31:19.289001",
         "playable_link": {
-          "m3u8_url": "https://streameast.asia/playlist/stream_1.m3u8?md5=guSZVQiH6gpSf1qowl8xow&expires=1763491369",
+          "m3u8_url": "https://streameast.asia/playlist/stream_1.m3u8?md5=XL5Y_rfJTA10XSZMKkySnw&expires=1763494280",
           "iframe_url": "https://streambtw.live/iframe/ch1.php",
           "page_url": "https://streambtw.live/iframe/ch1.php",
           "headers": {
@@ -375,106 +234,20 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/ch1.php",
-          "extracted_at": "2025-11-18T17:42:50.396527"
-        }
-      },
-      {
-        "title": "Netherlands vs Lithuania",
-        "sport": "SOCCER",
-        "icon": "⚽",
-        "link": "https://streambtw.live/iframe/ch2.php",
-        "thumbnail": "https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg",
-        "extracted_at": "2025-11-18T17:42:49.191182",
-        "playable_link": {
-          "m3u8_url": "https://streameast.asia/playlist/stream_2.m3u8?md5=OfEHZLzG3bB7hp_eWXCakA&expires=1763491370",
-          "iframe_url": "https://streambtw.live/iframe/ch2.php",
-          "page_url": "https://streambtw.live/iframe/ch2.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://streambtw.live/iframe/ch2.php",
-            "Origin": "https://streambtw.live",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site"
-          },
-          "is_accessible": true,
-          "origin": "https://streambtw.live",
-          "referer": "https://streambtw.live/iframe/ch2.php",
-          "extracted_at": "2025-11-18T17:42:51.520658"
-        }
-      },
-      {
-        "title": "Northern Ireland vs Luxembourg",
-        "sport": "SOCCER",
-        "icon": "⚽",
-        "link": "https://streambtw.live/iframe/ch3.php",
-        "thumbnail": "https://artwork.espncdn.com/categories/119cfa41-71d4-39bf-a790-6273a52b0259/logo/original_201809051718.svg",
-        "extracted_at": "2025-11-18T17:42:49.191354",
-        "playable_link": {
-          "m3u8_url": "https://streameast.asia/playlist/stream_3.m3u8?md5=agj37OxVkttsgJXNSojdNw&expires=1763491371",
-          "iframe_url": "https://streambtw.live/iframe/ch3.php",
-          "page_url": "https://streambtw.live/iframe/ch3.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://streambtw.live/iframe/ch3.php",
-            "Origin": "https://streambtw.live",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site"
-          },
-          "is_accessible": true,
-          "origin": "https://streambtw.live",
-          "referer": "https://streambtw.live/iframe/ch3.php",
-          "extracted_at": "2025-11-18T17:42:52.497484"
-        }
-      }
-    ],
-    "NFL": [
-      {
-        "title": "Oakland Raiders vs Dallas Cowboys",
-        "sport": "NFL",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/nfl1.php",
-        "thumbnail": "https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg",
-        "extracted_at": "2025-11-18T17:42:49.191515",
-        "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nfl1.m3u8?md5=x07jqSyRm08jay6-wYh0dg&expires=1763491372",
-          "iframe_url": "https://streambtw.live/iframe/nfl1.php",
-          "page_url": "https://streambtw.live/iframe/nfl1.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://streambtw.live/iframe/nfl1.php",
-            "Origin": "https://streambtw.live",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site"
-          },
-          "is_accessible": true,
-          "origin": "https://streambtw.live",
-          "referer": "https://streambtw.live/iframe/nfl1.php",
-          "extracted_at": "2025-11-18T17:42:53.298136"
+          "extracted_at": "2025-11-18T18:31:21.063946"
         }
       }
     ],
     "NBA": [
       {
-        "title": "Philadelphia 76ers vs LA Clippers",
+        "title": "Orlando Magic vs Golden State Warriors",
         "sport": "NBA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba1.php",
         "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.191681",
+        "extracted_at": "2025-11-18T18:31:19.289217",
         "playable_link": {
-          "m3u8_url": "https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=kyHqHObe_aSC3-WWP4gIDw&expires=1763491373",
+          "m3u8_url": "https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=0GyHRZcYxCtjaADn1_ksQg&expires=1763494281",
           "iframe_url": "https://streambtw.live/iframe/nba1.php",
           "page_url": "https://streambtw.live/iframe/nba1.php",
           "headers": {
@@ -491,18 +264,18 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/nba1.php",
-          "extracted_at": "2025-11-18T17:42:54.079330"
+          "extracted_at": "2025-11-18T18:31:22.107911"
         }
       },
       {
-        "title": "Detroit Pistons vs Indiana Pacers",
+        "title": "Brooklyn Nets vs Boston Celtics",
         "sport": "NBA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba2.php",
         "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.191839",
+        "extracted_at": "2025-11-18T18:31:19.289385",
         "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba2.m3u8?md5=mxfefRdkOCiBzgDo7YXn6g&expires=1763491374",
+          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba2.m3u8?md5=QojP2eHzW7f3B6rNb_c8ug&expires=1763494282",
           "iframe_url": "https://streambtw.live/iframe/nba2.php",
           "page_url": "https://streambtw.live/iframe/nba2.php",
           "headers": {
@@ -519,18 +292,18 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/nba2.php",
-          "extracted_at": "2025-11-18T17:42:54.860104"
+          "extracted_at": "2025-11-18T18:31:23.249081"
         }
       },
       {
-        "title": "Cleveland Cavaliers vs Milwaukee Bucks",
+        "title": "Atlanta Hawks vs Detroit Pistons",
         "sport": "NBA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba3.php",
         "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.191991",
+        "extracted_at": "2025-11-18T18:31:19.289545",
         "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba3.m3u8?md5=SOWoi8_fguRbDl5u7w4-xg&expires=1763491375",
+          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba3.m3u8?md5=6rt29sG5CuCujbbXqQUOyQ&expires=1763494283",
           "iframe_url": "https://streambtw.live/iframe/nba3.php",
           "page_url": "https://streambtw.live/iframe/nba3.php",
           "headers": {
@@ -547,18 +320,18 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/nba3.php",
-          "extracted_at": "2025-11-18T17:42:55.763199"
+          "extracted_at": "2025-11-18T18:31:24.251861"
         }
       },
       {
-        "title": "Toronto Raptors vs Charlotte Hornets",
+        "title": "San Antonio Spurs vs Memphis Grizzlies",
         "sport": "NBA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba4.php",
         "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.192158",
+        "extracted_at": "2025-11-18T18:31:19.289709",
         "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba4.m3u8?md5=jl_MQ1dydZtT-3G4R6lciA&expires=1763491376",
+          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba4.m3u8?md5=fCmzDeeKsWxvCeE_zDzKFg&expires=1763494284",
           "iframe_url": "https://streambtw.live/iframe/nba4.php",
           "page_url": "https://streambtw.live/iframe/nba4.php",
           "headers": {
@@ -575,18 +348,18 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/nba4.php",
-          "extracted_at": "2025-11-18T17:42:56.429166"
+          "extracted_at": "2025-11-18T18:31:25.708418"
         }
       },
       {
-        "title": "Miami Heat vs New York Knicks",
+        "title": "Los Angeles Lakers vs Utah Jazz",
         "sport": "NBA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba5.php",
         "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.192315",
+        "extracted_at": "2025-11-18T18:31:19.289883",
         "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba5.m3u8?md5=hQXf6kTG-NpOYzKcWwH4Qg&expires=1763491376",
+          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba5.m3u8?md5=g43eQA3UwxyngkXolNAvHg&expires=1763494286",
           "iframe_url": "https://streambtw.live/iframe/nba5.php",
           "page_url": "https://streambtw.live/iframe/nba5.php",
           "headers": {
@@ -603,18 +376,18 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/nba5.php",
-          "extracted_at": "2025-11-18T17:42:57.069558"
+          "extracted_at": "2025-11-18T18:31:26.872358"
         }
       },
       {
-        "title": "New Orleans Pelicans vs Oklahoma City Thunder",
+        "title": "Portland Trail Blazers vs Phoenix Suns",
         "sport": "NBA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba6.php",
         "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.192470",
+        "extracted_at": "2025-11-18T18:31:19.290040",
         "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba6.m3u8?md5=chbM3__nUWCezeRYs-O2Iw&expires=1763491377",
+          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba6.m3u8?md5=HXRqiHAt4GbBhdQZ7w1uzQ&expires=1763494287",
           "iframe_url": "https://streambtw.live/iframe/nba6.php",
           "page_url": "https://streambtw.live/iframe/nba6.php",
           "headers": {
@@ -631,63 +404,7 @@
           "is_accessible": true,
           "origin": "https://streambtw.live",
           "referer": "https://streambtw.live/iframe/nba6.php",
-          "extracted_at": "2025-11-18T17:42:57.593671"
-        }
-      },
-      {
-        "title": "Minnesota Timberwolves vs Dallas Mavericks",
-        "sport": "NBA",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/nba7.php",
-        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.192621",
-        "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba7.m3u8?md5=jeVna17rO_ucnTkNikxeYQ&expires=1763491377",
-          "iframe_url": "https://streambtw.live/iframe/nba7.php",
-          "page_url": "https://streambtw.live/iframe/nba7.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://streambtw.live/iframe/nba7.php",
-            "Origin": "https://streambtw.live",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site"
-          },
-          "is_accessible": true,
-          "origin": "https://streambtw.live",
-          "referer": "https://streambtw.live/iframe/nba7.php",
-          "extracted_at": "2025-11-18T17:42:58.273216"
-        }
-      },
-      {
-        "title": "Denver Nuggets vs Chicago Bulls",
-        "sport": "NBA",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/nba8.php",
-        "thumbnail": "https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg",
-        "extracted_at": "2025-11-18T17:42:49.192772",
-        "playable_link": {
-          "m3u8_url": "https://play.streameast247.com/playlist/stream_nba8.m3u8?md5=XYLClb16Y-o8CvLZ-An5Lg&expires=1763491378",
-          "iframe_url": "https://streambtw.live/iframe/nba8.php",
-          "page_url": "https://streambtw.live/iframe/nba8.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://streambtw.live/iframe/nba8.php",
-            "Origin": "https://streambtw.live",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site"
-          },
-          "is_accessible": true,
-          "origin": "https://streambtw.live",
-          "referer": "https://streambtw.live/iframe/nba8.php",
-          "extracted_at": "2025-11-18T17:42:58.956680"
+          "extracted_at": "2025-11-18T18:31:27.952510"
         }
       }
     ]

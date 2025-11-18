@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-18T05:50:40.934745",
-  "total_events": 1,
+  "last_updated": "2025-11-18T06:23:57.068800",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "18-11-2025",
-      "time": "04:00",
-      "datetime": "18-11-2025 04:00",
-      "league": "NHL",
-      "teams": "Anaheim Ducks - Utah Mammoth",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "18-11-2025 (04:00) NHL : Anaheim Ducks - Utah Mammoth  (CH185us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-18T05:50:34.171154"
+      "extracted_at": "2025-11-18T06:23:49.405284"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-18T05:50:35.756235"
+      "extracted_at": "2025-11-18T06:23:50.966010"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-18T05:50:37.903423"
+      "extracted_at": "2025-11-18T06:23:53.340202"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-18T05:50:39.934589"
+      "extracted_at": "2025-11-18T06:23:56.068629"
     }
   },
   "player_urls": {

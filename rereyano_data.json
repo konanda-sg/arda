@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-19T06:50:36.558587",
-  "total_events": 1,
+  "last_updated": "2025-11-19T07:16:08.456782",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "19-11-2025",
-      "time": "05:00",
-      "datetime": "19-11-2025 05:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Phoenix Suns",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-11-2025 (05:00) NBA : Portland Trail Blazers - Phoenix Suns  (CH173us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-19T06:50:29.334120"
+      "extracted_at": "2025-11-19T07:16:01.563099"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-19T06:50:30.918410"
+      "extracted_at": "2025-11-19T07:16:03.098666"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-19T06:50:33.185944"
+      "extracted_at": "2025-11-19T07:16:05.249117"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-19T06:50:35.558437"
+      "extracted_at": "2025-11-19T07:16:07.456641"
     }
   },
   "player_urls": {

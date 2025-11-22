@@ -1,49 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-22T06:21:27.331321",
-  "total_events": 2,
+  "last_updated": "2025-11-22T06:46:50.524387",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "22-11-2025",
-      "time": "04:30",
-      "datetime": "22-11-2025 04:30",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Boston Bruins",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-11-2025 (04:30) NHL : Los Angeles Kings - Boston Bruins  (CH173us)"
-    },
-    {
-      "date": "22-11-2025",
-      "time": "04:40",
-      "datetime": "22-11-2025 04:40",
-      "league": "formula 1",
-      "teams": "GP de Las Vegas  Essais qualificatifs -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-11-2025 (04:40) formula 1 : GP de Las Vegas  Essais qualificatifs -   (CH13fr) (CH60es) (CH87es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -51,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-22T06:21:20.631644"
+      "extracted_at": "2025-11-22T06:46:42.757584"
     },
     "hoca": {
       "name": "hoca",
@@ -60,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-22T06:21:22.074731"
+      "extracted_at": "2025-11-22T06:46:44.531626"
     },
     "Caster": {
       "name": "Caster",
@@ -69,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-22T06:21:24.119072"
+      "extracted_at": "2025-11-22T06:46:47.007569"
     },
     "WIGI": {
       "name": "WIGI",
@@ -78,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-22T06:21:26.331159"
+      "extracted_at": "2025-11-22T06:46:49.524265"
     }
   },
   "player_urls": {

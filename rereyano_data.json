@@ -1,12 +1,3005 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-22T09:49:24.976218",
-  "total_events": 0,
+  "last_updated": "2025-11-22T10:15:20.428787",
+  "total_events": 170,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "22-11-2025",
+      "time": "12:00",
+      "datetime": "22-11-2025 12:00",
+      "league": "Coupe Du Portugal",
+      "teams": "AFS - Academico Viseu",
+      "channels": [
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "22-11-2025 (12:00) Coupe Du Portugal : AFS - Academico Viseu  (CH146pt)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "12:30",
+      "datetime": "22-11-2025 12:30",
+      "league": "Super Lig",
+      "teams": "Kayserispor - Gaziantep",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "22-11-2025 (12:30) Super Lig : Kayserispor - Gaziantep  (CH151tr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:00",
+      "datetime": "22-11-2025 13:00",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:00) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:00",
+      "datetime": "22-11-2025 13:00",
+      "league": "Bundesliga 2",
+      "teams": "Düsseldorf - Magdeburg",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:00) Bundesliga 2 : Düsseldorf - Magdeburg  (CH113de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:00",
+      "datetime": "22-11-2025 13:00",
+      "league": "Bundesliga 2",
+      "teams": "Münster - Schalke 04",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:00) Bundesliga 2 : Münster - Schalke 04  (CH114de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:00",
+      "datetime": "22-11-2025 13:00",
+      "league": "Bundesliga 2",
+      "teams": "Paderborn - Hanovre",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:00) Bundesliga 2 : Paderborn - Hanovre  (CH4fr) (CH115de) (CH78es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:30",
+      "datetime": "22-11-2025 13:30",
+      "league": "Championship",
+      "teams": "Bristol City - Swansea",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:30) Championship : Bristol City - Swansea  (CH190us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:30",
+      "datetime": "22-11-2025 13:30",
+      "league": "Championship",
+      "teams": "Charlton - Southampton",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:30) Championship : Charlton - Southampton  (CH191us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:30",
+      "datetime": "22-11-2025 13:30",
+      "league": "Championship",
+      "teams": "Coventry - West Brom",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:30) Championship : Coventry - West Brom  (CH127us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "13:30",
+      "datetime": "22-11-2025 13:30",
+      "league": "Premier League",
+      "teams": "Burnley - Chelsea",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (13:30) Premier League : Burnley - Chelsea  (CH11fr) (CH126us) (CH56es) (CH120de) (CH87es) (CH72es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "14:00",
+      "datetime": "22-11-2025 14:00",
+      "league": "Laliga",
+      "teams": "Alaves - Celta Vigo",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (14:00) Laliga : Alaves - Celta Vigo  (CH9fr) (CH49es) (CH71es) (CH88es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "14:00",
+      "datetime": "22-11-2025 14:00",
+      "league": "Ligue 2",
+      "teams": "Amiens - Guingamp",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (14:00) Ligue 2 : Amiens - Guingamp  (CH2fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "14:00",
+      "datetime": "22-11-2025 14:00",
+      "league": "Ligue 2",
+      "teams": "Red Star - Clermont",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (14:00) Ligue 2 : Red Star - Clermont  (CH1fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:00",
+      "datetime": "22-11-2025 15:00",
+      "league": "Serie A",
+      "teams": "Cagliari - Genoa",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:00) Serie A : Cagliari - Genoa  (CH139it) (CH97es) (CH70es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:00",
+      "datetime": "22-11-2025 15:00",
+      "league": "Serie A",
+      "teams": "Udinese - Bologne",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "117",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:00) Serie A : Udinese - Bologne  (CH137it) (CH117es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:00",
+      "datetime": "22-11-2025 15:00",
+      "league": "Super Lig",
+      "teams": "Eyupspor - Karagumruk",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:00) Super Lig : Eyupspor - Karagumruk  (CH151tr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:30",
+      "datetime": "22-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "bundesliga konferenz -",
+      "channels": [
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:30) Bundesliga : bundesliga konferenz -   (CH123de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:30",
+      "datetime": "22-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "Augsburg - Hambourg SV",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "110",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:30) Bundesliga : Augsburg - Hambourg SV  (CH7fr) (CH114de) (CH110es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:30",
+      "datetime": "22-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "Bayern Munich - Fribourg",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:30) Bundesliga : Bayern Munich - Fribourg  (CH4fr) (CH112de) (CH116es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:30",
+      "datetime": "22-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "Dortmund - Stuttgart",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "117",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:30) Bundesliga : Dortmund - Stuttgart  (CH5fr) (CH111de) (CH117es) (CH91es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:30",
+      "datetime": "22-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "Heidenheim - B. Monchengladbach",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "119",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:30) Bundesliga : Heidenheim - B. Monchengladbach  (CH8fr) (CH115de) (CH119es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:30",
+      "datetime": "22-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "Wolfsburg - Bayer Leverkusen",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "118",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:30) Bundesliga : Wolfsburg - Bayer Leverkusen  (CH6fr) (CH113de) (CH118es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "15:40",
+      "datetime": "22-11-2025 15:40",
+      "league": "Saudi Pro League",
+      "teams": "Al-Hilal - Al Fateh",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (15:40) Saudi Pro League : Al-Hilal - Al Fateh  (CH55es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "Birmingham - Norwich",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : Birmingham - Norwich  (CH190us) (CH79es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "Derby - Watford",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : Derby - Watford  (CH191us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "Ipswich - Wrexham",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : Ipswich - Wrexham  (CH192us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "Leicester - Stoke",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : Leicester - Stoke  (CH193us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "Oxford Utd - Middlesbrough",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : Oxford Utd - Middlesbrough  (CH194us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "Portsmouth - Millwall",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : Portsmouth - Millwall  (CH195us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Championship",
+      "teams": "QPR - Hull",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Championship : QPR - Hull  (CH196us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Guimaraes - Mortagua",
+      "channels": [
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Coupe Du Portugal : Guimaraes - Mortagua  (CH146pt)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premier League",
+      "teams": "Multiplex Premier League -",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premier League : Multiplex Premier League -   (CH12fr) (CH120de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premier League",
+      "teams": "Bournemouth - West Ham",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premier League : Bournemouth - West Ham  (CH37fr) (CH129us) (CH57es) (CH72es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premier League",
+      "teams": "Brighton - Brentford",
+      "channels": [
+        {
+          "id": "40",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premier League : Brighton - Brentford  (CH40fr) (CH130us) (CH155es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premier League",
+      "teams": "Fulham - Sunderland",
+      "channels": [
+        {
+          "id": "39",
+          "lang": "fr"
+        },
+        {
+          "id": "131",
+          "lang": "us"
+        },
+        {
+          "id": "58",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premier League : Fulham - Sunderland  (CH39fr) (CH131us) (CH58es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premier League",
+      "teams": "Liverpool - Nottingham",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "132",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premier League : Liverpool - Nottingham  (CH14fr) (CH132us) (CH56es) (CH87es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premier League",
+      "teams": "Wolves - Crystal Palace",
+      "channels": [
+        {
+          "id": "38",
+          "lang": "fr"
+        },
+        {
+          "id": "133",
+          "lang": "us"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premier League : Wolves - Crystal Palace  (CH38fr) (CH133us) (CH59es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Premiership",
+      "teams": "Rangers - Livingston",
+      "channels": [
+        {
+          "id": "135",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Premiership : Rangers - Livingston  (CH135us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:00",
+      "datetime": "22-11-2025 16:00",
+      "league": "Pro League",
+      "teams": "Royale Union SG - Cercle Bruges",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:00) Pro League : Royale Union SG - Cercle Bruges  (CH153fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:15",
+      "datetime": "22-11-2025 16:15",
+      "league": "Laliga",
+      "teams": "Barcelone - Ath. Bilbao",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:15) Laliga : Barcelone - Ath. Bilbao  (CH9fr) (CH51es) (CH124de) (CH71es) (CH88es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:15",
+      "datetime": "22-11-2025 16:15",
+      "league": "Laliga 2",
+      "teams": "Andorra - Castellon",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:15) Laliga 2 : Andorra - Castellon  (CH53es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "16:30",
+      "datetime": "22-11-2025 16:30",
+      "league": "Eredivisie",
+      "teams": "Breda - PSV",
+      "channels": [
+        {
+          "id": "143",
+          "lang": "nl"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (16:30) Eredivisie : Breda - PSV  (CH143nl) (CH98es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "17:00",
+      "datetime": "22-11-2025 17:00",
+      "league": "Ligue 1",
+      "teams": "Lens - Strasbourg",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (17:00) Ligue 1 : Lens - Strasbourg  (CH1fr) (CH69es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:00",
+      "datetime": "22-11-2025 18:00",
+      "league": "Serie A",
+      "teams": "Fiorentina - Juventus",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:00) Serie A : Fiorentina - Juventus  (CH45fr) (CH137it) (CH90es) (CH97es) (CH70es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:00",
+      "datetime": "22-11-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Galatasaray - Genclerbirligi",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:00) Super Lig : Galatasaray - Genclerbirligi  (CH6fr) (CH151tr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:15",
+      "datetime": "22-11-2025 18:15",
+      "league": "Pro League",
+      "teams": "Westerlo - La Gantoise",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:15) Pro League : Westerlo - La Gantoise  (CH153fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:30",
+      "datetime": "22-11-2025 18:30",
+      "league": "Betfred Super League",
+      "teams": "Asteras T. - Panetolikos",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:30) Betfred Super League : Asteras T. - Panetolikos  (CH148gr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:30",
+      "datetime": "22-11-2025 18:30",
+      "league": "Bundesliga",
+      "teams": "FC Cologne - Eintracht Francfort",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:30) Bundesliga : FC Cologne - Eintracht Francfort  (CH5fr) (CH111de) (CH116es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:30",
+      "datetime": "22-11-2025 18:30",
+      "league": "Laliga",
+      "teams": "Osasuna - Real Sociedad",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:30) Laliga : Osasuna - Real Sociedad  (CH9fr) (CH49es) (CH71es) (CH95es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:30",
+      "datetime": "22-11-2025 18:30",
+      "league": "Laliga 2",
+      "teams": "Eibar - Saragosse",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:30) Laliga 2 : Eibar - Saragosse  (CH53es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:30",
+      "datetime": "22-11-2025 18:30",
+      "league": "Laliga 2",
+      "teams": "Leganes - Almeria",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:30) Laliga 2 : Leganes - Almeria  (CH54es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:30",
+      "datetime": "22-11-2025 18:30",
+      "league": "Premier League",
+      "teams": "Newcastle - Manchester City",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:30) Premier League : Newcastle - Manchester City  (CH12fr) (CH127us) (CH56es) (CH120de) (CH88es) (CH72es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:45",
+      "datetime": "22-11-2025 18:45",
+      "league": "Eredivisie",
+      "teams": "Ajax - Excelsior",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:45) Eredivisie : Ajax - Excelsior  (CH142nl) (CH98es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "18:45",
+      "datetime": "22-11-2025 18:45",
+      "league": "Eredivisie",
+      "teams": "FC Volendam - Twente",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "22-11-2025 (18:45) Eredivisie : FC Volendam - Twente  (CH141nl)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "19:00",
+      "datetime": "22-11-2025 19:00",
+      "league": "Betfred Super League",
+      "teams": "Olympiakos - Atromitos",
+      "channels": [
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "22-11-2025 (19:00) Betfred Super League : Olympiakos - Atromitos  (CH149gr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "19:00",
+      "datetime": "22-11-2025 19:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Estoril - Famalicao",
+      "channels": [
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "22-11-2025 (19:00) Coupe Du Portugal : Estoril - Famalicao  (CH146pt)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "19:00",
+      "datetime": "22-11-2025 19:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Sporting - Marinhense",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (19:00) Coupe Du Portugal : Sporting - Marinhense  (CH144pt) (CH80es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "19:00",
+      "datetime": "22-11-2025 19:00",
+      "league": "Ligue 1",
+      "teams": "Rennes - Monaco",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (19:00) Ligue 1 : Rennes - Monaco  (CH20fr) (CH69es) (CH124de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "20:00",
+      "datetime": "22-11-2025 20:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Manta - Vinotinto",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (20:00) Ecuador Ligapro : Manta - Vinotinto  (CH86es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "20:00",
+      "datetime": "22-11-2025 20:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Mushuc Runa - Tecnico U.",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (20:00) Ecuador Ligapro : Mushuc Runa - Tecnico U.  (CH86es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "20:00",
+      "datetime": "22-11-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Saint-Étienne - Nancy",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (20:00) Ligue 2 : Saint-Étienne - Nancy  (CH1fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "20:30",
+      "datetime": "22-11-2025 20:30",
+      "league": "Bundesliga 2",
+      "teams": "Darmstadt - Greuther Fürth",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (20:30) Bundesliga 2 : Darmstadt - Greuther Fürth  (CH10fr) (CH112de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "20:45",
+      "datetime": "22-11-2025 20:45",
+      "league": "Pro League",
+      "teams": "Club Brugge - Charleroi",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (20:45) Pro League : Club Brugge - Charleroi  (CH153fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "20:45",
+      "datetime": "22-11-2025 20:45",
+      "league": "Serie A",
+      "teams": "Naples - Atalanta",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "117",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (20:45) Serie A : Naples - Atalanta  (CH45fr) (CH138it) (CH117es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "Copa Sudamericana",
+      "teams": "Lanús - Atlético Mineiro",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) Copa Sudamericana : Lanús - Atlético Mineiro  (CH55es) (CH61es) (CH97es) (CH94es) (CH87es) (CH69es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "D1 Féminin",
+      "teams": "Lyon F - Strasbourg F",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) D1 Féminin : Lyon F - Strasbourg F  (CH12fr)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "Eredivisie",
+      "teams": "Heracles - G.A. Eagles",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) Eredivisie : Heracles - G.A. Eagles  (CH142nl)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "Eredivisie",
+      "teams": "Sparta Rotterdam - Sittard",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) Eredivisie : Sparta Rotterdam - Sittard  (CH141nl)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "Laliga",
+      "teams": "Villarreal - Majorque",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) Laliga : Villarreal - Majorque  (CH3fr) (CH51es) (CH71es) (CH90es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "Laliga 2",
+      "teams": "Grenade - Cordoba",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) Laliga 2 : Grenade - Cordoba  (CH53es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:00",
+      "datetime": "22-11-2025 21:00",
+      "league": "Premiership",
+      "teams": "St. Mirren - Celtic",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:00) Premiership : St. Mirren - Celtic  (CH127us)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:05",
+      "datetime": "22-11-2025 21:05",
+      "league": "Ligue 1",
+      "teams": "PSG - Le Havre",
+      "channels": [
+        {
+          "id": "21",
+          "lang": "fr"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:05) Ligue 1 : PSG - Le Havre  (CH21fr) (CH88es) (CH124de)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:15",
+      "datetime": "22-11-2025 21:15",
+      "league": "Coupe Du Portugal",
+      "teams": "FC Porto - Sintrense",
+      "channels": [
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:15) Coupe Du Portugal : FC Porto - Sintrense  (CH145pt) (CH80es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "21:30",
+      "datetime": "22-11-2025 21:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Los Chankas - U. de Deportes",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (21:30) Liga 1 Te Apuesto : Los Chankas - U. de Deportes  (CH84es) (CH70es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "22:00",
+      "datetime": "22-11-2025 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Coquimbo - La Serena",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (22:00) Campeonato Itaú Chile : Coquimbo - La Serena  (CH83es)"
+    },
+    {
+      "date": "22-11-2025",
+      "time": "23:00",
+      "datetime": "22-11-2025 23:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Santa Fe - Fortaleza",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-11-2025 (23:00) Liga Betplay Dimayor : Santa Fe - Fortaleza  (CH81es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "00:00",
+      "datetime": "23-11-2025 00:00",
+      "league": "Torneo LPF",
+      "teams": "Velez Sarsfield - Argentinos Jrs",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (00:00) Torneo LPF : Velez Sarsfield - Argentinos Jrs  (CH76es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "00:30",
+      "datetime": "23-11-2025 00:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. Catolica - Palestino",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (00:30) Campeonato Itaú Chile : U. Catolica - Palestino  (CH83es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "01:00",
+      "datetime": "23-11-2025 01:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Emelec - Aucas",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (01:00) Ecuador Ligapro : Emelec - Aucas  (CH86es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "01:30",
+      "datetime": "23-11-2025 01:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Tolima - Bucaramanga",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (01:30) Liga Betplay Dimayor : Tolima - Bucaramanga  (CH81es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "01:30",
+      "datetime": "23-11-2025 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Flamengo - Bragantino",
+      "channels": [
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (01:30) Serie A Bresil : Flamengo - Bragantino  (CH82es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "01:30",
+      "datetime": "23-11-2025 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Palmeiras - Fluminense",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (01:30) Serie A Bresil : Palmeiras - Fluminense  (CH55es) (CH61es) (CH82es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "02:00",
+      "datetime": "23-11-2025 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Irapuato - Atl. Morelia",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "xxes"
+        }
+      ],
+      "raw_line": "23-11-2025 (02:00) Liga De Expansion Mx : Irapuato - Atl. Morelia  (CH1xxes)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "02:00",
+      "datetime": "23-11-2025 02:00",
+      "league": "Torneo LPF",
+      "teams": "Central Cordoba - San Lorenzo",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (02:00) Torneo LPF : Central Cordoba - San Lorenzo  (CH75es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "03:30",
+      "datetime": "23-11-2025 03:30",
+      "league": "MLS",
+      "teams": "Vancouver Whitecaps - Los Angeles FC",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-11-2025 (03:30) MLS : Vancouver Whitecaps - Los Angeles FC  (CH160us)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "12:00",
+      "datetime": "23-11-2025 12:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Lusitania FC - Torreense",
+      "channels": [
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "23-11-2025 (12:00) Coupe Du Portugal : Lusitania FC - Torreense  (CH146pt)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "12:15",
+      "datetime": "23-11-2025 12:15",
+      "league": "Eredivisie",
+      "teams": "Heerenveen - Alkmaar",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (12:15) Eredivisie : Heerenveen - Alkmaar  (CH142nl) (CH98es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "12:30",
+      "datetime": "23-11-2025 12:30",
+      "league": "Serie A",
+      "teams": "Hellas Vérone - Parme",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (12:30) Serie A : Hellas Vérone - Parme  (CH137it) (CH124de) (CH97es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "12:30",
+      "datetime": "23-11-2025 12:30",
+      "league": "Super Lig",
+      "teams": "Goztepe - Kocaelispor",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "23-11-2025 (12:30) Super Lig : Goztepe - Kocaelispor  (CH152tr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "13:00",
+      "datetime": "23-11-2025 13:00",
+      "league": "Championship",
+      "teams": "Sheffield Wed - Sheffield Utd",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (13:00) Championship : Sheffield Wed - Sheffield Utd  (CH4fr) (CH127us) (CH78es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "13:30",
+      "datetime": "23-11-2025 13:30",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-11-2025 (13:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH111de)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "13:30",
+      "datetime": "23-11-2025 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Kaiserslautern - Holstein Kiel",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-11-2025 (13:30) Bundesliga 2 : Kaiserslautern - Holstein Kiel  (CH8fr) (CH112de)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "13:30",
+      "datetime": "23-11-2025 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Karlsruher - Elversberg",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-11-2025 (13:30) Bundesliga 2 : Karlsruher - Elversberg  (CH113de)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "13:30",
+      "datetime": "23-11-2025 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Nurnberg - Arminia Bielefeld",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-11-2025 (13:30) Bundesliga 2 : Nurnberg - Arminia Bielefeld  (CH114de)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "13:30",
+      "datetime": "23-11-2025 13:30",
+      "league": "Pro League",
+      "teams": "Genk - Malines",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (13:30) Pro League : Genk - Malines  (CH153fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "14:00",
+      "datetime": "23-11-2025 14:00",
+      "league": "Laliga",
+      "teams": "Oviedo - Vallecano",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (14:00) Laliga : Oviedo - Vallecano  (CH2fr) (CH51es) (CH71es) (CH88es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "14:00",
+      "datetime": "23-11-2025 14:00",
+      "league": "Laliga 2",
+      "teams": "La Corogne - Ceuta",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (14:00) Laliga 2 : La Corogne - Ceuta  (CH53es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "14:30",
+      "datetime": "23-11-2025 14:30",
+      "league": "Eredivisie",
+      "teams": "Feyenoord - Nijmegen",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (14:30) Eredivisie : Feyenoord - Nijmegen  (CH141nl) (CH90es) (CH98es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "14:30",
+      "datetime": "23-11-2025 14:30",
+      "league": "Eredivisie",
+      "teams": "Telstar - Utrecht",
+      "channels": [
+        {
+          "id": "143",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "23-11-2025 (14:30) Eredivisie : Telstar - Utrecht  (CH143nl)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Fafe - Arouca",
+      "channels": [
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) Coupe Du Portugal : Fafe - Arouca  (CH146pt)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "D1 Féminin",
+      "teams": "Saint-Étienne F - PSG F",
+      "channels": [
+        {
+          "id": "00",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) D1 Féminin : Saint-Étienne F - PSG F  (CH00fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "Ligue 1",
+      "teams": "Auxerre - Lyon",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) Ligue 1 : Auxerre - Lyon  (CH20fr) (CH69es) (CH123de)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "Premier League",
+      "teams": "Leeds - Aston Villa",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) Premier League : Leeds - Aston Villa  (CH12fr) (CH127us) (CH56es) (CH120de) (CH87es) (CH155es) (CH73es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "Serie A",
+      "teams": "Cremonese - AS Rome",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) Serie A : Cremonese - AS Rome  (CH45fr) (CH137it) (CH97es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "Super Lig",
+      "teams": "Alanyaspor - Kasimpasa",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) Super Lig : Alanyaspor - Kasimpasa  (CH152tr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:00",
+      "datetime": "23-11-2025 15:00",
+      "league": "Super Lig",
+      "teams": "Besiktas - Samsunspor",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:00) Super Lig : Besiktas - Samsunspor  (CH5fr) (CH151tr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "15:30",
+      "datetime": "23-11-2025 15:30",
+      "league": "Bundesliga",
+      "teams": "RB Leipzig - Werder Brême",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (15:30) Bundesliga : RB Leipzig - Werder Brême  (CH6fr) (CH124de) (CH116es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:00",
+      "datetime": "23-11-2025 16:00",
+      "league": "Betfred Super League",
+      "teams": "Panserraikos - Panathinaikos",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:00) Betfred Super League : Panserraikos - Panathinaikos  (CH148gr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:00",
+      "datetime": "23-11-2025 16:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Antofagasta - Dep. Concepcion",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:00) Campeonato Itaú Chile : Antofagasta - Dep. Concepcion  (CH83es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:00",
+      "datetime": "23-11-2025 16:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Arica - Rangers",
+      "channels": [
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:00) Campeonato Itaú Chile : Arica - Rangers  (CH159es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:00",
+      "datetime": "23-11-2025 16:00",
+      "league": "Premiership",
+      "teams": "Aberdeen - Hearts",
+      "channels": [
+        {
+          "id": "128",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:00) Premiership : Aberdeen - Hearts  (CH128us)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:00",
+      "datetime": "23-11-2025 16:00",
+      "league": "Pro League",
+      "teams": "Antwerp - Dender",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:00) Pro League : Antwerp - Dender  (CH153fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:15",
+      "datetime": "23-11-2025 16:15",
+      "league": "Laliga",
+      "teams": "Betis - Gérone",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:15) Laliga : Betis - Gérone  (CH4fr) (CH49es) (CH71es) (CH95es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:15",
+      "datetime": "23-11-2025 16:15",
+      "league": "Laliga 2",
+      "teams": "Cadix CF - Cultural Leonesa",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:15) Laliga 2 : Cadix CF - Cultural Leonesa  (CH54es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:15",
+      "datetime": "23-11-2025 16:15",
+      "league": "Laliga 2",
+      "teams": "Huesca - Gijon",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:15) Laliga 2 : Huesca - Gijon  (CH53es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "16:45",
+      "datetime": "23-11-2025 16:45",
+      "league": "Eredivisie",
+      "teams": "Groningen - Zwolle",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "23-11-2025 (16:45) Eredivisie : Groningen - Zwolle  (CH142nl)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "17:15",
+      "datetime": "23-11-2025 17:15",
+      "league": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "17:15",
+      "datetime": "23-11-2025 17:15",
+      "league": "Ligue 1",
+      "teams": "Brest - Metz",
+      "channels": [
+        {
+          "id": "22",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (17:15) Ligue 1 : Brest - Metz  (CH22fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "17:15",
+      "datetime": "23-11-2025 17:15",
+      "league": "Ligue 1",
+      "teams": "Nantes - Lorient",
+      "channels": [
+        {
+          "id": "21",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (17:15) Ligue 1 : Nantes - Lorient  (CH21fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "17:15",
+      "datetime": "23-11-2025 17:15",
+      "league": "Ligue 1",
+      "teams": "Toulouse - Angers",
+      "channels": [
+        {
+          "id": "40",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (17:15) Ligue 1 : Toulouse - Angers  (CH40fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "17:30",
+      "datetime": "23-11-2025 17:30",
+      "league": "Bundesliga",
+      "teams": "St. Pauli - Union Berlin",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (17:30) Bundesliga : St. Pauli - Union Berlin  (CH8fr) (CH123de) (CH116es) (CH88es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "17:30",
+      "datetime": "23-11-2025 17:30",
+      "league": "Premier League",
+      "teams": "Arsenal - Tottenham",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-11-2025 (17:30) Premier League : Arsenal - Tottenham  (CH11fr) (CH127us) (CH56es) (CH61es) (CH120de)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:00",
+      "datetime": "23-11-2025 18:00",
+      "league": "Betfred Super League",
+      "teams": "PAOK - Kifisia",
+      "channels": [
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:00) Betfred Super League : PAOK - Kifisia  (CH149gr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:00",
+      "datetime": "23-11-2025 18:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Tondela - Caldas",
+      "channels": [
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:00) Coupe Du Portugal : Tondela - Caldas  (CH146pt)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:00",
+      "datetime": "23-11-2025 18:00",
+      "league": "Serie A",
+      "teams": "Lazio - Lecce",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:00) Serie A : Lazio - Lecce  (CH45fr) (CH138it) (CH70es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:00",
+      "datetime": "23-11-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Rizespor - Fenerbahce",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:00) Super Lig : Rizespor - Fenerbahce  (CH5fr) (CH151tr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:30",
+      "datetime": "23-11-2025 18:30",
+      "league": "Coupe Du Portugal",
+      "teams": "Braga - Nacional",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:30) Coupe Du Portugal : Braga - Nacional  (CH144pt) (CH69es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:30",
+      "datetime": "23-11-2025 18:30",
+      "league": "Laliga",
+      "teams": "Getafe - Atl. Madrid",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:30) Laliga : Getafe - Atl. Madrid  (CH6fr) (CH51es) (CH71es) (CH87es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:30",
+      "datetime": "23-11-2025 18:30",
+      "league": "Laliga 2",
+      "teams": "Burgos CF - Racing Santander",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:30) Laliga 2 : Burgos CF - Racing Santander  (CH53es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:30",
+      "datetime": "23-11-2025 18:30",
+      "league": "Pro League",
+      "teams": "RAAL La Louviere - Anderlecht",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:30) Pro League : RAAL La Louviere - Anderlecht  (CH153fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "18:30",
+      "datetime": "23-11-2025 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al-Nassr - Al Khaleej",
+      "channels": [
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (18:30) Saudi Pro League : Al-Nassr - Al Khaleej  (CH63es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "19:00",
+      "datetime": "23-11-2025 19:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Macara - Delfin",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (19:00) Ecuador Ligapro : Macara - Delfin  (CH86es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "19:15",
+      "datetime": "23-11-2025 19:15",
+      "league": "Pro League",
+      "teams": "Louvain - Saint-Trond",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-11-2025 (19:15) Pro League : Louvain - Saint-Trond  (CH154fr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "20:00",
+      "datetime": "23-11-2025 20:00",
+      "league": "Betfred Super League",
+      "teams": "AEK - Aris",
+      "channels": [
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "23-11-2025 (20:00) Betfred Super League : AEK - Aris  (CH150gr)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "20:00",
+      "datetime": "23-11-2025 20:00",
+      "league": "Serie A Bresil",
+      "teams": "Bahia - Vasco",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (20:00) Serie A Bresil : Bahia - Vasco  (CH61es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "20:30",
+      "datetime": "23-11-2025 20:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Penarol - Nacional",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (20:30) Liga AUF Uruguaya : Penarol - Nacional  (CH109es) (CH74es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "20:45",
+      "datetime": "23-11-2025 20:45",
+      "league": "Ligue 1",
+      "teams": "Lille - Paris FC",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (20:45) Ligue 1 : Lille - Paris FC  (CH20fr) (CH69es) (CH88es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "20:45",
+      "datetime": "23-11-2025 20:45",
+      "league": "Serie A",
+      "teams": "Inter - AC Milan",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (20:45) Serie A : Inter - AC Milan  (CH45fr) (CH137it) (CH123de) (CH87es) (CH97es) (CH70es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "21:00",
+      "datetime": "23-11-2025 21:00",
+      "league": "Laliga",
+      "teams": "Elche - Real Madrid",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "96",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (21:00) Laliga : Elche - Real Madrid  (CH1fr) (CH49es) (CH71es) (CH96es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "21:00",
+      "datetime": "23-11-2025 21:00",
+      "league": "Laliga 2",
+      "teams": "Malaga - Mirandes",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (21:00) Laliga 2 : Malaga - Mirandes  (CH53es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "21:00",
+      "datetime": "23-11-2025 21:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "A. Lima - Cajamarca",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (21:00) Liga 1 Te Apuesto : A. Lima - Cajamarca  (CH84es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "21:00",
+      "datetime": "23-11-2025 21:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Huancayo - Cusco",
+      "channels": [
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (21:00) Liga 1 Te Apuesto : Huancayo - Cusco  (CH85es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "21:30",
+      "datetime": "23-11-2025 21:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Barcelone SC - LDU Quito",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (21:30) Ecuador Ligapro : Barcelone SC - LDU Quito  (CH86es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "21:30",
+      "datetime": "23-11-2025 21:30",
+      "league": "Torneo LPF",
+      "teams": "Rosario - Estudiantes",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (21:30) Torneo LPF : Rosario - Estudiantes  (CH76es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "22:00",
+      "datetime": "23-11-2025 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Cobreloa - S. Wanderers",
+      "channels": [
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (22:00) Campeonato Itaú Chile : Cobreloa - S. Wanderers  (CH159es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "22:00",
+      "datetime": "23-11-2025 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "O'Higgins - U. De Chile",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (22:00) Campeonato Itaú Chile : O'Higgins - U. De Chile  (CH83es)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "23:00",
+      "datetime": "23-11-2025 23:00",
+      "league": "MLS",
+      "teams": "Cincinnati - Inter Miami",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-11-2025 (23:00) MLS : Cincinnati - Inter Miami  (CH160us)"
+    },
+    {
+      "date": "23-11-2025",
+      "time": "23:45",
+      "datetime": "23-11-2025 23:45",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Ind. Medellin - Atl. Nacional",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-11-2025 (23:45) Liga Betplay Dimayor : Ind. Medellin - Atl. Nacional  (CH81es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "00:00",
+      "datetime": "24-11-2025 00:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Ind. del Valle - Orense",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (00:00) Ecuador Ligapro : Ind. del Valle - Orense  (CH86es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "00:00",
+      "datetime": "24-11-2025 00:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Tampico Madero - Tepatitlan de Morelos",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "xxes"
+        }
+      ],
+      "raw_line": "24-11-2025 (00:00) Liga De Expansion Mx : Tampico Madero - Tepatitlan de Morelos  (CH1xxes)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "00:00",
+      "datetime": "24-11-2025 00:00",
+      "league": "Liga Mx Women",
+      "teams": "Tigres F - Club America F",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (00:00) Liga Mx Women : Tigres F - Club America F  (CH70es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "00:00",
+      "datetime": "24-11-2025 00:00",
+      "league": "Torneo LPF",
+      "teams": "Boca Juniors - Talleres Cordoba",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (00:00) Torneo LPF : Boca Juniors - Talleres Cordoba  (CH75es) (CH61es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "00:30",
+      "datetime": "24-11-2025 00:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Colo Colo - U. Calera",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (00:30) Campeonato Itaú Chile : Colo Colo - U. Calera  (CH83es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "01:45",
+      "datetime": "24-11-2025 01:45",
+      "league": "MLS",
+      "teams": "Philadelphia Union - New York City",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-11-2025 (01:45) MLS : Philadelphia Union - New York City  (CH160us)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "02:00",
+      "datetime": "24-11-2025 02:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "America De Cali - Junior",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (02:00) Liga Betplay Dimayor : America De Cali - Junior  (CH81es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "17:00",
+      "datetime": "24-11-2025 17:00",
+      "league": "Betfred Super League",
+      "teams": "Volos - Levadiakos",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "24-11-2025 (17:00) Betfred Super League : Volos - Levadiakos  (CH148gr)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "18:00",
+      "datetime": "24-11-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Basaksehir - Trabzonspor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (18:00) Super Lig : Basaksehir - Trabzonspor  (CH151tr) (CH69es) (CH79es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "18:00",
+      "datetime": "24-11-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Konyaspor - Antalyaspor",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "24-11-2025 (18:00) Super Lig : Konyaspor - Antalyaspor  (CH152tr)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "18:30",
+      "datetime": "24-11-2025 18:30",
+      "league": "Serie A",
+      "teams": "Torino - Como",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (18:30) Serie A : Torino - Como  (CH138it) (CH124de) (CH87es) (CH98es) (CH70es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "19:00",
+      "datetime": "24-11-2025 19:00",
+      "league": "Betfred Super League",
+      "teams": "AEL Larissa - OFI Crete",
+      "channels": [
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "24-11-2025 (19:00) Betfred Super League : AEL Larissa - OFI Crete  (CH149gr)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "20:30",
+      "datetime": "24-11-2025 20:30",
+      "league": "Laliga 2",
+      "teams": "Real Sociedad B - Valladolid",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (20:30) Laliga 2 : Real Sociedad B - Valladolid  (CH4fr) (CH53es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "20:45",
+      "datetime": "24-11-2025 20:45",
+      "league": "Ligue 2",
+      "teams": "Reims - Montpellier",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (20:45) Ligue 2 : Reims - Montpellier  (CH1fr) (CH69es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "20:45",
+      "datetime": "24-11-2025 20:45",
+      "league": "Serie A",
+      "teams": "Sassuolo - Pisa",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (20:45) Serie A : Sassuolo - Pisa  (CH137it) (CH124de) (CH87es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "21:00",
+      "datetime": "24-11-2025 21:00",
+      "league": "Laliga",
+      "teams": "Espanyol - FC Séville",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (21:00) Laliga : Espanyol - FC Séville  (CH2fr) (CH49es) (CH123de) (CH71es) (CH95es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "21:00",
+      "datetime": "24-11-2025 21:00",
+      "league": "Premier League",
+      "teams": "Manchester Utd - Everton",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (21:00) Premier League : Manchester Utd - Everton  (CH12fr) (CH127us) (CH56es) (CH120de) (CH155es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "21:00",
+      "datetime": "24-11-2025 21:00",
+      "league": "Torneo LPF",
+      "teams": "Dep. Riestra - Barracas Central",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (21:00) Torneo LPF : Dep. Riestra - Barracas Central  (CH75es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "23:15",
+      "datetime": "24-11-2025 23:15",
+      "league": "Torneo LPF",
+      "teams": "Racing Club - River Plate",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (23:15) Torneo LPF : Racing Club - River Plate  (CH76es) (CH55es) (CH61es)"
+    },
+    {
+      "date": "25-11-2025",
+      "time": "00:00",
+      "datetime": "25-11-2025 00:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Nublense - Huachipato",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-11-2025 (00:00) Campeonato Itaú Chile : Nublense - Huachipato  (CH83es)"
+    },
+    {
+      "date": "25-11-2025",
+      "time": "02:00",
+      "datetime": "25-11-2025 02:00",
+      "league": "Torneo LPF",
+      "teams": "Union Santa Fe - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-11-2025 (02:00) Torneo LPF : Union Santa Fe - Gimnasia L.P.  (CH76es)"
+    },
+    {
+      "date": "25-11-2025",
+      "time": "04:00",
+      "datetime": "25-11-2025 04:00",
+      "league": "MLS",
+      "teams": "San Diego FC - Minnesota",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-11-2025 (04:00) MLS : San Diego FC - Minnesota  (CH160us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +3007,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-22T09:49:17.149170"
+      "extracted_at": "2025-11-22T10:15:13.269471"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +3016,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-22T09:49:18.954147"
+      "extracted_at": "2025-11-22T10:15:14.783116"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +3025,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-22T09:49:21.599971"
+      "extracted_at": "2025-11-22T10:15:17.108636"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +3034,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-22T09:49:23.976079"
+      "extracted_at": "2025-11-22T10:15:19.428644"
     }
   },
   "player_urls": {

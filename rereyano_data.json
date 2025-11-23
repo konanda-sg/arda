@@ -1,214 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-23T20:50:06.907817",
-  "total_events": 87,
+  "last_updated": "2025-11-23T21:14:08.720445",
+  "total_events": 74,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Macara - Delfin",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) Ecuador Ligapro : Macara - Delfin  (CH86es)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "Liga Endesa",
-      "teams": "Gran Canaria - Barcelone",
-      "channels": [
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) Liga Endesa : Gran Canaria - Barcelone  (CH67es)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - Miami Heat",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NBA : Philadelphia 76ers - Miami Heat  (CH160us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Baltimore Ravens - New York Jets",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Baltimore Ravens - New York Jets  (CH161us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Chicago Bears - Pittsburgh Steelers",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "us"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "102",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Chicago Bears - Pittsburgh Steelers  (CH162us) (CH93es) (CH102es)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Cincinnati Bengals - New England Patriots",
-      "channels": [
-        {
-          "id": "163",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Cincinnati Bengals - New England Patriots  (CH163us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Detroit Lions - New York Giants",
-      "channels": [
-        {
-          "id": "164",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Detroit Lions - New York Giants  (CH164us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Green Bay Packers - Minnesota Vikings",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Green Bay Packers - Minnesota Vikings  (CH165us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Kansas City Chiefs - Indianapolis Colts",
-      "channels": [
-        {
-          "id": "166",
-          "lang": "us"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Kansas City Chiefs - Indianapolis Colts  (CH166us) (CH91es) (CH101es)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "NFL RedZone -",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "100",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : NFL RedZone -   (CH4fr) (CH100es)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NFL",
-      "teams": "Tennessee Titans - Seattle Seahawks",
-      "channels": [
-        {
-          "id": "167",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NFL : Tennessee Titans - Seattle Seahawks  (CH167us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:00",
-      "datetime": "23-11-2025 19:00",
-      "league": "NHL",
-      "teams": "Buffalo Sabres - Carolina Hurricanes",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:00) NHL : Buffalo Sabres - Carolina Hurricanes  (CH168us)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "19:15",
-      "datetime": "23-11-2025 19:15",
-      "league": "Pro League",
-      "teams": "Louvain - Saint-Trond",
-      "channels": [
-        {
-          "id": "154",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "23-11-2025 (19:15) Pro League : Louvain - Saint-Trond  (CH154fr)"
-    },
     {
       "date": "23-11-2025",
       "time": "20:00",
@@ -1461,7 +1259,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-23T20:50:00.390774"
+      "extracted_at": "2025-11-23T21:14:02.330016"
     },
     "hoca": {
       "name": "hoca",
@@ -1470,7 +1268,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-23T20:50:01.807013"
+      "extracted_at": "2025-11-23T21:14:03.675799"
     },
     "Caster": {
       "name": "Caster",
@@ -1479,7 +1277,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-23T20:50:03.662730"
+      "extracted_at": "2025-11-23T21:14:05.638782"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1488,7 +1286,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-23T20:50:05.907654"
+      "extracted_at": "2025-11-23T21:14:07.720292"
     }
   },
   "player_urls": {

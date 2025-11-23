@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-23T21:49:45.896272",
-  "total_events": 74,
+  "last_updated": "2025-11-23T22:14:38.333023",
+  "total_events": 72,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-11-2025",
-      "time": "20:00",
-      "datetime": "23-11-2025 20:00",
-      "league": "Betfred Super League",
-      "teams": "AEK - Aris",
-      "channels": [
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "23-11-2025 (20:00) Betfred Super League : AEK - Aris  (CH150gr)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "20:00",
-      "datetime": "23-11-2025 20:00",
-      "league": "Serie A Bresil",
-      "teams": "Bahia - Vasco",
-      "channels": [
-        {
-          "id": "61",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (20:00) Serie A Bresil : Bahia - Vasco  (CH61es)"
-    },
     {
       "date": "23-11-2025",
       "time": "20:30",
@@ -246,20 +218,6 @@
         }
       ],
       "raw_line": "23-11-2025 (22:00) Campeonato Itaú Chile : O'Higgins - U. De Chile  (CH83es)"
-    },
-    {
-      "date": "23-11-2025",
-      "time": "22:00",
-      "datetime": "23-11-2025 22:00",
-      "league": "Liga Mx",
-      "teams": "Juarez - Pachuca",
-      "channels": [
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-11-2025 (22:00) Liga Mx : Juarez - Pachuca  (CH108es)"
     },
     {
       "date": "23-11-2025",
@@ -598,6 +556,20 @@
         }
       ],
       "raw_line": "24-11-2025 (02:00) Liga Betplay Dimayor : America De Cali - Junior  (CH81es)"
+    },
+    {
+      "date": "24-11-2025",
+      "time": "02:00",
+      "datetime": "24-11-2025 02:00",
+      "league": "Liga Mx",
+      "teams": "Juarez - Pachuca",
+      "channels": [
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-11-2025 (02:00) Liga Mx : Juarez - Pachuca  (CH108es)"
     },
     {
       "date": "24-11-2025",
@@ -1259,7 +1231,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-23T21:49:38.683042"
+      "extracted_at": "2025-11-23T22:14:31.135740"
     },
     "hoca": {
       "name": "hoca",
@@ -1268,7 +1240,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-23T21:49:40.028110"
+      "extracted_at": "2025-11-23T22:14:32.557927"
     },
     "Caster": {
       "name": "Caster",
@@ -1277,7 +1249,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-23T21:49:42.472831"
+      "extracted_at": "2025-11-23T22:14:34.586167"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1286,7 +1258,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-23T21:49:44.896127"
+      "extracted_at": "2025-11-23T22:14:37.332877"
     }
   },
   "player_urls": {

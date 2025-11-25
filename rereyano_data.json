@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-25T05:52:13.850926",
-  "total_events": 3,
+  "last_updated": "2025-11-25T06:25:21.754514",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "25-11-2025",
-      "time": "04:00",
-      "datetime": "25-11-2025 04:00",
-      "league": "MLS",
-      "teams": "San Diego FC - Minnesota",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-11-2025 (04:00) MLS : San Diego FC - Minnesota  (CH176us)"
-    },
-    {
-      "date": "25-11-2025",
-      "time": "04:00",
-      "datetime": "25-11-2025 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Utah Jazz",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-11-2025 (04:00) NBA : Golden State Warriors - Utah Jazz  (CH178us)"
-    },
-    {
-      "date": "25-11-2025",
-      "time": "04:00",
-      "datetime": "25-11-2025 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Minnesota Timberwolves",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-11-2025 (04:00) NBA : Sacramento Kings - Minnesota Timberwolves  (CH177us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -57,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-25T05:52:05.139261"
+      "extracted_at": "2025-11-25T06:25:14.420352"
     },
     "hoca": {
       "name": "hoca",
@@ -66,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-25T05:52:06.731526"
+      "extracted_at": "2025-11-25T06:25:15.816932"
     },
     "Caster": {
       "name": "Caster",
@@ -75,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-25T05:52:09.827196"
+      "extracted_at": "2025-11-25T06:25:18.259607"
     },
     "WIGI": {
       "name": "WIGI",
@@ -84,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-25T05:52:12.850751"
+      "extracted_at": "2025-11-25T06:25:20.754338"
     }
   },
   "player_urls": {

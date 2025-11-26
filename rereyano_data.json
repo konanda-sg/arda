@@ -1,270 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-26T22:49:39.705322",
-  "total_events": 42,
+  "last_updated": "2025-11-26T23:14:50.723339",
+  "total_events": 33,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Championship",
-      "teams": "West Brom - Birmingham",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Championship : West Brom - Birmingham  (CH5fr) (CH127gb)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Multiplex Ligue des Champions -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "164",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Multiplex Ligue des Champions -   (CH14fr) (CH164es) (CH124de)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Arsenal - Bayern Munich",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "163",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Arsenal - Bayern Munich  (CH12fr) (CH163es) (CH123de) (CH137it) (CH126gb) (CH87es)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Atl. Madrid - Inter",
-      "channels": [
-        {
-          "id": "34",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "113",
-          "lang": "de"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Atl. Madrid - Inter  (CH34fr) (CH162es) (CH113de) (CH138it) (CH91es) (CH78es)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Eintracht Francfort - Atalanta",
-      "channels": [
-        {
-          "id": "37",
-          "lang": "fr"
-        },
-        {
-          "id": "167",
-          "lang": "es"
-        },
-        {
-          "id": "115",
-          "lang": "de"
-        },
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Eintracht Francfort - Atalanta  (CH37fr) (CH167es) (CH115de) (CH139it) (CH90es)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Liverpool - PSV",
-      "channels": [
-        {
-          "id": "35",
-          "lang": "fr"
-        },
-        {
-          "id": "166",
-          "lang": "es"
-        },
-        {
-          "id": "129",
-          "lang": "gb"
-        },
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "114",
-          "lang": "de"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "79",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Liverpool - PSV  (CH35fr) (CH166es) (CH129gb) (CH141nl) (CH114de) (CH93es) (CH79es)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Olympiakos - Real Madrid",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "161",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Olympiakos - Real Madrid  (CH13fr) (CH161es) (CH88es) (CH68es)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "PSG - Tottenham",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "165",
-          "lang": "es"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : PSG - Tottenham  (CH11fr) (CH165es) (CH130gb) (CH112de) (CH89es)"
-    },
-    {
-      "date": "26-11-2025",
-      "time": "21:00",
-      "datetime": "26-11-2025 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "Sporting - Club Brugge",
-      "channels": [
-        {
-          "id": "36",
-          "lang": "fr"
-        },
-        {
-          "id": "168",
-          "lang": "es"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "92",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-11-2025 (21:00) Ligue Des Champions : Sporting - Club Brugge  (CH36fr) (CH168es) (CH144pt) (CH92es)"
-    },
     {
       "date": "26-11-2025",
       "time": "22:00",
@@ -779,7 +521,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-26T22:49:31.726185"
+      "extracted_at": "2025-11-26T23:14:43.150809"
     },
     "hoca": {
       "name": "hoca",
@@ -788,7 +530,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-26T22:49:33.348236"
+      "extracted_at": "2025-11-26T23:14:44.672712"
     },
     "Caster": {
       "name": "Caster",
@@ -797,7 +539,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-26T22:49:36.138199"
+      "extracted_at": "2025-11-26T23:14:47.138260"
     },
     "WIGI": {
       "name": "WIGI",
@@ -806,7 +548,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-26T22:49:38.705165"
+      "extracted_at": "2025-11-26T23:14:49.723183"
     }
   },
   "player_urls": {

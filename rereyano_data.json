@@ -1,35 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-28T04:52:45.544188",
-  "total_events": 1,
+  "last_updated": "2025-11-28T05:17:07.632017",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "28-11-2025",
-      "time": "03:07",
-      "datetime": "28-11-2025 03:07",
-      "league": "Liga Mx",
-      "teams": "Guadalajara - Cruz Azul",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-11-2025 (03:07) Liga Mx : Guadalajara - Cruz Azul  (CH155es) (CH72es) (CH68es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -37,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-28T04:52:37.943031"
+      "extracted_at": "2025-11-28T05:16:59.961916"
     },
     "hoca": {
       "name": "hoca",
@@ -46,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-28T04:52:39.502796"
+      "extracted_at": "2025-11-28T05:17:01.265296"
     },
     "Caster": {
       "name": "Caster",
@@ -55,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-28T04:52:42.022446"
+      "extracted_at": "2025-11-28T05:17:04.010535"
     },
     "WIGI": {
       "name": "WIGI",
@@ -64,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-28T04:52:44.544003"
+      "extracted_at": "2025-11-28T05:17:06.631884"
     }
   },
   "player_urls": {

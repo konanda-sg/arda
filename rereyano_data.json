@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-28T22:33:52.285705",
-  "total_events": 36,
+  "last_updated": "2025-11-28T22:49:13.403186",
+  "total_events": 33,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-11-2025",
-      "time": "20:45",
-      "datetime": "28-11-2025 20:45",
-      "league": "Ligue 1",
-      "teams": "Metz - Rennes",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-11-2025 (20:45) Ligue 1 : Metz - Rennes  (CH20fr) (CH123de) (CH69es)"
-    },
-    {
-      "date": "28-11-2025",
-      "time": "20:45",
-      "datetime": "28-11-2025 20:45",
-      "league": "Pro League",
-      "teams": "Malines - Standard Liège",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "28-11-2025 (20:45) Pro League : Malines - Standard Liège  (CH153fr)"
-    },
-    {
-      "date": "28-11-2025",
-      "time": "20:45",
-      "datetime": "28-11-2025 20:45",
-      "league": "Serie A",
-      "teams": "Como - Sassuolo",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-11-2025 (20:45) Serie A : Como - Sassuolo  (CH137it) (CH124de) (CH155es)"
-    },
     {
       "date": "28-11-2025",
       "time": "21:00",
@@ -555,7 +497,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-28T22:33:43.960296"
+      "extracted_at": "2025-11-28T22:49:04.866008"
     },
     "hoca": {
       "name": "hoca",
@@ -564,7 +506,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-28T22:33:45.649644"
+      "extracted_at": "2025-11-28T22:49:06.473999"
     },
     "Caster": {
       "name": "Caster",
@@ -573,7 +515,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-28T22:33:48.616640"
+      "extracted_at": "2025-11-28T22:49:09.568031"
     },
     "WIGI": {
       "name": "WIGI",
@@ -582,7 +524,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-28T22:33:51.285534"
+      "extracted_at": "2025-11-28T22:49:12.403004"
     }
   },
   "player_urls": {

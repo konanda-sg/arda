@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-29T01:11:01.692925",
-  "total_events": 242,
+  "last_updated": "2025-11-29T02:48:01.609958",
+  "total_events": 244,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-11-2025",
-      "time": "23:30",
-      "datetime": "28-11-2025 23:30",
-      "league": "Serie A Bresil",
-      "teams": "Vasco - Internacional",
-      "channels": [
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "28-11-2025 (23:30) Serie A Bresil : Vasco - Internacional  (CH125de)"
-    },
     {
       "date": "29-11-2025",
       "time": "01:00",
@@ -4162,6 +4148,48 @@
         }
       ],
       "raw_line": "02-12-2025 (02:00) NHL : St. Louis Blues - Anaheim Ducks  (CH169us)"
+    },
+    {
+      "date": "02-12-2025",
+      "time": "02:15",
+      "datetime": "02-12-2025 02:15",
+      "league": "NFL",
+      "teams": "New England Patriots - New York Giants",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-12-2025 (02:15) NFL : New England Patriots - New York Giants  (CH170us)"
+    },
+    {
+      "date": "02-12-2025",
+      "time": "03:00",
+      "datetime": "02-12-2025 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-12-2025 (03:00) NBA : Denver Nuggets - Dallas Mavericks  (CH171us)"
+    },
+    {
+      "date": "02-12-2025",
+      "time": "03:00",
+      "datetime": "02-12-2025 03:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Houston Rockets",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-12-2025 (03:00) NBA : Utah Jazz - Houston Rockets  (CH172us)"
     }
   ],
   "player_streams": {
@@ -4171,7 +4199,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-29T01:10:54.065275"
+      "extracted_at": "2025-11-29T02:47:53.794954"
     },
     "hoca": {
       "name": "hoca",
@@ -4180,7 +4208,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-29T01:10:55.561606"
+      "extracted_at": "2025-11-29T02:47:55.534513"
     },
     "Caster": {
       "name": "Caster",
@@ -4189,7 +4217,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-29T01:10:58.095213"
+      "extracted_at": "2025-11-29T02:47:57.949004"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4198,7 +4226,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-29T01:11:00.692780"
+      "extracted_at": "2025-11-29T02:48:00.609829"
     }
   },
   "player_urls": {

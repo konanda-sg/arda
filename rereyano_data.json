@@ -1,138 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-29T02:48:01.609958",
-  "total_events": 244,
+  "last_updated": "2025-11-29T03:42:59.697634",
+  "total_events": 237,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "29-11-2025",
-      "time": "01:00",
-      "datetime": "29-11-2025 01:00",
-      "league": "Ecuador Ligapro",
-      "teams": "LDU Quito - Ind. del Valle",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:00) Ecuador Ligapro : LDU Quito - Ind. del Valle  (CH86es)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:00",
-      "datetime": "29-11-2025 01:00",
-      "league": "NHL",
-      "teams": "Columbus Blue Jackets - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:00) NHL : Columbus Blue Jackets - Pittsburgh Penguins  (CH192us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Atlanta Hawks - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) NBA : Atlanta Hawks - Cleveland Cavaliers  (CH160us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) NBA : Brooklyn Nets - Philadelphia 76ers  (CH161us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Charlotte Hornets - Chicago Bulls",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) NBA : Charlotte Hornets - Chicago Bulls  (CH162us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Orlando Magic",
-      "channels": [
-        {
-          "id": "163",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) NBA : Detroit Pistons - Orlando Magic  (CH163us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "NBA",
-      "teams": "Indiana Pacers - Washington Wizards",
-      "channels": [
-        {
-          "id": "164",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) NBA : Indiana Pacers - Washington Wizards  (CH164us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "NBA",
-      "teams": "New York Knicks - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) NBA : New York Knicks - Milwaukee Bucks  (CH165us)"
-    },
-    {
-      "date": "29-11-2025",
-      "time": "01:30",
-      "datetime": "29-11-2025 01:30",
-      "league": "Serie A Bresil",
-      "teams": "Santos - Sport Recife",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-11-2025 (01:30) Serie A Bresil : Santos - Sport Recife  (CH156es)"
-    },
     {
       "date": "29-11-2025",
       "time": "02:00",
@@ -4190,6 +4064,34 @@
         }
       ],
       "raw_line": "02-12-2025 (03:00) NBA : Utah Jazz - Houston Rockets  (CH172us)"
+    },
+    {
+      "date": "02-12-2025",
+      "time": "04:00",
+      "datetime": "02-12-2025 04:00",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Phoenix Suns",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-12-2025 (04:00) NBA : Los Angeles Lakers - Phoenix Suns  (CH173us)"
+    },
+    {
+      "date": "02-12-2025",
+      "time": "04:00",
+      "datetime": "02-12-2025 04:00",
+      "league": "NHL",
+      "teams": "San Jose Sharks - Utah Mammoth",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-12-2025 (04:00) NHL : San Jose Sharks - Utah Mammoth  (CH174us)"
     }
   ],
   "player_streams": {
@@ -4199,7 +4101,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-29T02:47:53.794954"
+      "extracted_at": "2025-11-29T03:42:51.138154"
     },
     "hoca": {
       "name": "hoca",
@@ -4208,7 +4110,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-29T02:47:55.534513"
+      "extracted_at": "2025-11-29T03:42:52.866763"
     },
     "Caster": {
       "name": "Caster",
@@ -4217,7 +4119,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-29T02:47:57.949004"
+      "extracted_at": "2025-11-29T03:42:55.708229"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4226,7 +4128,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-29T02:48:00.609829"
+      "extracted_at": "2025-11-29T03:42:58.697479"
     }
   },
   "player_urls": {

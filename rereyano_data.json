@@ -1,80 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-30T22:49:40.145794",
-  "total_events": 57,
+  "last_updated": "2025-11-30T23:14:27.478735",
+  "total_events": 53,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-11-2025",
-      "time": "21:00",
-      "datetime": "30-11-2025 21:00",
-      "league": "Laliga",
-      "teams": "Gérone - Real Madrid",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-11-2025 (21:00) Laliga : Gérone - Real Madrid  (CH1fr) (CH49es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "30-11-2025",
-      "time": "21:00",
-      "datetime": "30-11-2025 21:00",
-      "league": "Laliga 2",
-      "teams": "Castellon - Las Palmas",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-11-2025 (21:00) Laliga 2 : Castellon - Las Palmas  (CH53es)"
-    },
-    {
-      "date": "30-11-2025",
-      "time": "21:00",
-      "datetime": "30-11-2025 21:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Houston Rockets",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-11-2025 (21:00) NBA : Utah Jazz - Houston Rockets  (CH168us)"
-    },
-    {
-      "date": "30-11-2025",
-      "time": "21:05",
-      "datetime": "30-11-2025 21:05",
-      "league": "Top 14",
-      "teams": "Section Paloise - Stade Rochelais",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "30-11-2025 (21:05) Top 14 : Section Paloise - Stade Rochelais  (CH11fr)"
-    },
     {
       "date": "30-11-2025",
       "time": "21:30",
@@ -929,7 +861,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-30T22:49:31.879065"
+      "extracted_at": "2025-11-30T23:14:20.298681"
     },
     "hoca": {
       "name": "hoca",
@@ -938,7 +870,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T22:49:33.329148"
+      "extracted_at": "2025-11-30T23:14:21.805516"
     },
     "Caster": {
       "name": "Caster",
@@ -947,7 +879,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T22:49:36.399283"
+      "extracted_at": "2025-11-30T23:14:24.236493"
     },
     "WIGI": {
       "name": "WIGI",
@@ -956,7 +888,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T22:49:39.145624"
+      "extracted_at": "2025-11-30T23:14:26.478623"
     }
   },
   "player_urls": {

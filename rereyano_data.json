@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-30T19:26:52.892024",
-  "total_events": 85,
+  "last_updated": "2025-11-30T19:36:54.881506",
+  "total_events": 83,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-11-2025",
-      "time": "17:30",
-      "datetime": "30-11-2025 17:30",
-      "league": "Bundesliga",
-      "teams": "Eintracht Francfort - Wolfsburg",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-11-2025 (17:30) Bundesliga : Eintracht Francfort - Wolfsburg  (CH2fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "30-11-2025",
-      "time": "17:30",
-      "datetime": "30-11-2025 17:30",
-      "league": "Premier League",
-      "teams": "Chelsea - Arsenal",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-11-2025 (17:30) Premier League : Chelsea - Arsenal  (CH14fr) (CH127gb) (CH56es) (CH55es) (CH120de) (CH87es) (CH73es)"
-    },
     {
       "date": "30-11-2025",
       "time": "18:00",
@@ -1461,7 +1401,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-30T19:26:44.399832"
+      "extracted_at": "2025-11-30T19:36:47.574833"
     },
     "hoca": {
       "name": "hoca",
@@ -1470,7 +1410,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T19:26:46.177482"
+      "extracted_at": "2025-11-30T19:36:49.161587"
     },
     "Caster": {
       "name": "Caster",
@@ -1479,7 +1419,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T19:26:49.126168"
+      "extracted_at": "2025-11-30T19:36:51.485773"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1488,7 +1428,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T19:26:51.891843"
+      "extracted_at": "2025-11-30T19:36:53.881365"
     }
   },
   "player_urls": {

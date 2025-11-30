@@ -1,60 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-11-30T22:34:14.721917",
-  "total_events": 59,
+  "last_updated": "2025-11-30T22:49:40.145794",
+  "total_events": 57,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-11-2025",
-      "time": "20:45",
-      "datetime": "30-11-2025 20:45",
-      "league": "Ligue 1",
-      "teams": "Lyon - Nantes",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-11-2025 (20:45) Ligue 1 : Lyon - Nantes  (CH20fr) (CH69es)"
-    },
-    {
-      "date": "30-11-2025",
-      "time": "20:45",
-      "datetime": "30-11-2025 20:45",
-      "league": "Serie A",
-      "teams": "AS Rome - Naples",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-11-2025 (20:45) Serie A : AS Rome - Naples  (CH45fr) (CH137it) (CH89es) (CH97es) (CH70es)"
-    },
     {
       "date": "30-11-2025",
       "time": "21:00",
@@ -977,7 +929,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-11-30T22:34:06.539519"
+      "extracted_at": "2025-11-30T22:49:31.879065"
     },
     "hoca": {
       "name": "hoca",
@@ -986,7 +938,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T22:34:08.305135"
+      "extracted_at": "2025-11-30T22:49:33.329148"
     },
     "Caster": {
       "name": "Caster",
@@ -995,7 +947,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T22:34:11.052578"
+      "extracted_at": "2025-11-30T22:49:36.399283"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1004,7 +956,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-11-30T22:34:13.721740"
+      "extracted_at": "2025-11-30T22:49:39.145624"
     }
   },
   "player_urls": {

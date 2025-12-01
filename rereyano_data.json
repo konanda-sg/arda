@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-01T03:23:12.409307",
-  "total_events": 31,
+  "last_updated": "2025-12-01T04:34:07.832809",
+  "total_events": 29,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-12-2025",
-      "time": "02:00",
-      "datetime": "01-12-2025 02:00",
-      "league": "Liga Mx",
-      "teams": "Cruz Azul - Guadalajara",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-12-2025 (02:00) Liga Mx : Cruz Azul - Guadalajara  (CH68es) (CH107es) (CH106es)"
-    },
-    {
-      "date": "01-12-2025",
-      "time": "02:20",
-      "datetime": "01-12-2025 02:20",
-      "league": "NFL",
-      "teams": "Washington Commanders - Denver Broncos",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-12-2025 (02:20) NFL : Washington Commanders - Denver Broncos  (CH180us) (CH88es) (CH97es)"
-    },
     {
       "date": "01-12-2025",
       "time": "03:00",
@@ -513,7 +469,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-01T03:23:04.492033"
+      "extracted_at": "2025-12-01T04:34:00.424161"
     },
     "hoca": {
       "name": "hoca",
@@ -522,7 +478,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-01T03:23:06.009279"
+      "extracted_at": "2025-12-01T04:34:02.007065"
     },
     "Caster": {
       "name": "Caster",
@@ -531,7 +487,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-01T03:23:08.720611"
+      "extracted_at": "2025-12-01T04:34:04.506626"
     },
     "WIGI": {
       "name": "WIGI",
@@ -540,7 +496,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-01T03:23:11.409184"
+      "extracted_at": "2025-12-01T04:34:06.832642"
     }
   },
   "player_urls": {

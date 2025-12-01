@@ -1,92 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-01T22:51:59.898144",
-  "total_events": 22,
+  "last_updated": "2025-12-01T23:16:04.645285",
+  "total_events": 18,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-12-2025",
-      "time": "21:00",
-      "datetime": "01-12-2025 21:00",
-      "league": "Championship",
-      "teams": "Birmingham - Watford",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-12-2025 (21:00) Championship : Birmingham - Watford  (CH4fr) (CH127gb) (CH93es)"
-    },
-    {
-      "date": "01-12-2025",
-      "time": "21:00",
-      "datetime": "01-12-2025 21:00",
-      "league": "Laliga",
-      "teams": "Vallecano - Valence",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-12-2025 (21:00) Laliga : Vallecano - Valence  (CH1fr) (CH49es) (CH71es) (CH87es)"
-    },
-    {
-      "date": "01-12-2025",
-      "time": "21:00",
-      "datetime": "01-12-2025 21:00",
-      "league": "Torneo LPF",
-      "teams": "Barracas Central - Gimnasia L.P.",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-12-2025 (21:00) Torneo LPF : Barracas Central - Gimnasia L.P.  (CH76es)"
-    },
-    {
-      "date": "01-12-2025",
-      "time": "21:15",
-      "datetime": "01-12-2025 21:15",
-      "league": "Liga Portugal",
-      "teams": "Arouca - Braga",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "01-12-2025 (21:15) Liga Portugal : Arouca - Braga  (CH2fr) (CH144pt)"
-    },
     {
       "date": "02-12-2025",
       "time": "00:00",
@@ -379,7 +299,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-01T22:51:51.410260"
+      "extracted_at": "2025-12-01T23:15:56.070949"
     },
     "hoca": {
       "name": "hoca",
@@ -388,7 +308,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-01T22:51:53.268529"
+      "extracted_at": "2025-12-01T23:15:57.833653"
     },
     "Caster": {
       "name": "Caster",
@@ -397,7 +317,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-01T22:51:56.174859"
+      "extracted_at": "2025-12-01T23:16:00.581114"
     },
     "WIGI": {
       "name": "WIGI",
@@ -406,7 +326,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-01T22:51:58.897995"
+      "extracted_at": "2025-12-01T23:16:03.645147"
     }
   },
   "player_urls": {

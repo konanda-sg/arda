@@ -1,62 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-02T03:50:43.408445",
-  "total_events": 7,
+  "last_updated": "2025-12-02T04:26:50.340754",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-12-2025",
-      "time": "02:00",
-      "datetime": "02-12-2025 02:00",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Ind. Medellin - America De Cali",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-12-2025 (02:00) Liga Betplay Dimayor : Ind. Medellin - America De Cali  (CH81es)"
-    },
-    {
-      "date": "02-12-2025",
-      "time": "02:00",
-      "datetime": "02-12-2025 02:00",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "169",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-12-2025 (02:00) NHL : St. Louis Blues - Anaheim Ducks  (CH169us)"
-    },
-    {
-      "date": "02-12-2025",
-      "time": "02:15",
-      "datetime": "02-12-2025 02:15",
-      "league": "NFL",
-      "teams": "New England Patriots - New York Giants",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-12-2025 (02:15) NFL : New England Patriots - New York Giants  (CH2fr) (CH170us) (CH88es)"
-    },
     {
       "date": "02-12-2025",
       "time": "03:00",
@@ -129,7 +79,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-02T03:50:36.018639"
+      "extracted_at": "2025-12-02T04:26:42.313988"
     },
     "hoca": {
       "name": "hoca",
@@ -138,7 +88,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-02T03:50:37.621619"
+      "extracted_at": "2025-12-02T04:26:43.876513"
     },
     "Caster": {
       "name": "Caster",
@@ -147,7 +97,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-02T03:50:39.900022"
+      "extracted_at": "2025-12-02T04:26:46.604773"
     },
     "WIGI": {
       "name": "WIGI",
@@ -156,7 +106,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-02T03:50:42.408294"
+      "extracted_at": "2025-12-02T04:26:49.340539"
     }
   },
   "player_urls": {

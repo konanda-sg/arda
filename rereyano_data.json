@@ -1,49 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-02T05:52:28.635279",
-  "total_events": 2,
+  "last_updated": "2025-12-02T06:26:41.368287",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "02-12-2025",
-      "time": "04:00",
-      "datetime": "02-12-2025 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Phoenix Suns",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "173",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-12-2025 (04:00) NBA : Los Angeles Lakers - Phoenix Suns  (CH1fr) (CH173us) (CH75es)"
-    },
-    {
-      "date": "02-12-2025",
-      "time": "04:00",
-      "datetime": "02-12-2025 04:00",
-      "league": "NHL",
-      "teams": "San Jose Sharks - Utah Mammoth",
-      "channels": [
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-12-2025 (04:00) NHL : San Jose Sharks - Utah Mammoth  (CH174us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -51,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-02T05:52:19.836562"
+      "extracted_at": "2025-12-02T06:26:32.795855"
     },
     "hoca": {
       "name": "hoca",
@@ -60,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-02T05:52:21.676188"
+      "extracted_at": "2025-12-02T06:26:34.312825"
     },
     "Caster": {
       "name": "Caster",
@@ -69,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-02T05:52:24.768960"
+      "extracted_at": "2025-12-02T06:26:37.455213"
     },
     "WIGI": {
       "name": "WIGI",
@@ -78,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-02T05:52:27.635112"
+      "extracted_at": "2025-12-02T06:26:40.368147"
     }
   },
   "player_urls": {

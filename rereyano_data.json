@@ -1,76 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-05T22:15:45.676350",
-  "total_events": 31,
+  "last_updated": "2025-12-05T22:36:26.795092",
+  "total_events": 27,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "05-12-2025",
-      "time": "20:30",
-      "datetime": "05-12-2025 20:30",
-      "league": "Bundesliga",
-      "teams": "Mayence - B. Monchengladbach",
-      "channels": [
-        {
-          "id": "10",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-12-2025 (20:30) Bundesliga : Mayence - B. Monchengladbach  (CH10fr) (CH111de) (CH116es)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "20:30",
-      "datetime": "05-12-2025 20:30",
-      "league": "EuroLeague",
-      "teams": "Baskonia - Milano",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-12-2025 (20:30) EuroLeague : Baskonia - Milano  (CH64es)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "20:30",
-      "datetime": "05-12-2025 20:30",
-      "league": "EuroLeague",
-      "teams": "Virtus Bologna - Dubai",
-      "channels": [
-        {
-          "id": "65",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-12-2025 (20:30) EuroLeague : Virtus Bologna - Dubai  (CH65es)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "20:30",
-      "datetime": "05-12-2025 20:30",
-      "league": "Fa Cup",
-      "teams": "Salford - Leyton Orient",
-      "channels": [
-        {
-          "id": "126",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-12-2025 (20:30) Fa Cup : Salford - Leyton Orient  (CH126us)"
-    },
     {
       "date": "05-12-2025",
       "time": "20:45",
@@ -497,7 +433,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-05T22:15:37.123853"
+      "extracted_at": "2025-12-05T22:36:18.357870"
     },
     "hoca": {
       "name": "hoca",
@@ -506,7 +442,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T22:15:38.814864"
+      "extracted_at": "2025-12-05T22:36:20.140983"
     },
     "Caster": {
       "name": "Caster",
@@ -515,7 +451,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T22:15:41.961282"
+      "extracted_at": "2025-12-05T22:36:23.024833"
     },
     "WIGI": {
       "name": "WIGI",
@@ -524,7 +460,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T22:15:44.676224"
+      "extracted_at": "2025-12-05T22:36:25.794960"
     }
   },
   "player_urls": {

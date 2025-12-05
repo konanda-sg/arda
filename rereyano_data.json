@@ -1,35 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-05T05:52:52.516929",
-  "total_events": 1,
+  "last_updated": "2025-12-05T06:26:03.667786",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "05-12-2025",
-      "time": "04:00",
-      "datetime": "05-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-12-2025 (04:00) NHL : Los Angeles Kings - Chicago Blackhawks  (CH175us) (CH98es) (CH89es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -37,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-05T05:52:45.409732"
+      "extracted_at": "2025-12-05T06:25:56.026964"
     },
     "hoca": {
       "name": "hoca",
@@ -46,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T05:52:46.910307"
+      "extracted_at": "2025-12-05T06:25:57.584499"
     },
     "Caster": {
       "name": "Caster",
@@ -55,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T05:52:49.119256"
+      "extracted_at": "2025-12-05T06:26:00.123450"
     },
     "WIGI": {
       "name": "WIGI",
@@ -64,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T05:52:51.516804"
+      "extracted_at": "2025-12-05T06:26:02.667660"
     }
   },
   "player_urls": {

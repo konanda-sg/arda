@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-05T12:33:36.795802",
-  "total_events": 58,
+  "last_updated": "2025-12-05T13:21:17.063499",
+  "total_events": 59,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -42,6 +42,44 @@
         }
       ],
       "raw_line": "05-12-2025 (15:30) Fifa Arab Cup : Oman - Maroc  (CH4fr) (CH46ae)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "18:00",
+      "datetime": "05-12-2025 18:00",
+      "league": "Coupe Du Monde",
+      "teams": "Tirage au sort de la Coupe du monde 2026 -",
+      "channels": [
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (18:00) Coupe Du Monde : Tirage au sort de la Coupe du monde 2026 -   (CH26fr) (CH130gb) (CH61es) (CH115de) (CH73es) (CH87es) (CH155es)"
     },
     {
       "date": "05-12-2025",
@@ -899,7 +937,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-05T12:33:29.033543"
+      "extracted_at": "2025-12-05T13:21:09.392976"
     },
     "hoca": {
       "name": "hoca",
@@ -908,7 +946,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T12:33:30.646002"
+      "extracted_at": "2025-12-05T13:21:10.988860"
     },
     "Caster": {
       "name": "Caster",
@@ -917,7 +955,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T12:33:33.224599"
+      "extracted_at": "2025-12-05T13:21:13.426597"
     },
     "WIGI": {
       "name": "WIGI",
@@ -926,7 +964,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T12:33:35.795638"
+      "extracted_at": "2025-12-05T13:21:16.063385"
     }
   },
   "player_urls": {

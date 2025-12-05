@@ -1,188 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-05T20:53:03.383922",
-  "total_events": 52,
+  "last_updated": "2025-12-05T21:31:50.181270",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "05-12-2025",
-      "time": "19:00",
-      "datetime": "05-12-2025 19:00",
-      "league": "D1 Féminin",
-      "teams": "Marseille F - PSG F",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:00) D1 Féminin : Marseille F - PSG F  (CH12fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:00",
-      "datetime": "05-12-2025 19:00",
-      "league": "Ligue 1",
-      "teams": "Brest - Monaco",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:00) Ligue 1 : Brest - Monaco  (CH20fr) (CH123de) (CH69es)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:00",
-      "datetime": "05-12-2025 19:00",
-      "league": "Pro D2",
-      "teams": "US Carcassonne - RC Vannes",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:00) Pro D2 : US Carcassonne - RC Vannes  (CH13fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "Fifa Arab Cup",
-      "teams": "Comores - Arabie Saoudite",
-      "channels": [
-        {
-          "id": "46",
-          "lang": "ae"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) Fifa Arab Cup : Comores - Arabie Saoudite  (CH46ae)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "National",
-      "teams": "Aubagne - Rouen",
-      "channels": [
-        {
-          "id": "41",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) National : Aubagne - Rouen  (CH41fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "National",
-      "teams": "Dijon - Valenciennes",
-      "channels": [
-        {
-          "id": "42",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) National : Dijon - Valenciennes  (CH42fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "National",
-      "teams": "Villefranche - Caen",
-      "channels": [
-        {
-          "id": "43",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) National : Villefranche - Caen  (CH43fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "Pro D2",
-      "teams": "AS Béziers - Soyaux Angoulême",
-      "channels": [
-        {
-          "id": "34",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) Pro D2 : AS Béziers - Soyaux Angoulême  (CH34fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "Pro D2",
-      "teams": "Biarritz Olympique - Valence Romans",
-      "channels": [
-        {
-          "id": "32",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) Pro D2 : Biarritz Olympique - Valence Romans  (CH32fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "Pro D2",
-      "teams": "Stade Aurillacois - CA Brive",
-      "channels": [
-        {
-          "id": "35",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) Pro D2 : Stade Aurillacois - CA Brive  (CH35fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "Pro D2",
-      "teams": "Stade Montois - Oyonnax Rugby",
-      "channels": [
-        {
-          "id": "33",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) Pro D2 : Stade Montois - Oyonnax Rugby  (CH33fr)"
-    },
-    {
-      "date": "05-12-2025",
-      "time": "19:30",
-      "datetime": "05-12-2025 19:30",
-      "league": "Pro D2",
-      "teams": "USO Nevers Rugby - US Dax",
-      "channels": [
-        {
-          "id": "36",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "05-12-2025 (19:30) Pro D2 : USO Nevers Rugby - US Dax  (CH36fr)"
-    },
     {
       "date": "05-12-2025",
       "time": "20:00",
@@ -799,7 +623,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-05T20:52:56.113126"
+      "extracted_at": "2025-12-05T21:31:41.619926"
     },
     "hoca": {
       "name": "hoca",
@@ -808,7 +632,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T20:52:57.571762"
+      "extracted_at": "2025-12-05T21:31:43.068786"
     },
     "Caster": {
       "name": "Caster",
@@ -817,7 +641,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T20:53:00.067108"
+      "extracted_at": "2025-12-05T21:31:46.175661"
     },
     "WIGI": {
       "name": "WIGI",
@@ -826,7 +650,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T20:53:02.383818"
+      "extracted_at": "2025-12-05T21:31:49.181136"
     }
   },
   "player_urls": {

@@ -1,12 +1,915 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-05T11:16:39.098357",
-  "total_events": 0,
+  "last_updated": "2025-12-05T11:31:12.856598",
+  "total_events": 59,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "05-12-2025",
+      "time": "10:30",
+      "datetime": "05-12-2025 10:30",
+      "league": "formula 1",
+      "teams": "Grand Prix d’Abu Dhabi Essais libres 1 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (10:30) formula 1 : Grand Prix d’Abu Dhabi Essais libres 1 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "14:00",
+      "datetime": "05-12-2025 14:00",
+      "league": "formula 1",
+      "teams": "Grand Prix d’Abu Dhabi Essais libres 2 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (14:00) formula 1 : Grand Prix d’Abu Dhabi Essais libres 2 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "15:30",
+      "datetime": "05-12-2025 15:30",
+      "league": "Fifa Arab Cup",
+      "teams": "Oman - Maroc",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "46",
+          "lang": "ae"
+        }
+      ],
+      "raw_line": "05-12-2025 (15:30) Fifa Arab Cup : Oman - Maroc  (CH4fr) (CH46ae)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "18:00",
+      "datetime": "05-12-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Galatasaray - Samsunspor",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "05-12-2025 (18:00) Super Lig : Galatasaray - Samsunspor  (CH9fr) (CH151tr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "18:30",
+      "datetime": "05-12-2025 18:30",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (18:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH112fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "18:30",
+      "datetime": "05-12-2025 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Düsseldorf - Schalke 04",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "05-12-2025 (18:30) Bundesliga 2 : Düsseldorf - Schalke 04  (CH10fr) (CH113de)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "18:30",
+      "datetime": "05-12-2025 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Münster - Hanovre",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "05-12-2025 (18:30) Bundesliga 2 : Münster - Hanovre  (CH114de)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:00",
+      "datetime": "05-12-2025 19:00",
+      "league": "D1 Féminin",
+      "teams": "Marseille F - PSG F",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:00) D1 Féminin : Marseille F - PSG F  (CH12fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:00",
+      "datetime": "05-12-2025 19:00",
+      "league": "Ligue 1",
+      "teams": "Brest - Monaco",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:00) Ligue 1 : Brest - Monaco  (CH20fr) (CH123de) (CH69es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:00",
+      "datetime": "05-12-2025 19:00",
+      "league": "Pro D2",
+      "teams": "US Carcassonne - RC Vannes",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:00) Pro D2 : US Carcassonne - RC Vannes  (CH13fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "Fifa Arab Cup",
+      "teams": "Comores - Arabie Saoudite",
+      "channels": [
+        {
+          "id": "46",
+          "lang": "ae"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) Fifa Arab Cup : Comores - Arabie Saoudite  (CH46ae)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "National",
+      "teams": "Aubagne - Rouen",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) National : Aubagne - Rouen  (CH41fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "National",
+      "teams": "Dijon - Valenciennes",
+      "channels": [
+        {
+          "id": "42",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) National : Dijon - Valenciennes  (CH42fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "National",
+      "teams": "Villefranche - Caen",
+      "channels": [
+        {
+          "id": "43",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) National : Villefranche - Caen  (CH43fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "Pro D2",
+      "teams": "AS Béziers - Soyaux Angoulême",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) Pro D2 : AS Béziers - Soyaux Angoulême  (CH34fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Biarritz Olympique - Valence Romans",
+      "channels": [
+        {
+          "id": "32",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) Pro D2 : Biarritz Olympique - Valence Romans  (CH32fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Stade Aurillacois - CA Brive",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) Pro D2 : Stade Aurillacois - CA Brive  (CH35fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "Pro D2",
+      "teams": "Stade Montois - Oyonnax Rugby",
+      "channels": [
+        {
+          "id": "33",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) Pro D2 : Stade Montois - Oyonnax Rugby  (CH33fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "19:30",
+      "datetime": "05-12-2025 19:30",
+      "league": "Pro D2",
+      "teams": "USO Nevers Rugby - US Dax",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (19:30) Pro D2 : USO Nevers Rugby - US Dax  (CH36fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Eredivisie",
+      "teams": "Excelsior - Groningen",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Eredivisie : Excelsior - Groningen  (CH142nl)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "EuroLeague",
+      "teams": "Étoile Rouge Belgrade - Barcelone",
+      "channels": [
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) EuroLeague : Étoile Rouge Belgrade - Barcelone  (CH63es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Multiplex Ligue 2 -",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Ligue 2 : Multiplex Ligue 2 -   (CH2fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Bastia - Red Star",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Ligue 2 : Bastia - Red Star  (CH7fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Clermont - Boulogne",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Ligue 2 : Clermont - Boulogne  (CH4fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Grenoble - Nancy",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Ligue 2 : Grenoble - Nancy  (CH6fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Guingamp - Annecy",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Ligue 2 : Guingamp - Annecy  (CH8fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:00",
+      "datetime": "05-12-2025 20:00",
+      "league": "Ligue 2",
+      "teams": "Le Mans - Amiens",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:00) Ligue 2 : Le Mans - Amiens  (CH5fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:15",
+      "datetime": "05-12-2025 20:15",
+      "league": "EuroLeague",
+      "teams": "Panathinaikos - Valence",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:15) EuroLeague : Panathinaikos - Valence  (CH62es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:30",
+      "datetime": "05-12-2025 20:30",
+      "league": "Bundesliga",
+      "teams": "Mayence - B. Monchengladbach",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:30) Bundesliga : Mayence - B. Monchengladbach  (CH10fr) (CH111de) (CH116es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:30",
+      "datetime": "05-12-2025 20:30",
+      "league": "EuroLeague",
+      "teams": "Baskonia - Milano",
+      "channels": [
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:30) EuroLeague : Baskonia - Milano  (CH64es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:30",
+      "datetime": "05-12-2025 20:30",
+      "league": "EuroLeague",
+      "teams": "Virtus Bologna - Dubai",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:30) EuroLeague : Virtus Bologna - Dubai  (CH65es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:30",
+      "datetime": "05-12-2025 20:30",
+      "league": "Fa Cup",
+      "teams": "Salford - Leyton Orient",
+      "channels": [
+        {
+          "id": "126",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:30) Fa Cup : Salford - Leyton Orient  (CH126us)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "20:45",
+      "datetime": "05-12-2025 20:45",
+      "league": "Pro League",
+      "teams": "RAAL La Louviere - Dender",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (20:45) Pro League : RAAL La Louviere - Dender  (CH153fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:00",
+      "datetime": "05-12-2025 21:00",
+      "league": "Challenge Cup",
+      "teams": "Ulster - Racing 92",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:00) Challenge Cup : Ulster - Racing 92  (CH9fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:00",
+      "datetime": "05-12-2025 21:00",
+      "league": "Championship",
+      "teams": "Hull - Middlesbrough",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:00) Championship : Hull - Middlesbrough  (CH127us) (CH91es) (CH99es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:00",
+      "datetime": "05-12-2025 21:00",
+      "league": "D1 Féminin",
+      "teams": "Lens F - Saint-Étienne F",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:00) D1 Féminin : Lens F - Saint-Étienne F  (CH12fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:00",
+      "datetime": "05-12-2025 21:00",
+      "league": "Laliga",
+      "teams": "Oviedo - Majorque",
+      "channels": [
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "96",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:00) Laliga : Oviedo - Majorque  (CH49es) (CH124de) (CH71es) (CH96es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:00",
+      "datetime": "05-12-2025 21:00",
+      "league": "Ligue 1",
+      "teams": "Lille - Marseille",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:00) Ligue 1 : Lille - Marseille  (CH1fr) (CH123de) (CH69es) (CH88es)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:00",
+      "datetime": "05-12-2025 21:00",
+      "league": "Pro D2",
+      "teams": "SU Agen - Provence Rugby",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:00) Pro D2 : SU Agen - Provence Rugby  (CH13fr)"
+    },
+    {
+      "date": "05-12-2025",
+      "time": "21:15",
+      "datetime": "05-12-2025 21:15",
+      "league": "Liga Portugal",
+      "teams": "Benfica - Sporting",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "147",
+          "lang": "pt"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-12-2025 (21:15) Liga Portugal : Benfica - Sporting  (CH10fr) (CH147pt) (CH74es)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "00:00",
+      "datetime": "06-12-2025 00:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Palestino - Huachipato",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-12-2025 (00:00) Campeonato Itaú Chile : Palestino - Huachipato  (CH83es)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:00",
+      "datetime": "06-12-2025 01:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Dep. Cuenca - Delfin",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:00) Ecuador Ligapro : Dep. Cuenca - Delfin  (CH86es)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:00",
+      "datetime": "06-12-2025 01:00",
+      "league": "NBA",
+      "teams": "Boston Celtics - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:00) NBA : Boston Celtics - Los Angeles Lakers  (CH160us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:00",
+      "datetime": "06-12-2025 01:00",
+      "league": "NBA",
+      "teams": "Orlando Magic - Miami Heat",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:00) NBA : Orlando Magic - Miami Heat  (CH161us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:00",
+      "datetime": "06-12-2025 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:00) NHL : New Jersey Devils - Vegas Golden Knights  (CH180us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:00",
+      "datetime": "06-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Winnipeg Jets - Buffalo Sabres",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:00) NHL : Winnipeg Jets - Buffalo Sabres  (CH181us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:30",
+      "datetime": "06-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - Denver Nuggets",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:30) NBA : Atlanta Hawks - Denver Nuggets  (CH162us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:30",
+      "datetime": "06-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:30) NBA : Cleveland Cavaliers - San Antonio Spurs  (CH163us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:30",
+      "datetime": "06-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:30) NBA : Detroit Pistons - Portland Trail Blazers  (CH164us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:30",
+      "datetime": "06-12-2025 01:30",
+      "league": "NBA",
+      "teams": "New York Knicks - Utah Jazz",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:30) NBA : New York Knicks - Utah Jazz  (CH165us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "01:30",
+      "datetime": "06-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (01:30) NBA : Toronto Raptors - Charlotte Hornets  (CH166us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "02:00",
+      "datetime": "06-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Indiana Pacers",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (02:00) NBA : Chicago Bulls - Indiana Pacers  (CH167us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "02:00",
+      "datetime": "06-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Phoenix Suns",
+      "channels": [
+        {
+          "id": "168",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (02:00) NBA : Houston Rockets - Phoenix Suns  (CH168us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "02:00",
+      "datetime": "06-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "169",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (02:00) NBA : Memphis Grizzlies - Los Angeles Clippers  (CH169us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "02:00",
+      "datetime": "06-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Milwaukee Bucks - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (02:00) NBA : Milwaukee Bucks - Philadelphia 76ers  (CH170us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "02:00",
+      "datetime": "06-12-2025 02:00",
+      "league": "NHL",
+      "teams": "Dallas Stars - San Jose Sharks",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (02:00) NHL : Dallas Stars - San Jose Sharks  (CH182us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "03:00",
+      "datetime": "06-12-2025 03:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - Utah Mammoth",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (03:00) NHL : Vancouver Canucks - Utah Mammoth  (CH183us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "03:30",
+      "datetime": "06-12-2025 03:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (03:30) NBA : Oklahoma City Thunder - Dallas Mavericks  (CH171us)"
+    },
+    {
+      "date": "06-12-2025",
+      "time": "04:00",
+      "datetime": "06-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - Washington Capitals",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-12-2025 (04:00) NHL : Anaheim Ducks - Washington Capitals  (CH184us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +917,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-05T11:16:30.973719"
+      "extracted_at": "2025-12-05T11:31:05.672748"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +926,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T11:16:32.552834"
+      "extracted_at": "2025-12-05T11:31:07.219881"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +935,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T11:16:35.275499"
+      "extracted_at": "2025-12-05T11:31:09.506150"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +944,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-05T11:16:38.098212"
+      "extracted_at": "2025-12-05T11:31:11.856454"
     }
   },
   "player_urls": {

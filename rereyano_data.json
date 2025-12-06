@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-06T05:50:03.193265",
-  "total_events": 1,
+  "last_updated": "2025-12-06T06:22:17.842273",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "06-12-2025",
-      "time": "04:00",
-      "datetime": "06-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Anaheim Ducks - Washington Capitals",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-12-2025 (04:00) NHL : Anaheim Ducks - Washington Capitals  (CH184us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-06T05:49:55.531586"
+      "extracted_at": "2025-12-06T06:22:10.272346"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-06T05:49:56.921549"
+      "extracted_at": "2025-12-06T06:22:11.908441"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-06T05:49:59.626164"
+      "extracted_at": "2025-12-06T06:22:14.369585"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-06T05:50:02.193121"
+      "extracted_at": "2025-12-06T06:22:16.842124"
     }
   },
   "player_urls": {

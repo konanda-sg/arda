@@ -1,82 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-06T03:58:11.119995",
-  "total_events": 8,
+  "last_updated": "2025-12-06T04:42:45.688981",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-12-2025",
-      "time": "02:00",
-      "datetime": "06-12-2025 02:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Indiana Pacers",
-      "channels": [
-        {
-          "id": "167",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-12-2025 (02:00) NBA : Chicago Bulls - Indiana Pacers  (CH167us)"
-    },
-    {
-      "date": "06-12-2025",
-      "time": "02:00",
-      "datetime": "06-12-2025 02:00",
-      "league": "NBA",
-      "teams": "Houston Rockets - Phoenix Suns",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-12-2025 (02:00) NBA : Houston Rockets - Phoenix Suns  (CH168us)"
-    },
-    {
-      "date": "06-12-2025",
-      "time": "02:00",
-      "datetime": "06-12-2025 02:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Los Angeles Clippers",
-      "channels": [
-        {
-          "id": "169",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-12-2025 (02:00) NBA : Memphis Grizzlies - Los Angeles Clippers  (CH169us)"
-    },
-    {
-      "date": "06-12-2025",
-      "time": "02:00",
-      "datetime": "06-12-2025 02:00",
-      "league": "NBA",
-      "teams": "Milwaukee Bucks - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-12-2025 (02:00) NBA : Milwaukee Bucks - Philadelphia 76ers  (CH170us)"
-    },
-    {
-      "date": "06-12-2025",
-      "time": "02:00",
-      "datetime": "06-12-2025 02:00",
-      "league": "NHL",
-      "teams": "Dallas Stars - San Jose Sharks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-12-2025 (02:00) NHL : Dallas Stars - San Jose Sharks  (CH182us)"
-    },
     {
       "date": "06-12-2025",
       "time": "03:00",
@@ -127,7 +57,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-06T03:58:03.873215"
+      "extracted_at": "2025-12-06T04:42:36.954503"
     },
     "hoca": {
       "name": "hoca",
@@ -136,7 +66,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-06T03:58:05.491600"
+      "extracted_at": "2025-12-06T04:42:38.913574"
     },
     "Caster": {
       "name": "Caster",
@@ -145,7 +75,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-06T03:58:07.723447"
+      "extracted_at": "2025-12-06T04:42:41.941262"
     },
     "WIGI": {
       "name": "WIGI",
@@ -154,7 +84,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-06T03:58:10.119872"
+      "extracted_at": "2025-12-06T04:42:44.688848"
     }
   },
   "player_urls": {

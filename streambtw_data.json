@@ -1,490 +1,415 @@
 {
   "extractor": "StreamBTW",
-  "last_updated": "2025-12-07T11:37:57.963687",
-  "total_items": 26,
-  "sports_count": 7,
-  "m3u8_extracted": 1,
-  "accessible_streams": 1,
+  "last_updated": "2025-12-07T12:38:39.458617",
+  "total_items": 24,
+  "sports_count": 6,
+  "m3u8_extracted": 0,
+  "accessible_streams": 0,
   "sports": [
-    "UFC",
     "PREMIER-LEAGUE",
     "LA-LIGA",
     "BUNDESLIGA",
     "SERIE-A",
     "LIGUE-1",
-    "NBA"
+    "NFL"
   ],
   "items": [
     {
-      "title": "UFC 323 vs live",
-      "sport": "UFC",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/ufc.php",
-      "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.056750",
-      "playable_link": {
-        "m3u8_url": "https://streameast.asia/playlist/stream_ufc.m3u8?md5=0VXVbjFdNei2MQ4BurjBsg&expires=1765111073",
-        "iframe_url": "https://streambtw.live/iframe/ufc.php",
-        "page_url": "https://streambtw.live/iframe/ufc.php",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "Referer": "https://streambtw.live/iframe/ufc.php",
-          "Origin": "https://streambtw.live",
-          "Accept": "*/*",
-          "Accept-Language": "en-US,en;q=0.9",
-          "Connection": "keep-alive",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site"
-        },
-        "is_accessible": true,
-        "origin": "https://streambtw.live",
-        "referer": "https://streambtw.live/iframe/ufc.php",
-        "extracted_at": "2025-12-07T11:37:54.815736"
-      }
-    },
-    {
-      "title": "AFC Bournemouth vs Chelsea",
-      "sport": "PREMIER-LEAGUE",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/ch2.php",
-      "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.056974"
-    },
-    {
-      "title": "Aston Villa vs Arsenal",
+      "title": "Brighton & Hove Albion vs West Ham United",
       "sport": "PREMIER-LEAGUE",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch1.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.057137"
+      "extracted_at": "2025-12-07T12:38:35.523710"
     },
     {
-      "title": "Everton vs Nottingham Forest",
-      "sport": "PREMIER-LEAGUE",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/ch3.php",
-      "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.057302"
-    },
-    {
-      "title": "Leeds United vs Liverpool",
+      "title": "Fulham vs Crystal Palace",
       "sport": "PREMIER-LEAGUE",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch1.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.057482"
+      "extracted_at": "2025-12-07T12:38:35.523926"
     },
     {
-      "title": "Manchester City vs Sunderland",
-      "sport": "PREMIER-LEAGUE",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/ch4.php",
-      "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.057636"
-    },
-    {
-      "title": "Newcastle United vs Burnley",
-      "sport": "PREMIER-LEAGUE",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/ch5.php",
-      "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.057789"
-    },
-    {
-      "title": "Tottenham Hotspur vs Brentford",
-      "sport": "PREMIER-LEAGUE",
-      "icon": "🎯",
-      "link": "https://streambtw.live/iframe/ch1.php",
-      "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.057946"
-    },
-    {
-      "title": "Villarreal vs Getafe",
+      "title": "Elche vs Girona",
       "sport": "LA-LIGA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch6.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.058103"
+      "extracted_at": "2025-12-07T12:38:35.524100"
     },
     {
-      "title": "Deportivo Alaves vs Real Sociedad",
+      "title": "Valencia vs Sevilla",
       "sport": "LA-LIGA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch6.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.058257"
+      "extracted_at": "2025-12-07T12:38:35.524278"
     },
     {
-      "title": "Real Betis vs Barcelona",
+      "title": "Espanyol vs Rayo Vallecano",
       "sport": "LA-LIGA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch6.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.058422"
+      "extracted_at": "2025-12-07T12:38:35.524445"
     },
     {
-      "title": "Athletic Club vs Atletico Madrid",
+      "title": "Real Madrid vs Celta de Vigo",
       "sport": "LA-LIGA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch6.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.058587"
+      "extracted_at": "2025-12-07T12:38:35.524611"
     },
     {
-      "title": "Stuttgart vs Bayern Munchen",
+      "title": "Borussia Dortmund vs Hoffenheim",
       "sport": "BUNDESLIGA",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch9.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.058738"
+      "extracted_at": "2025-12-07T12:38:35.524771"
     },
     {
-      "title": "Sassuolo vs Fiorentina",
+      "title": "Cremonese vs Lecce",
       "sport": "SERIE-A",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch7.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.058889"
+      "extracted_at": "2025-12-07T12:38:35.524926"
     },
     {
-      "title": "Internazionale vs Como",
+      "title": "Cagliari vs Roma",
       "sport": "SERIE-A",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch7.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059037"
+      "extracted_at": "2025-12-07T12:38:35.525083"
     },
     {
-      "title": "Hellas Verona vs Atalanta",
+      "title": "Lazio vs Bologna",
       "sport": "SERIE-A",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch7.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059186"
+      "extracted_at": "2025-12-07T12:38:35.525253"
     },
     {
-      "title": "Nantes vs Lens",
+      "title": "Napoli vs Juventus",
+      "sport": "SERIE-A",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch7.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-07T12:38:35.525408"
+    },
+    {
+      "title": "Nice vs Angers SCO",
       "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch8.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059342"
+      "extracted_at": "2025-12-07T12:38:35.525561"
     },
     {
-      "title": "Toulouse vs Strasbourg",
+      "title": "Le Havre vs Paris",
       "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch8.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059509"
+      "extracted_at": "2025-12-07T12:38:35.525712"
     },
     {
-      "title": "PSG vs Rennes",
+      "title": "Auxerre vs Metz",
+      "sport": "LIGUE-1",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch10.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-07T12:38:35.525870"
+    },
+    {
+      "title": "Lorient vs Olympique Lyonnais",
       "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/ch8.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059662"
+      "extracted_at": "2025-12-07T12:38:35.526023"
     },
     {
-      "title": "Brooklyn Nets vs New Orleans Pelicans",
-      "sport": "NBA",
+      "title": "New York Knicks vs Orlando Magic",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba1.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059812"
+      "extracted_at": "2025-12-07T12:38:35.526175"
     },
     {
-      "title": "Washington Wizards vs Atlanta Hawks",
-      "sport": "NBA",
+      "title": "Toronto Raptors vs Boston Celtics",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba2.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.059978"
+      "extracted_at": "2025-12-07T12:38:35.526345"
     },
     {
-      "title": "Cleveland Cavaliers vs Golden State Warriors",
-      "sport": "NBA",
+      "title": "Memphis Grizzlies vs Portland Trail Blazers",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba3.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.060128"
+      "extracted_at": "2025-12-07T12:38:35.526495"
     },
     {
-      "title": "Detroit Pistons vs Milwaukee Bucks",
-      "sport": "NBA",
+      "title": "Charlotte Hornets vs Denver Nuggets",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba4.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.060277"
+      "extracted_at": "2025-12-07T12:38:35.526643"
     },
     {
-      "title": "Minnesota Timberwolves vs LA Clippers",
-      "sport": "NBA",
+      "title": "Chicago Bulls vs Golden State Warriors",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba5.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.060443"
+      "extracted_at": "2025-12-07T12:38:35.526791"
     },
     {
-      "title": "Miami Heat vs Sacramento Kings",
-      "sport": "NBA",
+      "title": "Philadelphia 76ers vs Los Angeles Lakers",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba6.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.060594"
+      "extracted_at": "2025-12-07T12:38:35.526941"
     },
     {
-      "title": "Dallas Mavericks vs Houston Rockets",
-      "sport": "NBA",
+      "title": "Utah Jazz vs Oklahoma City Thunder",
+      "sport": "LIGUE-1",
       "icon": "🎯",
       "link": "https://streambtw.live/iframe/nba7.php",
       "thumbnail": "",
-      "extracted_at": "2025-12-07T11:37:53.060742"
+      "extracted_at": "2025-12-07T12:38:35.527091"
+    },
+    {
+      "title": "NFL REDZONE vs Live",
+      "sport": "NFL",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/redzone.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-07T12:38:35.527253"
+    },
+    {
+      "title": "NFL NETWORK vs Live",
+      "sport": "NFL",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nflnetwork.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-07T12:38:35.527407"
     }
   ],
   "by_sport": {
-    "UFC": [
-      {
-        "title": "UFC 323 vs live",
-        "sport": "UFC",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/ufc.php",
-        "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.056750",
-        "playable_link": {
-          "m3u8_url": "https://streameast.asia/playlist/stream_ufc.m3u8?md5=0VXVbjFdNei2MQ4BurjBsg&expires=1765111073",
-          "iframe_url": "https://streambtw.live/iframe/ufc.php",
-          "page_url": "https://streambtw.live/iframe/ufc.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://streambtw.live/iframe/ufc.php",
-            "Origin": "https://streambtw.live",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Site": "cross-site"
-          },
-          "is_accessible": true,
-          "origin": "https://streambtw.live",
-          "referer": "https://streambtw.live/iframe/ufc.php",
-          "extracted_at": "2025-12-07T11:37:54.815736"
-        }
-      }
-    ],
     "PREMIER-LEAGUE": [
       {
-        "title": "AFC Bournemouth vs Chelsea",
-        "sport": "PREMIER-LEAGUE",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/ch2.php",
-        "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.056974"
-      },
-      {
-        "title": "Aston Villa vs Arsenal",
+        "title": "Brighton & Hove Albion vs West Ham United",
         "sport": "PREMIER-LEAGUE",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch1.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.057137"
+        "extracted_at": "2025-12-07T12:38:35.523710"
       },
       {
-        "title": "Everton vs Nottingham Forest",
-        "sport": "PREMIER-LEAGUE",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/ch3.php",
-        "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.057302"
-      },
-      {
-        "title": "Leeds United vs Liverpool",
+        "title": "Fulham vs Crystal Palace",
         "sport": "PREMIER-LEAGUE",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch1.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.057482"
-      },
-      {
-        "title": "Manchester City vs Sunderland",
-        "sport": "PREMIER-LEAGUE",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/ch4.php",
-        "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.057636"
-      },
-      {
-        "title": "Newcastle United vs Burnley",
-        "sport": "PREMIER-LEAGUE",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/ch5.php",
-        "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.057789"
-      },
-      {
-        "title": "Tottenham Hotspur vs Brentford",
-        "sport": "PREMIER-LEAGUE",
-        "icon": "🎯",
-        "link": "https://streambtw.live/iframe/ch1.php",
-        "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.057946"
+        "extracted_at": "2025-12-07T12:38:35.523926"
       }
     ],
     "LA-LIGA": [
       {
-        "title": "Villarreal vs Getafe",
+        "title": "Elche vs Girona",
         "sport": "LA-LIGA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch6.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.058103"
+        "extracted_at": "2025-12-07T12:38:35.524100"
       },
       {
-        "title": "Deportivo Alaves vs Real Sociedad",
+        "title": "Valencia vs Sevilla",
         "sport": "LA-LIGA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch6.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.058257"
+        "extracted_at": "2025-12-07T12:38:35.524278"
       },
       {
-        "title": "Real Betis vs Barcelona",
+        "title": "Espanyol vs Rayo Vallecano",
         "sport": "LA-LIGA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch6.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.058422"
+        "extracted_at": "2025-12-07T12:38:35.524445"
       },
       {
-        "title": "Athletic Club vs Atletico Madrid",
+        "title": "Real Madrid vs Celta de Vigo",
         "sport": "LA-LIGA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch6.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.058587"
+        "extracted_at": "2025-12-07T12:38:35.524611"
       }
     ],
     "BUNDESLIGA": [
       {
-        "title": "Stuttgart vs Bayern Munchen",
+        "title": "Borussia Dortmund vs Hoffenheim",
         "sport": "BUNDESLIGA",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch9.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.058738"
+        "extracted_at": "2025-12-07T12:38:35.524771"
       }
     ],
     "SERIE-A": [
       {
-        "title": "Sassuolo vs Fiorentina",
+        "title": "Cremonese vs Lecce",
         "sport": "SERIE-A",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch7.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.058889"
+        "extracted_at": "2025-12-07T12:38:35.524926"
       },
       {
-        "title": "Internazionale vs Como",
+        "title": "Cagliari vs Roma",
         "sport": "SERIE-A",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch7.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059037"
+        "extracted_at": "2025-12-07T12:38:35.525083"
       },
       {
-        "title": "Hellas Verona vs Atalanta",
+        "title": "Lazio vs Bologna",
         "sport": "SERIE-A",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch7.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059186"
+        "extracted_at": "2025-12-07T12:38:35.525253"
+      },
+      {
+        "title": "Napoli vs Juventus",
+        "sport": "SERIE-A",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch7.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-07T12:38:35.525408"
       }
     ],
     "LIGUE-1": [
       {
-        "title": "Nantes vs Lens",
+        "title": "Nice vs Angers SCO",
         "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch8.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059342"
+        "extracted_at": "2025-12-07T12:38:35.525561"
       },
       {
-        "title": "Toulouse vs Strasbourg",
+        "title": "Le Havre vs Paris",
         "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch8.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059509"
+        "extracted_at": "2025-12-07T12:38:35.525712"
       },
       {
-        "title": "PSG vs Rennes",
+        "title": "Auxerre vs Metz",
+        "sport": "LIGUE-1",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch10.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-07T12:38:35.525870"
+      },
+      {
+        "title": "Lorient vs Olympique Lyonnais",
         "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/ch8.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059662"
-      }
-    ],
-    "NBA": [
+        "extracted_at": "2025-12-07T12:38:35.526023"
+      },
       {
-        "title": "Brooklyn Nets vs New Orleans Pelicans",
-        "sport": "NBA",
+        "title": "New York Knicks vs Orlando Magic",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba1.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059812"
+        "extracted_at": "2025-12-07T12:38:35.526175"
       },
       {
-        "title": "Washington Wizards vs Atlanta Hawks",
-        "sport": "NBA",
+        "title": "Toronto Raptors vs Boston Celtics",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba2.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.059978"
+        "extracted_at": "2025-12-07T12:38:35.526345"
       },
       {
-        "title": "Cleveland Cavaliers vs Golden State Warriors",
-        "sport": "NBA",
+        "title": "Memphis Grizzlies vs Portland Trail Blazers",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba3.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.060128"
+        "extracted_at": "2025-12-07T12:38:35.526495"
       },
       {
-        "title": "Detroit Pistons vs Milwaukee Bucks",
-        "sport": "NBA",
+        "title": "Charlotte Hornets vs Denver Nuggets",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba4.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.060277"
+        "extracted_at": "2025-12-07T12:38:35.526643"
       },
       {
-        "title": "Minnesota Timberwolves vs LA Clippers",
-        "sport": "NBA",
+        "title": "Chicago Bulls vs Golden State Warriors",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba5.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.060443"
+        "extracted_at": "2025-12-07T12:38:35.526791"
       },
       {
-        "title": "Miami Heat vs Sacramento Kings",
-        "sport": "NBA",
+        "title": "Philadelphia 76ers vs Los Angeles Lakers",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba6.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.060594"
+        "extracted_at": "2025-12-07T12:38:35.526941"
       },
       {
-        "title": "Dallas Mavericks vs Houston Rockets",
-        "sport": "NBA",
+        "title": "Utah Jazz vs Oklahoma City Thunder",
+        "sport": "LIGUE-1",
         "icon": "🎯",
         "link": "https://streambtw.live/iframe/nba7.php",
         "thumbnail": "",
-        "extracted_at": "2025-12-07T11:37:53.060742"
+        "extracted_at": "2025-12-07T12:38:35.527091"
+      }
+    ],
+    "NFL": [
+      {
+        "title": "NFL REDZONE vs Live",
+        "sport": "NFL",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/redzone.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-07T12:38:35.527253"
+      },
+      {
+        "title": "NFL NETWORK vs Live",
+        "sport": "NFL",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nflnetwork.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-07T12:38:35.527407"
       }
     ]
   }

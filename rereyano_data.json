@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-07T10:15:02.307780",
+  "last_updated": "2025-12-07T10:34:39.712060",
   "total_events": 124,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -1237,6 +1237,10 @@
       "teams": "Naples - Juventus",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "137",
           "lang": "it"
         },
@@ -1257,7 +1261,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "07-12-2025 (20:45) Serie A : Naples - Juventus  (CH137it) (CH123de) (CH97es) (CH87es) (CH70es)"
+      "raw_line": "07-12-2025 (20:45) Serie A : Naples - Juventus  (CH45fr) (CH137it) (CH123de) (CH97es) (CH87es) (CH70es)"
     },
     {
       "date": "07-12-2025",
@@ -1693,11 +1697,11 @@
           "lang": "it"
         },
         {
-          "id": "97",
-          "lang": "xes"
+          "id": "87",
+          "lang": "es"
         }
       ],
-      "raw_line": "08-12-2025 (15:00) Serie A : Pisa - Parme  (CH137it) (CH97xes)"
+      "raw_line": "08-12-2025 (15:00) Serie A : Pisa - Parme  (CH137it) (CH87es)"
     },
     {
       "date": "08-12-2025",
@@ -1889,6 +1893,10 @@
       "teams": "Torino - AC Milan",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "138",
           "lang": "it"
         },
@@ -1905,7 +1913,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "08-12-2025 (20:45) Serie A : Torino - AC Milan  (CH138it) (CH98es) (CH88es) (CH70es)"
+      "raw_line": "08-12-2025 (20:45) Serie A : Torino - AC Milan  (CH45fr) (CH138it) (CH98es) (CH88es) (CH70es)"
     },
     {
       "date": "08-12-2025",
@@ -2171,7 +2179,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-07T10:14:54.367168"
+      "extracted_at": "2025-12-07T10:34:13.317975"
     },
     "hoca": {
       "name": "hoca",
@@ -2180,7 +2188,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-07T10:14:55.804812"
+      "extracted_at": "2025-12-07T10:34:14.698619"
     },
     "Caster": {
       "name": "Caster",
@@ -2189,7 +2197,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-07T10:14:58.570895"
+      "extracted_at": "2025-12-07T10:34:35.983354"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2198,7 +2206,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-07T10:15:01.307641"
+      "extracted_at": "2025-12-07T10:34:38.711910"
     }
   },
   "player_urls": {

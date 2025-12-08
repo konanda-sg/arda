@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-08T03:56:54.584299",
-  "total_events": 30,
+  "last_updated": "2025-12-08T04:32:35.794185",
+  "total_events": 27,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-12-2025",
-      "time": "02:00",
-      "datetime": "08-12-2025 02:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "166",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-12-2025 (02:00) NBA : Utah Jazz - Oklahoma City Thunder  (CH166us)"
-    },
-    {
-      "date": "08-12-2025",
-      "time": "02:00",
-      "datetime": "08-12-2025 02:00",
-      "league": "NHL",
-      "teams": "Anaheim Ducks - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-12-2025 (02:00) NHL : Anaheim Ducks - Chicago Blackhawks  (CH187us)"
-    },
-    {
-      "date": "08-12-2025",
-      "time": "02:20",
-      "datetime": "08-12-2025 02:20",
-      "league": "NFL",
-      "teams": "Kansas City Chiefs - Houston Texans",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "171",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-12-2025 (02:20) NFL : Kansas City Chiefs - Houston Texans  (CH3fr) (CH171us) (CH88es) (CH97es)"
-    },
     {
       "date": "08-12-2025",
       "time": "15:00",
@@ -555,7 +501,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-08T03:56:46.047646"
+      "extracted_at": "2025-12-08T04:32:27.156148"
     },
     "hoca": {
       "name": "hoca",
@@ -564,7 +510,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-08T03:56:47.793630"
+      "extracted_at": "2025-12-08T04:32:28.937997"
     },
     "Caster": {
       "name": "Caster",
@@ -573,7 +519,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-08T03:56:50.798344"
+      "extracted_at": "2025-12-08T04:32:32.013867"
     },
     "WIGI": {
       "name": "WIGI",
@@ -582,7 +528,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-08T03:56:53.584095"
+      "extracted_at": "2025-12-08T04:32:34.794065"
     }
   },
   "player_urls": {

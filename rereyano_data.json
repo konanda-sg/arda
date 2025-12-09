@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-09T04:48:47.748952",
-  "total_events": 4,
+  "last_updated": "2025-12-09T05:17:09.894831",
+  "total_events": 2,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-12-2025",
-      "time": "03:00",
-      "datetime": "09-12-2025 03:00",
-      "league": "NHL",
-      "teams": "Calgary Flames - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-12-2025 (03:00) NHL : Calgary Flames - Buffalo Sabres  (CH189us)"
-    },
-    {
-      "date": "09-12-2025",
-      "time": "03:00",
-      "datetime": "09-12-2025 03:00",
-      "league": "NHL",
-      "teams": "Utah Mammoth - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-12-2025 (03:00) NHL : Utah Mammoth - Los Angeles Kings  (CH190us)"
-    },
     {
       "date": "09-12-2025",
       "time": "04:00",
@@ -71,7 +43,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-09T04:48:40.119289"
+      "extracted_at": "2025-12-09T05:17:01.344820"
     },
     "hoca": {
       "name": "hoca",
@@ -80,7 +52,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-09T04:48:41.667662"
+      "extracted_at": "2025-12-09T05:17:03.008310"
     },
     "Caster": {
       "name": "Caster",
@@ -89,7 +61,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-09T04:48:44.078461"
+      "extracted_at": "2025-12-09T05:17:06.034770"
     },
     "WIGI": {
       "name": "WIGI",
@@ -98,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-09T04:48:46.748806"
+      "extracted_at": "2025-12-09T05:17:08.894709"
     }
   },
   "player_urls": {

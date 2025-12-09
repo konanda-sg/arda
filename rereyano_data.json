@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-09T03:49:28.763475",
-  "total_events": 6,
+  "last_updated": "2025-12-09T04:25:17.801969",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-12-2025",
-      "time": "02:00",
-      "datetime": "09-12-2025 02:00",
-      "league": "NBA",
-      "teams": "New Orleans Pelicans - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-12-2025 (02:00) NBA : New Orleans Pelicans - San Antonio Spurs  (CH162us)"
-    },
-    {
-      "date": "09-12-2025",
-      "time": "02:15",
-      "datetime": "09-12-2025 02:15",
-      "league": "NFL",
-      "teams": "Los Angeles Chargers - Philadelphia Eagles",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-12-2025 (02:15) NFL : Los Angeles Chargers - Philadelphia Eagles  (CH2fr) (CH170us) (CH97es) (CH88es)"
-    },
     {
       "date": "09-12-2025",
       "time": "03:00",
@@ -111,7 +71,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-09T03:49:20.924861"
+      "extracted_at": "2025-12-09T04:25:09.861852"
     },
     "hoca": {
       "name": "hoca",
@@ -120,7 +80,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-09T03:49:22.508664"
+      "extracted_at": "2025-12-09T04:25:11.412993"
     },
     "Caster": {
       "name": "Caster",
@@ -129,7 +89,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-09T03:49:25.171112"
+      "extracted_at": "2025-12-09T04:25:13.939315"
     },
     "WIGI": {
       "name": "WIGI",
@@ -138,7 +98,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-09T03:49:27.763303"
+      "extracted_at": "2025-12-09T04:25:16.801819"
     }
   },
   "player_urls": {

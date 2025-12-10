@@ -1,12 +1,641 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-10T08:22:52.599445",
-  "total_events": 0,
+  "last_updated": "2025-12-10T08:51:19.316112",
+  "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "10-12-2025",
+      "time": "12:00",
+      "datetime": "10-12-2025 12:00",
+      "league": "Youth League",
+      "teams": "Villarreal -19 - FC Copenhague -19",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (12:00) Youth League : Villarreal -19 - FC Copenhague -19  (CH161es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "13:00",
+      "datetime": "10-12-2025 13:00",
+      "league": "Youth League",
+      "teams": "Ath. Bilbao -19 - PSG -19",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (13:00) Youth League : Ath. Bilbao -19 - PSG -19  (CH12fr) (CH162es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "16:00",
+      "datetime": "10-12-2025 16:00",
+      "league": "Youth League",
+      "teams": "Real Madrid -19 - Manchester City -19",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (16:00) Youth League : Real Madrid -19 - Manchester City -19  (CH12fr) (CH162es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "18:00",
+      "datetime": "10-12-2025 18:00",
+      "league": "Coupe intercontinentale",
+      "teams": "Flamengo - Cruz Azul",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (18:00) Coupe intercontinentale : Flamengo - Cruz Azul  (CH2fr) (CH94es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "18:45",
+      "datetime": "10-12-2025 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Qarabag - Ajax",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (18:45) Ligue Des Champions : Qarabag - Ajax  (CH13fr) (CH162es) (CH141nl) (CH113de) (CH87es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "18:45",
+      "datetime": "10-12-2025 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Villarreal - FC Copenhague",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (18:45) Ligue Des Champions : Villarreal - FC Copenhague  (CH12fr) (CH161es) (CH114de) (CH138it) (CH131gb) (CH88es) (CH78es) (CH68es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "18:45",
+      "datetime": "10-12-2025 18:45",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Barcelone F - Benfica F",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (18:45) Ligue Des Champions Femmes : Barcelone F - Benfica F  (CH65es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "20:45",
+      "datetime": "10-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Bristol City - Leicester",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-12-2025 (20:45) Championship : Bristol City - Leicester  (CH190us)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "20:45",
+      "datetime": "10-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Derby - Millwall",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-12-2025 (20:45) Championship : Derby - Millwall  (CH191us)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "20:45",
+      "datetime": "10-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Ipswich - Stoke",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-12-2025 (20:45) Championship : Ipswich - Stoke  (CH192us)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Championship",
+      "teams": "Hull - Wrexham",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Championship : Hull - Wrexham  (CH4fr) (CH127us) (CH98es) (CH78es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Multiplex Ligue des Champions -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Multiplex Ligue des Champions -   (CH14fr) (CH164es) (CH124de)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Ath. Bilbao - PSG",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Ath. Bilbao - PSG  (CH11fr) (CH162es) (CH113de) (CH88es) (CH68es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Bayer Leverkusen - Newcastle",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Bayer Leverkusen - Newcastle  (CH34fr) (CH167es) (CH115de) (CH130gb) (CH89es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Benfica - Naples",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Benfica - Naples  (CH35fr) (CH166es) (CH137it) (CH144pt) (CH93es) (CH79es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Club Brugge - Arsenal",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Club Brugge - Arsenal  (CH13fr) (CH165es) (CH114de) (CH129gb) (CH91es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Dortmund - Bodo/Glimt",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "169",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Dortmund - Bodo/Glimt  (CH37fr) (CH169es) (CH112de) (CH90es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Juventus - Pafos",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "168",
+          "lang": "es"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "92",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Juventus - Pafos  (CH36fr) (CH168es) (CH139it) (CH92es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Real Madrid - Manchester City",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions : Real Madrid - Manchester City  (CH12fr) (CH161es) (CH138it) (CH126gb) (CH87es) (CH78es) (CH155es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "21:00",
+      "datetime": "10-12-2025 21:00",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Manchester Utd F - Lyon F",
+      "channels": [
+        {
+          "id": "19",
+          "lang": "fr"
+        },
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (21:00) Ligue Des Champions Femmes : Manchester Utd F - Lyon F  (CH19fr) (CH65es)"
+    },
+    {
+      "date": "10-12-2025",
+      "time": "23:00",
+      "datetime": "10-12-2025 23:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Ind. del Valle - LDU Quito",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-12-2025 (23:00) Ecuador Ligapro : Ind. del Valle - LDU Quito  (CH86es)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "00:00",
+      "datetime": "11-12-2025 00:00",
+      "league": "Copa Chili",
+      "teams": "Huachipato - Limache",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-12-2025 (00:00) Copa Chili : Huachipato - Limache  (CH83es)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "01:30",
+      "datetime": "11-12-2025 01:30",
+      "league": "Coupe Du Bresil",
+      "teams": "Cruzeiro - Corinthians",
+      "channels": [
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-12-2025 (01:30) Coupe Du Bresil : Cruzeiro - Corinthians  (CH94es) (CH98es)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "01:30",
+      "datetime": "11-12-2025 01:30",
+      "league": "NBA CUP",
+      "teams": "Oklahoma City Thunder - Phoenix Suns",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-12-2025 (01:30) NBA CUP : Oklahoma City Thunder - Phoenix Suns  (CH180us)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "01:30",
+      "datetime": "11-12-2025 01:30",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - New York Rangers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-12-2025 (01:30) NHL : Chicago Blackhawks - New York Rangers  (CH190us) (CH89es)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "02:00",
+      "datetime": "11-12-2025 02:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Sporting Cristal - Cusco",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-12-2025 (02:00) Liga 1 Te Apuesto : Sporting Cristal - Cusco  (CH84es)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "02:30",
+      "datetime": "11-12-2025 02:30",
+      "league": "NHL",
+      "teams": "Calgary Flames - Detroit Red Wings",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-12-2025 (02:30) NHL : Calgary Flames - Detroit Red Wings  (CH191us)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "03:00",
+      "datetime": "11-12-2025 03:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Florida Panthers",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-12-2025 (03:00) NHL : Utah Mammoth - Florida Panthers  (CH4fr) (CH192us)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "04:00",
+      "datetime": "11-12-2025 04:00",
+      "league": "NBA CUP",
+      "teams": "Los Angeles Lakers - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-12-2025 (04:00) NBA CUP : Los Angeles Lakers - San Antonio Spurs  (CH181us)"
+    },
+    {
+      "date": "11-12-2025",
+      "time": "04:00",
+      "datetime": "11-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-12-2025 (04:00) NHL : Seattle Kraken - Los Angeles Kings  (CH193us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +643,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-10T08:22:45.207043"
+      "extracted_at": "2025-12-10T08:51:10.999979"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +652,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T08:22:46.617652"
+      "extracted_at": "2025-12-10T08:51:12.884116"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +661,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T08:22:49.217273"
+      "extracted_at": "2025-12-10T08:51:15.618299"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +670,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T08:22:51.599287"
+      "extracted_at": "2025-12-10T08:51:18.315977"
     }
   },
   "player_urls": {

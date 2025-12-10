@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-10T03:07:18.173608",
-  "total_events": 6,
+  "last_updated": "2025-12-10T04:02:23.950400",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "10-12-2025",
-      "time": "01:30",
-      "datetime": "10-12-2025 01:30",
-      "league": "NHL",
-      "teams": "Carolina Hurricanes - Columbus Blue Jackets",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-12-2025 (01:30) NHL : Carolina Hurricanes - Columbus Blue Jackets  (CH185us) (CH90es)"
-    },
-    {
-      "date": "10-12-2025",
-      "time": "02:00",
-      "datetime": "10-12-2025 02:00",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Boston Bruins",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-12-2025 (02:00) NHL : St. Louis Blues - Boston Bruins  (CH186us)"
-    },
-    {
-      "date": "10-12-2025",
-      "time": "02:00",
-      "datetime": "10-12-2025 02:00",
-      "league": "NHL",
-      "teams": "Winnipeg Jets - Dallas Stars",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-12-2025 (02:00) NHL : Winnipeg Jets - Dallas Stars  (CH187us)"
-    },
     {
       "date": "10-12-2025",
       "time": "02:30",
@@ -103,7 +57,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-10T03:07:10.326797"
+      "extracted_at": "2025-12-10T04:02:15.219693"
     },
     "hoca": {
       "name": "hoca",
@@ -112,7 +66,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T03:07:11.960232"
+      "extracted_at": "2025-12-10T04:02:16.930114"
     },
     "Caster": {
       "name": "Caster",
@@ -121,7 +75,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T03:07:14.578982"
+      "extracted_at": "2025-12-10T04:02:20.264484"
     },
     "WIGI": {
       "name": "WIGI",
@@ -130,7 +84,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T03:07:17.173464"
+      "extracted_at": "2025-12-10T04:02:22.950252"
     }
   },
   "player_urls": {

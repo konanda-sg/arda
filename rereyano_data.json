@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-10T05:17:54.298386",
-  "total_events": 1,
+  "last_updated": "2025-12-10T05:44:14.192298",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-12-2025",
-      "time": "03:30",
-      "datetime": "10-12-2025 03:30",
-      "league": "NHL",
-      "teams": "Nashville Predators - Colorado Avalanche",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-12-2025 (03:30) NHL : Nashville Predators - Colorado Avalanche  (CH189us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-10T05:17:45.529848"
+      "extracted_at": "2025-12-10T05:44:06.268126"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T05:17:47.105320"
+      "extracted_at": "2025-12-10T05:44:07.820022"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T05:17:50.105768"
+      "extracted_at": "2025-12-10T05:44:10.517882"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-10T05:17:53.298234"
+      "extracted_at": "2025-12-10T05:44:13.192100"
     }
   },
   "player_urls": {

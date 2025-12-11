@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-11T05:55:55.949141",
-  "total_events": 2,
+  "last_updated": "2025-12-11T06:27:33.065645",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "11-12-2025",
-      "time": "04:00",
-      "datetime": "11-12-2025 04:00",
-      "league": "NBA CUP",
-      "teams": "Los Angeles Lakers - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-12-2025 (04:00) NBA CUP : Los Angeles Lakers - San Antonio Spurs  (CH181us)"
-    },
-    {
-      "date": "11-12-2025",
-      "time": "04:00",
-      "datetime": "11-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-12-2025 (04:00) NHL : Seattle Kraken - Los Angeles Kings  (CH193us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-11T05:55:48.386034"
+      "extracted_at": "2025-12-11T06:27:25.794755"
     },
     "hoca": {
       "name": "hoca",
@@ -52,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-11T05:55:49.959118"
+      "extracted_at": "2025-12-11T06:27:27.301294"
     },
     "Caster": {
       "name": "Caster",
@@ -61,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-11T05:55:52.450444"
+      "extracted_at": "2025-12-11T06:27:29.557347"
     },
     "WIGI": {
       "name": "WIGI",
@@ -70,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-11T05:55:54.949000"
+      "extracted_at": "2025-12-11T06:27:32.065469"
     }
   },
   "player_urls": {

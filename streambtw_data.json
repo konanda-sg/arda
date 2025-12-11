@@ -1,11 +1,343 @@
 {
   "extractor": "StreamBTW",
-  "last_updated": "2025-12-11T22:44:51.896467",
-  "total_items": 0,
-  "sports_count": 0,
+  "last_updated": "2025-12-11T23:20:52.183704",
+  "total_items": 20,
+  "sports_count": 3,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "sports": [],
-  "items": [],
-  "by_sport": {}
+  "sports": [
+    "NFL",
+    "NBA",
+    "UEFA EUROPA LEAGUE"
+  ],
+  "items": [
+    {
+      "title": "Tampa Bay Buccaneers vs Atlanta Falcons",
+      "sport": "NFL",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nfl1.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-11T23:20:47.491038"
+    },
+    {
+      "title": "New Orleans Pelicans vs Portland Trail Blazers",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba1.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-11T23:20:47.491258"
+    },
+    {
+      "title": "Houston Rockets vs LA Clippers",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba2.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-11T23:20:47.491440"
+    },
+    {
+      "title": "Milwaukee Bucks vs Boston Celtics",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba3.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-11T23:20:47.491608"
+    },
+    {
+      "title": "Sacramento Kings vs Denver Nuggets",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba4.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-11T23:20:47.491767"
+    },
+    {
+      "title": "Dinamo Zagreb vs Real Betis",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch3.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.491920"
+    },
+    {
+      "title": "Ferencváros vs Rangers",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch4.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492071"
+    },
+    {
+      "title": "Ludogorets vs PAOK",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch5.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492221"
+    },
+    {
+      "title": "Midtjylland vs Genk",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch6.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492375"
+    },
+    {
+      "title": "Nice vs Sporting Braga",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch7.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492544"
+    },
+    {
+      "title": "Stuttgart vs Maccabi Tel Aviv",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch8.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492694"
+    },
+    {
+      "title": "Utrecht vs Nottingham Forest",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch9.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492844"
+    },
+    {
+      "title": "Young Boys vs Lille",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch10.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.492993"
+    },
+    {
+      "title": "Celta de Vigo vs Bologna",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch1.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.493147"
+    },
+    {
+      "title": "Celtic vs Roma",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch2.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.493299"
+    },
+    {
+      "title": "FCSB vs Feyenoord",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch3.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.493515"
+    },
+    {
+      "title": "Freiburg vs Salzburg",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch4.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.493675"
+    },
+    {
+      "title": "Hamrun Spartans vs Shakhtar Donetsk",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch5.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.493831"
+    },
+    {
+      "title": "Porto vs Malmo FF",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch6.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.493984"
+    },
+    {
+      "title": "Shelbourne vs Crystal Palace",
+      "sport": "UEFA EUROPA LEAGUE",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch7.php",
+      "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+      "extracted_at": "2025-12-11T23:20:47.494134"
+    }
+  ],
+  "by_sport": {
+    "NFL": [
+      {
+        "title": "Tampa Bay Buccaneers vs Atlanta Falcons",
+        "sport": "NFL",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nfl1.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-11T23:20:47.491038"
+      }
+    ],
+    "NBA": [
+      {
+        "title": "New Orleans Pelicans vs Portland Trail Blazers",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba1.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-11T23:20:47.491258"
+      },
+      {
+        "title": "Houston Rockets vs LA Clippers",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba2.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-11T23:20:47.491440"
+      },
+      {
+        "title": "Milwaukee Bucks vs Boston Celtics",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba3.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-11T23:20:47.491608"
+      },
+      {
+        "title": "Sacramento Kings vs Denver Nuggets",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba4.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-11T23:20:47.491767"
+      }
+    ],
+    "UEFA EUROPA LEAGUE": [
+      {
+        "title": "Dinamo Zagreb vs Real Betis",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch3.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.491920"
+      },
+      {
+        "title": "Ferencváros vs Rangers",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch4.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492071"
+      },
+      {
+        "title": "Ludogorets vs PAOK",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch5.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492221"
+      },
+      {
+        "title": "Midtjylland vs Genk",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch6.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492375"
+      },
+      {
+        "title": "Nice vs Sporting Braga",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch7.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492544"
+      },
+      {
+        "title": "Stuttgart vs Maccabi Tel Aviv",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch8.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492694"
+      },
+      {
+        "title": "Utrecht vs Nottingham Forest",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch9.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492844"
+      },
+      {
+        "title": "Young Boys vs Lille",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch10.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.492993"
+      },
+      {
+        "title": "Celta de Vigo vs Bologna",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch1.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.493147"
+      },
+      {
+        "title": "Celtic vs Roma",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch2.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.493299"
+      },
+      {
+        "title": "FCSB vs Feyenoord",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch3.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.493515"
+      },
+      {
+        "title": "Freiburg vs Salzburg",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch4.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.493675"
+      },
+      {
+        "title": "Hamrun Spartans vs Shakhtar Donetsk",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch5.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.493831"
+      },
+      {
+        "title": "Porto vs Malmo FF",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch6.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.493984"
+      },
+      {
+        "title": "Shelbourne vs Crystal Palace",
+        "sport": "UEFA EUROPA LEAGUE",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch7.php",
+        "thumbnail": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/dark/uel.svg",
+        "extracted_at": "2025-12-11T23:20:47.494134"
+      }
+    ]
+  }
 }

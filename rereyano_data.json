@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-12T04:46:23.169177",
-  "total_events": 5,
+  "last_updated": "2025-12-12T05:18:19.465078",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "12-12-2025",
-      "time": "03:00",
-      "datetime": "12-12-2025 03:00",
-      "league": "Liga Mx",
-      "teams": "Tigres - Toluca",
-      "channels": [
-        {
-          "id": "73",
-          "lang": "fr"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-12-2025 (03:00) Liga Mx : Tigres - Toluca  (CH73fr) (CH70es) (CH108es) (CH155es)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "03:00",
-      "datetime": "12-12-2025 03:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Detroit Red Wings",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (03:00) NHL : Edmonton Oilers - Detroit Red Wings  (CH190us)"
-    },
     {
       "date": "12-12-2025",
       "time": "03:30",
@@ -101,7 +61,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-12T04:46:15.962439"
+      "extracted_at": "2025-12-12T05:18:11.508304"
     },
     "hoca": {
       "name": "hoca",
@@ -110,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T04:46:17.476817"
+      "extracted_at": "2025-12-12T05:18:12.884464"
     },
     "Caster": {
       "name": "Caster",
@@ -119,7 +79,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T04:46:19.711427"
+      "extracted_at": "2025-12-12T05:18:15.653360"
     },
     "WIGI": {
       "name": "WIGI",
@@ -128,7 +88,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T04:46:22.169054"
+      "extracted_at": "2025-12-12T05:18:18.464935"
     }
   },
   "player_urls": {

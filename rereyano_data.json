@@ -1,128 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-12T01:16:22.278510",
-  "total_events": 20,
+  "last_updated": "2025-12-12T03:08:05.936677",
+  "total_events": 12,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "12-12-2025",
-      "time": "00:00",
-      "datetime": "12-12-2025 00:00",
-      "league": "Coupe Du Bresil",
-      "teams": "Vasco da Gama - Fluminense",
-      "channels": [
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-12-2025 (00:00) Coupe Du Bresil : Vasco da Gama - Fluminense  (CH98es)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Columbus Blue Jackets - Ottawa Senators",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : Columbus Blue Jackets - Ottawa Senators  (CH180us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "New Jersey Devils - Tampa Bay Lightning",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : New Jersey Devils - Tampa Bay Lightning  (CH181us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : New York Islanders - Anaheim Ducks  (CH182us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Philadelphia Flyers - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : Philadelphia Flyers - Vegas Golden Knights  (CH183us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - Montreal Canadiens",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : Pittsburgh Penguins - Montreal Canadiens  (CH4fr) (CH184us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Toronto Maple Leafs - San Jose Sharks",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : Toronto Maple Leafs - San Jose Sharks  (CH185us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "01:00",
-      "datetime": "12-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Washington Capitals - Carolina Hurricanes",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (01:00) NHL : Washington Capitals - Carolina Hurricanes  (CH186us)"
-    },
     {
       "date": "12-12-2025",
       "time": "02:00",
@@ -335,7 +219,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-12T01:16:13.771966"
+      "extracted_at": "2025-12-12T03:07:58.700462"
     },
     "hoca": {
       "name": "hoca",
@@ -344,7 +228,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T01:16:15.458965"
+      "extracted_at": "2025-12-12T03:08:00.260966"
     },
     "Caster": {
       "name": "Caster",
@@ -353,7 +237,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T01:16:18.478783"
+      "extracted_at": "2025-12-12T03:08:02.649343"
     },
     "WIGI": {
       "name": "WIGI",
@@ -362,7 +246,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T01:16:21.278381"
+      "extracted_at": "2025-12-12T03:08:04.936528"
     }
   },
   "player_urls": {

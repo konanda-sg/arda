@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-12T05:54:17.121607",
-  "total_events": 2,
+  "last_updated": "2025-12-12T06:26:38.235344",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "12-12-2025",
-      "time": "04:00",
-      "datetime": "12-12-2025 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Denver Nuggets",
-      "channels": [
-        {
-          "id": "163",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (04:00) NBA : Sacramento Kings - Denver Nuggets  (CH163us)"
-    },
-    {
-      "date": "12-12-2025",
-      "time": "04:00",
-      "datetime": "12-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-12-2025 (04:00) NHL : Vancouver Canucks - Buffalo Sabres  (CH192us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-12T05:54:08.653743"
+      "extracted_at": "2025-12-12T06:26:30.830150"
     },
     "hoca": {
       "name": "hoca",
@@ -52,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T05:54:10.324560"
+      "extracted_at": "2025-12-12T06:26:32.422195"
     },
     "Caster": {
       "name": "Caster",
@@ -61,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T05:54:13.260742"
+      "extracted_at": "2025-12-12T06:26:34.777214"
     },
     "WIGI": {
       "name": "WIGI",
@@ -70,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-12T05:54:16.121465"
+      "extracted_at": "2025-12-12T06:26:37.235225"
     }
   },
   "player_urls": {

@@ -1,11 +1,221 @@
 {
   "extractor": "StreamBTW",
-  "last_updated": "2025-12-12T19:18:36.891028",
-  "total_items": 0,
-  "sports_count": 0,
+  "last_updated": "2025-12-12T19:39:37.442095",
+  "total_items": 12,
+  "sports_count": 5,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "sports": [],
-  "items": [],
-  "by_sport": {}
+  "sports": [
+    "LA-LIGA",
+    "SERIE-A",
+    "LIGUE-1",
+    "FIFA ARAB CUP",
+    "NBA"
+  ],
+  "items": [
+    {
+      "title": "Real Sociedad vs Girona",
+      "sport": "LA-LIGA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch6.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.528983"
+    },
+    {
+      "title": "Lecce vs Pisa",
+      "sport": "SERIE-A",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch7.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.529201"
+    },
+    {
+      "title": "Angers SCO vs Nantes",
+      "sport": "LIGUE-1",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch8.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.529366"
+    },
+    {
+      "title": "Jordan vs Iraq",
+      "sport": "FIFA ARAB CUP",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch1.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.529526"
+    },
+    {
+      "title": "Algeria vs United Arab Emirates",
+      "sport": "FIFA ARAB CUP",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/ch1.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.529686"
+    },
+    {
+      "title": "Detroit Pistons vs Atlanta Hawks",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba1.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.529841"
+    },
+    {
+      "title": "Philadelphia 76ers vs Indiana Pacers",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba2.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.530013"
+    },
+    {
+      "title": "Charlotte Hornets vs Chicago Bulls",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba3.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.530170"
+    },
+    {
+      "title": "Washington Wizards vs Cleveland Cavaliers",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba4.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.530334"
+    },
+    {
+      "title": "Memphis Grizzlies vs Utah Jazz",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba5.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.530488"
+    },
+    {
+      "title": "Dallas Mavericks vs Brooklyn Nets",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba6.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.530742"
+    },
+    {
+      "title": "Golden State Warriors vs Minnesota Timberwolves",
+      "sport": "NBA",
+      "icon": "🎯",
+      "link": "https://streambtw.live/iframe/nba6.php",
+      "thumbnail": "",
+      "extracted_at": "2025-12-12T19:39:31.531028"
+    }
+  ],
+  "by_sport": {
+    "LA-LIGA": [
+      {
+        "title": "Real Sociedad vs Girona",
+        "sport": "LA-LIGA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch6.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.528983"
+      }
+    ],
+    "SERIE-A": [
+      {
+        "title": "Lecce vs Pisa",
+        "sport": "SERIE-A",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch7.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.529201"
+      }
+    ],
+    "LIGUE-1": [
+      {
+        "title": "Angers SCO vs Nantes",
+        "sport": "LIGUE-1",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch8.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.529366"
+      }
+    ],
+    "FIFA ARAB CUP": [
+      {
+        "title": "Jordan vs Iraq",
+        "sport": "FIFA ARAB CUP",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch1.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.529526"
+      },
+      {
+        "title": "Algeria vs United Arab Emirates",
+        "sport": "FIFA ARAB CUP",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/ch1.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.529686"
+      }
+    ],
+    "NBA": [
+      {
+        "title": "Detroit Pistons vs Atlanta Hawks",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba1.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.529841"
+      },
+      {
+        "title": "Philadelphia 76ers vs Indiana Pacers",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba2.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.530013"
+      },
+      {
+        "title": "Charlotte Hornets vs Chicago Bulls",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba3.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.530170"
+      },
+      {
+        "title": "Washington Wizards vs Cleveland Cavaliers",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba4.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.530334"
+      },
+      {
+        "title": "Memphis Grizzlies vs Utah Jazz",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba5.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.530488"
+      },
+      {
+        "title": "Dallas Mavericks vs Brooklyn Nets",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba6.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.530742"
+      },
+      {
+        "title": "Golden State Warriors vs Minnesota Timberwolves",
+        "sport": "NBA",
+        "icon": "🎯",
+        "link": "https://streambtw.live/iframe/nba6.php",
+        "thumbnail": "",
+        "extracted_at": "2025-12-12T19:39:31.531028"
+      }
+    ]
+  }
 }

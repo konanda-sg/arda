@@ -1,122 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-13T14:49:29.293819",
-  "total_events": 210,
+  "last_updated": "2025-12-13T15:15:28.318623",
+  "total_events": 203,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "13-12-2025",
-      "time": "13:00",
-      "datetime": "13-12-2025 13:00",
-      "league": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:00) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
-    },
-    {
-      "date": "13-12-2025",
-      "time": "13:00",
-      "datetime": "13-12-2025 13:00",
-      "league": "Bundesliga 2",
-      "teams": "Arminia Bielefeld - Kaiserslautern",
-      "channels": [
-        {
-          "id": "113",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:00) Bundesliga 2 : Arminia Bielefeld - Kaiserslautern  (CH113de)"
-    },
-    {
-      "date": "13-12-2025",
-      "time": "13:00",
-      "datetime": "13-12-2025 13:00",
-      "league": "Bundesliga 2",
-      "teams": "Karlsruher - Paderborn",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "115",
-          "lang": "de"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:00) Bundesliga 2 : Karlsruher - Paderborn  (CH5fr) (CH115de) (CH78es)"
-    },
-    {
-      "date": "13-12-2025",
-      "time": "13:00",
-      "datetime": "13-12-2025 13:00",
-      "league": "Bundesliga 2",
-      "teams": "Magdeburg - Holstein Kiel",
-      "channels": [
-        {
-          "id": "114",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:00) Bundesliga 2 : Magdeburg - Holstein Kiel  (CH114de)"
-    },
-    {
-      "date": "13-12-2025",
-      "time": "13:30",
-      "datetime": "13-12-2025 13:30",
-      "league": "Championship",
-      "teams": "Norwich - Southampton",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:30) Championship : Norwich - Southampton  (CH9fr) (CH127gb)"
-    },
-    {
-      "date": "13-12-2025",
-      "time": "13:30",
-      "datetime": "13-12-2025 13:30",
-      "league": "Championship",
-      "teams": "Oxford Utd - Preston",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:30) Championship : Oxford Utd - Preston  (CH190us)"
-    },
-    {
-      "date": "13-12-2025",
-      "time": "13:30",
-      "datetime": "13-12-2025 13:30",
-      "league": "Championship",
-      "teams": "Stoke - Swansea",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-12-2025 (13:30) Championship : Stoke - Swansea  (CH191us)"
-    },
     {
       "date": "13-12-2025",
       "time": "14:00",
@@ -505,7 +395,7 @@
           "lang": "fr"
         },
         {
-          "id": "131",
+          "id": "132",
           "lang": "us"
         },
         {
@@ -521,7 +411,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "13-12-2025 (16:00) Premier League : Liverpool - Brighton  (CH12fr) (CH131us) (CH57es) (CH120de) (CH155es)"
+      "raw_line": "13-12-2025 (16:00) Premier League : Liverpool - Brighton  (CH12fr) (CH132us) (CH57es) (CH120de) (CH155es)"
     },
     {
       "date": "13-12-2025",
@@ -3635,7 +3525,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-13T14:49:21.806068"
+      "extracted_at": "2025-12-13T15:15:20.214135"
     },
     "hoca": {
       "name": "hoca",
@@ -3644,7 +3534,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-13T14:49:23.261961"
+      "extracted_at": "2025-12-13T15:15:21.952099"
     },
     "Caster": {
       "name": "Caster",
@@ -3653,7 +3543,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-13T14:49:25.763274"
+      "extracted_at": "2025-12-13T15:15:24.624688"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3662,7 +3552,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-13T14:49:28.293665"
+      "extracted_at": "2025-12-13T15:15:27.318474"
     }
   },
   "player_urls": {

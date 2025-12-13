@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-13T11:37:44.140699",
-  "total_events": 209,
+  "last_updated": "2025-12-13T11:49:33.514977",
+  "total_events": 211,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -20,6 +20,20 @@
         }
       ],
       "raw_line": "13-12-2025 (12:30) Super Lig : Rizespor - Eyupspor  (CH151tr)"
+    },
+    {
+      "date": "13-12-2025",
+      "time": "13:00",
+      "datetime": "13-12-2025 13:00",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "13-12-2025 (13:00) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
     },
     {
       "date": "13-12-2025",
@@ -1650,6 +1664,20 @@
         }
       ],
       "raw_line": "14-12-2025 (13:00) D1 Féminin : Nantes F - Marseille F  (CH12fr)"
+    },
+    {
+      "date": "14-12-2025",
+      "time": "13:30",
+      "datetime": "14-12-2025 13:30",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-12-2025 (13:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH111de)"
     },
     {
       "date": "14-12-2025",
@@ -3621,7 +3649,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-13T11:37:36.930619"
+      "extracted_at": "2025-12-13T11:49:25.943439"
     },
     "hoca": {
       "name": "hoca",
@@ -3630,7 +3658,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-13T11:37:38.447882"
+      "extracted_at": "2025-12-13T11:49:27.505278"
     },
     "Caster": {
       "name": "Caster",
@@ -3639,7 +3667,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-13T11:37:40.905464"
+      "extracted_at": "2025-12-13T11:49:30.050772"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3648,7 +3676,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-13T11:37:43.140559"
+      "extracted_at": "2025-12-13T11:49:32.514824"
     }
   },
   "player_urls": {

@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-14T19:26:59.741192",
-  "total_events": 76,
+  "last_updated": "2025-12-14T19:36:59.344467",
+  "total_events": 74,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-12-2025",
-      "time": "17:30",
-      "datetime": "14-12-2025 17:30",
-      "league": "Bundesliga",
-      "teams": "Bayern Munich - Mayence",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-12-2025 (17:30) Bundesliga : Bayern Munich - Mayence  (CH2fr) (CH123de) (CH87es) (CH116es)"
-    },
-    {
-      "date": "14-12-2025",
-      "time": "17:30",
-      "datetime": "14-12-2025 17:30",
-      "league": "Premier League",
-      "teams": "Brentford - Leeds",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-12-2025 (17:30) Premier League : Brentford - Leeds  (CH11fr) (CH127gb) (CH56es) (CH120de) (CH88es) (CH73es)"
-    },
     {
       "date": "14-12-2025",
       "time": "18:00",
@@ -1363,7 +1303,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-14T19:26:52.207486"
+      "extracted_at": "2025-12-14T19:36:52.612736"
     },
     "hoca": {
       "name": "hoca",
@@ -1372,7 +1312,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T19:26:53.583790"
+      "extracted_at": "2025-12-14T19:36:53.948687"
     },
     "Caster": {
       "name": "Caster",
@@ -1381,7 +1321,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T19:26:56.133227"
+      "extracted_at": "2025-12-14T19:36:55.895655"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1390,7 +1330,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T19:26:58.741043"
+      "extracted_at": "2025-12-14T19:36:58.344337"
     }
   },
   "player_urls": {

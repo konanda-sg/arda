@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-14T10:51:42.844604",
+  "last_updated": "2025-12-14T11:13:24.648360",
   "total_events": 116,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -29,6 +29,10 @@
       "teams": "AC Milan - Sassuolo",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "137",
           "lang": "it"
         },
@@ -45,7 +49,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "14-12-2025 (12:30) Serie A : AC Milan - Sassuolo  (CH137it) (CH124de) (CH87es) (CH70es)"
+      "raw_line": "14-12-2025 (12:30) Serie A : AC Milan - Sassuolo  (CH45fr) (CH137it) (CH124de) (CH87es) (CH70es)"
     },
     {
       "date": "14-12-2025",
@@ -427,6 +431,10 @@
       "teams": "Udinese - Naples",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "137",
           "lang": "it"
         },
@@ -443,7 +451,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "14-12-2025 (15:00) Serie A : Udinese - Naples  (CH137it) (CH90es) (CH97es) (CH70es)"
+      "raw_line": "14-12-2025 (15:00) Serie A : Udinese - Naples  (CH45fr) (CH137it) (CH90es) (CH97es) (CH70es)"
     },
     {
       "date": "14-12-2025",
@@ -783,6 +791,10 @@
       "teams": "Genoa - Inter",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "138",
           "lang": "it"
         },
@@ -795,7 +807,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "14-12-2025 (18:00) Serie A : Genoa - Inter  (CH138it) (CH97es) (CH70es)"
+      "raw_line": "14-12-2025 (18:00) Serie A : Genoa - Inter  (CH45fr) (CH138it) (CH97es) (CH70es)"
     },
     {
       "date": "14-12-2025",
@@ -819,7 +831,7 @@
       "teams": "Trabzonspor - Besiktas",
       "channels": [
         {
-          "id": "13",
+          "id": "7",
           "lang": "fr"
         },
         {
@@ -831,7 +843,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "14-12-2025 (18:00) Super Lig : Trabzonspor - Besiktas  (CH13fr) (CH151tr) (CH79es)"
+      "raw_line": "14-12-2025 (18:00) Super Lig : Trabzonspor - Besiktas  (CH7fr) (CH151tr) (CH79es)"
     },
     {
       "date": "14-12-2025",
@@ -1187,6 +1199,10 @@
       "teams": "Bologne - Juventus",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "137",
           "lang": "it"
         },
@@ -1195,7 +1211,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "14-12-2025 (20:45) Serie A : Bologne - Juventus  (CH137it) (CH97es)"
+      "raw_line": "14-12-2025 (20:45) Serie A : Bologne - Juventus  (CH45fr) (CH137it) (CH97es)"
     },
     {
       "date": "14-12-2025",
@@ -1733,6 +1749,10 @@
       "teams": "AS Rome - Como",
       "channels": [
         {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
           "id": "138",
           "lang": "it"
         },
@@ -1745,7 +1765,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "15-12-2025 (20:45) Serie A : AS Rome - Como  (CH138it) (CH123de) (CH88es)"
+      "raw_line": "15-12-2025 (20:45) Serie A : AS Rome - Como  (CH45fr) (CH138it) (CH123de) (CH88es)"
     },
     {
       "date": "15-12-2025",
@@ -2059,7 +2079,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-14T10:51:34.744343"
+      "extracted_at": "2025-12-14T11:13:15.839793"
     },
     "hoca": {
       "name": "hoca",
@@ -2068,7 +2088,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T10:51:36.133963"
+      "extracted_at": "2025-12-14T11:13:17.615407"
     },
     "Caster": {
       "name": "Caster",
@@ -2077,7 +2097,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T10:51:39.146873"
+      "extracted_at": "2025-12-14T11:13:20.492976"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2086,7 +2106,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T10:51:41.844442"
+      "extracted_at": "2025-12-14T11:13:23.648221"
     }
   },
   "player_urls": {

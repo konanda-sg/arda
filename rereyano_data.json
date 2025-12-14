@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-14T19:36:59.344467",
-  "total_events": 74,
+  "last_updated": "2025-12-14T19:49:16.176697",
+  "total_events": 71,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-12-2025",
-      "time": "18:00",
-      "datetime": "14-12-2025 18:00",
-      "league": "Serie A",
-      "teams": "Genoa - Inter",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-12-2025 (18:00) Serie A : Genoa - Inter  (CH45fr) (CH138it) (CH97es) (CH70es)"
-    },
-    {
-      "date": "14-12-2025",
-      "time": "18:00",
-      "datetime": "14-12-2025 18:00",
-      "league": "Super Lig",
-      "teams": "Samsunspor - Basaksehir",
-      "channels": [
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "14-12-2025 (18:00) Super Lig : Samsunspor - Basaksehir  (CH152tr)"
-    },
-    {
-      "date": "14-12-2025",
-      "time": "18:00",
-      "datetime": "14-12-2025 18:00",
-      "league": "Super Lig",
-      "teams": "Trabzonspor - Besiktas",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        },
-        {
-          "id": "79",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-12-2025 (18:00) Super Lig : Trabzonspor - Besiktas  (CH7fr) (CH151tr) (CH79es)"
-    },
     {
       "date": "14-12-2025",
       "time": "18:30",
@@ -1303,7 +1241,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-14T19:36:52.612736"
+      "extracted_at": "2025-12-14T19:49:08.882794"
     },
     "hoca": {
       "name": "hoca",
@@ -1312,7 +1250,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T19:36:53.948687"
+      "extracted_at": "2025-12-14T19:49:10.284031"
     },
     "Caster": {
       "name": "Caster",
@@ -1321,7 +1259,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T19:36:55.895655"
+      "extracted_at": "2025-12-14T19:49:12.783317"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1330,7 +1268,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T19:36:58.344337"
+      "extracted_at": "2025-12-14T19:49:15.176550"
     }
   },
   "player_urls": {

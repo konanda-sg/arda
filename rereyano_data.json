@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-14T22:34:41.145094",
-  "total_events": 51,
+  "last_updated": "2025-12-14T22:49:57.776404",
+  "total_events": 49,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-12-2025",
-      "time": "20:45",
-      "datetime": "14-12-2025 20:45",
-      "league": "Ligue 1",
-      "teams": "Marseille - Monaco",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-12-2025 (20:45) Ligue 1 : Marseille - Monaco  (CH20fr) (CH69es) (CH157es)"
-    },
-    {
-      "date": "14-12-2025",
-      "time": "20:45",
-      "datetime": "14-12-2025 20:45",
-      "league": "Serie A",
-      "teams": "Bologne - Juventus",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-12-2025 (20:45) Serie A : Bologne - Juventus  (CH45fr) (CH137it) (CH97es)"
-    },
     {
       "date": "14-12-2025",
       "time": "21:00",
@@ -917,7 +873,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-14T22:34:32.713165"
+      "extracted_at": "2025-12-14T22:49:50.532330"
     },
     "hoca": {
       "name": "hoca",
@@ -926,7 +882,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T22:34:34.113418"
+      "extracted_at": "2025-12-14T22:49:52.132447"
     },
     "Caster": {
       "name": "Caster",
@@ -935,7 +891,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T22:34:37.113547"
+      "extracted_at": "2025-12-14T22:49:54.367531"
     },
     "WIGI": {
       "name": "WIGI",
@@ -944,7 +900,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-14T22:34:40.144943"
+      "extracted_at": "2025-12-14T22:49:56.776257"
     }
   },
   "player_urls": {

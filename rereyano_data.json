@@ -1,12 +1,30 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-15T13:28:18.040908",
-  "total_events": 22,
+  "last_updated": "2025-12-15T13:58:33.303327",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
+    {
+      "date": "15-12-2025",
+      "time": "15:30",
+      "datetime": "15-12-2025 15:30",
+      "league": "Coupe Arabe",
+      "teams": "Maroc - Emirats",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "46",
+          "lang": "ae"
+        }
+      ],
+      "raw_line": "15-12-2025 (15:30) Coupe Arabe : Maroc - Emirats  (CH2fr) (CH46ae)"
+    },
     {
       "date": "15-12-2025",
       "time": "18:00",
@@ -15,7 +33,7 @@
       "teams": "Fenerbahce - Konyaspor",
       "channels": [
         {
-          "id": "6",
+          "id": "4",
           "lang": "fr"
         },
         {
@@ -27,7 +45,25 @@
           "lang": "es"
         }
       ],
-      "raw_line": "15-12-2025 (18:00) Super Lig : Fenerbahce - Konyaspor  (CH6fr) (CH151tr) (CH79es)"
+      "raw_line": "15-12-2025 (18:00) Super Lig : Fenerbahce - Konyaspor  (CH4fr) (CH151tr) (CH79es)"
+    },
+    {
+      "date": "15-12-2025",
+      "time": "18:30",
+      "datetime": "15-12-2025 18:30",
+      "league": "Coupe Arabe",
+      "teams": "Arabie Saoudite - Jordanie",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "46",
+          "lang": "ae"
+        }
+      ],
+      "raw_line": "15-12-2025 (18:30) Coupe Arabe : Arabie Saoudite - Jordanie  (CH2fr) (CH46ae)"
     },
     {
       "date": "15-12-2025",
@@ -37,6 +73,10 @@
       "teams": "Braga - Santa Clara",
       "channels": [
         {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
           "id": "145",
           "lang": "pt"
         },
@@ -45,7 +85,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "15-12-2025 (19:45) Liga Portugal : Braga - Santa Clara  (CH145pt) (CH74es)"
+      "raw_line": "15-12-2025 (19:45) Liga Portugal : Braga - Santa Clara  (CH5fr) (CH145pt) (CH74es)"
     },
     {
       "date": "15-12-2025",
@@ -123,7 +163,7 @@
       "teams": "Sheffield Wed - Derby",
       "channels": [
         {
-          "id": "5",
+          "id": "6",
           "lang": "fr"
         },
         {
@@ -135,7 +175,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "15-12-2025 (21:00) Championship : Sheffield Wed - Derby  (CH5fr) (CH129gb) (CH78es)"
+      "raw_line": "15-12-2025 (21:00) Championship : Sheffield Wed - Derby  (CH6fr) (CH129gb) (CH78es)"
     },
     {
       "date": "15-12-2025",
@@ -205,7 +245,7 @@
       "teams": "FC Porto - Estrela",
       "channels": [
         {
-          "id": "6",
+          "id": "3",
           "lang": "fr"
         },
         {
@@ -217,7 +257,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "15-12-2025 (21:45) Liga Portugal : FC Porto - Estrela  (CH6fr) (CH144pt) (CH74es)"
+      "raw_line": "15-12-2025 (21:45) Liga Portugal : FC Porto - Estrela  (CH3fr) (CH144pt) (CH74es)"
     },
     {
       "date": "16-12-2025",
@@ -277,11 +317,15 @@
       "teams": "Tampa Bay Lightning - Florida Panthers",
       "channels": [
         {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
           "id": "162",
           "lang": "us"
         }
       ],
-      "raw_line": "16-12-2025 (01:00) NHL : Tampa Bay Lightning - Florida Panthers  (CH162us)"
+      "raw_line": "16-12-2025 (01:00) NHL : Tampa Bay Lightning - Florida Panthers  (CH4fr) (CH162us)"
     },
     {
       "date": "16-12-2025",
@@ -427,7 +471,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-15T13:28:10.317362"
+      "extracted_at": "2025-12-15T13:58:25.035929"
     },
     "hoca": {
       "name": "hoca",
@@ -436,7 +480,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-15T13:28:11.825978"
+      "extracted_at": "2025-12-15T13:58:26.413897"
     },
     "Caster": {
       "name": "Caster",
@@ -445,7 +489,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-15T13:28:14.389802"
+      "extracted_at": "2025-12-15T13:58:29.446627"
     },
     "WIGI": {
       "name": "WIGI",
@@ -454,7 +498,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-15T13:28:17.040758"
+      "extracted_at": "2025-12-15T13:58:32.303144"
     }
   },
   "player_urls": {

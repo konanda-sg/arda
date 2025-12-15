@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-15T03:14:18.960102",
-  "total_events": 27,
+  "last_updated": "2025-12-15T04:12:25.020700",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-12-2025",
-      "time": "02:00",
-      "datetime": "15-12-2025 02:00",
-      "league": "Liga Mx",
-      "teams": "Toluca - Tigres",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-12-2025 (02:00) Liga Mx : Toluca - Tigres  (CH68es) (CH106es) (CH107es) (CH108es)"
-    },
-    {
-      "date": "15-12-2025",
-      "time": "02:00",
-      "datetime": "15-12-2025 02:00",
-      "league": "NBA",
-      "teams": "Phoenix Suns - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "15-12-2025 (02:00) NBA : Phoenix Suns - Los Angeles Lakers  (CH184us)"
-    },
-    {
-      "date": "15-12-2025",
-      "time": "02:00",
-      "datetime": "15-12-2025 02:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "15-12-2025 (02:00) NHL : Seattle Kraken - Buffalo Sabres  (CH185us)"
-    },
     {
       "date": "15-12-2025",
       "time": "02:20",
@@ -525,7 +471,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-15T03:14:11.747132"
+      "extracted_at": "2025-12-15T04:12:17.257910"
     },
     "hoca": {
       "name": "hoca",
@@ -534,7 +480,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-15T03:14:13.180769"
+      "extracted_at": "2025-12-15T04:12:18.766123"
     },
     "Caster": {
       "name": "Caster",
@@ -543,7 +489,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-15T03:14:15.357314"
+      "extracted_at": "2025-12-15T04:12:21.463574"
     },
     "WIGI": {
       "name": "WIGI",
@@ -552,7 +498,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-15T03:14:17.959968"
+      "extracted_at": "2025-12-15T04:12:24.020254"
     }
   },
   "player_urls": {

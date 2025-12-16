@@ -1,80 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-16T01:17:31.743751",
-  "total_events": 12,
+  "last_updated": "2025-12-16T03:09:05.904545",
+  "total_events": 8,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-12-2025",
-      "time": "01:00",
-      "datetime": "16-12-2025 01:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Emelec - El Nacional",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-12-2025 (01:00) Ecuador Ligapro : Emelec - El Nacional  (CH86es)"
-    },
-    {
-      "date": "16-12-2025",
-      "time": "01:00",
-      "datetime": "16-12-2025 01:00",
-      "league": "NBA",
-      "teams": "Boston Celtics - Detroit Pistons",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "160",
-          "lang": "us"
-        },
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-12-2025 (01:00) NBA : Boston Celtics - Detroit Pistons  (CH1fr) (CH160us) (CH83es)"
-    },
-    {
-      "date": "16-12-2025",
-      "time": "01:00",
-      "datetime": "16-12-2025 01:00",
-      "league": "NHL",
-      "teams": "New York Rangers - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-12-2025 (01:00) NHL : New York Rangers - Anaheim Ducks  (CH161us)"
-    },
-    {
-      "date": "16-12-2025",
-      "time": "01:00",
-      "datetime": "16-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Tampa Bay Lightning - Florida Panthers",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-12-2025 (01:00) NHL : Tampa Bay Lightning - Florida Panthers  (CH4fr) (CH162us)"
-    },
     {
       "date": "16-12-2025",
       "time": "01:30",
@@ -219,7 +151,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-16T01:17:24.037726"
+      "extracted_at": "2025-12-16T03:08:58.320765"
     },
     "hoca": {
       "name": "hoca",
@@ -228,7 +160,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-16T01:17:25.471992"
+      "extracted_at": "2025-12-16T03:08:59.855289"
     },
     "Caster": {
       "name": "Caster",
@@ -237,7 +169,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-16T01:17:28.118966"
+      "extracted_at": "2025-12-16T03:09:02.374644"
     },
     "WIGI": {
       "name": "WIGI",
@@ -246,7 +178,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-16T01:17:30.743608"
+      "extracted_at": "2025-12-16T03:09:04.904393"
     }
   },
   "player_urls": {

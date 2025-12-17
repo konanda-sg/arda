@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-17T22:16:10.379011",
-  "total_events": 28,
+  "last_updated": "2025-12-17T22:43:39.160491",
+  "total_events": 25,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "17-12-2025",
-      "time": "20:30",
-      "datetime": "17-12-2025 20:30",
-      "league": "Efl Cup",
-      "teams": "Manchester City - Brentford",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-12-2025 (20:30) Efl Cup : Manchester City - Brentford  (CH1fr) (CH127gb) (CH155es)"
-    },
-    {
-      "date": "17-12-2025",
-      "time": "20:30",
-      "datetime": "17-12-2025 20:30",
-      "league": "EuroLeague",
-      "teams": "Baskonia - Monaco",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-12-2025 (20:30) EuroLeague : Baskonia - Monaco  (CH55es) (CH62es)"
-    },
-    {
-      "date": "17-12-2025",
-      "time": "20:30",
-      "datetime": "17-12-2025 20:30",
-      "league": "EuroLeague",
-      "teams": "Partizan - Virtus Bologna",
-      "channels": [
-        {
-          "id": "66",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-12-2025 (20:30) EuroLeague : Partizan - Virtus Bologna  (CH66es)"
-    },
     {
       "date": "17-12-2025",
       "time": "21:00",
@@ -455,7 +401,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-17T22:16:02.638183"
+      "extracted_at": "2025-12-17T22:43:30.619163"
     },
     "hoca": {
       "name": "hoca",
@@ -464,7 +410,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-17T22:16:04.251184"
+      "extracted_at": "2025-12-17T22:43:32.291163"
     },
     "Caster": {
       "name": "Caster",
@@ -473,7 +419,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-17T22:16:06.866622"
+      "extracted_at": "2025-12-17T22:43:35.279366"
     },
     "WIGI": {
       "name": "WIGI",
@@ -482,7 +428,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-17T22:16:09.378848"
+      "extracted_at": "2025-12-17T22:43:38.160344"
     }
   },
   "player_urls": {

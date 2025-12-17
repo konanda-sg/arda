@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-17T19:49:48.572845",
-  "total_events": 41,
+  "last_updated": "2025-12-17T20:19:33.323622",
+  "total_events": 39,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "17-12-2025",
-      "time": "18:00",
-      "datetime": "17-12-2025 18:00",
-      "league": "Coupe Du Roi",
-      "teams": "Cultural Leonesa - Levante",
-      "channels": [
-        {
-          "id": "50",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-12-2025 (18:00) Coupe Du Roi : Cultural Leonesa - Levante  (CH50es)"
-    },
-    {
-      "date": "17-12-2025",
-      "time": "18:00",
-      "datetime": "17-12-2025 18:00",
-      "league": "Coupe intercontinentale",
-      "teams": "PSG - Flamengo",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "26",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-12-2025 (18:00) Coupe intercontinentale : PSG - Flamengo  (CH1fr) (CH26fr) (CH123de) (CH94es)"
-    },
     {
       "date": "17-12-2025",
       "time": "18:30",
@@ -661,7 +621,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-17T19:49:41.253089"
+      "extracted_at": "2025-12-17T20:19:26.141917"
     },
     "hoca": {
       "name": "hoca",
@@ -670,7 +630,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-17T19:49:42.814211"
+      "extracted_at": "2025-12-17T20:19:27.503211"
     },
     "Caster": {
       "name": "Caster",
@@ -679,7 +639,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-17T19:49:44.938519"
+      "extracted_at": "2025-12-17T20:19:30.110469"
     },
     "WIGI": {
       "name": "WIGI",
@@ -688,7 +648,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-17T19:49:47.572701"
+      "extracted_at": "2025-12-17T20:19:32.323434"
     }
   },
   "player_urls": {

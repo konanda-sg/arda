@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-18T02:57:46.757899",
-  "total_events": 9,
+  "last_updated": "2025-12-18T03:55:48.423598",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "18-12-2025",
-      "time": "01:00",
-      "datetime": "18-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Florida Panthers - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "18-12-2025 (01:00) NHL : Florida Panthers - Los Angeles Kings  (CH180us)"
-    },
-    {
-      "date": "18-12-2025",
-      "time": "01:30",
-      "datetime": "18-12-2025 01:30",
-      "league": "Copa Colombia",
-      "teams": "Ind. Medellin - Atl. Nacional",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-12-2025 (01:30) Copa Colombia : Ind. Medellin - Atl. Nacional  (CH81es)"
-    },
-    {
-      "date": "18-12-2025",
-      "time": "01:30",
-      "datetime": "18-12-2025 01:30",
-      "league": "Coupe Du Bresil",
-      "teams": "Corinthians - Vasco da Gama",
-      "channels": [
-        {
-          "id": "100",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-12-2025 (01:30) Coupe Du Bresil : Corinthians - Vasco da Gama  (CH100es) (CH94es)"
-    },
-    {
-      "date": "18-12-2025",
-      "time": "01:30",
-      "datetime": "18-12-2025 01:30",
-      "league": "NHL",
-      "teams": "Detroit Red Wings - Utah Mammoth",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "18-12-2025 (01:30) NHL : Detroit Red Wings - Utah Mammoth  (CH181us)"
-    },
     {
       "date": "18-12-2025",
       "time": "02:00",
@@ -149,7 +89,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-18T02:57:38.687662"
+      "extracted_at": "2025-12-18T03:55:39.902965"
     },
     "hoca": {
       "name": "hoca",
@@ -158,7 +98,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T02:57:40.244364"
+      "extracted_at": "2025-12-18T03:55:41.497478"
     },
     "Caster": {
       "name": "Caster",
@@ -167,7 +107,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T02:57:43.045125"
+      "extracted_at": "2025-12-18T03:55:44.598770"
     },
     "WIGI": {
       "name": "WIGI",
@@ -176,7 +116,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T02:57:45.757781"
+      "extracted_at": "2025-12-18T03:55:47.423369"
     }
   },
   "player_urls": {

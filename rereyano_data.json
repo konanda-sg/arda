@@ -1,12 +1,131 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-18T18:55:06.158302",
-  "total_events": 0,
+  "last_updated": "2025-12-18T19:15:26.354206",
+  "total_events": 7,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "18-12-2025",
+      "time": "18:30",
+      "datetime": "18-12-2025 18:30",
+      "league": "Coupe De Turquie",
+      "teams": "Galatasaray - Basaksehir",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "18-12-2025 (18:30) Coupe De Turquie : Galatasaray - Basaksehir  (CH152tr)"
+    },
+    {
+      "date": "18-12-2025",
+      "time": "18:45",
+      "datetime": "18-12-2025 18:45",
+      "league": "Knvb Beker",
+      "teams": "Spakenburg - Twente",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "18-12-2025 (18:45) Knvb Beker : Spakenburg - Twente  (CH142nl)"
+    },
+    {
+      "date": "18-12-2025",
+      "time": "19:00",
+      "datetime": "18-12-2025 19:00",
+      "league": "Coupe Du Roi",
+      "teams": "Burgos CF - Getafe",
+      "channels": [
+        {
+          "id": "50",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-12-2025 (19:00) Coupe Du Roi : Burgos CF - Getafe  (CH50es)"
+    },
+    {
+      "date": "18-12-2025",
+      "time": "19:00",
+      "datetime": "18-12-2025 19:00",
+      "league": "Coupe Du Roi",
+      "teams": "Ourense CF - Ath. Bilbao",
+      "channels": [
+        {
+          "id": "49",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-12-2025 (19:00) Coupe Du Roi : Ourense CF - Ath. Bilbao  (CH49es)"
+    },
+    {
+      "date": "18-12-2025",
+      "time": "19:45",
+      "datetime": "18-12-2025 19:45",
+      "league": "Coupe Du Portugal",
+      "teams": "Santa Clara - Sporting",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-12-2025 (19:45) Coupe Du Portugal : Santa Clara - Sporting  (CH144pt) (CH82es)"
+    },
+    {
+      "date": "18-12-2025",
+      "time": "20:00",
+      "datetime": "18-12-2025 20:00",
+      "league": "Knvb Beker",
+      "teams": "FC Volendam - Genemuiden",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "18-12-2025 (20:00) Knvb Beker : FC Volendam - Genemuiden  (CH157nl)"
+    },
+    {
+      "date": "18-12-2025",
+      "time": "20:00",
+      "datetime": "18-12-2025 20:00",
+      "league": "Supercoppa",
+      "teams": "Naples - AC Milan",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-12-2025 (20:00) Supercoppa : Naples - AC Milan  (CH139it) (CH123de) (CH56es) (CH94es) (CH81es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,23 +133,25 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-18T18:54:20.022246"
+      "extracted_at": "2025-12-18T19:15:19.094666"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": null,
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2025-12-18T18:54:40.687204"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2025-12-18T19:15:20.615800"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": null,
+      "iframe_url": "https://storytrench.net/embed/zj52139k3",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2025-12-18T18:55:01.499696"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2025-12-18T19:15:22.894837"
     },
     "WIGI": {
       "name": "WIGI",
@@ -39,7 +160,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T18:55:05.158173"
+      "extracted_at": "2025-12-18T19:15:25.354039"
     }
   },
   "player_urls": {

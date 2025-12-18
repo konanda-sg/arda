@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-18T21:51:36.140268",
-  "total_events": 53,
+  "last_updated": "2025-12-18T22:16:02.206134",
+  "total_events": 49,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "18-12-2025",
-      "time": "20:00",
-      "datetime": "18-12-2025 20:00",
-      "league": "Knvb Beker",
-      "teams": "FC Volendam - Genemuiden",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "18-12-2025 (20:00) Knvb Beker : FC Volendam - Genemuiden  (CH157nl)"
-    },
-    {
-      "date": "18-12-2025",
-      "time": "20:00",
-      "datetime": "18-12-2025 20:00",
-      "league": "Supercoppa",
-      "teams": "Naples - AC Milan",
-      "channels": [
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-12-2025 (20:00) Supercoppa : Naples - AC Milan  (CH139it) (CH123de) (CH56es) (CH94es) (CH81es)"
-    },
-    {
-      "date": "18-12-2025",
-      "time": "20:05",
-      "datetime": "18-12-2025 20:05",
-      "league": "EuroLeague",
-      "teams": "Maccabi Tel Aviv - Valence",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-12-2025 (20:05) EuroLeague : Maccabi Tel Aviv - Valence  (CH62es)"
-    },
-    {
-      "date": "18-12-2025",
-      "time": "20:15",
-      "datetime": "18-12-2025 20:15",
-      "league": "EuroLeague",
-      "teams": "Panathinaikos - Hapoel Tel-Aviv",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-12-2025 (20:15) EuroLeague : Panathinaikos - Hapoel Tel-Aviv  (CH64es)"
-    },
     {
       "date": "18-12-2025",
       "time": "20:30",
@@ -901,7 +829,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-18T21:51:28.534054"
+      "extracted_at": "2025-12-18T22:15:54.875037"
     },
     "hoca": {
       "name": "hoca",
@@ -910,7 +838,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T21:51:30.126397"
+      "extracted_at": "2025-12-18T22:15:56.419708"
     },
     "Caster": {
       "name": "Caster",
@@ -919,7 +847,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T21:51:32.567270"
+      "extracted_at": "2025-12-18T22:15:58.756970"
     },
     "WIGI": {
       "name": "WIGI",
@@ -928,7 +856,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T21:51:35.140131"
+      "extracted_at": "2025-12-18T22:16:01.205979"
     }
   },
   "player_urls": {

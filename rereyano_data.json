@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-18T05:46:55.842129",
-  "total_events": 1,
+  "last_updated": "2025-12-18T06:26:08.857287",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "18-12-2025",
-      "time": "04:00",
-      "datetime": "18-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - New Jersey Devils",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "18-12-2025 (04:00) NHL : Vegas Golden Knights - New Jersey Devils  (CH184us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-18T05:46:47.368448"
+      "extracted_at": "2025-12-18T06:26:00.814668"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T05:46:49.098874"
+      "extracted_at": "2025-12-18T06:26:02.295102"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T05:46:52.102207"
+      "extracted_at": "2025-12-18T06:26:05.017628"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-18T05:46:54.841975"
+      "extracted_at": "2025-12-18T06:26:07.857144"
     }
   },
   "player_urls": {

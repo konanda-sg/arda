@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T20:42:56.614187",
-  "total_events": 255,
+  "last_updated": "2025-12-19T20:53:49.539194",
+  "total_events": 256,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4252,6 +4252,28 @@
         }
       ],
       "raw_line": "22-12-2025 (21:00) Premier League : Fulham - Nottingham  (CH12fr) (CH127gb) (CH57es) (CH120de) (CH87es)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "21:45",
+      "datetime": "22-12-2025 21:45",
+      "league": "Liga Portugal",
+      "teams": "Benfica - Famalicao",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-12-2025 (21:45) Liga Portugal : Benfica - Famalicao  (CH2fr) (CH145pt) (CH74es)"
     }
   ],
   "player_streams": {
@@ -4261,7 +4283,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T20:42:49.369391"
+      "extracted_at": "2025-12-19T20:53:42.481760"
     },
     "hoca": {
       "name": "hoca",
@@ -4270,7 +4292,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T20:42:50.722391"
+      "extracted_at": "2025-12-19T20:53:43.808176"
     },
     "Caster": {
       "name": "Caster",
@@ -4279,7 +4301,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T20:42:53.170342"
+      "extracted_at": "2025-12-19T20:53:46.193636"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4288,7 +4310,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T20:42:55.614012"
+      "extracted_at": "2025-12-19T20:53:48.539034"
     }
   },
   "player_urls": {

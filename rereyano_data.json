@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T16:49:46.372501",
-  "total_events": 254,
+  "last_updated": "2025-12-19T17:16:03.920471",
+  "total_events": 256,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4190,6 +4190,42 @@
         }
       ],
       "raw_line": "22-12-2025 (17:00) Betfred Super League : Panserraikos - Levadiakos  (CH148gr)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "18:00",
+      "datetime": "22-12-2025 18:00",
+      "league": "CAN",
+      "teams": "Afrique du Sud - Angola",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-12-2025 (18:00) CAN : Afrique du Sud - Angola  (CH1fr) (CH61es) (CH69es)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "18:00",
+      "datetime": "22-12-2025 18:00",
+      "league": "Super Lig",
+      "teams": "Genclerbirligi - Trabzonspor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "22-12-2025 (18:00) Super Lig : Genclerbirligi - Trabzonspor  (CH151tr)"
     }
   ],
   "player_streams": {
@@ -4199,7 +4235,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T16:49:37.838451"
+      "extracted_at": "2025-12-19T17:15:55.916826"
     },
     "hoca": {
       "name": "hoca",
@@ -4208,7 +4244,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T16:49:39.535817"
+      "extracted_at": "2025-12-19T17:15:57.305437"
     },
     "Caster": {
       "name": "Caster",
@@ -4217,7 +4253,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T16:49:42.605867"
+      "extracted_at": "2025-12-19T17:16:00.094877"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4226,7 +4262,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T16:49:45.372347"
+      "extracted_at": "2025-12-19T17:16:02.920333"
     }
   },
   "player_urls": {

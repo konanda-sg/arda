@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T15:54:55.786698",
-  "total_events": 253,
+  "last_updated": "2025-12-19T16:20:58.025036",
+  "total_events": 254,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4176,6 +4176,20 @@
         }
       ],
       "raw_line": "22-12-2025 (15:00) Super Lig : Basaksehir - Gaziantep  (CH151tr)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "17:00",
+      "datetime": "22-12-2025 17:00",
+      "league": "Betfred Super League",
+      "teams": "Panserraikos - Levadiakos",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "22-12-2025 (17:00) Betfred Super League : Panserraikos - Levadiakos  (CH148gr)"
     }
   ],
   "player_streams": {
@@ -4185,7 +4199,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T15:54:47.437932"
+      "extracted_at": "2025-12-19T16:20:49.915238"
     },
     "hoca": {
       "name": "hoca",
@@ -4194,7 +4208,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T15:54:49.114472"
+      "extracted_at": "2025-12-19T16:20:51.604359"
     },
     "Caster": {
       "name": "Caster",
@@ -4203,7 +4217,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T15:54:52.118462"
+      "extracted_at": "2025-12-19T16:20:54.308383"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4212,7 +4226,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T15:54:54.786541"
+      "extracted_at": "2025-12-19T16:20:57.024891"
     }
   },
   "player_urls": {

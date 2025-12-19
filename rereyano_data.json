@@ -1,138 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T22:42:54.822207",
-  "total_events": 243,
+  "last_updated": "2025-12-19T22:54:16.214975",
+  "total_events": 234,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "Multiplex Coupe de France -",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : Multiplex Coupe de France -   (CH2fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "Avranches - Brest",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : Avranches - Brest  (CH4fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "Canet Roussillon - Montpellier",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : Canet Roussillon - Montpellier  (CH6fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "Guingamp - Laval",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : Guingamp - Laval  (CH5fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "IC Croix - Reims",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : IC Croix - Reims  (CH7fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "Les Herbiers - Angers",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : Les Herbiers - Angers  (CH8fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Coupe De France",
-      "teams": "Perigny - Le Mans",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Coupe De France : Perigny - Le Mans  (CH9fr)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Virtus Bologna",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) EuroLeague : Étoile Rouge Belgrade - Virtus Bologna  (CH64es)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "20:45",
-      "datetime": "19-12-2025 20:45",
-      "league": "Pro League",
-      "teams": "Charleroi - Genk",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "19-12-2025 (20:45) Pro League : Charleroi - Genk  (CH153fr)"
-    },
     {
       "date": "19-12-2025",
       "time": "21:00",
@@ -4081,34 +3955,31 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T22:42:47.137681"
+      "extracted_at": "2025-12-19T22:52:42.027985"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-12-19T22:42:48.828395"
+      "status": "no_iframe",
+      "extracted_at": "2025-12-19T22:53:13.088210"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": "https://storytrench.net/embed/zj52139k3",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-12-19T22:42:51.297562"
+      "status": "no_iframe",
+      "extracted_at": "2025-12-19T22:53:44.150080"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://rereyano.ru/player/4/1",
-      "iframe_url": "https://runginfect.net/embed/ysagetp2j4x",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2025-12-19T22:42:53.822059"
+      "status": "no_iframe",
+      "extracted_at": "2025-12-19T22:54:15.214820"
     }
   },
   "player_urls": {

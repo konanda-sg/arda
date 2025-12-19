@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T05:54:44.702586",
-  "total_events": 2,
+  "last_updated": "2025-12-19T06:25:50.382228",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "19-12-2025",
-      "time": "04:00",
-      "datetime": "19-12-2025 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Sacramento Kings",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-12-2025 (04:00) NBA : Portland Trail Blazers - Sacramento Kings  (CH181us)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "04:00",
-      "datetime": "19-12-2025 04:00",
-      "league": "NHL",
-      "teams": "San Jose Sharks - Dallas Stars",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-12-2025 (04:00) NHL : San Jose Sharks - Dallas Stars  (CH182us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T05:54:36.378170"
+      "extracted_at": "2025-12-19T06:25:42.216372"
     },
     "hoca": {
       "name": "hoca",
@@ -52,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T05:54:38.092203"
+      "extracted_at": "2025-12-19T06:25:43.605099"
     },
     "Caster": {
       "name": "Caster",
@@ -61,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T05:54:40.850395"
+      "extracted_at": "2025-12-19T06:25:46.648660"
     },
     "WIGI": {
       "name": "WIGI",
@@ -70,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T05:54:43.702443"
+      "extracted_at": "2025-12-19T06:25:49.382090"
     }
   },
   "player_urls": {

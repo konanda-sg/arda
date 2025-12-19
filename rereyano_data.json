@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T19:49:40.007735",
-  "total_events": 257,
+  "last_updated": "2025-12-19T20:18:32.475975",
+  "total_events": 259,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-12-2025",
-      "time": "18:00",
-      "datetime": "19-12-2025 18:00",
-      "league": "Super Lig",
-      "teams": "Kocaelispor - Antalyaspor",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "19-12-2025 (18:00) Super Lig : Kocaelispor - Antalyaspor  (CH151tr)"
-    },
     {
       "date": "19-12-2025",
       "time": "18:30",
@@ -4248,6 +4234,84 @@
         }
       ],
       "raw_line": "22-12-2025 (19:45) Liga Portugal : Alverca - FC Porto  (CH2fr) (CH144pt) (CH74es)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "21:00",
+      "datetime": "22-12-2025 21:00",
+      "league": "CAN",
+      "teams": "Egypte - Zimbabwe",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-12-2025 (21:00) CAN : Egypte - Zimbabwe  (CH1fr) (CH61es) (CH69es)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "21:00",
+      "datetime": "22-12-2025 21:00",
+      "league": "Laliga",
+      "teams": "Ath. Bilbao - Espanyol",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-12-2025 (21:00) Laliga : Ath. Bilbao - Espanyol  (CH7fr) (CH49es) (CH71es) (CH87es)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "21:00",
+      "datetime": "22-12-2025 21:00",
+      "league": "Premier League",
+      "teams": "Fulham - Nottingham",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-12-2025 (21:00) Premier League : Fulham - Nottingham  (CH12fr) (CH127gb) (CH57es) (CH120de) (CH87es)"
     }
   ],
   "player_streams": {
@@ -4257,7 +4321,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T19:49:32.856140"
+      "extracted_at": "2025-12-19T20:18:25.214079"
     },
     "hoca": {
       "name": "hoca",
@@ -4266,7 +4330,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T19:49:34.184647"
+      "extracted_at": "2025-12-19T20:18:26.719797"
     },
     "Caster": {
       "name": "Caster",
@@ -4275,7 +4339,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T19:49:36.637415"
+      "extracted_at": "2025-12-19T20:18:29.191738"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4284,7 +4348,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T19:49:39.007598"
+      "extracted_at": "2025-12-19T20:18:31.475819"
     }
   },
   "player_urls": {

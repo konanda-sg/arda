@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T18:23:51.249179",
-  "total_events": 256,
+  "last_updated": "2025-12-19T18:51:39.771535",
+  "total_events": 257,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4226,6 +4226,28 @@
         }
       ],
       "raw_line": "22-12-2025 (18:00) Super Lig : Genclerbirligi - Trabzonspor  (CH151tr)"
+    },
+    {
+      "date": "22-12-2025",
+      "time": "19:45",
+      "datetime": "22-12-2025 19:45",
+      "league": "Liga Portugal",
+      "teams": "Alverca - FC Porto",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-12-2025 (19:45) Liga Portugal : Alverca - FC Porto  (CH2fr) (CH144pt) (CH74es)"
     }
   ],
   "player_streams": {
@@ -4235,7 +4257,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T18:23:42.814452"
+      "extracted_at": "2025-12-19T18:51:32.376856"
     },
     "hoca": {
       "name": "hoca",
@@ -4244,7 +4266,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T18:23:44.553910"
+      "extracted_at": "2025-12-19T18:51:33.959619"
     },
     "Caster": {
       "name": "Caster",
@@ -4253,7 +4275,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T18:23:47.420577"
+      "extracted_at": "2025-12-19T18:51:36.312541"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4262,7 +4284,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T18:23:50.249026"
+      "extracted_at": "2025-12-19T18:51:38.771370"
     }
   },
   "player_urls": {

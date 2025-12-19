@@ -1,60 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T04:03:47.347151",
-  "total_events": 8,
+  "last_updated": "2025-12-19T04:47:03.496367",
+  "total_events": 6,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-12-2025",
-      "time": "02:15",
-      "datetime": "19-12-2025 02:15",
-      "league": "NFL",
-      "teams": "Seattle Seahawks - Los Angeles Rams",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "175",
-          "lang": "us"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        },
-        {
-          "id": "104",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-12-2025 (02:15) NFL : Seattle Seahawks - Los Angeles Rams  (CH3fr) (CH175us) (CH101es) (CH104es) (CH91es)"
-    },
-    {
-      "date": "19-12-2025",
-      "time": "02:30",
-      "datetime": "19-12-2025 02:30",
-      "league": "NBA",
-      "teams": "Dallas Mavericks - Detroit Pistons",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-12-2025 (02:30) NBA : Dallas Mavericks - Detroit Pistons  (CH1fr) (CH176us)"
-    },
     {
       "date": "19-12-2025",
       "time": "03:00",
@@ -147,7 +99,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T04:03:39.929439"
+      "extracted_at": "2025-12-19T04:46:55.833017"
     },
     "hoca": {
       "name": "hoca",
@@ -156,7 +108,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T04:03:41.525886"
+      "extracted_at": "2025-12-19T04:46:57.367792"
     },
     "Caster": {
       "name": "Caster",
@@ -165,7 +117,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T04:03:44.002096"
+      "extracted_at": "2025-12-19T04:46:59.875524"
     },
     "WIGI": {
       "name": "WIGI",
@@ -174,7 +126,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T04:03:46.346992"
+      "extracted_at": "2025-12-19T04:47:02.496191"
     }
   },
   "player_urls": {

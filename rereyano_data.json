@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-19T23:49:36.608827",
-  "total_events": 229,
+  "last_updated": "2025-12-20T01:12:43.787109",
+  "total_events": 233,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-12-2025",
-      "time": "22:00",
-      "datetime": "19-12-2025 22:00",
-      "league": "Ecuador Ligapro",
-      "teams": "El Nacional - Delfin",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-12-2025 (22:00) Ecuador Ligapro : El Nacional - Delfin  (CH86es)"
-    },
     {
       "date": "20-12-2025",
       "time": "01:00",
@@ -3856,6 +3842,84 @@
         }
       ],
       "raw_line": "22-12-2025 (21:45) Liga Portugal : Benfica - Famalicao  (CH2fr) (CH145pt) (CH74es)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "01:00",
+      "datetime": "23-12-2025 01:00",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-12-2025 (01:00) NBA : Cleveland Cavaliers - Charlotte Hornets  (CH160us) (CH98es) (CH75es)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "01:00",
+      "datetime": "23-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - St. Louis Blues",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-12-2025 (01:00) NHL : Tampa Bay Lightning - St. Louis Blues  (CH161us)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "01:30",
+      "datetime": "23-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Indiana Pacers",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-12-2025 (01:30) NBA : Boston Celtics - Indiana Pacers  (CH162us)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "01:30",
+      "datetime": "23-12-2025 01:30",
+      "league": "NHL",
+      "teams": "Philadelphia Flyers - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-12-2025 (01:30) NHL : Philadelphia Flyers - Vancouver Canucks  (CH163us)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "02:00",
+      "datetime": "23-12-2025 02:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-12-2025 (02:00) NBA : New Orleans Pelicans - Dallas Mavericks  (CH164us)"
     }
   ],
   "player_streams": {
@@ -3865,7 +3929,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-19T23:49:28.385753"
+      "extracted_at": "2025-12-20T01:12:35.654408"
     },
     "hoca": {
       "name": "hoca",
@@ -3874,7 +3938,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T23:49:30.089524"
+      "extracted_at": "2025-12-20T01:12:37.373905"
     },
     "Caster": {
       "name": "Caster",
@@ -3883,7 +3947,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T23:49:32.807536"
+      "extracted_at": "2025-12-20T01:12:40.077217"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3892,7 +3956,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-19T23:49:35.608679"
+      "extracted_at": "2025-12-20T01:12:42.786958"
     }
   },
   "player_urls": {

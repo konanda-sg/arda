@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-20T01:12:43.787109",
-  "total_events": 233,
+  "last_updated": "2025-12-20T02:52:16.852331",
+  "total_events": 236,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -3920,6 +3920,76 @@
         }
       ],
       "raw_line": "23-12-2025 (02:00) NBA : New Orleans Pelicans - Dallas Mavericks  (CH164us)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "02:15",
+      "datetime": "23-12-2025 02:15",
+      "league": "NFL",
+      "teams": "Indianapolis Colts - San Francisco 49ers",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-12-2025 (02:15) NFL : Indianapolis Colts - San Francisco 49ers  (CH2fr) (CH165us) (CH88es) (CH97es) (CH71es)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "03:00",
+      "datetime": "23-12-2025 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Utah Jazz",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-12-2025 (03:00) NBA : Denver Nuggets - Utah Jazz  (CH166us)"
+    },
+    {
+      "date": "23-12-2025",
+      "time": "03:30",
+      "datetime": "23-12-2025 03:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "167",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-12-2025 (03:30) NBA : Oklahoma City Thunder - Memphis Grizzlies  (CH1fr) (CH167us) (CH98es) (CH75es)"
     }
   ],
   "player_streams": {
@@ -3929,7 +3999,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-20T01:12:35.654408"
+      "extracted_at": "2025-12-20T02:52:09.367797"
     },
     "hoca": {
       "name": "hoca",
@@ -3938,7 +4008,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-20T01:12:37.373905"
+      "extracted_at": "2025-12-20T02:52:10.859877"
     },
     "Caster": {
       "name": "Caster",
@@ -3947,7 +4017,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-20T01:12:40.077217"
+      "extracted_at": "2025-12-20T02:52:13.377901"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3956,7 +4026,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-20T01:12:42.786958"
+      "extracted_at": "2025-12-20T02:52:15.852193"
     }
   },
   "player_urls": {

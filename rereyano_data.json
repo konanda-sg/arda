@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-22T16:50:23.106329",
-  "total_events": 22,
+  "last_updated": "2025-12-22T17:15:27.033049",
+  "total_events": 20,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "22-12-2025",
-      "time": "15:00",
-      "datetime": "22-12-2025 15:00",
-      "league": "CAN",
-      "teams": "Mali - Zambie",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-12-2025 (15:00) CAN : Mali - Zambie  (CH1fr) (CH61es) (CH69es)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "15:00",
-      "datetime": "22-12-2025 15:00",
-      "league": "Super Lig",
-      "teams": "Basaksehir - Gaziantep",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "22-12-2025 (15:00) Super Lig : Basaksehir - Gaziantep  (CH151tr)"
-    },
     {
       "date": "22-12-2025",
       "time": "17:00",
@@ -431,7 +395,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-22T16:50:15.037171"
+      "extracted_at": "2025-12-22T17:15:18.710434"
     },
     "hoca": {
       "name": "hoca",
@@ -440,7 +404,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-22T16:50:16.726047"
+      "extracted_at": "2025-12-22T17:15:20.431201"
     },
     "Caster": {
       "name": "Caster",
@@ -449,7 +413,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-22T16:50:19.386416"
+      "extracted_at": "2025-12-22T17:15:23.134712"
     },
     "WIGI": {
       "name": "WIGI",
@@ -458,7 +422,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-22T16:50:22.106166"
+      "extracted_at": "2025-12-22T17:15:26.032921"
     }
   },
   "player_urls": {

@@ -1,314 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-22T01:19:50.964203",
-  "total_events": 44,
+  "last_updated": "2025-12-22T03:16:13.176059",
+  "total_events": 25,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "21-12-2025",
-      "time": "22:00",
-      "datetime": "21-12-2025 22:00",
-      "league": "Coupe Du Bresil",
-      "teams": "Vasco da Gama - Corinthians",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:00) Coupe Du Bresil : Vasco da Gama - Corinthians  (CH70es)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:05",
-      "datetime": "21-12-2025 22:05",
-      "league": "NFL",
-      "teams": "Arizona Cardinals - Atlanta Falcons",
-      "channels": [
-        {
-          "id": "169",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:05) NFL : Arizona Cardinals - Atlanta Falcons  (CH169us)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:05",
-      "datetime": "21-12-2025 22:05",
-      "league": "NFL",
-      "teams": "Denver Broncos - Jacksonville Jaguars",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:05) NFL : Denver Broncos - Jacksonville Jaguars  (CH3fr) (CH170us) (CH101es)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:25",
-      "datetime": "21-12-2025 22:25",
-      "league": "NFL",
-      "teams": "Detroit Lions - Pittsburgh Steelers",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        },
-        {
-          "id": "80",
-          "lang": "es"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "102",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:25) NFL : Detroit Lions - Pittsburgh Steelers  (CH171us) (CH80es) (CH93es) (CH102es)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:25",
-      "datetime": "21-12-2025 22:25",
-      "league": "NFL",
-      "teams": "Houston Texans - Las Vegas Raiders",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:25) NFL : Houston Texans - Las Vegas Raiders  (CH172us) (CH78es) (CH91es) (CH107es)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:30",
-      "datetime": "21-12-2025 22:30",
-      "league": "Ecuador Ligapro",
-      "teams": "Ind. del Valle - Barcelone SC",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:30) Ecuador Ligapro : Ind. del Valle - Barcelone SC  (CH159es)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:30",
-      "datetime": "21-12-2025 22:30",
-      "league": "Ecuador Ligapro",
-      "teams": "LDU Quito - U. Catolica",
-      "channels": [
-        {
-          "id": "85",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:30) Ecuador Ligapro : LDU Quito - U. Catolica  (CH85es)"
-    },
-    {
-      "date": "21-12-2025",
-      "time": "22:30",
-      "datetime": "21-12-2025 22:30",
-      "league": "Ecuador Ligapro",
-      "teams": "Orense - Libertad",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-12-2025 (22:30) Ecuador Ligapro : Orense - Libertad  (CH86es)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "00:00",
-      "datetime": "22-12-2025 00:00",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Toronto Raptors",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (00:00) NBA : Brooklyn Nets - Toronto Raptors  (CH173us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "00:00",
-      "datetime": "22-12-2025 00:00",
-      "league": "NBA",
-      "teams": "New York Knicks - Miami Heat",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (00:00) NBA : New York Knicks - Miami Heat  (CH1fr) (CH174us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "00:00",
-      "datetime": "22-12-2025 00:00",
-      "league": "NHL",
-      "teams": "Minnesota Wild - Colorado Avalanche",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (00:00) NHL : Minnesota Wild - Colorado Avalanche  (CH175us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NBA : Minnesota Timberwolves - Milwaukee Bucks  (CH176us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NBA : Washington Wizards - San Antonio Spurs  (CH177us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Boston Bruins - Ottawa Senators",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NHL : Boston Bruins - Ottawa Senators  (CH178us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Dallas Stars - Toronto Maple Leafs",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NHL : Dallas Stars - Toronto Maple Leafs  (CH179us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Nashville Predators - New York Rangers",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NHL : Nashville Predators - New York Rangers  (CH180us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NHL",
-      "teams": "New Jersey Devils - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NHL : New Jersey Devils - Buffalo Sabres  (CH181us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - Montreal Canadiens",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NHL : Pittsburgh Penguins - Montreal Canadiens  (CH182us)"
-    },
-    {
-      "date": "22-12-2025",
-      "time": "01:00",
-      "datetime": "22-12-2025 01:00",
-      "league": "NHL",
-      "teams": "Utah Mammoth - Winnipeg Jets",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-12-2025 (01:00) NHL : Utah Mammoth - Winnipeg Jets  (CH183us)"
-    },
     {
       "date": "22-12-2025",
       "time": "02:00",
@@ -787,7 +485,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-22T01:19:43.549686"
+      "extracted_at": "2025-12-22T03:16:04.317484"
     },
     "hoca": {
       "name": "hoca",
@@ -796,7 +494,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-22T01:19:45.150489"
+      "extracted_at": "2025-12-22T03:16:06.055381"
     },
     "Caster": {
       "name": "Caster",
@@ -805,7 +503,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-22T01:19:47.464415"
+      "extracted_at": "2025-12-22T03:16:09.146742"
     },
     "WIGI": {
       "name": "WIGI",
@@ -814,7 +512,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-22T01:19:49.964071"
+      "extracted_at": "2025-12-22T03:16:12.175934"
     }
   },
   "player_urls": {

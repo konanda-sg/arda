@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-24T05:46:35.259835",
-  "total_events": 9,
+  "last_updated": "2025-12-24T06:27:34.873208",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "24-12-2025",
-      "time": "04:00",
-      "datetime": "24-12-2025 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Orlando Magic",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-12-2025 (04:00) NBA : Portland Trail Blazers - Orlando Magic  (CH171us)"
-    },
-    {
-      "date": "24-12-2025",
-      "time": "04:00",
-      "datetime": "24-12-2025 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Detroit Pistons",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-12-2025 (04:00) NBA : Sacramento Kings - Detroit Pistons  (CH172us)"
-    },
-    {
-      "date": "24-12-2025",
-      "time": "04:00",
-      "datetime": "24-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Seattle Kraken",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-12-2025 (04:00) NHL : Los Angeles Kings - Seattle Kraken  (CH185us)"
-    },
-    {
-      "date": "24-12-2025",
-      "time": "04:00",
-      "datetime": "24-12-2025 04:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - San Jose Sharks",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-12-2025 (04:00) NHL : Vegas Golden Knights - San Jose Sharks  (CH4fr) (CH186us)"
-    },
     {
       "date": "24-12-2025",
       "time": "04:30",
@@ -197,7 +137,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-24T05:46:27.509662"
+      "extracted_at": "2025-12-24T06:27:27.374239"
     },
     "hoca": {
       "name": "hoca",
@@ -206,7 +146,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-24T05:46:29.099770"
+      "extracted_at": "2025-12-24T06:27:29.014330"
     },
     "Caster": {
       "name": "Caster",
@@ -215,7 +155,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-24T05:46:31.543123"
+      "extracted_at": "2025-12-24T06:27:31.420255"
     },
     "WIGI": {
       "name": "WIGI",
@@ -224,7 +164,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-24T05:46:34.259648"
+      "extracted_at": "2025-12-24T06:27:33.873060"
     }
   },
   "player_urls": {

@@ -1,41 +1,223 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-24T22:52:16.145235",
-  "total_events": 1,
+  "last_updated": "2025-12-24T23:15:41.231103",
+  "total_events": 8,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
     {
-      "date": "24-12-2025",
-      "time": "21:00",
-      "datetime": "24-12-2025 21:00",
-      "league": "CAN",
-      "teams": "Cameroun - Gabon",
+      "date": "25-12-2025",
+      "time": "18:00",
+      "datetime": "25-12-2025 18:00",
+      "league": "NBA",
+      "teams": "New York Knicks - Cleveland Cavaliers",
       "channels": [
         {
           "id": "1",
           "lang": "fr"
         },
         {
-          "id": "61",
+          "id": "160",
+          "lang": "us"
+        },
+        {
+          "id": "155",
           "lang": "es"
         },
         {
-          "id": "69",
+          "id": "97",
           "lang": "es"
         },
         {
-          "id": "82",
+          "id": "87",
           "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
         }
       ],
-      "raw_line": "24-12-2025 (21:00) CAN : Cameroun - Gabon  (CH1fr) (CH61es) (CH69es) (CH82es) (CH125de)"
+      "raw_line": "25-12-2025 (18:00) NBA : New York Knicks - Cleveland Cavaliers  (CH1fr) (CH160us) (CH155es) (CH97es) (CH87es)"
+    },
+    {
+      "date": "25-12-2025",
+      "time": "19:00",
+      "datetime": "25-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Washington Commanders - Dallas Cowboys",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-12-2025 (19:00) NFL : Washington Commanders - Dallas Cowboys  (CH165us)"
+    },
+    {
+      "date": "25-12-2025",
+      "time": "20:30",
+      "datetime": "25-12-2025 20:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-12-2025 (20:30) NBA : Oklahoma City Thunder - San Antonio Spurs  (CH1fr) (CH161us) (CH156es) (CH97es) (CH87es)"
+    },
+    {
+      "date": "25-12-2025",
+      "time": "22:30",
+      "datetime": "25-12-2025 22:30",
+      "league": "NFL",
+      "teams": "Minnesota Vikings - Detroit Lions",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-12-2025 (22:30) NFL : Minnesota Vikings - Detroit Lions  (CH166us)"
+    },
+    {
+      "date": "25-12-2025",
+      "time": "23:00",
+      "datetime": "25-12-2025 23:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "us"
+        },
+        {
+          "id": "157",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-12-2025 (23:00) NBA : Golden State Warriors - Dallas Mavericks  (CH1fr) (CH162us) (CH157es) (CH97es) (CH87es)"
+    },
+    {
+      "date": "26-12-2025",
+      "time": "02:00",
+      "datetime": "26-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Houston Rockets",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-12-2025 (02:00) NBA : Los Angeles Lakers - Houston Rockets  (CH1fr) (CH163us) (CH155es) (CH97es) (CH87es)"
+    },
+    {
+      "date": "26-12-2025",
+      "time": "02:15",
+      "datetime": "26-12-2025 02:15",
+      "league": "NFL",
+      "teams": "Kansas City Chiefs - Denver Broncos",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "167",
+          "lang": "us"
+        },
+        {
+          "id": "58",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
+        },
+        {
+          "id": "104",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-12-2025 (02:15) NFL : Kansas City Chiefs - Denver Broncos  (CH2fr) (CH167us) (CH58es) (CH101es) (CH104es) (CH91es)"
+    },
+    {
+      "date": "26-12-2025",
+      "time": "04:30",
+      "datetime": "26-12-2025 04:30",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-12-2025 (04:30) NBA : Denver Nuggets - Minnesota Timberwolves  (CH1fr) (CH164us) (CH156es) (CH97es) (CH87es)"
     }
   ],
   "player_streams": {
@@ -45,7 +227,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-24T22:52:08.785169"
+      "extracted_at": "2025-12-24T23:15:33.812364"
     },
     "hoca": {
       "name": "hoca",
@@ -54,7 +236,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-24T22:52:10.323987"
+      "extracted_at": "2025-12-24T23:15:35.369733"
     },
     "Caster": {
       "name": "Caster",
@@ -63,7 +245,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-24T22:52:12.758317"
+      "extracted_at": "2025-12-24T23:15:37.760416"
     },
     "WIGI": {
       "name": "WIGI",
@@ -72,7 +254,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-24T22:52:15.145092"
+      "extracted_at": "2025-12-24T23:15:40.230951"
     }
   },
   "player_urls": {

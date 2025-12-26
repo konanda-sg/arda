@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-25T23:50:32.113633",
-  "total_events": 5,
+  "last_updated": "2025-12-26T01:17:42.139600",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "25-12-2025",
-      "time": "22:30",
-      "datetime": "25-12-2025 22:30",
-      "league": "NFL",
-      "teams": "Minnesota Vikings - Detroit Lions",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-12-2025 (22:30) NFL : Minnesota Vikings - Detroit Lions  (CH161us)"
-    },
-    {
-      "date": "25-12-2025",
-      "time": "23:00",
-      "datetime": "25-12-2025 23:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Dallas Mavericks",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "160",
-          "lang": "us"
-        },
-        {
-          "id": "157",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-12-2025 (23:00) NBA : Golden State Warriors - Dallas Mavericks  (CH1fr) (CH160us) (CH157es) (CH97es) (CH87es)"
-    },
     {
       "date": "26-12-2025",
       "time": "02:00",
@@ -153,7 +109,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-25T23:50:24.956995"
+      "extracted_at": "2025-12-26T01:17:33.874921"
     },
     "hoca": {
       "name": "hoca",
@@ -162,7 +118,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-25T23:50:26.395247"
+      "extracted_at": "2025-12-26T01:17:35.338261"
     },
     "Caster": {
       "name": "Caster",
@@ -171,7 +127,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-25T23:50:28.820003"
+      "extracted_at": "2025-12-26T01:17:38.330284"
     },
     "WIGI": {
       "name": "WIGI",
@@ -180,7 +136,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-25T23:50:31.113469"
+      "extracted_at": "2025-12-26T01:17:41.139421"
     }
   },
   "player_urls": {

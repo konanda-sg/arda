@@ -1,12 +1,2677 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-27T09:16:35.267129",
-  "total_events": 0,
+  "last_updated": "2025-12-27T09:40:11.293216",
+  "total_events": 148,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "27-12-2025",
+      "time": "12:30",
+      "datetime": "27-12-2025 12:30",
+      "league": "Serie A",
+      "teams": "Parme - Fiorentina",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (12:30) Serie A : Parme - Fiorentina  (CH137it) (CH123de) (CH97es) (CH70es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "13:30",
+      "datetime": "27-12-2025 13:30",
+      "league": "CAN",
+      "teams": "Benin - Botswana",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (13:30) CAN : Benin - Botswana  (CH2fr) (CH61es) (CH69es) (CH125de) (CH81es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "13:30",
+      "datetime": "27-12-2025 13:30",
+      "league": "Premier League",
+      "teams": "Nottingham - Manchester City",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (13:30) Premier League : Nottingham - Manchester City  (CH12fr) (CH126us) (CH56es) (CH120de) (CH87es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "13:30",
+      "datetime": "27-12-2025 13:30",
+      "league": "Premiership",
+      "teams": "Hibernian - Hearts",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "27-12-2025 (13:30) Premiership : Hibernian - Hearts  (CH127gb)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "13:30",
+      "datetime": "27-12-2025 13:30",
+      "league": "Pro League",
+      "teams": "Antwerp - Zulte-Waregem",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (13:30) Pro League : Antwerp - Zulte-Waregem  (CH153fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "14:00",
+      "datetime": "27-12-2025 14:00",
+      "league": "Top 14",
+      "teams": "Racing 92 - US Montauban",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (14:00) Top 14 : Racing 92 - US Montauban  (CH11fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "15:00",
+      "datetime": "27-12-2025 15:00",
+      "league": "Coupe Du Portugal",
+      "teams": "Lusitano GC - Fafe",
+      "channels": [
+        {
+          "id": "147",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "27-12-2025 (15:00) Coupe Du Portugal : Lusitano GC - Fafe  (CH147pt)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "15:00",
+      "datetime": "27-12-2025 15:00",
+      "league": "Serie A",
+      "teams": "Lecce - Como",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (15:00) Serie A : Lecce - Como  (CH137it) (CH123de) (CH88es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "15:00",
+      "datetime": "27-12-2025 15:00",
+      "league": "Serie A",
+      "teams": "Torino - Cagliari",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (15:00) Serie A : Torino - Cagliari  (CH139it) (CH70es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "15:50",
+      "datetime": "27-12-2025 15:50",
+      "league": "Saudi Pro League",
+      "teams": "Al-Nassr - Al Okhdood",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (15:50) Saudi Pro League : Al-Nassr - Al Okhdood  (CH155es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "CAN",
+      "teams": "Sénégal - RD Congo",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) CAN : Sénégal - RD Congo  (CH1fr) (CH61es) (CH69es) (CH125de) (CH82es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "Multiplex Premier League -",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : Multiplex Premier League -   (CH12fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "Premier League konferenz -",
+      "channels": [
+        {
+          "id": "120",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : Premier League konferenz -   (CH120de)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "Arsenal - Brighton",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : Arsenal - Brighton  (CH14fr) (CH129us) (CH56es) (CH72es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "Brentford - Bournemouth",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "us"
+        },
+        {
+          "id": "58",
+          "lang": "es"
+        },
+        {
+          "id": "000",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : Brentford - Bournemouth  (CH36fr) (CH130us) (CH58es) (CH000de)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "Burnley - Everton",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "131",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : Burnley - Everton  (CH37fr) (CH131us) (CH156es) (CH87es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "Liverpool - Wolves",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "132",
+          "lang": "us"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : Liverpool - Wolves  (CH13fr) (CH132us) (CH57es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premier League",
+      "teams": "West Ham - Fulham",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "133",
+          "lang": "us"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premier League : West Ham - Fulham  (CH35fr) (CH133us) (CH59es) (CH157es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premiership",
+      "teams": "Livingston - Celtic",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premiership : Livingston - Celtic  (CH127gb)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Premiership",
+      "teams": "Rangers - Motherwell",
+      "channels": [
+        {
+          "id": "135",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Premiership : Rangers - Motherwell  (CH135us)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Pro League",
+      "teams": "RAAL La Louviere - Louvain",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Pro League : RAAL La Louviere - Louvain  (CH153fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "16:00",
+      "datetime": "27-12-2025 16:00",
+      "league": "Top 14",
+      "teams": "Castres Olympique - Lyon OU",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (16:00) Top 14 : Castres Olympique - Lyon OU  (CH11fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:00",
+      "datetime": "27-12-2025 18:00",
+      "league": "Liga Endesa",
+      "teams": "Baskonia - San Pablo Burgos",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:00) Liga Endesa : Baskonia - San Pablo Burgos  (CH65es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:00",
+      "datetime": "27-12-2025 18:00",
+      "league": "Serie A",
+      "teams": "Udinese - Lazio",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:00) Serie A : Udinese - Lazio  (CH137it) (CH123de) (CH87es) (CH97es) (CH70es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:00",
+      "datetime": "27-12-2025 18:00",
+      "league": "Top 14",
+      "teams": "Aviron Bayonnais - Stade Français",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:00) Top 14 : Aviron Bayonnais - Stade Français  (CH11fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:15",
+      "datetime": "27-12-2025 18:15",
+      "league": "Pro League",
+      "teams": "Malines - Dender",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:15) Pro League : Malines - Dender  (CH153fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:30",
+      "datetime": "27-12-2025 18:30",
+      "league": "CAN",
+      "teams": "Ouganda - Tanzanie",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:30) CAN : Ouganda - Tanzanie  (CH1fr) (CH61es) (CH69es) (CH125de) (CH81es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:30",
+      "datetime": "27-12-2025 18:30",
+      "league": "Premier League",
+      "teams": "Chelsea - Aston Villa",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:30) Premier League : Chelsea - Aston Villa  (CH12fr) (CH127us) (CH56es) (CH120de) (CH87es) (CH72es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "18:30",
+      "datetime": "27-12-2025 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al-Ittihad FC - Al Shabab",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (18:30) Saudi Pro League : Al-Ittihad FC - Al Shabab  (CH155es) (CH124es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "19:00",
+      "datetime": "27-12-2025 19:00",
+      "league": "Liga Endesa",
+      "teams": "Zaragoza - Manresa",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (19:00) Liga Endesa : Zaragoza - Manresa  (CH66es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "19:00",
+      "datetime": "27-12-2025 19:00",
+      "league": "Liga Portugal",
+      "teams": "Famalicao - Estrela",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "27-12-2025 (19:00) Liga Portugal : Famalicao - Estrela  (CH144pt)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "20:00",
+      "datetime": "27-12-2025 20:00",
+      "league": "Liga Endesa",
+      "teams": "Grenade - Murcia",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (20:00) Liga Endesa : Grenade - Murcia  (CH67es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "20:45",
+      "datetime": "27-12-2025 20:45",
+      "league": "Pro League",
+      "teams": "La Gantoise - Westerlo",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (20:45) Pro League : La Gantoise - Westerlo  (CH153fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "20:45",
+      "datetime": "27-12-2025 20:45",
+      "league": "Serie A",
+      "teams": "Pisa - Juventus",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (20:45) Serie A : Pisa - Juventus  (CH45fr) (CH138it) (CH123de) (CH98es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "21:00",
+      "datetime": "27-12-2025 21:00",
+      "league": "CAN",
+      "teams": "Nigéria - Tunisie",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (21:00) CAN : Nigéria - Tunisie  (CH1fr) (CH61es) (CH69es) (CH125de) (CH82es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "21:00",
+      "datetime": "27-12-2025 21:00",
+      "league": "Liga Endesa",
+      "teams": "Joventut - Breogan",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-12-2025 (21:00) Liga Endesa : Joventut - Breogan  (CH65es)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "21:00",
+      "datetime": "27-12-2025 21:00",
+      "league": "Top 14",
+      "teams": "ASM Clermont - Bordeaux Bègles",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "27-12-2025 (21:00) Top 14 : ASM Clermont - Bordeaux Bègles  (CH11fr)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "21:30",
+      "datetime": "27-12-2025 21:30",
+      "league": "Liga Portugal",
+      "teams": "Estoril - Alverca",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "27-12-2025 (21:30) Liga Portugal : Estoril - Alverca  (CH144pt)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "22:30",
+      "datetime": "27-12-2025 22:30",
+      "league": "NFL",
+      "teams": "Los Angeles Chargers - Houston Texans",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-12-2025 (22:30) NFL : Los Angeles Chargers - Houston Texans  (CH160us)"
+    },
+    {
+      "date": "27-12-2025",
+      "time": "23:00",
+      "datetime": "27-12-2025 23:00",
+      "league": "NBA",
+      "teams": "Sacramento Kings - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-12-2025 (23:00) NBA : Sacramento Kings - Dallas Mavericks  (CH2fr) (CH161us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "00:00",
+      "datetime": "28-12-2025 00:00",
+      "league": "NHL",
+      "teams": "New York Islanders - New York Rangers",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (00:00) NHL : New York Islanders - New York Rangers  (CH162us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Phoenix Suns",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NBA : New Orleans Pelicans - Phoenix Suns  (CH163us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NBA",
+      "teams": "Orlando Magic - Denver Nuggets",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NBA : Orlando Magic - Denver Nuggets  (CH164us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Buffalo Sabres - Boston Bruins",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NHL : Buffalo Sabres - Boston Bruins  (CH165us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Carolina Hurricanes - Detroit Red Wings",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NHL : Carolina Hurricanes - Detroit Red Wings  (CH166us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Florida Panthers - Tampa Bay Lightning",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NHL : Florida Panthers - Tampa Bay Lightning  (CH167us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Washington Capitals",
+      "channels": [
+        {
+          "id": "168",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NHL : New Jersey Devils - Washington Capitals  (CH168us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Toronto Maple Leafs - Ottawa Senators",
+      "channels": [
+        {
+          "id": "169",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NHL : Toronto Maple Leafs - Ottawa Senators  (CH169us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "01:00",
+      "datetime": "28-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Winnipeg Jets - Minnesota Wild",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (01:00) NHL : Winnipeg Jets - Minnesota Wild  (CH170us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - New York Knicks",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NBA : Atlanta Hawks - New York Knicks  (CH2fr) (CH171us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NBA : Chicago Bulls - Milwaukee Bucks  (CH172us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NBA : Houston Rockets - Cleveland Cavaliers  (CH173us) (CH98es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Miami Heat - Indiana Pacers",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NBA : Miami Heat - Indiana Pacers  (CH174us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NBA : Minnesota Timberwolves - Brooklyn Nets  (CH175us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Utah Jazz",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NBA : San Antonio Spurs - Utah Jazz  (CH176us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NFL",
+      "teams": "Green Bay Packers - Baltimore Ravens",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NFL : Green Bay Packers - Baltimore Ravens  (CH177us) (CH80es) (CH91es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NHL",
+      "teams": "Dallas Stars - Chicago Blackhawks",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NHL : Dallas Stars - Chicago Blackhawks  (CH178us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "02:00",
+      "datetime": "28-12-2025 02:00",
+      "league": "NHL",
+      "teams": "St. Louis Blues - Nashville Predators",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (02:00) NHL : St. Louis Blues - Nashville Predators  (CH179us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "03:00",
+      "datetime": "28-12-2025 03:00",
+      "league": "NHL",
+      "teams": "Los Angeles Kings - Anaheim Ducks",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (03:00) NHL : Los Angeles Kings - Anaheim Ducks  (CH180us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "04:00",
+      "datetime": "28-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Calgary Flames - Edmonton Oilers",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (04:00) NHL : Calgary Flames - Edmonton Oilers  (CH181us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "04:00",
+      "datetime": "28-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - San Jose Sharks",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (04:00) NHL : Vancouver Canucks - San Jose Sharks  (CH182us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "04:00",
+      "datetime": "28-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Colorado Avalanche",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (04:00) NHL : Vegas Golden Knights - Colorado Avalanche  (CH183us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "12:00",
+      "datetime": "28-12-2025 12:00",
+      "league": "Liga Endesa",
+      "teams": "Basquet Girona - Lleida",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (12:00) Liga Endesa : Basquet Girona - Lleida  (CH65es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "12:30",
+      "datetime": "28-12-2025 12:30",
+      "league": "Serie A",
+      "teams": "AC Milan - Hellas Vérone",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (12:30) Serie A : AC Milan - Hellas Vérone  (CH137it) (CH123de) (CH87es) (CH97es) (CH70es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "13:00",
+      "datetime": "28-12-2025 13:00",
+      "league": "Liga Endesa",
+      "teams": "Tenerife - Gran Canaria",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (13:00) Liga Endesa : Tenerife - Gran Canaria  (CH66es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "13:30",
+      "datetime": "28-12-2025 13:30",
+      "league": "CAN",
+      "teams": "Gabon - Mozambique",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (13:30) CAN : Gabon - Mozambique  (CH2fr) (CH61es) (CH69es) (CH125de) (CH81es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "15:00",
+      "datetime": "28-12-2025 15:00",
+      "league": "Premier League",
+      "teams": "Sunderland - Leeds",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (15:00) Premier League : Sunderland - Leeds  (CH12fr) (CH127us) (CH56es) (CH120de) (CH87es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "15:00",
+      "datetime": "28-12-2025 15:00",
+      "league": "Serie A",
+      "teams": "Cremonese - Naples",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (15:00) Serie A : Cremonese - Naples  (CH137it) (CH123de) (CH88es) (CH97es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "16:00",
+      "datetime": "28-12-2025 16:00",
+      "league": "CAN",
+      "teams": "Guinée Équatoriale - Soudan",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (16:00) CAN : Guinée Équatoriale - Soudan  (CH1fr) (CH61es) (CH69es) (CH125de) (CH82es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "16:00",
+      "datetime": "28-12-2025 16:00",
+      "league": "Top 14",
+      "teams": "Section Paloise - Montpellier",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-12-2025 (16:00) Top 14 : Section Paloise - Montpellier  (CH11fr)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "16:30",
+      "datetime": "28-12-2025 16:30",
+      "league": "Liga Portugal",
+      "teams": "Arouca - Gil Vicente",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "28-12-2025 (16:30) Liga Portugal : Arouca - Gil Vicente  (CH4fr) (CH146pt)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "16:30",
+      "datetime": "28-12-2025 16:30",
+      "league": "Liga Portugal",
+      "teams": "Casa Pia - Guimaraes",
+      "channels": [
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "28-12-2025 (16:30) Liga Portugal : Casa Pia - Guimaraes  (CH145pt)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "17:00",
+      "datetime": "28-12-2025 17:00",
+      "league": "Liga Endesa",
+      "teams": "Bilbao - Barcelone",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (17:00) Liga Endesa : Bilbao - Barcelone  (CH67es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "17:30",
+      "datetime": "28-12-2025 17:30",
+      "league": "Premier League",
+      "teams": "Crystal Palace - Tottenham",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (17:30) Premier League : Crystal Palace - Tottenham  (CH12fr) (CH127us) (CH56es) (CH120de) (CH87es) (CH73es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "18:00",
+      "datetime": "28-12-2025 18:00",
+      "league": "Liga Endesa",
+      "teams": "Valence - MoraBanc Andorra",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (18:00) Liga Endesa : Valence - MoraBanc Andorra  (CH65es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "18:00",
+      "datetime": "28-12-2025 18:00",
+      "league": "Serie A",
+      "teams": "Bologne - Sassuolo",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (18:00) Serie A : Bologne - Sassuolo  (CH138it) (CH123de) (CH97es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "18:00",
+      "datetime": "28-12-2025 18:00",
+      "league": "Top 14",
+      "teams": "RC Toulon - USA Perpignan",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-12-2025 (18:00) Top 14 : RC Toulon - USA Perpignan  (CH11fr)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "18:30",
+      "datetime": "28-12-2025 18:30",
+      "league": "CAN",
+      "teams": "Algérie - Burkina Faso",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (18:30) CAN : Algérie - Burkina Faso  (CH1fr) (CH61es) (CH69es) (CH125de) (CH81es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "Liga Endesa",
+      "teams": "Real Madrid - Unicaja",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) Liga Endesa : Real Madrid - Unicaja  (CH66es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "Liga Portugal",
+      "teams": "Braga - Benfica",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) Liga Portugal : Braga - Benfica  (CH5fr) (CH144pt)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Carolina Panthers - Seattle Seahawks",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : Carolina Panthers - Seattle Seahawks  (CH161us) (CH80es) (CH91es) (CH101es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Cincinnati Bengals - Arizona Cardinals",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : Cincinnati Bengals - Arizona Cardinals  (CH162us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Cleveland Browns - Pittsburgh Steelers",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : Cleveland Browns - Pittsburgh Steelers  (CH163us) (CH79es) (CH93es) (CH107es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Indianapolis Colts - Jacksonville Jaguars",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        },
+        {
+          "id": "102",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : Indianapolis Colts - Jacksonville Jaguars  (CH164us) (CH102es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Miami Dolphins - Tampa Bay Buccaneers",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : Miami Dolphins - Tampa Bay Buccaneers  (CH165us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "NFL Redzone -",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        },
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : NFL Redzone -   (CH4fr) (CH100es) (CH160us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "New York Jets - New England Patriots",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : New York Jets - New England Patriots  (CH166us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "19:00",
+      "datetime": "28-12-2025 19:00",
+      "league": "NFL",
+      "teams": "Tennessee Titans - New Orleans Saints",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (19:00) NFL : Tennessee Titans - New Orleans Saints  (CH167us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "20:45",
+      "datetime": "28-12-2025 20:45",
+      "league": "Serie A",
+      "teams": "Atalanta - Inter",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (20:45) Serie A : Atalanta - Inter  (CH45fr) (CH137it) (CH87es) (CH97es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "21:00",
+      "datetime": "28-12-2025 21:00",
+      "league": "CAN",
+      "teams": "Cote d'Ivoire - Cameroun",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (21:00) CAN : Cote d'Ivoire - Cameroun  (CH1fr) (CH61es) (CH69es) (CH125de) (CH82es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "21:05",
+      "datetime": "28-12-2025 21:05",
+      "league": "Top 14",
+      "teams": "Stade Toulousain - Stade Rochelais",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-12-2025 (21:05) Top 14 : Stade Toulousain - Stade Rochelais  (CH11fr)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "21:30",
+      "datetime": "28-12-2025 21:30",
+      "league": "Liga Portugal",
+      "teams": "Sporting - Rio Ave",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "28-12-2025 (21:30) Liga Portugal : Sporting - Rio Ave  (CH5fr) (CH145pt)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "21:30",
+      "datetime": "28-12-2025 21:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "168",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (21:30) NBA : Oklahoma City Thunder - Philadelphia 76ers  (CH168us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "21:30",
+      "datetime": "28-12-2025 21:30",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Golden State Warriors",
+      "channels": [
+        {
+          "id": "169",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (21:30) NBA : Toronto Raptors - Golden State Warriors  (CH169us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "22:05",
+      "datetime": "28-12-2025 22:05",
+      "league": "NFL",
+      "teams": "Las Vegas Raiders - New York Giants",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "102",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (22:05) NFL : Las Vegas Raiders - New York Giants  (CH170us) (CH79es) (CH93es) (CH102es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "22:25",
+      "datetime": "28-12-2025 22:25",
+      "league": "NFL",
+      "teams": "Buffalo Bills - Philadelphia Eagles",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "171",
+          "lang": "us"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-12-2025 (22:25) NFL : Buffalo Bills - Philadelphia Eagles  (CH2fr) (CH171us) (CH80es) (CH91es) (CH101es) (CH107es)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "23:00",
+      "datetime": "28-12-2025 23:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - New York Islanders",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (23:00) NHL : Columbus Blue Jackets - New York Islanders  (CH172us)"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "23:00",
+      "datetime": "28-12-2025 23:00",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - Montreal Canadiens",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-12-2025 (23:00) NHL : Tampa Bay Lightning - Montreal Canadiens  (CH173us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "00:00",
+      "datetime": "29-12-2025 00:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Boston Celtics",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (00:00) NBA : Portland Trail Blazers - Boston Celtics  (CH1fr) (CH174us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "00:00",
+      "datetime": "29-12-2025 00:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (00:00) NBA : Washington Wizards - Memphis Grizzlies  (CH175us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "01:00",
+      "datetime": "29-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - Pittsburgh Penguins",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (01:00) NHL : Chicago Blackhawks - Pittsburgh Penguins  (CH176us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "01:00",
+      "datetime": "29-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Detroit Red Wings - Toronto Maple Leafs",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (01:00) NHL : Detroit Red Wings - Toronto Maple Leafs  (CH177us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "02:00",
+      "datetime": "29-12-2025 02:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (02:00) NHL : Seattle Kraken - Philadelphia Flyers  (CH178us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "02:20",
+      "datetime": "29-12-2025 02:20",
+      "league": "NFL",
+      "teams": "San Francisco 49ers - Chicago Bears",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "179",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (02:20) NFL : San Francisco 49ers - Chicago Bears  (CH2fr) (CH179us) (CH88es) (CH97es) (CH72es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "03:00",
+      "datetime": "29-12-2025 03:00",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - Detroit Pistons",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (03:00) NBA : Los Angeles Clippers - Detroit Pistons  (CH180us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "03:30",
+      "datetime": "29-12-2025 03:30",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Sacramento Kings",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (03:30) NBA : Los Angeles Lakers - Sacramento Kings  (CH181us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "17:00",
+      "datetime": "29-12-2025 17:00",
+      "league": "CAN",
+      "teams": "Angola - Egypte",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "110",
+          "lang": "de"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (17:00) CAN : Angola - Egypte  (CH1fr) (CH61es) (CH69es) (CH110de) (CH82es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "17:00",
+      "datetime": "29-12-2025 17:00",
+      "league": "CAN",
+      "teams": "Zimbabwe - Afrique du Sud",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (17:00) CAN : Zimbabwe - Afrique du Sud  (CH2fr) (CH50es) (CH125de) (CH81es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "19:00",
+      "datetime": "29-12-2025 19:00",
+      "league": "Championship",
+      "teams": "Coventry - Ipswich",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (19:00) Championship : Coventry - Ipswich  (CH127us) (CH91es) (CH99es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:00",
+      "datetime": "29-12-2025 20:00",
+      "league": "CAN",
+      "teams": "Comores - Mali",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "110",
+          "lang": "de"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:00) CAN : Comores - Mali  (CH2fr) (CH50es) (CH69es) (CH110de) (CH81es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:00",
+      "datetime": "29-12-2025 20:00",
+      "league": "CAN",
+      "teams": "Zambie - Maroc",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:00) CAN : Zambie - Maroc  (CH1fr) (CH61es) (CH125de) (CH82es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:00",
+      "datetime": "29-12-2025 20:00",
+      "league": "Liga Endesa",
+      "teams": "Breogan - Baskonia",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:00) Liga Endesa : Breogan - Baskonia  (CH65es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Leicester - Derby",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Leicester - Derby  (CH180us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Middlesbrough - Hull",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Middlesbrough - Hull  (CH181us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Millwall - Bristol City",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Millwall - Bristol City  (CH182us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Norwich - Watford",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Norwich - Watford  (CH183us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Oxford Utd - Swansea",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Oxford Utd - Swansea  (CH184us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Portsmouth - Charlton",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Portsmouth - Charlton  (CH185us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Sheffield Wed - Blackburn",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Sheffield Wed - Blackburn  (CH186us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Stoke - Sheffield Utd",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Stoke - Sheffield Utd  (CH187us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "West Brom - QPR",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : West Brom - QPR  (CH188us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Championship",
+      "teams": "Wrexham - Preston",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Championship : Wrexham - Preston  (CH189us)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "20:45",
+      "datetime": "29-12-2025 20:45",
+      "league": "Serie A",
+      "teams": "AS Rome - Genoa",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (20:45) Serie A : AS Rome - Genoa  (CH45fr) (CH138it) (CH123de) (CH87es) (CH98es) (CH70es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "21:15",
+      "datetime": "29-12-2025 21:15",
+      "league": "Championship",
+      "teams": "Birmingham - Southampton",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-12-2025 (21:15) Championship : Birmingham - Southampton  (CH127us) (CH91es) (CH99es)"
+    },
+    {
+      "date": "29-12-2025",
+      "time": "21:15",
+      "datetime": "29-12-2025 21:15",
+      "league": "Liga Portugal",
+      "teams": "FC Porto - AFS",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "29-12-2025 (21:15) Liga Portugal : FC Porto - AFS  (CH6fr) (CH144pt)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:00",
+      "datetime": "30-12-2025 01:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:00) NBA : Charlotte Hornets - Milwaukee Bucks  (CH160us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:00",
+      "datetime": "30-12-2025 01:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Phoenix Suns",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:00) NBA : Washington Wizards - Phoenix Suns  (CH161us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:00",
+      "datetime": "30-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Carolina Hurricanes - New York Rangers",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:00) NHL : Carolina Hurricanes - New York Rangers  (CH162us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:00",
+      "datetime": "30-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Florida Panthers - Washington Capitals",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:00) NHL : Florida Panthers - Washington Capitals  (CH163us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:00",
+      "datetime": "30-12-2025 01:00",
+      "league": "NHL",
+      "teams": "Ottawa Senators - Columbus Blue Jackets",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:00) NHL : Ottawa Senators - Columbus Blue Jackets  (CH164us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:30",
+      "datetime": "30-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Golden State Warriors",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:30) NBA : Brooklyn Nets - Golden State Warriors  (CH165us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:30",
+      "datetime": "30-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Miami Heat - Denver Nuggets",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:30) NBA : Miami Heat - Denver Nuggets  (CH166us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:30",
+      "datetime": "30-12-2025 01:30",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Orlando Magic",
+      "channels": [
+        {
+          "id": "167",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:30) NBA : Toronto Raptors - Orlando Magic  (CH167us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "01:30",
+      "datetime": "30-12-2025 01:30",
+      "league": "NHL",
+      "teams": "Winnipeg Jets - Edmonton Oilers",
+      "channels": [
+        {
+          "id": "168",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (01:30) NHL : Winnipeg Jets - Edmonton Oilers  (CH168us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:00",
+      "datetime": "30-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "169",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:00) NBA : Chicago Bulls - Minnesota Timberwolves  (CH169us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:00",
+      "datetime": "30-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Indiana Pacers",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:00) NBA : Houston Rockets - Indiana Pacers  (CH170us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:00",
+      "datetime": "30-12-2025 02:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - New York Knicks",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:00) NBA : New Orleans Pelicans - New York Knicks  (CH171us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:00",
+      "datetime": "30-12-2025 02:00",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:00) NBA : Oklahoma City Thunder - Atlanta Hawks  (CH172us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:00",
+      "datetime": "30-12-2025 02:00",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:00) NBA : San Antonio Spurs - Cleveland Cavaliers  (CH1fr) (CH173us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:00",
+      "datetime": "30-12-2025 02:00",
+      "league": "NHL",
+      "teams": "St. Louis Blues - Buffalo Sabres",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:00) NHL : St. Louis Blues - Buffalo Sabres  (CH174us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "02:15",
+      "datetime": "30-12-2025 02:15",
+      "league": "NFL",
+      "teams": "Atlanta Falcons - Los Angeles Rams",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-12-2025 (02:15) NFL : Atlanta Falcons - Los Angeles Rams  (CH175us) (CH88es) (CH97es) (CH71es)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "03:00",
+      "datetime": "30-12-2025 03:00",
+      "league": "NHL",
+      "teams": "Calgary Flames - Boston Bruins",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (03:00) NHL : Calgary Flames - Boston Bruins  (CH176us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "03:00",
+      "datetime": "30-12-2025 03:00",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (03:00) NHL : Colorado Avalanche - Los Angeles Kings  (CH177us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "03:00",
+      "datetime": "30-12-2025 03:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Nashville Predators",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (03:00) NHL : Utah Mammoth - Nashville Predators  (CH178us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "04:00",
+      "datetime": "30-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - San Jose Sharks",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (04:00) NHL : Anaheim Ducks - San Jose Sharks  (CH179us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "04:00",
+      "datetime": "30-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (04:00) NHL : Seattle Kraken - Vancouver Canucks  (CH180us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "04:00",
+      "datetime": "30-12-2025 04:00",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Minnesota Wild",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (04:00) NHL : Vegas Golden Knights - Minnesota Wild  (CH181us)"
+    },
+    {
+      "date": "30-12-2025",
+      "time": "04:30",
+      "datetime": "30-12-2025 04:30",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-12-2025 (04:30) NBA : Portland Trail Blazers - Dallas Mavericks  (CH182us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +2679,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-27T09:16:28.335767"
+      "extracted_at": "2025-12-27T09:40:03.322501"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +2688,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-27T09:16:29.698777"
+      "extracted_at": "2025-12-27T09:40:04.947814"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +2697,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-27T09:16:31.990668"
+      "extracted_at": "2025-12-27T09:40:07.739297"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +2706,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-27T09:16:34.266975"
+      "extracted_at": "2025-12-27T09:40:10.293071"
     }
   },
   "player_urls": {

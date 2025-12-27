@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-27T05:54:13.347458",
-  "total_events": 1,
+  "last_updated": "2025-12-27T06:24:49.699049",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "27-12-2025",
-      "time": "04:00",
-      "datetime": "27-12-2025 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Los Angeles Clippers",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "27-12-2025 (04:00) NBA : Portland Trail Blazers - Los Angeles Clippers  (CH168us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-27T05:54:05.868019"
+      "extracted_at": "2025-12-27T06:24:41.305548"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-27T05:54:07.370238"
+      "extracted_at": "2025-12-27T06:24:42.771477"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-27T05:54:09.778794"
+      "extracted_at": "2025-12-27T06:24:45.515884"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-27T05:54:12.347309"
+      "extracted_at": "2025-12-27T06:24:48.698901"
     }
   },
   "player_urls": {

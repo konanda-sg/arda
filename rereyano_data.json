@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-29T03:22:01.858792",
-  "total_events": 46,
+  "last_updated": "2025-12-29T04:33:57.600432",
+  "total_events": 44,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "29-12-2025",
-      "time": "02:00",
-      "datetime": "29-12-2025 02:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Philadelphia Flyers",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-12-2025 (02:00) NHL : Seattle Kraken - Philadelphia Flyers  (CH178us)"
-    },
-    {
-      "date": "29-12-2025",
-      "time": "02:20",
-      "datetime": "29-12-2025 02:20",
-      "league": "NFL",
-      "teams": "San Francisco 49ers - Chicago Bears",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "179",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-12-2025 (02:20) NFL : San Francisco 49ers - Chicago Bears  (CH2fr) (CH179us) (CH88es) (CH97es) (CH72es)"
-    },
     {
       "date": "29-12-2025",
       "time": "03:00",
@@ -787,7 +743,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-29T03:21:54.407539"
+      "extracted_at": "2025-12-29T04:33:48.802501"
     },
     "hoca": {
       "name": "hoca",
@@ -796,7 +752,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-29T03:21:55.831493"
+      "extracted_at": "2025-12-29T04:33:50.534400"
     },
     "Caster": {
       "name": "Caster",
@@ -805,7 +761,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-29T03:21:58.336272"
+      "extracted_at": "2025-12-29T04:33:53.537294"
     },
     "WIGI": {
       "name": "WIGI",
@@ -814,7 +770,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-29T03:22:00.858646"
+      "extracted_at": "2025-12-29T04:33:56.600284"
     }
   },
   "player_urls": {

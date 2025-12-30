@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-30T06:27:59.223704",
-  "total_events": 1,
+  "last_updated": "2025-12-30T06:55:54.381038",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "30-12-2025",
-      "time": "04:30",
-      "datetime": "30-12-2025 04:30",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Dallas Mavericks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-12-2025 (04:30) NBA : Portland Trail Blazers - Dallas Mavericks  (CH182us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-30T06:27:51.563244"
+      "extracted_at": "2025-12-30T06:55:46.978237"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-30T06:27:53.104417"
+      "extracted_at": "2025-12-30T06:55:48.503880"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-30T06:27:55.546618"
+      "extracted_at": "2025-12-30T06:55:50.974429"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-30T06:27:58.223521"
+      "extracted_at": "2025-12-30T06:55:53.380906"
     }
   },
   "player_urls": {

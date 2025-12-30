@@ -1,38 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-30T04:09:06.708503",
-  "total_events": 8,
+  "last_updated": "2025-12-30T04:52:01.570066",
+  "total_events": 7,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-12-2025",
-      "time": "02:15",
-      "datetime": "30-12-2025 02:15",
-      "league": "NFL",
-      "teams": "Atlanta Falcons - Los Angeles Rams",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-12-2025 (02:15) NFL : Atlanta Falcons - Los Angeles Rams  (CH175us) (CH88es) (CH97es) (CH71es)"
-    },
     {
       "date": "30-12-2025",
       "time": "03:00",
@@ -139,7 +113,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-30T04:08:58.956500"
+      "extracted_at": "2025-12-30T04:51:53.755936"
     },
     "hoca": {
       "name": "hoca",
@@ -148,7 +122,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-30T04:09:00.545057"
+      "extracted_at": "2025-12-30T04:51:55.356272"
     },
     "Caster": {
       "name": "Caster",
@@ -157,7 +131,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-30T04:09:03.143162"
+      "extracted_at": "2025-12-30T04:51:58.043738"
     },
     "WIGI": {
       "name": "WIGI",
@@ -166,7 +140,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-30T04:09:05.708347"
+      "extracted_at": "2025-12-30T04:52:00.569947"
     }
   },
   "player_urls": {

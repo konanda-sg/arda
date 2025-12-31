@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-31T06:56:51.800007",
-  "total_events": 1,
+  "last_updated": "2025-12-31T07:21:03.512063",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "31-12-2025",
-      "time": "05:00",
-      "datetime": "31-12-2025 05:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Sacramento Kings",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-12-2025 (05:00) NBA : Los Angeles Clippers - Sacramento Kings  (CH173us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-31T06:56:43.711518"
+      "extracted_at": "2025-12-31T07:20:54.846903"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-31T06:56:45.463826"
+      "extracted_at": "2025-12-31T07:20:56.418035"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-31T06:56:48.018285"
+      "extracted_at": "2025-12-31T07:20:59.636846"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-31T06:56:50.799864"
+      "extracted_at": "2025-12-31T07:21:02.511918"
     }
   },
   "player_urls": {

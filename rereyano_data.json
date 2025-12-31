@@ -1,64 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2025-12-31T21:49:17.559621",
-  "total_events": 19,
+  "last_updated": "2025-12-31T22:16:42.223071",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "31-12-2025",
-      "time": "20:00",
-      "datetime": "31-12-2025 20:00",
-      "league": "CAN",
-      "teams": "Gabon - Cote d'Ivoire",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-12-2025 (20:00) CAN : Gabon - Cote d'Ivoire  (CH1fr) (CH61es) (CH81es)"
-    },
-    {
-      "date": "31-12-2025",
-      "time": "20:00",
-      "datetime": "31-12-2025 20:00",
-      "league": "CAN",
-      "teams": "Mozambique - Cameroun",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "50",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "31-12-2025 (20:00) CAN : Mozambique - Cameroun  (CH2fr) (CH50es) (CH82es) (CH69es) (CH125de)"
-    },
     {
       "date": "31-12-2025",
       "time": "21:00",
@@ -313,7 +261,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2025-12-31T21:49:09.934576"
+      "extracted_at": "2025-12-31T22:16:34.951853"
     },
     "hoca": {
       "name": "hoca",
@@ -322,7 +270,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-31T21:49:11.525930"
+      "extracted_at": "2025-12-31T22:16:36.505174"
     },
     "Caster": {
       "name": "Caster",
@@ -331,7 +279,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-31T21:49:14.061161"
+      "extracted_at": "2025-12-31T22:16:38.839444"
     },
     "WIGI": {
       "name": "WIGI",
@@ -340,7 +288,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2025-12-31T21:49:16.559474"
+      "extracted_at": "2025-12-31T22:16:41.222923"
     }
   },
   "player_urls": {

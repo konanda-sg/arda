@@ -1,82 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-01T22:53:49.979172",
-  "total_events": 14,
+  "last_updated": "2026-01-01T23:16:09.452753",
+  "total_events": 11,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-01-2026",
-      "time": "21:00",
-      "datetime": "01-01-2026 21:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Utah Mammoth",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-01-2026 (21:00) NHL : New York Islanders - Utah Mammoth  (CH181us)"
-    },
-    {
-      "date": "01-01-2026",
-      "time": "21:00",
-      "datetime": "01-01-2026 21:00",
-      "league": "Premier League",
-      "teams": "Brentford - Tottenham",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "129",
-          "lang": "us"
-        },
-        {
-          "id": "57",
-          "lang": "es"
-        },
-        {
-          "id": "119",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-01-2026 (21:00) Premier League : Brentford - Tottenham  (CH14fr) (CH129us) (CH57es) (CH119de)"
-    },
-    {
-      "date": "01-01-2026",
-      "time": "21:00",
-      "datetime": "01-01-2026 21:00",
-      "league": "Premier League",
-      "teams": "Sunderland - Manchester City",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "us"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-01-2026 (21:00) Premier League : Sunderland - Manchester City  (CH12fr) (CH127us) (CH56es) (CH120de) (CH87es)"
-    },
     {
       "date": "02-01-2026",
       "time": "00:00",
@@ -247,7 +177,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-01T22:53:41.676207"
+      "extracted_at": "2026-01-01T23:16:02.400159"
     },
     "hoca": {
       "name": "hoca",
@@ -256,7 +186,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-01T22:53:43.355912"
+      "extracted_at": "2026-01-01T23:16:03.746592"
     },
     "Caster": {
       "name": "Caster",
@@ -265,7 +195,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-01T22:53:46.317934"
+      "extracted_at": "2026-01-01T23:16:06.172931"
     },
     "WIGI": {
       "name": "WIGI",
@@ -274,7 +204,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-01T22:53:48.979021"
+      "extracted_at": "2026-01-01T23:16:08.452612"
     }
   },
   "player_urls": {

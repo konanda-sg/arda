@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-02T05:48:34.404310",
-  "total_events": 3,
+  "last_updated": "2026-01-02T06:27:08.009267",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-01-2026",
-      "time": "04:00",
-      "datetime": "02-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Boston Celtics",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-01-2026 (04:00) NBA : Sacramento Kings - Boston Celtics  (CH190us)"
-    },
-    {
-      "date": "02-01-2026",
-      "time": "04:00",
-      "datetime": "02-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Nashville Predators",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-01-2026 (04:00) NHL : Seattle Kraken - Nashville Predators  (CH191us)"
-    },
     {
       "date": "02-01-2026",
       "time": "04:30",
@@ -57,7 +29,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-02T05:48:27.270703"
+      "extracted_at": "2026-01-02T06:27:00.175151"
     },
     "hoca": {
       "name": "hoca",
@@ -66,7 +38,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T05:48:28.845824"
+      "extracted_at": "2026-01-02T06:27:01.842385"
     },
     "Caster": {
       "name": "Caster",
@@ -75,7 +47,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T05:48:31.161583"
+      "extracted_at": "2026-01-02T06:27:04.430023"
     },
     "WIGI": {
       "name": "WIGI",
@@ -84,7 +56,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T05:48:33.404188"
+      "extracted_at": "2026-01-02T06:27:07.009107"
     }
   },
   "player_urls": {

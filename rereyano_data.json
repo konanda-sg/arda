@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-02T22:16:40.275638",
-  "total_events": 23,
+  "last_updated": "2026-01-02T22:43:44.140730",
+  "total_events": 21,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-01-2026",
-      "time": "20:30",
-      "datetime": "02-01-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Virtus Bologna - Milano",
-      "channels": [
-        {
-          "id": "65",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-01-2026 (20:30) EuroLeague : Virtus Bologna - Milano  (CH65es)"
-    },
-    {
-      "date": "02-01-2026",
-      "time": "20:30",
-      "datetime": "02-01-2026 20:30",
-      "league": "Laliga 2",
-      "teams": "Eibar - Mirandes",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-01-2026 (20:30) Laliga 2 : Eibar - Mirandes  (CH53es)"
-    },
     {
       "date": "02-01-2026",
       "time": "20:45",
@@ -373,7 +345,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-02T22:16:32.572232"
+      "extracted_at": "2026-01-02T22:43:36.470919"
     },
     "hoca": {
       "name": "hoca",
@@ -382,7 +354,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T22:16:34.181667"
+      "extracted_at": "2026-01-02T22:43:37.990850"
     },
     "Caster": {
       "name": "Caster",
@@ -391,7 +363,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T22:16:36.778762"
+      "extracted_at": "2026-01-02T22:43:40.591453"
     },
     "WIGI": {
       "name": "WIGI",
@@ -400,7 +372,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T22:16:39.275456"
+      "extracted_at": "2026-01-02T22:43:43.140560"
     }
   },
   "player_urls": {

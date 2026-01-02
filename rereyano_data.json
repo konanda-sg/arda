@@ -1,54 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-02T21:49:36.066785",
-  "total_events": 26,
+  "last_updated": "2026-01-02T22:16:40.275638",
+  "total_events": 23,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-01-2026",
-      "time": "20:00",
-      "datetime": "02-01-2026 20:00",
-      "league": "EuroLeague",
-      "teams": "Baskonia - Fenerbahce",
-      "channels": [
-        {
-          "id": "63",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-01-2026 (20:00) EuroLeague : Baskonia - Fenerbahce  (CH63es)"
-    },
-    {
-      "date": "02-01-2026",
-      "time": "20:00",
-      "datetime": "02-01-2026 20:00",
-      "league": "Liga Endesa",
-      "teams": "Barcelone - Zaragoza",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-01-2026 (20:00) Liga Endesa : Barcelone - Zaragoza  (CH157es)"
-    },
-    {
-      "date": "02-01-2026",
-      "time": "20:15",
-      "datetime": "02-01-2026 20:15",
-      "league": "EuroLeague",
-      "teams": "Panathinaikos - Olympiakos",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-01-2026 (20:15) EuroLeague : Panathinaikos - Olympiakos  (CH64es)"
-    },
     {
       "date": "02-01-2026",
       "time": "20:30",
@@ -415,7 +373,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-02T21:49:27.858706"
+      "extracted_at": "2026-01-02T22:16:32.572232"
     },
     "hoca": {
       "name": "hoca",
@@ -424,7 +382,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T21:49:29.689531"
+      "extracted_at": "2026-01-02T22:16:34.181667"
     },
     "Caster": {
       "name": "Caster",
@@ -433,7 +391,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T21:49:32.262841"
+      "extracted_at": "2026-01-02T22:16:36.778762"
     },
     "WIGI": {
       "name": "WIGI",
@@ -442,7 +400,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-02T21:49:35.066628"
+      "extracted_at": "2026-01-02T22:16:39.275456"
     }
   },
   "player_urls": {

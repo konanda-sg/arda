@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-03T16:46:53.890287",
-  "total_events": 168,
+  "last_updated": "2026-01-03T17:14:14.472684",
+  "total_events": 166,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-01-2026",
-      "time": "15:00",
-      "datetime": "03-01-2026 15:00",
-      "league": "Serie A",
-      "teams": "Genoa - Pisa",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-01-2026 (15:00) Serie A : Genoa - Pisa  (CH137it) (CH88es) (CH97es) (CH70es)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "15:00",
-      "datetime": "03-01-2026 15:00",
-      "league": "Serie A",
-      "teams": "Sassuolo - Parme",
-      "channels": [
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "03-01-2026 (15:00) Serie A : Sassuolo - Parme  (CH139it) (CH123de)"
-    },
     {
       "date": "03-01-2026",
       "time": "16:00",
@@ -2971,7 +2927,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-03T16:46:45.717055"
+      "extracted_at": "2026-01-03T17:14:08.053272"
     },
     "hoca": {
       "name": "hoca",
@@ -2980,7 +2936,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T16:46:47.099329"
+      "extracted_at": "2026-01-03T17:14:09.407025"
     },
     "Caster": {
       "name": "Caster",
@@ -2989,7 +2945,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T16:46:49.842116"
+      "extracted_at": "2026-01-03T17:14:11.626460"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2998,7 +2954,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T16:46:52.890135"
+      "extracted_at": "2026-01-03T17:14:13.472522"
     }
   },
   "player_urls": {

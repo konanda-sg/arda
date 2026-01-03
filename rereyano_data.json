@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-03T10:17:02.600966",
-  "total_events": 172,
+  "last_updated": "2026-01-03T10:43:31.543396",
+  "total_events": 175,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -16,18 +16,22 @@
       "channels": [
         {
           "id": "137",
-          "lang": "xit"
+          "lang": "it"
         },
         {
-          "id": "000",
+          "id": "123",
           "lang": "de"
         },
         {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (12:30) Serie A : Como - Udinese  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "03-01-2026 (12:30) Serie A : Como - Udinese  (CH137it) (CH123de) (CH97es) (CH70es)"
     },
     {
       "date": "03-01-2026",
@@ -37,27 +41,27 @@
       "teams": "Aston Villa - Nottingham",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "11",
+          "lang": "fr"
         },
         {
           "id": "129",
-          "lang": "xus"
+          "lang": "gb"
         },
         {
           "id": "56",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "120",
           "lang": "de"
         },
         {
           "id": "87",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (13:30) Premier League : Aston Villa - Nottingham  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "03-01-2026 (13:30) Premier League : Aston Villa - Nottingham  (CH11fr) (CH129gb) (CH56es) (CH120de) (CH87es)"
     },
     {
       "date": "03-01-2026",
@@ -67,11 +71,11 @@
       "teams": "Celtic - Rangers",
       "channels": [
         {
-          "id": "135",
-          "lang": "xus"
+          "id": "127",
+          "lang": "gb"
         }
       ],
-      "raw_line": "03-01-2026 (13:30) Premiership : Celtic - Rangers  (CH135xus)"
+      "raw_line": "03-01-2026 (13:30) Premiership : Celtic - Rangers  (CH127gb)"
     },
     {
       "date": "03-01-2026",
@@ -81,27 +85,27 @@
       "teams": "Celta Vigo - Valence",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "4",
+          "lang": "fr"
         },
         {
-          "id": "49",
-          "lang": "xes"
+          "id": "51",
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "124",
           "lang": "de"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (14:00) Laliga : Celta Vigo - Valence  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "03-01-2026 (14:00) Laliga : Celta Vigo - Valence  (CH4fr) (CH51es) (CH124de) (CH71es) (CH89es)"
     },
     {
       "date": "03-01-2026",
@@ -125,25 +129,11 @@
       "teams": "Troyes - Red Star",
       "channels": [
         {
-          "id": "00",
+          "id": "1",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (14:00) Ligue 2 : Troyes - Red Star  (CH00fr)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "14:10",
-      "datetime": "03-01-2026 14:10",
-      "league": "Saudi Pro League",
-      "teams": "Al Fateh - Al Shabab",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "xes"
-        }
-      ],
-      "raw_line": "03-01-2026 (14:10) Saudi Pro League : Al Fateh - Al Shabab  (CH81xes)"
+      "raw_line": "03-01-2026 (14:00) Ligue 2 : Troyes - Red Star  (CH1fr)"
     },
     {
       "date": "03-01-2026",
@@ -153,11 +143,11 @@
       "teams": "USA Perpignan - Stade Toulousain",
       "channels": [
         {
-          "id": "31",
+          "id": "13",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (14:30) Top 14 : USA Perpignan - Stade Toulousain  (CH31fr)"
+      "raw_line": "03-01-2026 (14:30) Top 14 : USA Perpignan - Stade Toulousain  (CH13fr)"
     },
     {
       "date": "03-01-2026",
@@ -168,18 +158,22 @@
       "channels": [
         {
           "id": "137",
-          "lang": "xit"
+          "lang": "it"
         },
         {
-          "id": "000",
-          "lang": "de"
+          "id": "88",
+          "lang": "es"
         },
         {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (15:00) Serie A : Genoa - Pisa  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "03-01-2026 (15:00) Serie A : Genoa - Pisa  (CH137it) (CH88es) (CH97es) (CH70es)"
     },
     {
       "date": "03-01-2026",
@@ -189,33 +183,15 @@
       "teams": "Sassuolo - Parme",
       "channels": [
         {
-          "id": "137",
-          "lang": "xit"
+          "id": "139",
+          "lang": "it"
         },
         {
-          "id": "000",
+          "id": "123",
           "lang": "de"
-        },
-        {
-          "id": "97",
-          "lang": "xes"
         }
       ],
-      "raw_line": "03-01-2026 (15:00) Serie A : Sassuolo - Parme  (CH137xit) (CH000de) (CH97xes)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "15:55",
-      "datetime": "03-01-2026 15:55",
-      "league": "Saudi Pro League",
-      "teams": "Al Fayha - Al Kholood",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "xes"
-        }
-      ],
-      "raw_line": "03-01-2026 (15:55) Saudi Pro League : Al Fayha - Al Kholood  (CH81xes)"
+      "raw_line": "03-01-2026 (15:00) Serie A : Sassuolo - Parme  (CH139it) (CH123de)"
     },
     {
       "date": "03-01-2026",
@@ -226,26 +202,26 @@
       "channels": [
         {
           "id": "12",
-          "lang": "xfr"
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "130",
+          "lang": "us"
         },
         {
           "id": "56",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "120",
           "lang": "de"
         },
         {
           "id": "87",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (16:00) Premier League : Brighton - Burnley  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "03-01-2026 (16:00) Premier League : Brighton - Burnley  (CH12fr) (CH130us) (CH56es) (CH120de) (CH87es)"
     },
     {
       "date": "03-01-2026",
@@ -255,27 +231,19 @@
       "teams": "Wolves - West Ham",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "14",
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "131",
+          "lang": "us"
         },
         {
-          "id": "56",
-          "lang": "xes"
-        },
-        {
-          "id": "000",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
+          "id": "57",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (16:00) Premier League : Wolves - West Ham  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "03-01-2026 (16:00) Premier League : Wolves - West Ham  (CH14fr) (CH131us) (CH57es)"
     },
     {
       "date": "03-01-2026",
@@ -285,67 +253,11 @@
       "teams": "Dundee Utd - Dundee FC",
       "channels": [
         {
-          "id": "135",
-          "lang": "xus"
+          "id": "127",
+          "lang": "gb"
         }
       ],
-      "raw_line": "03-01-2026 (16:00) Premiership : Dundee Utd - Dundee FC  (CH135xus)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "16:00",
-      "datetime": "03-01-2026 16:00",
-      "league": "Premiership",
-      "teams": "Falkirk - Aberdeen",
-      "channels": [
-        {
-          "id": "135",
-          "lang": "xus"
-        }
-      ],
-      "raw_line": "03-01-2026 (16:00) Premiership : Falkirk - Aberdeen  (CH135xus)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "16:00",
-      "datetime": "03-01-2026 16:00",
-      "league": "Premiership",
-      "teams": "Hearts - Livingston",
-      "channels": [
-        {
-          "id": "135",
-          "lang": "xus"
-        }
-      ],
-      "raw_line": "03-01-2026 (16:00) Premiership : Hearts - Livingston  (CH135xus)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "16:00",
-      "datetime": "03-01-2026 16:00",
-      "league": "Premiership",
-      "teams": "Kilmarnock - Hibernian",
-      "channels": [
-        {
-          "id": "135",
-          "lang": "xus"
-        }
-      ],
-      "raw_line": "03-01-2026 (16:00) Premiership : Kilmarnock - Hibernian  (CH135xus)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "16:00",
-      "datetime": "03-01-2026 16:00",
-      "league": "Premiership",
-      "teams": "Motherwell - St. Mirren",
-      "channels": [
-        {
-          "id": "135",
-          "lang": "xus"
-        }
-      ],
-      "raw_line": "03-01-2026 (16:00) Premiership : Motherwell - St. Mirren  (CH135xus)"
+      "raw_line": "03-01-2026 (16:00) Premiership : Dundee Utd - Dundee FC  (CH127gb)"
     },
     {
       "date": "03-01-2026",
@@ -355,27 +267,27 @@
       "teams": "Osasuna - Ath. Bilbao",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "4",
+          "lang": "fr"
         },
         {
           "id": "49",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "124",
           "lang": "de"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "94",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (16:15) Laliga : Osasuna - Ath. Bilbao  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "03-01-2026 (16:15) Laliga : Osasuna - Ath. Bilbao  (CH4fr) (CH49es) (CH124de) (CH71es) (CH94es)"
     },
     {
       "date": "03-01-2026",
@@ -399,11 +311,11 @@
       "teams": "Castellon - Huesca",
       "channels": [
         {
-          "id": "53",
+          "id": "54",
           "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (16:15) Laliga 2 : Castellon - Huesca  (CH53es)"
+      "raw_line": "03-01-2026 (16:15) Laliga 2 : Castellon - Huesca  (CH54es)"
     },
     {
       "date": "03-01-2026",
@@ -414,10 +326,10 @@
       "channels": [
         {
           "id": "144",
-          "lang": "xpt"
+          "lang": "pt"
         }
       ],
-      "raw_line": "03-01-2026 (16:30) Liga Portugal : Tondela - Arouca  (CH144xpt)"
+      "raw_line": "03-01-2026 (16:30) Liga Portugal : Tondela - Arouca  (CH144pt)"
     },
     {
       "date": "03-01-2026",
@@ -427,11 +339,11 @@
       "teams": "Lyon OU - Section Paloise",
       "channels": [
         {
-          "id": "31",
+          "id": "33",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (16:35) Top 14 : Lyon OU - Section Paloise  (CH31fr)"
+      "raw_line": "03-01-2026 (16:35) Top 14 : Lyon OU - Section Paloise  (CH33fr)"
     },
     {
       "date": "03-01-2026",
@@ -441,11 +353,25 @@
       "teams": "Montpellier - Aviron Bayonnais",
       "channels": [
         {
-          "id": "31",
+          "id": "34",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (16:35) Top 14 : Montpellier - Aviron Bayonnais  (CH31fr)"
+      "raw_line": "03-01-2026 (16:35) Top 14 : Montpellier - Aviron Bayonnais  (CH34fr)"
+    },
+    {
+      "date": "03-01-2026",
+      "time": "16:35",
+      "datetime": "03-01-2026 16:35",
+      "league": "Top 14",
+      "teams": "Multirugby -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "03-01-2026 (16:35) Top 14 : Multirugby -   (CH11fr)"
     },
     {
       "date": "03-01-2026",
@@ -455,11 +381,11 @@
       "teams": "Stade Français - Castres Olympique",
       "channels": [
         {
-          "id": "31",
+          "id": "13",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (16:35) Top 14 : Stade Français - Castres Olympique  (CH31fr)"
+      "raw_line": "03-01-2026 (16:35) Top 14 : Stade Français - Castres Olympique  (CH13fr)"
     },
     {
       "date": "03-01-2026",
@@ -469,11 +395,11 @@
       "teams": "US Montauban - ASM Clermont",
       "channels": [
         {
-          "id": "31",
+          "id": "32",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (16:35) Top 14 : US Montauban - ASM Clermont  (CH31fr)"
+      "raw_line": "03-01-2026 (16:35) Top 14 : US Montauban - ASM Clermont  (CH32fr)"
     },
     {
       "date": "03-01-2026",
@@ -483,11 +409,41 @@
       "teams": "Sénégal - Soudan",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (17:00) CAN : Sénégal - Soudan  (CH00us)"
+      "raw_line": "03-01-2026 (17:00) CAN : Sénégal - Soudan  (CH1fr) (CH61es) (CH82es) (CH69es)"
+    },
+    {
+      "date": "03-01-2026",
+      "time": "17:00",
+      "datetime": "03-01-2026 17:00",
+      "league": "Ligue 1",
+      "teams": "Monaco - Lyon",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-01-2026 (17:00) Ligue 1 : Monaco - Lyon  (CH2fr) (CH69es)"
     },
     {
       "date": "03-01-2026",
@@ -497,11 +453,11 @@
       "teams": "Joventut - Tenerife",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "155",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (18:00) Liga Endesa : Joventut - Tenerife  (CH62xes)"
+      "raw_line": "03-01-2026 (18:00) Liga Endesa : Joventut - Tenerife  (CH155es)"
     },
     {
       "date": "03-01-2026",
@@ -525,19 +481,27 @@
       "teams": "Juventus - Lecce",
       "channels": [
         {
-          "id": "137",
-          "lang": "xit"
+          "id": "45",
+          "lang": "fr"
         },
         {
-          "id": "000",
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
           "lang": "de"
         },
         {
+          "id": "88",
+          "lang": "es"
+        },
+        {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (18:00) Serie A : Juventus - Lecce  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "03-01-2026 (18:00) Serie A : Juventus - Lecce  (CH45fr) (CH137it) (CH123de) (CH88es) (CH97es)"
     },
     {
       "date": "03-01-2026",
@@ -547,27 +511,27 @@
       "teams": "Elche - Villarreal",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "4",
+          "lang": "fr"
         },
         {
-          "id": "49",
-          "lang": "xes"
+          "id": "51",
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "124",
           "lang": "de"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (18:30) Laliga : Elche - Villarreal  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "03-01-2026 (18:30) Laliga : Elche - Villarreal  (CH4fr) (CH51es) (CH124de) (CH71es) (CH89es)"
     },
     {
       "date": "03-01-2026",
@@ -592,26 +556,30 @@
       "channels": [
         {
           "id": "12",
-          "lang": "xfr"
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "127",
+          "lang": "gb"
         },
         {
           "id": "56",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "120",
           "lang": "de"
         },
         {
           "id": "87",
-          "lang": "xes"
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (18:30) Premier League : Bournemouth - Arsenal  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "03-01-2026 (18:30) Premier League : Bournemouth - Arsenal  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH87es) (CH72es)"
     },
     {
       "date": "03-01-2026",
@@ -621,11 +589,11 @@
       "teams": "Al-Ittihad FC - Al-Taawon",
       "channels": [
         {
-          "id": "81",
-          "lang": "xes"
+          "id": "70",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (18:30) Saudi Pro League : Al-Ittihad FC - Al-Taawon  (CH81xes)"
+      "raw_line": "03-01-2026 (18:30) Saudi Pro League : Al-Ittihad FC - Al-Taawon  (CH70es)"
     },
     {
       "date": "03-01-2026",
@@ -635,11 +603,11 @@
       "teams": "Grenade - San Pablo Burgos",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "156",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (19:00) Liga Endesa : Grenade - San Pablo Burgos  (CH62xes)"
+      "raw_line": "03-01-2026 (19:00) Liga Endesa : Grenade - San Pablo Burgos  (CH156es)"
     },
     {
       "date": "03-01-2026",
@@ -649,11 +617,11 @@
       "teams": "Benfica - Estoril",
       "channels": [
         {
-          "id": "144",
-          "lang": "xpt"
+          "id": "147",
+          "lang": "pt"
         }
       ],
-      "raw_line": "03-01-2026 (19:00) Liga Portugal : Benfica - Estoril  (CH144xpt)"
+      "raw_line": "03-01-2026 (19:00) Liga Portugal : Benfica - Estoril  (CH147pt)"
     },
     {
       "date": "03-01-2026",
@@ -664,10 +632,28 @@
       "channels": [
         {
           "id": "144",
-          "lang": "xpt"
+          "lang": "pt"
         }
       ],
-      "raw_line": "03-01-2026 (19:00) Liga Portugal : Estrela - Braga  (CH144xpt)"
+      "raw_line": "03-01-2026 (19:00) Liga Portugal : Estrela - Braga  (CH144pt)"
+    },
+    {
+      "date": "03-01-2026",
+      "time": "19:00",
+      "datetime": "03-01-2026 19:00",
+      "league": "Ligue 1",
+      "teams": "Nice - Strasbourg",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-01-2026 (19:00) Ligue 1 : Nice - Strasbourg  (CH20fr) (CH69es)"
     },
     {
       "date": "03-01-2026",
@@ -677,11 +663,23 @@
       "teams": "Mali - Tunisie",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) CAN : Mali - Tunisie  (CH00us)"
+      "raw_line": "03-01-2026 (20:00) CAN : Mali - Tunisie  (CH1fr) (CH61es) (CH82es) (CH69es)"
     },
     {
       "date": "03-01-2026",
@@ -691,11 +689,25 @@
       "teams": "Gran Canaria - Murcia",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "157",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Liga Endesa : Gran Canaria - Murcia  (CH62xes)"
+      "raw_line": "03-01-2026 (20:00) Liga Endesa : Gran Canaria - Murcia  (CH157es)"
+    },
+    {
+      "date": "03-01-2026",
+      "time": "20:00",
+      "datetime": "03-01-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Multiplex Ligue 2 -",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Multiplex Ligue 2 -   (CH3fr)"
     },
     {
       "date": "03-01-2026",
@@ -705,11 +717,11 @@
       "teams": "Amiens - Nancy",
       "channels": [
         {
-          "id": "00",
+          "id": "7",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Amiens - Nancy  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Amiens - Nancy  (CH7fr)"
     },
     {
       "date": "03-01-2026",
@@ -719,11 +731,11 @@
       "teams": "Bastia - Grenoble",
       "channels": [
         {
-          "id": "00",
+          "id": "9",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Bastia - Grenoble  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Bastia - Grenoble  (CH9fr)"
     },
     {
       "date": "03-01-2026",
@@ -733,11 +745,11 @@
       "teams": "Clermont - Laval",
       "channels": [
         {
-          "id": "00",
+          "id": "10",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Clermont - Laval  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Clermont - Laval  (CH10fr)"
     },
     {
       "date": "03-01-2026",
@@ -747,11 +759,11 @@
       "teams": "Guingamp - Boulogne",
       "channels": [
         {
-          "id": "00",
+          "id": "6",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Guingamp - Boulogne  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Guingamp - Boulogne  (CH6fr)"
     },
     {
       "date": "03-01-2026",
@@ -761,11 +773,11 @@
       "teams": "Le Mans - Saint-Étienne",
       "channels": [
         {
-          "id": "00",
+          "id": "2",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Le Mans - Saint-Étienne  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Le Mans - Saint-Étienne  (CH2fr)"
     },
     {
       "date": "03-01-2026",
@@ -775,11 +787,11 @@
       "teams": "Pau FC - Rodez",
       "channels": [
         {
-          "id": "00",
+          "id": "8",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Pau FC - Rodez  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Pau FC - Rodez  (CH8fr)"
     },
     {
       "date": "03-01-2026",
@@ -789,11 +801,11 @@
       "teams": "Reims - Annecy",
       "channels": [
         {
-          "id": "00",
+          "id": "5",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (20:00) Ligue 2 : Reims - Annecy  (CH00fr)"
+      "raw_line": "03-01-2026 (20:00) Ligue 2 : Reims - Annecy  (CH5fr)"
     },
     {
       "date": "03-01-2026",
@@ -803,19 +815,27 @@
       "teams": "Atalanta - AS Rome",
       "channels": [
         {
-          "id": "137",
-          "lang": "xit"
+          "id": "45",
+          "lang": "fr"
         },
         {
-          "id": "000",
-          "lang": "de"
+          "id": "138",
+          "lang": "it"
         },
         {
-          "id": "97",
-          "lang": "xes"
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (20:45) Serie A : Atalanta - AS Rome  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "03-01-2026 (20:45) Serie A : Atalanta - AS Rome  (CH45fr) (CH138it) (CH87es) (CH98es) (CH70es)"
     },
     {
       "date": "03-01-2026",
@@ -825,27 +845,27 @@
       "teams": "Espanyol - Barcelone",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "4",
+          "lang": "fr"
         },
         {
           "id": "49",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "123",
           "lang": "de"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "94",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (21:00) Laliga : Espanyol - Barcelone  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "03-01-2026 (21:00) Laliga : Espanyol - Barcelone  (CH4fr) (CH49es) (CH123de) (CH71es) (CH94es)"
     },
     {
       "date": "03-01-2026",
@@ -869,11 +889,11 @@
       "teams": "Breogan - Unicaja",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "155",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (21:00) Liga Endesa : Breogan - Unicaja  (CH62xes)"
+      "raw_line": "03-01-2026 (21:00) Liga Endesa : Breogan - Unicaja  (CH155es)"
     },
     {
       "date": "03-01-2026",
@@ -911,11 +931,29 @@
       "teams": "Bordeaux Bègles - Racing 92",
       "channels": [
         {
-          "id": "31",
+          "id": "11",
           "lang": "fr"
         }
       ],
-      "raw_line": "03-01-2026 (21:00) Top 14 : Bordeaux Bègles - Racing 92  (CH31fr)"
+      "raw_line": "03-01-2026 (21:00) Top 14 : Bordeaux Bègles - Racing 92  (CH11fr)"
+    },
+    {
+      "date": "03-01-2026",
+      "time": "21:05",
+      "datetime": "03-01-2026 21:05",
+      "league": "Ligue 1",
+      "teams": "Lille - Rennes",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-01-2026 (21:05) Ligue 1 : Lille - Rennes  (CH20fr) (CH69es)"
     },
     {
       "date": "03-01-2026",
@@ -926,10 +964,10 @@
       "channels": [
         {
           "id": "144",
-          "lang": "xpt"
+          "lang": "pt"
         }
       ],
-      "raw_line": "03-01-2026 (21:30) Liga Portugal : AFS - Moreirense  (CH144xpt)"
+      "raw_line": "03-01-2026 (21:30) Liga Portugal : AFS - Moreirense  (CH144pt)"
     },
     {
       "date": "03-01-2026",
@@ -983,9 +1021,17 @@
         {
           "id": "166",
           "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (22:30) NFL : Tampa Bay Buccaneers - Carolina Panthers  (CH166us)"
+      "raw_line": "03-01-2026 (22:30) NFL : Tampa Bay Buccaneers - Carolina Panthers  (CH166us) (CH88es) (CH97es)"
     },
     {
       "date": "03-01-2026",
@@ -995,11 +1041,33 @@
       "teams": "Miami Heat - Minnesota Timberwolves",
       "channels": [
         {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
           "id": "167",
           "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
         }
       ],
-      "raw_line": "03-01-2026 (23:00) NBA : Miami Heat - Minnesota Timberwolves  (CH167us)"
+      "raw_line": "03-01-2026 (23:00) NBA : Miami Heat - Minnesota Timberwolves  (CH2fr) (CH167us) (CH156es)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "01:00",
+      "datetime": "04-01-2026 01:00",
+      "league": "Copa Pacifica",
+      "teams": "Leones Negros - Monterrey",
+      "channels": [
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-01-2026 (01:00) Copa Pacifica : Leones Negros - Monterrey  (CH99es)"
     },
     {
       "date": "04-01-2026",
@@ -1079,11 +1147,15 @@
       "teams": "New York Knicks - Philadelphia 76ers",
       "channels": [
         {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
           "id": "173",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (01:30) NBA : New York Knicks - Philadelphia 76ers  (CH173us)"
+      "raw_line": "04-01-2026 (01:30) NBA : New York Knicks - Philadelphia 76ers  (CH2fr) (CH173us)"
     },
     {
       "date": "04-01-2026",
@@ -1095,9 +1167,13 @@
         {
           "id": "174",
           "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (01:30) NBA : Toronto Raptors - Atlanta Hawks  (CH174us)"
+      "raw_line": "04-01-2026 (01:30) NBA : Toronto Raptors - Atlanta Hawks  (CH174us) (CH98es)"
     },
     {
       "date": "04-01-2026",
@@ -1137,9 +1213,17 @@
         {
           "id": "177",
           "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (02:00) NFL : San Francisco 49ers - Seattle Seahawks  (CH177us)"
+      "raw_line": "04-01-2026 (02:00) NFL : San Francisco 49ers - Seattle Seahawks  (CH177us) (CH88es) (CH97es)"
     },
     {
       "date": "04-01-2026",
@@ -1171,6 +1255,20 @@
     },
     {
       "date": "04-01-2026",
+      "time": "03:45",
+      "datetime": "04-01-2026 03:45",
+      "league": "Copa Pacifica",
+      "teams": "Atlas - Guadalajara",
+      "channels": [
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-01-2026 (03:45) Copa Pacifica : Atlas - Guadalajara  (CH99es)"
+    },
+    {
+      "date": "04-01-2026",
       "time": "04:00",
       "datetime": "04-01-2026 04:00",
       "league": "NBA",
@@ -1179,9 +1277,13 @@
         {
           "id": "180",
           "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (04:00) NBA : Golden State Warriors - Utah Jazz  (CH180us)"
+      "raw_line": "04-01-2026 (04:00) NBA : Golden State Warriors - Utah Jazz  (CH180us) (CH98es)"
     },
     {
       "date": "04-01-2026",
@@ -1219,11 +1321,11 @@
       "teams": "Real Madrid - Barcelone",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "155",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (12:30) Liga Endesa : Real Madrid - Barcelone  (CH62xes)"
+      "raw_line": "04-01-2026 (12:30) Liga Endesa : Real Madrid - Barcelone  (CH155es)"
     },
     {
       "date": "04-01-2026",
@@ -1233,19 +1335,27 @@
       "teams": "Lazio - Naples",
       "channels": [
         {
-          "id": "137",
-          "lang": "xit"
+          "id": "45",
+          "lang": "fr"
         },
         {
-          "id": "000",
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
           "lang": "de"
         },
         {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (12:30) Serie A : Lazio - Naples  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "04-01-2026 (12:30) Serie A : Lazio - Naples  (CH45fr) (CH137it) (CH123de) (CH97es) (CH70es)"
     },
     {
       "date": "04-01-2026",
@@ -1255,11 +1365,19 @@
       "teams": "Birmingham - Coventry",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "78",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (13:00) Championship : Birmingham - Coventry  (CH00us)"
+      "raw_line": "04-01-2026 (13:00) Championship : Birmingham - Coventry  (CH4fr) (CH127gb) (CH78es)"
     },
     {
       "date": "04-01-2026",
@@ -1269,11 +1387,11 @@
       "teams": "QPR - Sheffield Wed",
       "channels": [
         {
-          "id": "00",
+          "id": "180",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (13:00) Championship : QPR - Sheffield Wed  (CH00us)"
+      "raw_line": "04-01-2026 (13:00) Championship : QPR - Sheffield Wed  (CH180us)"
     },
     {
       "date": "04-01-2026",
@@ -1283,11 +1401,11 @@
       "teams": "Sheffield Utd - Oxford Utd",
       "channels": [
         {
-          "id": "00",
+          "id": "181",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (13:00) Championship : Sheffield Utd - Oxford Utd  (CH00us)"
+      "raw_line": "04-01-2026 (13:00) Championship : Sheffield Utd - Oxford Utd  (CH181us)"
     },
     {
       "date": "04-01-2026",
@@ -1297,27 +1415,27 @@
       "teams": "Leeds - Manchester Utd",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "11",
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "126",
+          "lang": "us"
         },
         {
           "id": "56",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "120",
           "lang": "de"
         },
         {
           "id": "87",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (13:30) Premier League : Leeds - Manchester Utd  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "04-01-2026 (13:30) Premier League : Leeds - Manchester Utd  (CH11fr) (CH126us) (CH56es) (CH120de) (CH87es)"
     },
     {
       "date": "04-01-2026",
@@ -1327,27 +1445,27 @@
       "teams": "FC Séville - Levante",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "5",
+          "lang": "fr"
         },
         {
           "id": "49",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "124",
           "lang": "de"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "88",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (14:00) Laliga : FC Séville - Levante  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "04-01-2026 (14:00) Laliga : FC Séville - Levante  (CH5fr) (CH49es) (CH124de) (CH71es) (CH88es)"
     },
     {
       "date": "04-01-2026",
@@ -1367,23 +1485,45 @@
       "date": "04-01-2026",
       "time": "15:00",
       "datetime": "04-01-2026 15:00",
+      "league": "Ligue 1",
+      "teams": "Marseille - Nantes",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "04-01-2026 (15:00) Ligue 1 : Marseille - Nantes  (CH20fr) (CH69es) (CH89es) (CH123de)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "15:00",
+      "datetime": "04-01-2026 15:00",
       "league": "Serie A",
       "teams": "Fiorentina - Cremonese",
       "channels": [
         {
           "id": "137",
-          "lang": "xit"
-        },
-        {
-          "id": "000",
-          "lang": "de"
+          "lang": "it"
         },
         {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (15:00) Serie A : Fiorentina - Cremonese  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "04-01-2026 (15:00) Serie A : Fiorentina - Cremonese  (CH137it) (CH97es)"
     },
     {
       "date": "04-01-2026",
@@ -1393,11 +1533,11 @@
       "teams": "Blackburn - Charlton",
       "channels": [
         {
-          "id": "00",
+          "id": "182",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Blackburn - Charlton  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Blackburn - Charlton  (CH182us)"
     },
     {
       "date": "04-01-2026",
@@ -1407,11 +1547,11 @@
       "teams": "Bristol City - Preston",
       "channels": [
         {
-          "id": "00",
+          "id": "183",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Bristol City - Preston  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Bristol City - Preston  (CH183us)"
     },
     {
       "date": "04-01-2026",
@@ -1421,11 +1561,11 @@
       "teams": "Derby - Wrexham",
       "channels": [
         {
-          "id": "00",
+          "id": "184",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Derby - Wrexham  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Derby - Wrexham  (CH184us)"
     },
     {
       "date": "04-01-2026",
@@ -1435,11 +1575,11 @@
       "teams": "Hull - Watford",
       "channels": [
         {
-          "id": "00",
+          "id": "185",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Hull - Watford  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Hull - Watford  (CH185us)"
     },
     {
       "date": "04-01-2026",
@@ -1449,11 +1589,11 @@
       "teams": "Middlesbrough - Southampton",
       "channels": [
         {
-          "id": "00",
+          "id": "186",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Middlesbrough - Southampton  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Middlesbrough - Southampton  (CH186us)"
     },
     {
       "date": "04-01-2026",
@@ -1463,11 +1603,11 @@
       "teams": "Millwall - Swansea",
       "channels": [
         {
-          "id": "00",
+          "id": "187",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Millwall - Swansea  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Millwall - Swansea  (CH187us)"
     },
     {
       "date": "04-01-2026",
@@ -1477,11 +1617,27 @@
       "teams": "Norwich - Stoke",
       "channels": [
         {
-          "id": "00",
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "188",
           "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Norwich - Stoke  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Norwich - Stoke  (CH4fr) (CH188us) (CH91es) (CH98es) (CH78es)"
     },
     {
       "date": "04-01-2026",
@@ -1491,11 +1647,11 @@
       "teams": "Portsmouth - Ipswich",
       "channels": [
         {
-          "id": "00",
+          "id": "189",
           "lang": "us"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Championship : Portsmouth - Ipswich  (CH00us)"
+      "raw_line": "04-01-2026 (16:00) Championship : Portsmouth - Ipswich  (CH189us)"
     },
     {
       "date": "04-01-2026",
@@ -1505,27 +1661,19 @@
       "teams": "Everton - Brentford",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "13",
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "130",
+          "lang": "us"
         },
         {
-          "id": "56",
-          "lang": "xes"
-        },
-        {
-          "id": "000",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
+          "id": "59",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Premier League : Everton - Brentford  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "04-01-2026 (16:00) Premier League : Everton - Brentford  (CH13fr) (CH130us) (CH59es)"
     },
     {
       "date": "04-01-2026",
@@ -1535,27 +1683,27 @@
       "teams": "Fulham - Liverpool",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "11",
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "127",
+          "lang": "gb"
         },
         {
           "id": "56",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "119",
           "lang": "de"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "73",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Premier League : Fulham - Liverpool  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "04-01-2026 (16:00) Premier League : Fulham - Liverpool  (CH11fr) (CH127gb) (CH56es) (CH119de) (CH73es)"
     },
     {
       "date": "04-01-2026",
@@ -1565,27 +1713,19 @@
       "teams": "Newcastle - Crystal Palace",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "14",
+          "lang": "fr"
         },
         {
           "id": "129",
-          "lang": "xus"
+          "lang": "gb"
         },
         {
-          "id": "56",
-          "lang": "xes"
-        },
-        {
-          "id": "000",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
+          "id": "58",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Premier League : Newcastle - Crystal Palace  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
+      "raw_line": "04-01-2026 (16:00) Premier League : Newcastle - Crystal Palace  (CH14fr) (CH129gb) (CH58es)"
     },
     {
       "date": "04-01-2026",
@@ -1596,40 +1736,18 @@
       "channels": [
         {
           "id": "12",
-          "lang": "xfr"
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "128",
+          "lang": "gb"
         },
         {
-          "id": "56",
-          "lang": "xes"
-        },
-        {
-          "id": "000",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
+          "id": "57",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (16:00) Premier League : Tottenham - Sunderland  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "16:05",
-      "datetime": "04-01-2026 16:05",
-      "league": "Saudi Pro League",
-      "teams": "Al Hazem - Neom SC",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "xes"
-        }
-      ],
-      "raw_line": "04-01-2026 (16:05) Saudi Pro League : Al Hazem - Neom SC  (CH81xes)"
+      "raw_line": "04-01-2026 (16:00) Premier League : Tottenham - Sunderland  (CH12fr) (CH128gb) (CH57es)"
     },
     {
       "date": "04-01-2026",
@@ -1639,27 +1757,27 @@
       "teams": "Real Madrid - Betis",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "2",
+          "lang": "fr"
         },
         {
-          "id": "49",
-          "lang": "xes"
+          "id": "51",
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "124",
           "lang": "de"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
           "id": "87",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (16:15) Laliga : Real Madrid - Betis  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "04-01-2026 (16:15) Laliga : Real Madrid - Betis  (CH2fr) (CH51es) (CH124de) (CH71es) (CH87es)"
     },
     {
       "date": "04-01-2026",
@@ -1683,11 +1801,11 @@
       "teams": "Rio Ave - Casa Pia",
       "channels": [
         {
-          "id": "144",
-          "lang": "xpt"
+          "id": "145",
+          "lang": "pt"
         }
       ],
-      "raw_line": "04-01-2026 (16:30) Liga Portugal : Rio Ave - Casa Pia  (CH144xpt)"
+      "raw_line": "04-01-2026 (16:30) Liga Portugal : Rio Ave - Casa Pia  (CH145pt)"
     },
     {
       "date": "04-01-2026",
@@ -1697,11 +1815,23 @@
       "teams": "Maroc - Tanzanie",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (17:00) CAN : Maroc - Tanzanie  (CH00us)"
+      "raw_line": "04-01-2026 (17:00) CAN : Maroc - Tanzanie  (CH1fr) (CH61es) (CH82es) (CH69es)"
     },
     {
       "date": "04-01-2026",
@@ -1711,11 +1841,11 @@
       "teams": "Baskonia - MoraBanc Andorra",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "156",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (17:00) Liga Endesa : Baskonia - MoraBanc Andorra  (CH62xes)"
+      "raw_line": "04-01-2026 (17:00) Liga Endesa : Baskonia - MoraBanc Andorra  (CH156es)"
     },
     {
       "date": "04-01-2026",
@@ -1725,11 +1855,83 @@
       "teams": "Lleida - Zaragoza",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "155",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (17:00) Liga Endesa : Lleida - Zaragoza  (CH62xes)"
+      "raw_line": "04-01-2026 (17:00) Liga Endesa : Lleida - Zaragoza  (CH155es)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "17:15",
+      "datetime": "04-01-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "04-01-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "17:15",
+      "datetime": "04-01-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Brest - Auxerre",
+      "channels": [
+        {
+          "id": "21",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "04-01-2026 (17:15) Ligue 1 : Brest - Auxerre  (CH21fr) (CH69es) (CH123de)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "17:15",
+      "datetime": "04-01-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Le Havre - Angers",
+      "channels": [
+        {
+          "id": "22",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-01-2026 (17:15) Ligue 1 : Le Havre - Angers  (CH22fr) (CH69es)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "17:15",
+      "datetime": "04-01-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Lorient - Metz",
+      "channels": [
+        {
+          "id": "23",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-01-2026 (17:15) Ligue 1 : Lorient - Metz  (CH23fr) (CH69es)"
     },
     {
       "date": "04-01-2026",
@@ -1739,11 +1941,11 @@
       "teams": "Basquet Girona - Bilbao",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "157",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:00) Liga Endesa : Basquet Girona - Bilbao  (CH62xes)"
+      "raw_line": "04-01-2026 (18:00) Liga Endesa : Basquet Girona - Bilbao  (CH157es)"
     },
     {
       "date": "04-01-2026",
@@ -1753,11 +1955,11 @@
       "teams": "Guadalajara F - Atl. San Luis F",
       "channels": [
         {
-          "id": "1",
-          "lang": "xxes"
+          "id": "70",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:00) Liga Mx Women : Guadalajara F - Atl. San Luis F  (CH1xxes)"
+      "raw_line": "04-01-2026 (18:00) Liga Mx Women : Guadalajara F - Atl. San Luis F  (CH70es)"
     },
     {
       "date": "04-01-2026",
@@ -1767,19 +1969,15 @@
       "teams": "Hellas Vérone - Torino",
       "channels": [
         {
-          "id": "137",
-          "lang": "xit"
-        },
-        {
-          "id": "000",
-          "lang": "de"
+          "id": "138",
+          "lang": "it"
         },
         {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:00) Serie A : Hellas Vérone - Torino  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "04-01-2026 (18:00) Serie A : Hellas Vérone - Torino  (CH138it) (CH97es)"
     },
     {
       "date": "04-01-2026",
@@ -1789,27 +1987,19 @@
       "teams": "Alaves - Oviedo",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "5",
+          "lang": "fr"
         },
         {
-          "id": "49",
-          "lang": "xes"
+          "id": "51",
+          "lang": "es"
         },
         {
-          "id": "000",
-          "lang": "de"
-        },
-        {
-          "id": "71",
-          "lang": "xes"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:30) Laliga : Alaves - Oviedo  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "04-01-2026 (18:30) Laliga : Alaves - Oviedo  (CH5fr) (CH51es) (CH89es)"
     },
     {
       "date": "04-01-2026",
@@ -1819,27 +2009,23 @@
       "teams": "Majorque - Gérone",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "6",
+          "lang": "fr"
         },
         {
           "id": "49",
-          "lang": "xes"
-        },
-        {
-          "id": "000",
-          "lang": "de"
+          "lang": "es"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "94",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:30) Laliga : Majorque - Gérone  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "04-01-2026 (18:30) Laliga : Majorque - Gérone  (CH6fr) (CH49es) (CH71es) (CH94es)"
     },
     {
       "date": "04-01-2026",
@@ -1849,11 +2035,11 @@
       "teams": "Albacete - Leganes",
       "channels": [
         {
-          "id": "53",
+          "id": "54",
           "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:30) Laliga 2 : Albacete - Leganes  (CH53es)"
+      "raw_line": "04-01-2026 (18:30) Laliga 2 : Albacete - Leganes  (CH54es)"
     },
     {
       "date": "04-01-2026",
@@ -1877,41 +2063,23 @@
       "teams": "Manchester City - Chelsea",
       "channels": [
         {
-          "id": "12",
-          "lang": "xfr"
+          "id": "11",
+          "lang": "fr"
         },
         {
-          "id": "129",
-          "lang": "xus"
+          "id": "127",
+          "lang": "gb"
         },
         {
           "id": "56",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "000",
+          "id": "120",
           "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "xes"
         }
       ],
-      "raw_line": "04-01-2026 (18:30) Premier League : Manchester City - Chelsea  (CH12xfr) (CH129xus) (CH56xes) (CH000de) (CH87xes)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Al Qadsiah - Al Riyadh",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "xes"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Saudi Pro League : Al Qadsiah - Al Riyadh  (CH81xes)"
+      "raw_line": "04-01-2026 (18:30) Premier League : Manchester City - Chelsea  (CH11fr) (CH127gb) (CH56es) (CH120de)"
     },
     {
       "date": "04-01-2026",
@@ -1921,11 +2089,11 @@
       "teams": "Damac - Al-Hilal",
       "channels": [
         {
-          "id": "81",
-          "lang": "xes"
+          "id": "50",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (18:30) Saudi Pro League : Damac - Al-Hilal  (CH81xes)"
+      "raw_line": "04-01-2026 (18:30) Saudi Pro League : Damac - Al-Hilal  (CH50es)"
     },
     {
       "date": "04-01-2026",
@@ -1935,25 +2103,11 @@
       "teams": "Valence - Manresa",
       "channels": [
         {
-          "id": "62",
-          "lang": "xes"
+          "id": "155",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (19:00) Liga Endesa : Valence - Manresa  (CH62xes)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "19:00",
-      "datetime": "04-01-2026 19:00",
-      "league": "Liga Mx Women",
-      "teams": "U.N.A.M. F - Queretaro F",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "xxes"
-        }
-      ],
-      "raw_line": "04-01-2026 (19:00) Liga Mx Women : U.N.A.M. F - Queretaro F  (CH1xxes)"
+      "raw_line": "04-01-2026 (19:00) Liga Endesa : Valence - Manresa  (CH155es)"
     },
     {
       "date": "04-01-2026",
@@ -1963,11 +2117,15 @@
       "teams": "Santa Clara - FC Porto",
       "channels": [
         {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
           "id": "144",
-          "lang": "xpt"
+          "lang": "pt"
         }
       ],
-      "raw_line": "04-01-2026 (19:00) Liga Portugal : Santa Clara - FC Porto  (CH144xpt)"
+      "raw_line": "04-01-2026 (19:00) Liga Portugal : Santa Clara - FC Porto  (CH7fr) (CH144pt)"
     },
     {
       "date": "04-01-2026",
@@ -2007,9 +2165,17 @@
         {
           "id": "163",
           "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (19:00) NFL : Houston Texans - Indianapolis Colts  (CH163us)"
+      "raw_line": "04-01-2026 (19:00) NFL : Houston Texans - Indianapolis Colts  (CH163us) (CH91es) (CH101es)"
     },
     {
       "date": "04-01-2026",
@@ -2021,9 +2187,17 @@
         {
           "id": "164",
           "lang": "us"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (19:00) NFL : Jacksonville Jaguars - Tennessee Titans  (CH164us)"
+      "raw_line": "04-01-2026 (19:00) NFL : Jacksonville Jaguars - Tennessee Titans  (CH164us) (CH93es) (CH107es)"
     },
     {
       "date": "04-01-2026",
@@ -2035,9 +2209,13 @@
         {
           "id": "165",
           "lang": "us"
+        },
+        {
+          "id": "102",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (19:00) NFL : Minnesota Vikings - Green Bay Packers  (CH165us)"
+      "raw_line": "04-01-2026 (19:00) NFL : Minnesota Vikings - Green Bay Packers  (CH165us) (CH102es)"
     },
     {
       "date": "04-01-2026",
@@ -2047,11 +2225,19 @@
       "teams": "NFL REDZONE -",
       "channels": [
         {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
           "id": "160",
           "lang": "us"
+        },
+        {
+          "id": "100",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (19:00) NFL : NFL REDZONE -   (CH160us)"
+      "raw_line": "04-01-2026 (19:00) NFL : NFL REDZONE -   (CH4fr) (CH160us) (CH100es)"
     },
     {
       "date": "04-01-2026",
@@ -2075,11 +2261,23 @@
       "teams": "Afrique du Sud - Cameroun",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (20:00) CAN : Afrique du Sud - Cameroun  (CH00us)"
+      "raw_line": "04-01-2026 (20:00) CAN : Afrique du Sud - Cameroun  (CH1fr) (CH61es) (CH82es) (CH69es)"
     },
     {
       "date": "04-01-2026",
@@ -2091,9 +2289,13 @@
         {
           "id": "167",
           "lang": "us"
+        },
+        {
+          "id": "75",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (20:00) NBA : Cleveland Cavaliers - Detroit Pistons  (CH167us)"
+      "raw_line": "04-01-2026 (20:00) NBA : Cleveland Cavaliers - Detroit Pistons  (CH167us) (CH75es)"
     },
     {
       "date": "04-01-2026",
@@ -2113,23 +2315,53 @@
       "date": "04-01-2026",
       "time": "20:45",
       "datetime": "04-01-2026 20:45",
+      "league": "Ligue 1",
+      "teams": "PSG - Paris FC",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "04-01-2026 (20:45) Ligue 1 : PSG - Paris FC  (CH20fr) (CH69es) (CH88es) (CH123de)"
+    },
+    {
+      "date": "04-01-2026",
+      "time": "20:45",
+      "datetime": "04-01-2026 20:45",
       "league": "Serie A",
       "teams": "Inter - Bologne",
       "channels": [
         {
-          "id": "137",
-          "lang": "xit"
+          "id": "45",
+          "lang": "fr"
         },
         {
-          "id": "000",
-          "lang": "de"
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
         },
         {
           "id": "97",
-          "lang": "xes"
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (20:45) Serie A : Inter - Bologne  (CH137xit) (CH000de) (CH97xes)"
+      "raw_line": "04-01-2026 (20:45) Serie A : Inter - Bologne  (CH45fr) (CH137it) (CH87es) (CH97es)"
     },
     {
       "date": "04-01-2026",
@@ -2139,27 +2371,23 @@
       "teams": "Real Sociedad - Atl. Madrid",
       "channels": [
         {
-          "id": "1",
-          "lang": "xfr"
+          "id": "2",
+          "lang": "fr"
         },
         {
-          "id": "49",
-          "lang": "xes"
-        },
-        {
-          "id": "000",
-          "lang": "de"
+          "id": "51",
+          "lang": "es"
         },
         {
           "id": "71",
-          "lang": "xes"
+          "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "xes"
+          "id": "94",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (21:00) Laliga : Real Sociedad - Atl. Madrid  (CH1xfr) (CH49xes) (CH000de) (CH71xes) (CH87xes)"
+      "raw_line": "04-01-2026 (21:00) Laliga : Real Sociedad - Atl. Madrid  (CH2fr) (CH51es) (CH71es) (CH94es)"
     },
     {
       "date": "04-01-2026",
@@ -2211,11 +2439,11 @@
       "teams": "Stade Rochelais - RC Toulon",
       "channels": [
         {
-          "id": "31",
+          "id": "11",
           "lang": "fr"
         }
       ],
-      "raw_line": "04-01-2026 (21:05) Top 14 : Stade Rochelais - RC Toulon  (CH31fr)"
+      "raw_line": "04-01-2026 (21:05) Top 14 : Stade Rochelais - RC Toulon  (CH11fr)"
     },
     {
       "date": "04-01-2026",
@@ -2225,11 +2453,11 @@
       "teams": "Alverca - Famalicao",
       "channels": [
         {
-          "id": "144",
-          "lang": "xpt"
+          "id": "145",
+          "lang": "pt"
         }
       ],
-      "raw_line": "04-01-2026 (21:30) Liga Portugal : Alverca - Famalicao  (CH144xpt)"
+      "raw_line": "04-01-2026 (21:30) Liga Portugal : Alverca - Famalicao  (CH145pt)"
     },
     {
       "date": "04-01-2026",
@@ -2241,9 +2469,17 @@
         {
           "id": "171",
           "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "75",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (21:30) NBA : Brooklyn Nets - Denver Nuggets  (CH171us)"
+      "raw_line": "04-01-2026 (21:30) NBA : Brooklyn Nets - Denver Nuggets  (CH171us) (CH98es) (CH75es)"
     },
     {
       "date": "04-01-2026",
@@ -2269,9 +2505,13 @@
         {
           "id": "173",
           "lang": "us"
+        },
+        {
+          "id": "102",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (22:25) NFL : Chicago Bears - Detroit Lions  (CH173us)"
+      "raw_line": "04-01-2026 (22:25) NFL : Chicago Bears - Detroit Lions  (CH173us) (CH102es)"
     },
     {
       "date": "04-01-2026",
@@ -2283,9 +2523,17 @@
         {
           "id": "174",
           "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (22:25) NFL : Denver Broncos - Los Angeles Chargers  (CH174us)"
+      "raw_line": "04-01-2026 (22:25) NFL : Denver Broncos - Los Angeles Chargers  (CH174us) (CH91es) (CH107es)"
     },
     {
       "date": "04-01-2026",
@@ -2323,11 +2571,23 @@
       "teams": "New England Patriots - Miami Dolphins",
       "channels": [
         {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
           "id": "177",
           "lang": "us"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "101",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (22:25) NFL : New England Patriots - Miami Dolphins  (CH177us)"
+      "raw_line": "04-01-2026 (22:25) NFL : New England Patriots - Miami Dolphins  (CH3fr) (CH177us) (CH93es) (CH101es)"
     },
     {
       "date": "04-01-2026",
@@ -2347,15 +2607,15 @@
       "date": "04-01-2026",
       "time": "23:00",
       "datetime": "04-01-2026 23:00",
-      "league": "Liga Mx Women",
-      "teams": "Necaxa F - Tigres F",
+      "league": "Copa Pacifica",
+      "teams": "3er Puesto -",
       "channels": [
         {
-          "id": "1",
-          "lang": "xxes"
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "04-01-2026 (23:00) Liga Mx Women : Necaxa F - Tigres F  (CH1xxes)"
+      "raw_line": "04-01-2026 (23:00) Copa Pacifica : 3er Puesto -   (CH98es)"
     },
     {
       "date": "04-01-2026",
@@ -2393,25 +2653,15 @@
       "teams": "Washington Wizards - Minnesota Timberwolves",
       "channels": [
         {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
           "id": "181",
           "lang": "us"
         }
       ],
-      "raw_line": "05-01-2026 (00:00) NBA : Washington Wizards - Minnesota Timberwolves  (CH181us)"
-    },
-    {
-      "date": "05-01-2026",
-      "time": "01:00",
-      "datetime": "05-01-2026 01:00",
-      "league": "Liga Mx Women",
-      "teams": "Monterrey F - Puebla F",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "xxes"
-        }
-      ],
-      "raw_line": "05-01-2026 (01:00) Liga Mx Women : Monterrey F - Puebla F  (CH1xxes)"
+      "raw_line": "05-01-2026 (00:00) NBA : Washington Wizards - Minnesota Timberwolves  (CH1fr) (CH181us)"
     },
     {
       "date": "05-01-2026",
@@ -2443,6 +2693,20 @@
     },
     {
       "date": "05-01-2026",
+      "time": "01:30",
+      "datetime": "05-01-2026 01:30",
+      "league": "Copa Pacifica",
+      "teams": "Final -",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-01-2026 (01:30) Copa Pacifica : Final -   (CH98es)"
+    },
+    {
+      "date": "05-01-2026",
       "time": "02:00",
       "datetime": "05-01-2026 02:00",
       "league": "NBA",
@@ -2463,11 +2727,23 @@
       "teams": "Pittsburgh Steelers - Baltimore Ravens",
       "channels": [
         {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
           "id": "185",
           "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "05-01-2026 (02:20) NFL : Pittsburgh Steelers - Baltimore Ravens  (CH185us)"
+      "raw_line": "05-01-2026 (02:20) NFL : Pittsburgh Steelers - Baltimore Ravens  (CH3fr) (CH185us) (CH88es) (CH97es)"
     },
     {
       "date": "05-01-2026",
@@ -2505,11 +2781,23 @@
       "teams": "Egypte - Benin",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
         }
       ],
-      "raw_line": "05-01-2026 (17:00) CAN : Egypte - Benin  (CH00us)"
+      "raw_line": "05-01-2026 (17:00) CAN : Egypte - Benin  (CH1fr) (CH61es) (CH82es) (CH69es)"
     },
     {
       "date": "05-01-2026",
@@ -2519,11 +2807,11 @@
       "teams": "Galatasaray - Trabzonspor",
       "channels": [
         {
-          "id": "00",
+          "id": "151",
           "lang": "tr"
         }
       ],
-      "raw_line": "05-01-2026 (18:30) SuperCoupe Turquie : Galatasaray - Trabzonspor  (CH00tr)"
+      "raw_line": "05-01-2026 (18:30) SuperCoupe Turquie : Galatasaray - Trabzonspor  (CH151tr)"
     },
     {
       "date": "05-01-2026",
@@ -2533,11 +2821,23 @@
       "teams": "Nigéria - Mozambique",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
         }
       ],
-      "raw_line": "05-01-2026 (20:00) CAN : Nigéria - Mozambique  (CH00us)"
+      "raw_line": "05-01-2026 (20:00) CAN : Nigéria - Mozambique  (CH1fr) (CH61es) (CH82es) (CH69es)"
     },
     {
       "date": "05-01-2026",
@@ -2547,11 +2847,15 @@
       "teams": "Montpellier - Dunkerque",
       "channels": [
         {
-          "id": "00",
+          "id": "2",
           "lang": "fr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
         }
       ],
-      "raw_line": "05-01-2026 (20:45) Ligue 2 : Montpellier - Dunkerque  (CH00fr)"
+      "raw_line": "05-01-2026 (20:45) Ligue 2 : Montpellier - Dunkerque  (CH2fr) (CH123de)"
     },
     {
       "date": "05-01-2026",
@@ -2561,11 +2865,23 @@
       "teams": "Leicester - West Brom",
       "channels": [
         {
-          "id": "00",
-          "lang": "us"
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "05-01-2026 (21:00) Championship : Leicester - West Brom  (CH00us)"
+      "raw_line": "05-01-2026 (21:00) Championship : Leicester - West Brom  (CH4fr) (CH127gb) (CH91es) (CH98es)"
     },
     {
       "date": "06-01-2026",
@@ -2575,25 +2891,11 @@
       "teams": "Leon F - Cruz Azul F",
       "channels": [
         {
-          "id": "1",
-          "lang": "xxes"
+          "id": "178",
+          "lang": "es"
         }
       ],
-      "raw_line": "06-01-2026 (01:00) Liga Mx Women : Leon F - Cruz Azul F  (CH1xxes)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "01:00",
-      "datetime": "06-01-2026 01:00",
-      "league": "Liga Mx Women",
-      "teams": "Toluca F - Tijuana F",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "xxes"
-        }
-      ],
-      "raw_line": "06-01-2026 (01:00) Liga Mx Women : Toluca F - Tijuana F  (CH1xxes)"
+      "raw_line": "06-01-2026 (01:00) Liga Mx Women : Leon F - Cruz Azul F  (CH178es)"
     },
     {
       "date": "06-01-2026",
@@ -2603,11 +2905,15 @@
       "teams": "Detroit Pistons - New York Knicks",
       "channels": [
         {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
           "id": "160",
           "lang": "us"
         }
       ],
-      "raw_line": "06-01-2026 (01:00) NBA : Detroit Pistons - New York Knicks  (CH160us)"
+      "raw_line": "06-01-2026 (01:00) NBA : Detroit Pistons - New York Knicks  (CH1fr) (CH160us)"
     },
     {
       "date": "06-01-2026",
@@ -2729,11 +3035,11 @@
       "teams": "Santos Laguna F - Club America F",
       "channels": [
         {
-          "id": "1",
-          "lang": "xxes"
+          "id": "178",
+          "lang": "es"
         }
       ],
-      "raw_line": "06-01-2026 (03:06) Liga Mx Women : Santos Laguna F - Club America F  (CH1xxes)"
+      "raw_line": "06-01-2026 (03:06) Liga Mx Women : Santos Laguna F - Club America F  (CH178es)"
     },
     {
       "date": "06-01-2026",
@@ -2757,11 +3063,19 @@
       "teams": "Los Angeles Clippers - Golden State Warriors",
       "channels": [
         {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
           "id": "170",
           "lang": "us"
+        },
+        {
+          "id": "75",
+          "lang": "es"
         }
       ],
-      "raw_line": "06-01-2026 (04:00) NBA : Los Angeles Clippers - Golden State Warriors  (CH170us)"
+      "raw_line": "06-01-2026 (04:00) NBA : Los Angeles Clippers - Golden State Warriors  (CH1fr) (CH170us) (CH75es)"
     },
     {
       "date": "06-01-2026",
@@ -2799,7 +3113,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-03T10:16:55.309070"
+      "extracted_at": "2026-01-03T10:43:24.134230"
     },
     "hoca": {
       "name": "hoca",
@@ -2808,7 +3122,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T10:16:56.676277"
+      "extracted_at": "2026-01-03T10:43:25.673708"
     },
     "Caster": {
       "name": "Caster",
@@ -2817,7 +3131,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T10:16:59.077234"
+      "extracted_at": "2026-01-03T10:43:28.032023"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2826,7 +3140,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T10:17:01.600824"
+      "extracted_at": "2026-01-03T10:43:30.543244"
     }
   },
   "player_urls": {

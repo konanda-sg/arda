@@ -1,76 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-03T03:56:24.363260",
-  "total_events": 9,
+  "last_updated": "2026-01-03T04:30:27.454919",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-01-2026",
-      "time": "02:00",
-      "datetime": "03-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Orlando Magic",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-01-2026 (02:00) NBA : Chicago Bulls - Orlando Magic  (CH185us)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "02:00",
-      "datetime": "03-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Milwaukee Bucks - Charlotte Hornets",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-01-2026 (02:00) NBA : Milwaukee Bucks - Charlotte Hornets  (CH186us)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "02:00",
-      "datetime": "03-01-2026 02:00",
-      "league": "NBA",
-      "teams": "New Orleans Pelicans - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-01-2026 (02:00) NBA : New Orleans Pelicans - Portland Trail Blazers  (CH187us)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "02:00",
-      "datetime": "03-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Florida Panthers - New York Rangers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "188",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-01-2026 (02:00) NHL : Florida Panthers - New York Rangers  (CH1fr) (CH188us) (CH89es)"
-    },
     {
       "date": "03-01-2026",
       "time": "03:00",
@@ -149,7 +85,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-03T03:56:16.699136"
+      "extracted_at": "2026-01-03T04:30:19.600972"
     },
     "hoca": {
       "name": "hoca",
@@ -158,7 +94,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T03:56:18.260983"
+      "extracted_at": "2026-01-03T04:30:21.277834"
     },
     "Caster": {
       "name": "Caster",
@@ -167,7 +103,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T03:56:20.927214"
+      "extracted_at": "2026-01-03T04:30:23.920885"
     },
     "WIGI": {
       "name": "WIGI",
@@ -176,7 +112,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T03:56:23.363111"
+      "extracted_at": "2026-01-03T04:30:26.454777"
     }
   },
   "player_urls": {

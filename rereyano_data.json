@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-03T19:49:38.520599",
-  "total_events": 152,
+  "last_updated": "2026-01-03T20:18:05.185495",
+  "total_events": 149,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-01-2026",
-      "time": "18:00",
-      "datetime": "03-01-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Joventut - Tenerife",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-01-2026 (18:00) Liga Endesa : Joventut - Tenerife  (CH155es)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "18:00",
-      "datetime": "03-01-2026 18:00",
-      "league": "NHL",
-      "teams": "Detroit Red Wings - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-01-2026 (18:00) NHL : Detroit Red Wings - Pittsburgh Penguins  (CH160us)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "18:00",
-      "datetime": "03-01-2026 18:00",
-      "league": "Serie A",
-      "teams": "Juventus - Lecce",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-01-2026 (18:00) Serie A : Juventus - Lecce  (CH45fr) (CH137it) (CH123de) (CH88es) (CH97es)"
-    },
     {
       "date": "03-01-2026",
       "time": "18:30",
@@ -2675,7 +2617,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-03T19:49:31.064469"
+      "extracted_at": "2026-01-03T20:17:58.623798"
     },
     "hoca": {
       "name": "hoca",
@@ -2684,7 +2626,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T19:49:32.621669"
+      "extracted_at": "2026-01-03T20:18:00.237277"
     },
     "Caster": {
       "name": "Caster",
@@ -2693,7 +2635,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T19:49:35.170663"
+      "extracted_at": "2026-01-03T20:18:02.032532"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2702,7 +2644,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T19:49:37.520450"
+      "extracted_at": "2026-01-03T20:18:04.185327"
     }
   },
   "player_urls": {

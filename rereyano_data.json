@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T05:57:39.877938",
-  "total_events": 104,
+  "last_updated": "2026-01-04T06:25:29.807915",
+  "total_events": 101,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "03:45",
-      "datetime": "04-01-2026 03:45",
-      "league": "Copa Pacifica",
-      "teams": "Atlas - Guadalajara",
-      "channels": [
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (03:45) Copa Pacifica : Atlas - Guadalajara  (CH99es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "04:00",
-      "datetime": "04-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Utah Jazz",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (04:00) NBA : Golden State Warriors - Utah Jazz  (CH180us) (CH98es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "04:00",
-      "datetime": "04-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - Boston Bruins",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-01-2026 (04:00) NHL : Vancouver Canucks - Boston Bruins  (CH181us)"
-    },
     {
       "date": "04-01-2026",
       "time": "04:30",
@@ -1867,31 +1821,34 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T05:56:05.679359"
+      "extracted_at": "2026-01-04T06:25:22.202752"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": null,
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-01-04T05:56:36.738350"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-01-04T06:25:23.780743"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": null,
+      "iframe_url": "https://storytrench.net/embed/zj52139k3",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-01-04T05:57:07.808569"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-01-04T06:25:26.344241"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://rereyano.ru/player/4/1",
-      "iframe_url": null,
+      "iframe_url": "https://runginfect.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-01-04T05:57:38.877791"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-01-04T06:25:28.807770"
     }
   },
   "player_urls": {

@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-03T23:50:21.859366",
-  "total_events": 121,
+  "last_updated": "2026-01-04T01:25:55.112055",
+  "total_events": 117,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-01-2026",
-      "time": "22:00",
-      "datetime": "03-01-2026 22:00",
-      "league": "NHL",
-      "teams": "San Jose Sharks - Tampa Bay Lightning",
-      "channels": [
-        {
-          "id": "164",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-01-2026 (22:00) NHL : San Jose Sharks - Tampa Bay Lightning  (CH164us)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "22:00",
-      "datetime": "03-01-2026 22:00",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Montreal Canadiens",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "03-01-2026 (22:00) NHL : St. Louis Blues - Montreal Canadiens  (CH165us)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "22:30",
-      "datetime": "03-01-2026 22:30",
-      "league": "NFL",
-      "teams": "Tampa Bay Buccaneers - Carolina Panthers",
-      "channels": [
-        {
-          "id": "166",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-01-2026 (22:30) NFL : Tampa Bay Buccaneers - Carolina Panthers  (CH166us) (CH88es) (CH97es)"
-    },
-    {
-      "date": "03-01-2026",
-      "time": "23:00",
-      "datetime": "03-01-2026 23:00",
-      "league": "NBA",
-      "teams": "Miami Heat - Minnesota Timberwolves",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "167",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-01-2026 (23:00) NBA : Miami Heat - Minnesota Timberwolves  (CH2fr) (CH167us) (CH156es)"
-    },
     {
       "date": "04-01-2026",
       "time": "01:00",
@@ -2137,7 +2065,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-03T23:50:14.059584"
+      "extracted_at": "2026-01-04T01:25:47.780226"
     },
     "hoca": {
       "name": "hoca",
@@ -2146,7 +2074,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T23:50:15.502338"
+      "extracted_at": "2026-01-04T01:25:49.259750"
     },
     "Caster": {
       "name": "Caster",
@@ -2155,7 +2083,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T23:50:18.058797"
+      "extracted_at": "2026-01-04T01:25:51.540737"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2164,7 +2092,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-03T23:50:20.859151"
+      "extracted_at": "2026-01-04T01:25:54.111864"
     }
   },
   "player_urls": {

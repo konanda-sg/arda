@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T23:15:52.439523",
-  "total_events": 40,
+  "last_updated": "2026-01-04T23:40:43.978865",
+  "total_events": 38,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "21:30",
-      "datetime": "04-01-2026 21:30",
-      "league": "Liga Portugal",
-      "teams": "Alverca - Famalicao",
-      "channels": [
-        {
-          "id": "145",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "04-01-2026 (21:30) Liga Portugal : Alverca - Famalicao  (CH145pt)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "21:30",
-      "datetime": "04-01-2026 21:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Denver Nuggets",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (21:30) NBA : Brooklyn Nets - Denver Nuggets  (CH171us) (CH98es) (CH75es)"
-    },
     {
       "date": "04-01-2026",
       "time": "22:25",
@@ -675,7 +639,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T23:15:44.896939"
+      "extracted_at": "2026-01-04T23:40:26.146970"
     },
     "hoca": {
       "name": "hoca",
@@ -684,7 +648,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T23:15:46.493012"
+      "extracted_at": "2026-01-04T23:40:27.899904"
     },
     "Caster": {
       "name": "Caster",
@@ -693,7 +657,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T23:15:49.085552"
+      "extracted_at": "2026-01-04T23:40:40.091198"
     },
     "WIGI": {
       "name": "WIGI",
@@ -702,7 +666,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T23:15:51.439378"
+      "extracted_at": "2026-01-04T23:40:42.978729"
     }
   },
   "player_urls": {

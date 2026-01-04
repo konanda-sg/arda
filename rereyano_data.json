@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T14:15:14.599034",
-  "total_events": 100,
+  "last_updated": "2026-01-04T14:34:57.571153",
+  "total_events": 98,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "12:30",
-      "datetime": "04-01-2026 12:30",
-      "league": "Liga Endesa",
-      "teams": "Real Madrid - Barcelone",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (12:30) Liga Endesa : Real Madrid - Barcelone  (CH155es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "12:30",
-      "datetime": "04-01-2026 12:30",
-      "league": "Serie A",
-      "teams": "Lazio - Naples",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (12:30) Serie A : Lazio - Naples  (CH45fr) (CH137it) (CH123de) (CH97es) (CH70es)"
-    },
     {
       "date": "04-01-2026",
       "time": "13:00",
@@ -1807,7 +1763,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T14:15:06.104972"
+      "extracted_at": "2026-01-04T14:34:50.064632"
     },
     "hoca": {
       "name": "hoca",
@@ -1816,7 +1772,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T14:15:07.650468"
+      "extracted_at": "2026-01-04T14:34:51.466706"
     },
     "Caster": {
       "name": "Caster",
@@ -1825,7 +1781,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T14:15:10.884493"
+      "extracted_at": "2026-01-04T14:34:54.007306"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1834,7 +1790,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T14:15:13.598909"
+      "extracted_at": "2026-01-04T14:34:56.571006"
     }
   },
   "player_urls": {

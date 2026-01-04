@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T21:49:53.514082",
-  "total_events": 50,
+  "last_updated": "2026-01-04T22:16:08.783450",
+  "total_events": 47,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "20:00",
-      "datetime": "04-01-2026 20:00",
-      "league": "CAN",
-      "teams": "Afrique du Sud - Cameroun",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (20:00) CAN : Afrique du Sud - Cameroun  (CH1fr) (CH61es) (CH82es) (CH69es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "20:00",
-      "datetime": "04-01-2026 20:00",
-      "league": "NBA",
-      "teams": "Cleveland Cavaliers - Detroit Pistons",
-      "channels": [
-        {
-          "id": "167",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (20:00) NBA : Cleveland Cavaliers - Detroit Pistons  (CH167us) (CH75es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "20:00",
-      "datetime": "04-01-2026 20:00",
-      "league": "NHL",
-      "teams": "Dallas Stars - Montreal Canadiens",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-01-2026 (20:00) NHL : Dallas Stars - Montreal Canadiens  (CH168us)"
-    },
     {
       "date": "04-01-2026",
       "time": "20:45",
@@ -867,7 +809,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T21:49:35.138486"
+      "extracted_at": "2026-01-04T22:15:52.570734"
     },
     "hoca": {
       "name": "hoca",
@@ -876,7 +818,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T21:49:36.641451"
+      "extracted_at": "2026-01-04T22:15:54.057015"
     },
     "Caster": {
       "name": "Caster",
@@ -885,7 +827,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T21:49:50.187972"
+      "extracted_at": "2026-01-04T22:15:56.339505"
     },
     "WIGI": {
       "name": "WIGI",
@@ -894,7 +836,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T21:49:52.513940"
+      "extracted_at": "2026-01-04T22:16:07.783289"
     }
   },
   "player_urls": {

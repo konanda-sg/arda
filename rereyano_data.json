@@ -1,64 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T22:44:11.786627",
-  "total_events": 47,
+  "last_updated": "2026-01-04T22:53:34.610520",
+  "total_events": 45,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "20:45",
-      "datetime": "04-01-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "PSG - Paris FC",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "04-01-2026 (20:45) Ligue 1 : PSG - Paris FC  (CH20fr) (CH69es) (CH88es) (CH123de)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "20:45",
-      "datetime": "04-01-2026 20:45",
-      "league": "Serie A",
-      "teams": "Inter - Bologne",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (20:45) Serie A : Inter - Bologne  (CH45fr) (CH137it) (CH87es) (CH97es)"
-    },
     {
       "date": "04-01-2026",
       "time": "21:00",
@@ -809,7 +757,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T22:44:03.642425"
+      "extracted_at": "2026-01-04T22:53:21.445638"
     },
     "hoca": {
       "name": "hoca",
@@ -818,7 +766,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T22:44:04.983796"
+      "extracted_at": "2026-01-04T22:53:22.862756"
     },
     "Caster": {
       "name": "Caster",
@@ -827,7 +775,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T22:44:07.664313"
+      "extracted_at": "2026-01-04T22:53:25.302737"
     },
     "WIGI": {
       "name": "WIGI",
@@ -836,7 +784,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T22:44:10.786465"
+      "extracted_at": "2026-01-04T22:53:33.610382"
     }
   },
   "player_urls": {

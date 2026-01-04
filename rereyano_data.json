@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T16:46:39.500019",
-  "total_events": 92,
+  "last_updated": "2026-01-04T17:14:25.487116",
+  "total_events": 90,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "15:00",
-      "datetime": "04-01-2026 15:00",
-      "league": "Ligue 1",
-      "teams": "Marseille - Nantes",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "04-01-2026 (15:00) Ligue 1 : Marseille - Nantes  (CH20fr) (CH69es) (CH89es) (CH123de)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "15:00",
-      "datetime": "04-01-2026 15:00",
-      "league": "Serie A",
-      "teams": "Fiorentina - Cremonese",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (15:00) Serie A : Fiorentina - Cremonese  (CH137it) (CH97es)"
-    },
     {
       "date": "04-01-2026",
       "time": "16:00",
@@ -1639,7 +1595,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T16:46:12.501586"
+      "extracted_at": "2026-01-04T17:14:17.524973"
     },
     "hoca": {
       "name": "hoca",
@@ -1648,7 +1604,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T16:46:13.985085"
+      "extracted_at": "2026-01-04T17:14:19.001785"
     },
     "Caster": {
       "name": "Caster",
@@ -1657,7 +1613,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T16:46:33.546893"
+      "extracted_at": "2026-01-04T17:14:21.608481"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1666,7 +1622,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T16:46:38.499859"
+      "extracted_at": "2026-01-04T17:14:24.486974"
     }
   },
   "player_urls": {

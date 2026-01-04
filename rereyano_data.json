@@ -1,128 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T20:18:27.010851",
-  "total_events": 65,
+  "last_updated": "2026-01-04T20:43:12.670716",
+  "total_events": 59,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Laliga",
-      "teams": "Alaves - Oviedo",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Laliga : Alaves - Oviedo  (CH5fr) (CH51es) (CH89es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Laliga",
-      "teams": "Majorque - Gérone",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Laliga : Majorque - Gérone  (CH6fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Albacete - Leganes",
-      "channels": [
-        {
-          "id": "54",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Laliga 2 : Albacete - Leganes  (CH54es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Saragosse - Las Palmas",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Laliga 2 : Saragosse - Las Palmas  (CH53es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Premier League",
-      "teams": "Manchester City - Chelsea",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Premier League : Manchester City - Chelsea  (CH11fr) (CH127gb) (CH56es) (CH120de)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "18:30",
-      "datetime": "04-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Damac - Al-Hilal",
-      "channels": [
-        {
-          "id": "50",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (18:30) Saudi Pro League : Damac - Al-Hilal  (CH50es)"
-    },
     {
       "date": "04-01-2026",
       "time": "19:00",
@@ -1141,7 +1025,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T20:18:19.501266"
+      "extracted_at": "2026-01-04T20:43:04.186850"
     },
     "hoca": {
       "name": "hoca",
@@ -1150,7 +1034,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T20:18:20.941805"
+      "extracted_at": "2026-01-04T20:43:05.856175"
     },
     "Caster": {
       "name": "Caster",
@@ -1159,7 +1043,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T20:18:23.554037"
+      "extracted_at": "2026-01-04T20:43:08.778464"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1168,7 +1052,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T20:18:26.010671"
+      "extracted_at": "2026-01-04T20:43:11.670594"
     }
   },
   "player_urls": {

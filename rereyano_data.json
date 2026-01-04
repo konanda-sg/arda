@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-04T19:13:02.720212",
-  "total_events": 72,
+  "last_updated": "2026-01-04T19:28:20.568580",
+  "total_events": 68,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-01-2026",
-      "time": "17:15",
-      "datetime": "04-01-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Multiplex Ligue 1 -",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "04-01-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "17:15",
-      "datetime": "04-01-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Brest - Auxerre",
-      "channels": [
-        {
-          "id": "21",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "04-01-2026 (17:15) Ligue 1 : Brest - Auxerre  (CH21fr) (CH69es) (CH123de)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "17:15",
-      "datetime": "04-01-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Le Havre - Angers",
-      "channels": [
-        {
-          "id": "22",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (17:15) Ligue 1 : Le Havre - Angers  (CH22fr) (CH69es)"
-    },
-    {
-      "date": "04-01-2026",
-      "time": "17:15",
-      "datetime": "04-01-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Lorient - Metz",
-      "channels": [
-        {
-          "id": "23",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-01-2026 (17:15) Ligue 1 : Lorient - Metz  (CH23fr) (CH69es)"
-    },
     {
       "date": "04-01-2026",
       "time": "18:00",
@@ -1259,7 +1187,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-04T19:12:55.027300"
+      "extracted_at": "2026-01-04T19:28:12.758288"
     },
     "hoca": {
       "name": "hoca",
@@ -1268,7 +1196,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T19:12:56.453864"
+      "extracted_at": "2026-01-04T19:28:14.295459"
     },
     "Caster": {
       "name": "Caster",
@@ -1277,7 +1205,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T19:12:59.050061"
+      "extracted_at": "2026-01-04T19:28:16.979176"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1286,7 +1214,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-04T19:13:01.720055"
+      "extracted_at": "2026-01-04T19:28:19.568420"
     }
   },
   "player_urls": {

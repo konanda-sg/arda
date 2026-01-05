@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-05T03:28:11.785535",
-  "total_events": 25,
+  "last_updated": "2026-01-05T04:41:28.788788",
+  "total_events": 22,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "05-01-2026",
-      "time": "01:30",
-      "datetime": "05-01-2026 01:30",
-      "league": "Copa Pacifica",
-      "teams": "Final -",
-      "channels": [
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-01-2026 (01:30) Copa Pacifica : Final -   (CH98es)"
-    },
-    {
-      "date": "05-01-2026",
-      "time": "02:00",
-      "datetime": "05-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Phoenix Suns - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-01-2026 (02:00) NBA : Phoenix Suns - Oklahoma City Thunder  (CH184us)"
-    },
-    {
-      "date": "05-01-2026",
-      "time": "02:20",
-      "datetime": "05-01-2026 02:20",
-      "league": "NFL",
-      "teams": "Pittsburgh Steelers - Baltimore Ravens",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "185",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-01-2026 (02:20) NFL : Pittsburgh Steelers - Baltimore Ravens  (CH3fr) (CH185us) (CH88es) (CH97es)"
-    },
     {
       "date": "05-01-2026",
       "time": "03:00",
@@ -429,7 +375,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-05T03:28:03.488651"
+      "extracted_at": "2026-01-05T04:41:20.694657"
     },
     "hoca": {
       "name": "hoca",
@@ -438,7 +384,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-05T03:28:05.228366"
+      "extracted_at": "2026-01-05T04:41:22.329304"
     },
     "Caster": {
       "name": "Caster",
@@ -447,7 +393,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-05T03:28:08.033049"
+      "extracted_at": "2026-01-05T04:41:25.301653"
     },
     "WIGI": {
       "name": "WIGI",
@@ -456,7 +402,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-05T03:28:10.785416"
+      "extracted_at": "2026-01-05T04:41:27.788638"
     }
   },
   "player_urls": {

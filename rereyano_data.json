@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-05T10:22:29.076270",
+  "last_updated": "2026-01-05T10:51:41.651941",
   "total_events": 20,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -347,15 +347,16 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-05T10:20:54.918241"
+      "extracted_at": "2026-01-05T10:50:37.007955"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": null,
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-01-05T10:21:25.952495"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-01-05T10:50:38.555337"
     },
     "Caster": {
       "name": "Caster",
@@ -363,7 +364,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-05T10:21:57.014559"
+      "extracted_at": "2026-01-05T10:51:09.593107"
     },
     "WIGI": {
       "name": "WIGI",
@@ -371,7 +372,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-05T10:22:28.075905"
+      "extracted_at": "2026-01-05T10:51:40.651803"
     }
   },
   "player_urls": {

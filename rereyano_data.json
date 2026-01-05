@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-05T01:24:50.115951",
-  "total_events": 29,
+  "last_updated": "2026-01-05T03:28:11.785535",
+  "total_events": 25,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "05-01-2026",
-      "time": "00:00",
-      "datetime": "05-01-2026 00:00",
-      "league": "NBA",
-      "teams": "Miami Heat - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-01-2026 (00:00) NBA : Miami Heat - New Orleans Pelicans  (CH180us)"
-    },
-    {
-      "date": "05-01-2026",
-      "time": "00:00",
-      "datetime": "05-01-2026 00:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - Minnesota Timberwolves",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-01-2026 (00:00) NBA : Washington Wizards - Minnesota Timberwolves  (CH1fr) (CH181us)"
-    },
-    {
-      "date": "05-01-2026",
-      "time": "01:00",
-      "datetime": "05-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-01-2026 (01:00) NHL : Chicago Blackhawks - Vegas Golden Knights  (CH182us)"
-    },
-    {
-      "date": "05-01-2026",
-      "time": "01:00",
-      "datetime": "05-01-2026 01:00",
-      "league": "NHL",
-      "teams": "New Jersey Devils - Carolina Hurricanes",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-01-2026 (01:00) NHL : New Jersey Devils - Carolina Hurricanes  (CH183us)"
-    },
     {
       "date": "05-01-2026",
       "time": "01:30",
@@ -489,7 +429,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-05T01:24:35.033477"
+      "extracted_at": "2026-01-05T03:28:03.488651"
     },
     "hoca": {
       "name": "hoca",
@@ -498,7 +438,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-05T01:24:36.544582"
+      "extracted_at": "2026-01-05T03:28:05.228366"
     },
     "Caster": {
       "name": "Caster",
@@ -507,7 +447,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-05T01:24:46.352342"
+      "extracted_at": "2026-01-05T03:28:08.033049"
     },
     "WIGI": {
       "name": "WIGI",
@@ -516,7 +456,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-05T01:24:49.115809"
+      "extracted_at": "2026-01-05T03:28:10.785416"
     }
   },
   "player_urls": {

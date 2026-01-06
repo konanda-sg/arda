@@ -1,78 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-06T22:56:01.853271",
-  "total_events": 21,
+  "last_updated": "2026-01-06T23:17:17.732775",
+  "total_events": 18,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-01-2026",
-      "time": "21:00",
-      "datetime": "06-01-2026 21:00",
-      "league": "Premier League",
-      "teams": "West Ham - Nottingham",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "us"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (21:00) Premier League : West Ham - Nottingham  (CH12fr) (CH127us) (CH56es) (CH120de) (CH138it) (CH87es)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "21:00",
-      "datetime": "06-01-2026 21:00",
-      "league": "Premiership",
-      "teams": "Rangers - Aberdeen",
-      "channels": [
-        {
-          "id": "128",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-01-2026 (21:00) Premiership : Rangers - Aberdeen  (CH128us)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "21:00",
-      "datetime": "06-01-2026 21:00",
-      "league": "Taça Da Liga",
-      "teams": "Sporting - Guimaraes",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (21:00) Taça Da Liga : Sporting - Guimaraes  (CH144pt) (CH99es)"
-    },
     {
       "date": "07-01-2026",
       "time": "01:00",
@@ -357,7 +291,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-06T22:55:52.519799"
+      "extracted_at": "2026-01-06T23:17:09.297243"
     },
     "hoca": {
       "name": "hoca",
@@ -366,7 +300,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T22:55:54.312068"
+      "extracted_at": "2026-01-06T23:17:10.995582"
     },
     "Caster": {
       "name": "Caster",
@@ -375,7 +309,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T22:55:57.350537"
+      "extracted_at": "2026-01-06T23:17:13.964168"
     },
     "WIGI": {
       "name": "WIGI",
@@ -384,7 +318,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T22:56:00.853128"
+      "extracted_at": "2026-01-06T23:17:16.732624"
     }
   },
   "player_urls": {

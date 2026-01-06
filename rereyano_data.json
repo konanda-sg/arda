@@ -1,44 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-06T20:54:31.122981",
-  "total_events": 32,
+  "last_updated": "2026-01-06T21:17:13.145586",
+  "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-01-2026",
-      "time": "19:00",
-      "datetime": "06-01-2026 19:00",
-      "league": "Coupe De Grèce",
-      "teams": "PAOK - Atromitos",
-      "channels": [
-        {
-          "id": "148",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "06-01-2026 (19:00) Coupe De Grèce : PAOK - Atromitos  (CH148gr)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "19:00",
-      "datetime": "06-01-2026 19:00",
-      "league": "Coupe Du Roi",
-      "teams": "Grenade - Vallecano",
-      "channels": [
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "06-01-2026 (19:00) Coupe Du Roi : Grenade - Vallecano  (CH49es) (CH124de)"
-    },
     {
       "date": "06-01-2026",
       "time": "19:30",
@@ -547,7 +515,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-06T20:54:23.915373"
+      "extracted_at": "2026-01-06T21:17:04.768677"
     },
     "hoca": {
       "name": "hoca",
@@ -556,7 +524,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T20:54:25.419557"
+      "extracted_at": "2026-01-06T21:17:06.454189"
     },
     "Caster": {
       "name": "Caster",
@@ -565,7 +533,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T20:54:27.845590"
+      "extracted_at": "2026-01-06T21:17:09.365173"
     },
     "WIGI": {
       "name": "WIGI",
@@ -574,7 +542,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T20:54:30.122828"
+      "extracted_at": "2026-01-06T21:17:12.145443"
     }
   },
   "player_urls": {

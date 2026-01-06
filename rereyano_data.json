@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-06T05:48:35.004673",
-  "total_events": 3,
+  "last_updated": "2026-01-06T06:27:53.415145",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-01-2026",
-      "time": "04:00",
-      "datetime": "06-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Golden State Warriors",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (04:00) NBA : Los Angeles Clippers - Golden State Warriors  (CH1fr) (CH170us) (CH75es)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "04:00",
-      "datetime": "06-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Utah Jazz",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-01-2026 (04:00) NBA : Portland Trail Blazers - Utah Jazz  (CH171us)"
-    },
     {
       "date": "06-01-2026",
       "time": "04:30",
@@ -65,7 +29,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-06T05:48:26.721160"
+      "extracted_at": "2026-01-06T06:27:45.974509"
     },
     "hoca": {
       "name": "hoca",
@@ -74,7 +38,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T05:48:28.463564"
+      "extracted_at": "2026-01-06T06:27:47.626069"
     },
     "Caster": {
       "name": "Caster",
@@ -83,7 +47,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T05:48:31.379215"
+      "extracted_at": "2026-01-06T06:27:49.923743"
     },
     "WIGI": {
       "name": "WIGI",
@@ -92,7 +56,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T05:48:34.004524"
+      "extracted_at": "2026-01-06T06:27:52.414989"
     }
   },
   "player_urls": {

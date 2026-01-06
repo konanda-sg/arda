@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-06T06:27:53.415145",
-  "total_events": 1,
+  "last_updated": "2026-01-06T06:59:10.495266",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "06-01-2026",
-      "time": "04:30",
-      "datetime": "06-01-2026 04:30",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Minnesota Wild",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-01-2026 (04:30) NHL : Los Angeles Kings - Minnesota Wild  (CH172us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-06T06:27:45.974509"
+      "extracted_at": "2026-01-06T06:59:02.389369"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T06:27:47.626069"
+      "extracted_at": "2026-01-06T06:59:04.093555"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T06:27:49.923743"
+      "extracted_at": "2026-01-06T06:59:06.947103"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T06:27:52.414989"
+      "extracted_at": "2026-01-06T06:59:09.495148"
     }
   },
   "player_urls": {

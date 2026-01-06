@@ -1,98 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-06T21:52:51.392275",
-  "total_events": 29,
+  "last_updated": "2026-01-06T22:17:21.578581",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-01-2026",
-      "time": "20:00",
-      "datetime": "06-01-2026 20:00",
-      "league": "CAN",
-      "teams": "Cote d'Ivoire - Burkina Faso",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (20:00) CAN : Cote d'Ivoire - Burkina Faso  (CH1fr) (CH61es) (CH125de) (CH82es) (CH69es)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "20:00",
-      "datetime": "06-01-2026 20:00",
-      "league": "EuroLeague",
-      "teams": "Lyon-Villeurbanne - Real Madrid",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (20:00) EuroLeague : Lyon-Villeurbanne - Real Madrid  (CH62es)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "20:00",
-      "datetime": "06-01-2026 20:00",
-      "league": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Valence",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (20:00) EuroLeague : Étoile Rouge Belgrade - Valence  (CH64es)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "20:05",
-      "datetime": "06-01-2026 20:05",
-      "league": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Dubai",
-      "channels": [
-        {
-          "id": "66",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (20:05) EuroLeague : Hapoel Tel-Aviv - Dubai  (CH66es)"
-    },
-    {
-      "date": "06-01-2026",
-      "time": "20:15",
-      "datetime": "06-01-2026 20:15",
-      "league": "EuroLeague",
-      "teams": "Panathinaikos - Milano",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-01-2026 (20:15) EuroLeague : Panathinaikos - Milano  (CH160es)"
-    },
     {
       "date": "06-01-2026",
       "time": "20:30",
@@ -501,7 +415,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-06T21:52:43.528870"
+      "extracted_at": "2026-01-06T22:17:14.397820"
     },
     "hoca": {
       "name": "hoca",
@@ -510,7 +424,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T21:52:45.133239"
+      "extracted_at": "2026-01-06T22:17:15.831837"
     },
     "Caster": {
       "name": "Caster",
@@ -519,7 +433,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T21:52:47.886853"
+      "extracted_at": "2026-01-06T22:17:18.247286"
     },
     "WIGI": {
       "name": "WIGI",
@@ -528,7 +442,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-06T21:52:50.392137"
+      "extracted_at": "2026-01-06T22:17:20.578438"
     }
   },
   "player_urls": {

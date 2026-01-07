@@ -1,82 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-07T20:20:02.711795",
-  "total_events": 35,
+  "last_updated": "2026-01-07T20:46:44.422642",
+  "total_events": 32,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-01-2026",
-      "time": "18:30",
-      "datetime": "07-01-2026 18:30",
-      "league": "EuroLeague",
-      "teams": "Anadolu Efes - Paris",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-01-2026 (18:30) EuroLeague : Anadolu Efes - Paris  (CH62es)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "18:30",
-      "datetime": "07-01-2026 18:30",
-      "league": "Serie A",
-      "teams": "Bologne - Atalanta",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "07-01-2026 (18:30) Serie A : Bologne - Atalanta  (CH138it) (CH88es) (CH124de)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "18:30",
-      "datetime": "07-01-2026 18:30",
-      "league": "Serie A",
-      "teams": "Naples - Hellas Vérone",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "07-01-2026 (18:30) Serie A : Naples - Hellas Vérone  (CH45fr) (CH137it) (CH87es) (CH98es) (CH70es) (CH123de)"
-    },
     {
       "date": "07-01-2026",
       "time": "20:00",
@@ -705,7 +635,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-07T20:19:55.033774"
+      "extracted_at": "2026-01-07T20:46:37.285831"
     },
     "hoca": {
       "name": "hoca",
@@ -714,7 +644,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T20:19:56.486332"
+      "extracted_at": "2026-01-07T20:46:38.706384"
     },
     "Caster": {
       "name": "Caster",
@@ -723,7 +653,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T20:19:58.981839"
+      "extracted_at": "2026-01-07T20:46:40.788577"
     },
     "WIGI": {
       "name": "WIGI",
@@ -732,7 +662,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T20:20:01.711673"
+      "extracted_at": "2026-01-07T20:46:43.422466"
     }
   },
   "player_urls": {

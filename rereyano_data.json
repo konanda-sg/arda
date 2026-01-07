@@ -1,126 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-07T03:13:34.522530",
-  "total_events": 12,
+  "last_updated": "2026-01-07T04:10:55.788233",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-01-2026",
-      "time": "01:30",
-      "datetime": "07-01-2026 01:30",
-      "league": "NHL",
-      "teams": "New York Islanders - New Jersey Devils",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-01-2026 (01:30) NHL : New York Islanders - New Jersey Devils  (CH190us)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "01:30",
-      "datetime": "07-01-2026 01:30",
-      "league": "NHL",
-      "teams": "Toronto Maple Leafs - Florida Panthers",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-01-2026 (01:30) NHL : Toronto Maple Leafs - Florida Panthers  (CH191us) (CH89es)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "02:00",
-      "datetime": "07-01-2026 02:00",
-      "league": "Liga Mx Women",
-      "teams": "Atlas F - Pachuca F",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-01-2026 (02:00) Liga Mx Women : Atlas F - Pachuca F  (CH158es)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "02:00",
-      "datetime": "07-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-01-2026 (02:00) NBA : Memphis Grizzlies - San Antonio Spurs  (CH182us) (CH156es)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "02:00",
-      "datetime": "07-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Miami Heat",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-01-2026 (02:00) NBA : Minnesota Timberwolves - Miami Heat  (CH1fr) (CH183us)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "02:00",
-      "datetime": "07-01-2026 02:00",
-      "league": "NBA",
-      "teams": "New Orleans Pelicans - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-01-2026 (02:00) NBA : New Orleans Pelicans - Los Angeles Lakers  (CH184us) (CH155es)"
-    },
-    {
-      "date": "07-01-2026",
-      "time": "02:00",
-      "datetime": "07-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Winnipeg Jets - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-01-2026 (02:00) NHL : Winnipeg Jets - Vegas Golden Knights  (CH192us)"
-    },
     {
       "date": "07-01-2026",
       "time": "03:00",
@@ -207,7 +93,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-07T03:13:27.242549"
+      "extracted_at": "2026-01-07T04:10:47.196775"
     },
     "hoca": {
       "name": "hoca",
@@ -216,7 +102,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T03:13:28.795011"
+      "extracted_at": "2026-01-07T04:10:48.924292"
     },
     "Caster": {
       "name": "Caster",
@@ -225,7 +111,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T03:13:31.101673"
+      "extracted_at": "2026-01-07T04:10:51.657225"
     },
     "WIGI": {
       "name": "WIGI",
@@ -234,7 +120,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T03:13:33.522378"
+      "extracted_at": "2026-01-07T04:10:54.788066"
     }
   },
   "player_urls": {

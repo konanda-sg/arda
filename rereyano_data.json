@@ -1,12 +1,703 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-07T16:24:30.409894",
-  "total_events": 0,
+  "last_updated": "2026-01-07T16:55:35.173091",
+  "total_events": 35,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "07-01-2026",
+      "time": "18:30",
+      "datetime": "07-01-2026 18:30",
+      "league": "EuroLeague",
+      "teams": "Anadolu Efes - Paris",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (18:30) EuroLeague : Anadolu Efes - Paris  (CH62es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "18:30",
+      "datetime": "07-01-2026 18:30",
+      "league": "Serie A",
+      "teams": "Bologne - Atalanta",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (18:30) Serie A : Bologne - Atalanta  (CH138it) (CH88es) (CH124de)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "18:30",
+      "datetime": "07-01-2026 18:30",
+      "league": "Serie A",
+      "teams": "Naples - Hellas Vérone",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (18:30) Serie A : Naples - Hellas Vérone  (CH45fr) (CH137it) (CH87es) (CH98es) (CH70es) (CH123de)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:00",
+      "datetime": "07-01-2026 20:00",
+      "league": "Supercopa",
+      "teams": "Barcelone - Ath. Bilbao",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:00) Supercopa : Barcelone - Ath. Bilbao  (CH45fr) (CH49es) (CH71es) (CH81es) (CH125de)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Bayern - Baskonia",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) EuroLeague : Bayern - Baskonia  (CH55es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Multiplex Premier League -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Multiplex Premier League -   (CH14fr)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Bournemouth - Tottenham",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "131",
+          "lang": "us"
+        },
+        {
+          "id": "58",
+          "lang": "es"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Bournemouth - Tottenham  (CH35fr) (CH131us) (CH58es) (CH113de) (CH89es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Brentford - Sunderland",
+      "channels": [
+        {
+          "id": "39",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "us"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Brentford - Sunderland  (CH39fr) (CH130us) (CH162es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Crystal Palace - Aston Villa",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "133",
+          "lang": "us"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Crystal Palace - Aston Villa  (CH37fr) (CH133us) (CH59es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Everton - Wolves",
+      "channels": [
+        {
+          "id": "38",
+          "lang": "fr"
+        },
+        {
+          "id": "134",
+          "lang": "us"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Everton - Wolves  (CH38fr) (CH134us) (CH163es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Fulham - Chelsea",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "128",
+          "lang": "us"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Fulham - Chelsea  (CH34fr) (CH128us) (CH57es) (CH112de) (CH87es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:30",
+      "datetime": "07-01-2026 20:30",
+      "league": "Premier League",
+      "teams": "Manchester City - Brighton",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:30) Premier League : Manchester City - Brighton  (CH36fr) (CH127us) (CH56es) (CH111de) (CH88es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:45",
+      "datetime": "07-01-2026 20:45",
+      "league": "Serie A",
+      "teams": "Lazio - Fiorentina",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:45) Serie A : Lazio - Fiorentina  (CH45fr) (CH137it) (CH124de)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:45",
+      "datetime": "07-01-2026 20:45",
+      "league": "Serie A",
+      "teams": "Parme - Inter",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:45) Serie A : Parme - Inter  (CH138it) (CH98es) (CH70es) (CH123de)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "20:45",
+      "datetime": "07-01-2026 20:45",
+      "league": "Serie A",
+      "teams": "Torino - Udinese",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        }
+      ],
+      "raw_line": "07-01-2026 (20:45) Serie A : Torino - Udinese  (CH139it)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "21:00",
+      "datetime": "07-01-2026 21:00",
+      "league": "Taça Da Liga",
+      "teams": "Benfica - Braga",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-01-2026 (21:00) Taça Da Liga : Benfica - Braga  (CH144pt) (CH99es)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "21:15",
+      "datetime": "07-01-2026 21:15",
+      "league": "Premier League",
+      "teams": "Burnley - Manchester Utd",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "160",
+          "lang": "es"
+        },
+        {
+          "id": "117",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (21:15) Premier League : Burnley - Manchester Utd  (CH12fr) (CH129us) (CH160es) (CH117de)"
+    },
+    {
+      "date": "07-01-2026",
+      "time": "21:15",
+      "datetime": "07-01-2026 21:15",
+      "league": "Premier League",
+      "teams": "Newcastle - Leeds",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "132",
+          "lang": "us"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "119",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "07-01-2026 (21:15) Premier League : Newcastle - Leeds  (CH14fr) (CH132us) (CH161es) (CH119de)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:00",
+      "datetime": "08-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Boston Celtics - Denver Nuggets",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:00) NBA : Boston Celtics - Denver Nuggets  (CH1fr) (CH180us) (CH155es) (CH97es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:00",
+      "datetime": "08-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Toronto Raptors",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:00) NBA : Charlotte Hornets - Toronto Raptors  (CH181us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:00",
+      "datetime": "08-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Chicago Bulls",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:00) NBA : Detroit Pistons - Chicago Bulls  (CH182us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:00",
+      "datetime": "08-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Washington Wizards",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:00) NBA : Philadelphia 76ers - Washington Wizards  (CH183us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:00",
+      "datetime": "08-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Washington Capitals - Dallas Stars",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "192",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:00) NHL : Washington Capitals - Dallas Stars  (CH5fr) (CH192us) (CH89es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:30",
+      "datetime": "08-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - New Orleans Pelicans",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:30) NBA : Atlanta Hawks - New Orleans Pelicans  (CH184us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:30",
+      "datetime": "08-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Orlando Magic",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:30) NBA : Brooklyn Nets - Orlando Magic  (CH185us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:30",
+      "datetime": "08-01-2026 01:30",
+      "league": "NBA",
+      "teams": "New York Knicks - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:30) NBA : New York Knicks - Los Angeles Clippers  (CH186us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "01:30",
+      "datetime": "08-01-2026 01:30",
+      "league": "NHL",
+      "teams": "Montreal Canadiens - Calgary Flames",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (01:30) NHL : Montreal Canadiens - Calgary Flames  (CH193us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "02:00",
+      "datetime": "08-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Phoenix Suns",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (02:00) NBA : Memphis Grizzlies - Phoenix Suns  (CH187us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "02:00",
+      "datetime": "08-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Utah Jazz",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (02:00) NBA : Oklahoma City Thunder - Utah Jazz  (CH188us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "03:30",
+      "datetime": "08-01-2026 03:30",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (03:30) NBA : San Antonio Spurs - Los Angeles Lakers  (CH189us) (CH156es) (CH97es) (CH88es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "03:30",
+      "datetime": "08-01-2026 03:30",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - St. Louis Blues",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (03:30) NHL : Chicago Blackhawks - St. Louis Blues  (CH194us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "03:30",
+      "datetime": "08-01-2026 03:30",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Ottawa Senators",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (03:30) NHL : Utah Mammoth - Ottawa Senators  (CH195us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "04:00",
+      "datetime": "08-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (04:00) NBA : Golden State Warriors - Milwaukee Bucks  (CH190us) (CH88es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "04:00",
+      "datetime": "08-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Houston Rockets",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (04:00) NBA : Portland Trail Blazers - Houston Rockets  (CH191us)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "04:30",
+      "datetime": "08-01-2026 04:30",
+      "league": "NHL",
+      "teams": "Los Angeles Kings - San Jose Sharks",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "08-01-2026 (04:30) NHL : Los Angeles Kings - San Jose Sharks  (CH196us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +705,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-07T16:24:23.158943"
+      "extracted_at": "2026-01-07T16:55:26.861931"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +714,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T16:24:24.604751"
+      "extracted_at": "2026-01-07T16:55:28.272902"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +723,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T16:24:27.077537"
+      "extracted_at": "2026-01-07T16:55:31.382486"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +732,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-07T16:24:29.409746"
+      "extracted_at": "2026-01-07T16:55:34.172980"
     }
   },
   "player_urls": {

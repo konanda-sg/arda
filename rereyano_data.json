@@ -1,102 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T01:19:31.628300",
-  "total_events": 17,
+  "last_updated": "2026-01-08T03:13:44.979292",
+  "total_events": 12,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-01-2026",
-      "time": "01:00",
-      "datetime": "08-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Boston Celtics - Denver Nuggets",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (01:00) NBA : Boston Celtics - Denver Nuggets  (CH1fr) (CH180us) (CH155es) (CH97es)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "01:00",
-      "datetime": "08-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Charlotte Hornets - Toronto Raptors",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-01-2026 (01:00) NBA : Charlotte Hornets - Toronto Raptors  (CH181us)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "01:00",
-      "datetime": "08-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Chicago Bulls",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-01-2026 (01:00) NBA : Detroit Pistons - Chicago Bulls  (CH182us)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "01:00",
-      "datetime": "08-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - Washington Wizards",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-01-2026 (01:00) NBA : Philadelphia 76ers - Washington Wizards  (CH183us)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "01:00",
-      "datetime": "08-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Washington Capitals - Dallas Stars",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "192",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (01:00) NHL : Washington Capitals - Dallas Stars  (CH5fr) (CH192us) (CH89es)"
-    },
     {
       "date": "08-01-2026",
       "time": "01:30",
@@ -289,7 +199,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T01:19:23.052296"
+      "extracted_at": "2026-01-08T03:13:35.154492"
     },
     "hoca": {
       "name": "hoca",
@@ -298,7 +208,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T01:19:24.737519"
+      "extracted_at": "2026-01-08T03:13:38.392646"
     },
     "Caster": {
       "name": "Caster",
@@ -307,7 +217,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T01:19:27.541613"
+      "extracted_at": "2026-01-08T03:13:41.321968"
     },
     "WIGI": {
       "name": "WIGI",
@@ -316,7 +226,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T01:19:30.628121"
+      "extracted_at": "2026-01-08T03:13:43.979113"
     }
   },
   "player_urls": {

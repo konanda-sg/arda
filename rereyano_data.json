@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T21:52:53.929393",
-  "total_events": 12,
+  "last_updated": "2026-01-08T22:17:28.115266",
+  "total_events": 10,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-01-2026",
-      "time": "20:00",
-      "datetime": "08-01-2026 20:00",
-      "league": "Supercopa",
-      "teams": "Atl. Madrid - Real Madrid",
-      "channels": [
-        {
-          "id": "46",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "08-01-2026 (20:00) Supercopa : Atl. Madrid - Real Madrid  (CH46fr) (CH49es) (CH81es) (CH71es) (CH125de)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "20:15",
-      "datetime": "08-01-2026 20:15",
-      "league": "EuroLeague",
-      "teams": "Panathinaikos - Virtus Bologna",
-      "channels": [
-        {
-          "id": "63",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (20:15) EuroLeague : Panathinaikos - Virtus Bologna  (CH63es)"
-    },
     {
       "date": "08-01-2026",
       "time": "20:30",
@@ -239,7 +195,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T21:52:46.663593"
+      "extracted_at": "2026-01-08T22:17:19.744272"
     },
     "hoca": {
       "name": "hoca",
@@ -248,7 +204,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T21:52:48.132259"
+      "extracted_at": "2026-01-08T22:17:21.424850"
     },
     "Caster": {
       "name": "Caster",
@@ -257,7 +213,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T21:52:50.701213"
+      "extracted_at": "2026-01-08T22:17:24.266737"
     },
     "WIGI": {
       "name": "WIGI",
@@ -266,7 +222,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T21:52:52.929211"
+      "extracted_at": "2026-01-08T22:17:27.115125"
     }
   },
   "player_urls": {

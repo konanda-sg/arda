@@ -1,44 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T05:48:20.774479",
-  "total_events": 3,
+  "last_updated": "2026-01-08T06:27:56.650246",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-01-2026",
-      "time": "04:00",
-      "datetime": "08-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (04:00) NBA : Golden State Warriors - Milwaukee Bucks  (CH190us) (CH88es)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "04:00",
-      "datetime": "08-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Houston Rockets",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-01-2026 (04:00) NBA : Portland Trail Blazers - Houston Rockets  (CH191us)"
-    },
     {
       "date": "08-01-2026",
       "time": "04:30",
@@ -61,7 +29,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T05:48:12.594647"
+      "extracted_at": "2026-01-08T06:27:49.200242"
     },
     "hoca": {
       "name": "hoca",
@@ -70,7 +38,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T05:48:13.980172"
+      "extracted_at": "2026-01-08T06:27:50.805729"
     },
     "Caster": {
       "name": "Caster",
@@ -79,7 +47,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T05:48:17.063931"
+      "extracted_at": "2026-01-08T06:27:53.256003"
     },
     "WIGI": {
       "name": "WIGI",
@@ -88,7 +56,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T05:48:19.774335"
+      "extracted_at": "2026-01-08T06:27:55.650093"
     }
   },
   "player_urls": {

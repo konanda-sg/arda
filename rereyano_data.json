@@ -1,12 +1,335 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T07:24:45.022810",
-  "total_events": 0,
+  "last_updated": "2026-01-08T07:44:32.833264",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "08-01-2026",
+      "time": "15:55",
+      "datetime": "08-01-2026 15:55",
+      "league": "Saudi Pro League",
+      "teams": "Al-Hilal - Al Hazem",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "08-01-2026 (15:55) Saudi Pro League : Al-Hilal - Al Hazem  (CH55es) (CH70es) (CH124de)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "17:00",
+      "datetime": "08-01-2026 17:00",
+      "league": "EuroLeague",
+      "teams": "Dubai - Fenerbahce",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (17:00) EuroLeague : Dubai - Fenerbahce  (CH62es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "18:30",
+      "datetime": "08-01-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al-Nassr - Al Qadsiah",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (18:30) Saudi Pro League : Al-Nassr - Al Qadsiah  (CH61es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "18:30",
+      "datetime": "08-01-2026 18:30",
+      "league": "Serie A",
+      "teams": "Cremonese - Cagliari",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (18:30) Serie A : Cremonese - Cagliari  (CH137it) (CH123de) (CH98es) (CH70es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "19:00",
+      "datetime": "08-01-2026 19:00",
+      "league": "Trophée Des Champions",
+      "teams": "PSG - Marseille",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "08-01-2026 (19:00) Trophée Des Champions : PSG - Marseille  (CH20fr) (CH88es) (CH69es) (CH124de)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "20:00",
+      "datetime": "08-01-2026 20:00",
+      "league": "Supercopa",
+      "teams": "Atl. Madrid - Real Madrid",
+      "channels": [
+        {
+          "id": "46",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (20:00) Supercopa : Atl. Madrid - Real Madrid  (CH46fr) (CH49es) (CH81es) (CH71es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "20:15",
+      "datetime": "08-01-2026 20:15",
+      "league": "EuroLeague",
+      "teams": "Panathinaikos - Virtus Bologna",
+      "channels": [
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (20:15) EuroLeague : Panathinaikos - Virtus Bologna  (CH63es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "20:30",
+      "datetime": "08-01-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Valence - Monaco",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (20:30) EuroLeague : Valence - Monaco  (CH55es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "20:45",
+      "datetime": "08-01-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Real Madrid - Maccabi Tel Aviv",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (20:45) EuroLeague : Real Madrid - Maccabi Tel Aviv  (CH62es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "20:45",
+      "datetime": "08-01-2026 20:45",
+      "league": "Serie A",
+      "teams": "AC Milan - Genoa",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (20:45) Serie A : AC Milan - Genoa  (CH45fr) (CH137it) (CH123de) (CH98es) (CH89es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "21:00",
+      "datetime": "08-01-2026 21:00",
+      "league": "Premier League",
+      "teams": "Arsenal - Liverpool",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-01-2026 (21:00) Premier League : Arsenal - Liverpool  (CH12fr) (CH14fr) (CH127gb) (CH56es) (CH120de) (CH87es)"
+    },
+    {
+      "date": "08-01-2026",
+      "time": "21:00",
+      "datetime": "08-01-2026 21:00",
+      "league": "Pro D2",
+      "teams": "Provence Rugby - FC Grenoble",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "08-01-2026 (21:00) Pro D2 : Provence Rugby - FC Grenoble  (CH13fr)"
+    },
+    {
+      "date": "09-01-2026",
+      "time": "01:00",
+      "datetime": "09-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Indiana Pacers",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-01-2026 (01:00) NBA : Charlotte Hornets - Indiana Pacers  (CH160us)"
+    },
+    {
+      "date": "09-01-2026",
+      "time": "01:00",
+      "datetime": "09-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Montreal Canadiens - Florida Panthers",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "09-01-2026 (01:00) NHL : Montreal Canadiens - Florida Panthers  (CH5fr)"
+    },
+    {
+      "date": "09-01-2026",
+      "time": "02:00",
+      "datetime": "09-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Miami Heat",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-01-2026 (02:00) NBA : Chicago Bulls - Miami Heat  (CH161us)"
+    },
+    {
+      "date": "09-01-2026",
+      "time": "02:00",
+      "datetime": "09-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-01-2026 (02:00) NBA : Minnesota Timberwolves - Cleveland Cavaliers  (CH1fr) (CH162us)"
+    },
+    {
+      "date": "09-01-2026",
+      "time": "03:00",
+      "datetime": "09-01-2026 03:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-01-2026 (03:00) NBA : Utah Jazz - Dallas Mavericks  (CH163us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +337,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T07:24:37.619162"
+      "extracted_at": "2026-01-08T07:44:24.351333"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +346,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T07:24:39.227673"
+      "extracted_at": "2026-01-08T07:44:26.216734"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +355,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T07:24:41.758649"
+      "extracted_at": "2026-01-08T07:44:29.145462"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +364,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T07:24:44.022664"
+      "extracted_at": "2026-01-08T07:44:31.833139"
     }
   },
   "player_urls": {

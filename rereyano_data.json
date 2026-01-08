@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T05:21:21.579218",
-  "total_events": 6,
+  "last_updated": "2026-01-08T05:48:20.774479",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-01-2026",
-      "time": "03:30",
-      "datetime": "08-01-2026 03:30",
-      "league": "NBA",
-      "teams": "San Antonio Spurs - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (03:30) NBA : San Antonio Spurs - Los Angeles Lakers  (CH189us) (CH156es) (CH97es) (CH88es)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "03:30",
-      "datetime": "08-01-2026 03:30",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - St. Louis Blues",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-01-2026 (03:30) NHL : Chicago Blackhawks - St. Louis Blues  (CH194us)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "03:30",
-      "datetime": "08-01-2026 03:30",
-      "league": "NHL",
-      "teams": "Utah Mammoth - Ottawa Senators",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-01-2026 (03:30) NHL : Utah Mammoth - Ottawa Senators  (CH195us)"
-    },
     {
       "date": "08-01-2026",
       "time": "04:00",
@@ -115,7 +61,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T05:21:12.894462"
+      "extracted_at": "2026-01-08T05:48:12.594647"
     },
     "hoca": {
       "name": "hoca",
@@ -124,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T05:21:14.575886"
+      "extracted_at": "2026-01-08T05:48:13.980172"
     },
     "Caster": {
       "name": "Caster",
@@ -133,7 +79,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T05:21:17.451606"
+      "extracted_at": "2026-01-08T05:48:17.063931"
     },
     "WIGI": {
       "name": "WIGI",
@@ -142,7 +88,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T05:21:20.579104"
+      "extracted_at": "2026-01-08T05:48:19.774335"
     }
   },
   "player_urls": {

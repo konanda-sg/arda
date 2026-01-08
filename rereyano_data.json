@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T20:20:14.530957",
-  "total_events": 15,
+  "last_updated": "2026-01-08T20:45:29.393365",
+  "total_events": 13,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-01-2026",
-      "time": "18:30",
-      "datetime": "08-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Al-Nassr - Al Qadsiah",
-      "channels": [
-        {
-          "id": "61",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (18:30) Saudi Pro League : Al-Nassr - Al Qadsiah  (CH61es)"
-    },
-    {
-      "date": "08-01-2026",
-      "time": "18:30",
-      "datetime": "08-01-2026 18:30",
-      "league": "Serie A",
-      "teams": "Cremonese - Cagliari",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (18:30) Serie A : Cremonese - Cagliari  (CH137it) (CH123de) (CH98es) (CH70es)"
-    },
     {
       "date": "08-01-2026",
       "time": "19:00",
@@ -305,7 +265,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T20:20:08.446638"
+      "extracted_at": "2026-01-08T20:45:23.810933"
     },
     "hoca": {
       "name": "hoca",
@@ -314,7 +274,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T20:20:09.979686"
+      "extracted_at": "2026-01-08T20:45:25.092680"
     },
     "Caster": {
       "name": "Caster",
@@ -323,7 +283,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T20:20:11.648547"
+      "extracted_at": "2026-01-08T20:45:26.830022"
     },
     "WIGI": {
       "name": "WIGI",
@@ -332,7 +292,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T20:20:13.530804"
+      "extracted_at": "2026-01-08T20:45:28.393210"
     }
   },
   "player_urls": {

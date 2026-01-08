@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-08T18:52:46.739308",
-  "total_events": 16,
+  "last_updated": "2026-01-08T19:17:23.842092",
+  "total_events": 15,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-01-2026",
-      "time": "17:00",
-      "datetime": "08-01-2026 17:00",
-      "league": "EuroLeague",
-      "teams": "Dubai - Fenerbahce",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-01-2026 (17:00) EuroLeague : Dubai - Fenerbahce  (CH62es)"
-    },
     {
       "date": "08-01-2026",
       "time": "18:30",
@@ -109,9 +95,13 @@
         {
           "id": "71",
           "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
         }
       ],
-      "raw_line": "08-01-2026 (20:00) Supercopa : Atl. Madrid - Real Madrid  (CH46fr) (CH49es) (CH81es) (CH71es)"
+      "raw_line": "08-01-2026 (20:00) Supercopa : Atl. Madrid - Real Madrid  (CH46fr) (CH49es) (CH81es) (CH71es) (CH125de)"
     },
     {
       "date": "08-01-2026",
@@ -315,7 +305,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-08T18:52:40.079646"
+      "extracted_at": "2026-01-08T19:17:18.430591"
     },
     "hoca": {
       "name": "hoca",
@@ -324,7 +314,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T18:52:41.405940"
+      "extracted_at": "2026-01-08T19:17:19.752233"
     },
     "Caster": {
       "name": "Caster",
@@ -333,7 +323,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T18:52:43.706871"
+      "extracted_at": "2026-01-08T19:17:21.325204"
     },
     "WIGI": {
       "name": "WIGI",
@@ -342,7 +332,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-08T18:52:45.739167"
+      "extracted_at": "2026-01-08T19:17:22.841948"
     }
   },
   "player_urls": {

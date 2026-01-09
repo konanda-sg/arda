@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-09T21:51:36.854702",
-  "total_events": 34,
+  "last_updated": "2026-01-09T22:17:38.377436",
+  "total_events": 31,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-01-2026",
-      "time": "20:00",
-      "datetime": "09-01-2026 20:00",
-      "league": "CAN",
-      "teams": "Cameroun - Maroc",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "09-01-2026 (20:00) CAN : Cameroun - Maroc  (CH1fr) (CH55es) (CH61es) (CH82es) (CH69es) (CH125de)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "20:00",
-      "datetime": "09-01-2026 20:00",
-      "league": "Eredivisie",
-      "teams": "Nijmegen - Utrecht",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "09-01-2026 (20:00) Eredivisie : Nijmegen - Utrecht  (CH142nl)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "20:15",
-      "datetime": "09-01-2026 20:15",
-      "league": "EuroLeague",
-      "teams": "Olympiakos - Bayern",
-      "channels": [
-        {
-          "id": "66",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-01-2026 (20:15) EuroLeague : Olympiakos - Bayern  (CH66es)"
-    },
     {
       "date": "09-01-2026",
       "time": "20:30",
@@ -559,7 +497,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-09T21:51:28.751419"
+      "extracted_at": "2026-01-09T22:17:29.987291"
     },
     "hoca": {
       "name": "hoca",
@@ -568,7 +506,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T21:51:30.231149"
+      "extracted_at": "2026-01-09T22:17:31.712766"
     },
     "Caster": {
       "name": "Caster",
@@ -577,7 +515,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T21:51:33.155603"
+      "extracted_at": "2026-01-09T22:17:34.428373"
     },
     "WIGI": {
       "name": "WIGI",
@@ -586,7 +524,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T21:51:35.854558"
+      "extracted_at": "2026-01-09T22:17:37.377294"
     }
   },
   "player_urls": {

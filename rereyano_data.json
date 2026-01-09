@@ -1,80 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-09T22:54:50.440233",
-  "total_events": 22,
+  "last_updated": "2026-01-09T23:16:57.772362",
+  "total_events": 18,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-01-2026",
-      "time": "21:00",
-      "datetime": "09-01-2026 21:00",
-      "league": "Champions Cup",
-      "teams": "Castres Olympique - Bath",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-01-2026 (21:00) Champions Cup : Castres Olympique - Bath  (CH3fr)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "21:00",
-      "datetime": "09-01-2026 21:00",
-      "league": "Champions Cup",
-      "teams": "Edinburgh - Gloucester",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-01-2026 (21:00) Champions Cup : Edinburgh - Gloucester  (CH6fr)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "21:00",
-      "datetime": "09-01-2026 21:00",
-      "league": "Laliga",
-      "teams": "Getafe - Real Sociedad",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "96",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-01-2026 (21:00) Laliga : Getafe - Real Sociedad  (CH7fr) (CH51es) (CH124de) (CH96es)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "21:00",
-      "datetime": "09-01-2026 21:00",
-      "league": "Pro D2",
-      "teams": "CA Brive - Biarritz Olympique",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-01-2026 (21:00) Pro D2 : CA Brive - Biarritz Olympique  (CH13fr)"
-    },
     {
       "date": "10-01-2026",
       "time": "01:00",
@@ -347,7 +279,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-09T22:54:43.058625"
+      "extracted_at": "2026-01-09T23:16:50.206888"
     },
     "hoca": {
       "name": "hoca",
@@ -356,7 +288,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T22:54:44.533864"
+      "extracted_at": "2026-01-09T23:16:51.785648"
     },
     "Caster": {
       "name": "Caster",
@@ -365,7 +297,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T22:54:47.026205"
+      "extracted_at": "2026-01-09T23:16:54.273172"
     },
     "WIGI": {
       "name": "WIGI",
@@ -374,7 +306,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T22:54:49.440054"
+      "extracted_at": "2026-01-09T23:16:56.772211"
     }
   },
   "player_urls": {

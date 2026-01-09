@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-09T01:19:24.806938",
-  "total_events": 5,
+  "last_updated": "2026-01-09T03:14:29.071657",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-01-2026",
-      "time": "01:00",
-      "datetime": "09-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Charlotte Hornets - Indiana Pacers",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-01-2026 (01:00) NBA : Charlotte Hornets - Indiana Pacers  (CH160us)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "01:00",
-      "datetime": "09-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Montreal Canadiens - Florida Panthers",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-01-2026 (01:00) NHL : Montreal Canadiens - Florida Panthers  (CH5fr)"
-    },
     {
       "date": "09-01-2026",
       "time": "02:00",
@@ -89,7 +61,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-09T01:19:17.226534"
+      "extracted_at": "2026-01-09T03:14:21.452214"
     },
     "hoca": {
       "name": "hoca",
@@ -98,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T01:19:18.798563"
+      "extracted_at": "2026-01-09T03:14:23.180796"
     },
     "Caster": {
       "name": "Caster",
@@ -107,7 +79,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T01:19:21.242344"
+      "extracted_at": "2026-01-09T03:14:25.961487"
     },
     "WIGI": {
       "name": "WIGI",
@@ -116,7 +88,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T01:19:23.806778"
+      "extracted_at": "2026-01-09T03:14:28.071513"
     }
   },
   "player_urls": {

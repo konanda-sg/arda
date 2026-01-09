@@ -1,44 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-09T03:14:29.071657",
-  "total_events": 3,
+  "last_updated": "2026-01-09T04:10:50.444599",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-01-2026",
-      "time": "02:00",
-      "datetime": "09-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Miami Heat",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-01-2026 (02:00) NBA : Chicago Bulls - Miami Heat  (CH161us)"
-    },
-    {
-      "date": "09-01-2026",
-      "time": "02:00",
-      "datetime": "09-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-01-2026 (02:00) NBA : Minnesota Timberwolves - Cleveland Cavaliers  (CH1fr) (CH162us)"
-    },
     {
       "date": "09-01-2026",
       "time": "03:00",
@@ -61,7 +29,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-09T03:14:21.452214"
+      "extracted_at": "2026-01-09T04:10:43.067823"
     },
     "hoca": {
       "name": "hoca",
@@ -70,7 +38,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T03:14:23.180796"
+      "extracted_at": "2026-01-09T04:10:44.546900"
     },
     "Caster": {
       "name": "Caster",
@@ -79,7 +47,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T03:14:25.961487"
+      "extracted_at": "2026-01-09T04:10:46.986189"
     },
     "WIGI": {
       "name": "WIGI",
@@ -88,7 +56,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-09T03:14:28.071513"
+      "extracted_at": "2026-01-09T04:10:49.444421"
     }
   },
   "player_urls": {

@@ -1,31 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-10T06:24:21.330987",
-  "total_events": 1,
+  "last_updated": "2026-01-10T06:52:05.529088",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-01-2026",
-      "time": "04:30",
-      "datetime": "10-01-2026 04:30",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-01-2026 (04:30) NBA : Los Angeles Lakers - Milwaukee Bucks  (CH1fr) (CH189us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -33,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-10T06:24:13.852947"
+      "extracted_at": "2026-01-10T06:51:57.566013"
     },
     "hoca": {
       "name": "hoca",
@@ -42,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-10T06:24:15.353062"
+      "extracted_at": "2026-01-10T06:51:59.229076"
     },
     "Caster": {
       "name": "Caster",
@@ -51,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-10T06:24:17.870675"
+      "extracted_at": "2026-01-10T06:52:02.023994"
     },
     "WIGI": {
       "name": "WIGI",
@@ -60,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-10T06:24:20.330862"
+      "extracted_at": "2026-01-10T06:52:04.528935"
     }
   },
   "player_urls": {

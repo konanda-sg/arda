@@ -1,132 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-11T19:49:31.242035",
-  "total_events": 61,
+  "last_updated": "2026-01-11T20:18:43.870134",
+  "total_events": 53,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Coupe De France",
-      "teams": "Multiplex Coupe de France -",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Coupe De France : Multiplex Coupe de France -   (CH1fr)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Coupe De France",
-      "teams": "Chantilly - Rennes",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Coupe De France : Chantilly - Rennes  (CH5fr)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Coupe De France",
-      "teams": "Le Mans - Nancy",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Coupe De France : Le Mans - Nancy  (CH6fr)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Coupe De France",
-      "teams": "Metz - Montpellier",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Coupe De France : Metz - Montpellier  (CH7fr)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Coupe De France",
-      "teams": "Nantes - Nice",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Coupe De France : Nantes - Nice  (CH4fr)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Basquet Girona - Baskonia",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Liga Endesa : Basquet Girona - Baskonia  (CH157es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "MoraBanc Andorra - Real Madrid",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Liga Endesa : MoraBanc Andorra - Real Madrid  (CH155es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "18:00",
-      "datetime": "11-01-2026 18:00",
-      "league": "Serie A",
-      "teams": "Hellas Vérone - Lazio",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (18:00) Serie A : Hellas Vérone - Lazio  (CH138it) (CH98es) (CH70es)"
-    },
     {
       "date": "11-01-2026",
       "time": "18:30",
@@ -1065,7 +945,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-11T19:49:25.777372"
+      "extracted_at": "2026-01-11T20:18:37.998658"
     },
     "hoca": {
       "name": "hoca",
@@ -1074,7 +954,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T19:49:27.332595"
+      "extracted_at": "2026-01-11T20:18:39.392247"
     },
     "Caster": {
       "name": "Caster",
@@ -1083,7 +963,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T19:49:28.816933"
+      "extracted_at": "2026-01-11T20:18:40.986970"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1092,7 +972,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T19:49:30.241915"
+      "extracted_at": "2026-01-11T20:18:42.869977"
     }
   },
   "player_urls": {

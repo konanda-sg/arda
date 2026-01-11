@@ -1,88 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-11T13:46:38.287940",
-  "total_events": 93,
+  "last_updated": "2026-01-11T14:15:24.224594",
+  "total_events": 89,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-01-2026",
-      "time": "12:00",
-      "datetime": "11-01-2026 12:00",
-      "league": "Liga Endesa",
-      "teams": "San Pablo Burgos - Joventut",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (12:00) Liga Endesa : San Pablo Burgos - Joventut  (CH155es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "12:15",
-      "datetime": "11-01-2026 12:15",
-      "league": "Eredivisie",
-      "teams": "Heerenveen - Feyenoord",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (12:15) Eredivisie : Heerenveen - Feyenoord  (CH142nl) (CH98es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "12:30",
-      "datetime": "11-01-2026 12:30",
-      "league": "Serie A",
-      "teams": "Lecce - Parme",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (12:30) Serie A : Lecce - Parme  (CH137it) (CH123de) (CH97es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "13:00",
-      "datetime": "11-01-2026 13:00",
-      "league": "Fa Cup",
-      "teams": "Derby - Leeds",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "129",
-          "lang": "gb"
-        },
-        {
-          "id": "196",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (13:00) Fa Cup : Derby - Leeds  (CH4fr) (CH129gb) (CH196es)"
-    },
     {
       "date": "11-01-2026",
       "time": "14:00",
@@ -433,11 +357,11 @@
       "teams": "Grenade - Castellon",
       "channels": [
         {
-          "id": "53",
+          "id": "54",
           "lang": "es"
         }
       ],
-      "raw_line": "11-01-2026 (16:15) Laliga 2 : Grenade - Castellon  (CH53es)"
+      "raw_line": "11-01-2026 (16:15) Laliga 2 : Grenade - Castellon  (CH54es)"
     },
     {
       "date": "11-01-2026",
@@ -1629,7 +1553,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-11T13:46:29.697509"
+      "extracted_at": "2026-01-11T14:15:15.954203"
     },
     "hoca": {
       "name": "hoca",
@@ -1638,7 +1562,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T13:46:31.366206"
+      "extracted_at": "2026-01-11T14:15:17.675177"
     },
     "Caster": {
       "name": "Caster",
@@ -1647,7 +1571,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T13:46:34.486644"
+      "extracted_at": "2026-01-11T14:15:20.749654"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1656,7 +1580,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T13:46:37.287800"
+      "extracted_at": "2026-01-11T14:15:23.224429"
     }
   },
   "player_urls": {

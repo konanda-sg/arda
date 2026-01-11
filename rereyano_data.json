@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-11T19:27:47.146180",
-  "total_events": 64,
+  "last_updated": "2026-01-11T19:49:31.242035",
+  "total_events": 61,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-01-2026",
-      "time": "17:30",
-      "datetime": "11-01-2026 17:30",
-      "league": "Bundesliga",
-      "teams": "Bayern Munich - Wolfsburg",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (17:30) Bundesliga : Bayern Munich - Wolfsburg  (CH9fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "17:30",
-      "datetime": "11-01-2026 17:30",
-      "league": "Fa Cup",
-      "teams": "Manchester Utd - Brighton",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "196",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (17:30) Fa Cup : Manchester Utd - Brighton  (CH8fr) (CH126gb) (CH87es) (CH196es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "17:30",
-      "datetime": "11-01-2026 17:30",
-      "league": "Premiership",
-      "teams": "Aberdeen - Rangers",
-      "channels": [
-        {
-          "id": "127",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "11-01-2026 (17:30) Premiership : Aberdeen - Rangers  (CH127gb)"
-    },
     {
       "date": "11-01-2026",
       "time": "18:00",
@@ -1127,7 +1065,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-11T19:27:41.751057"
+      "extracted_at": "2026-01-11T19:49:25.777372"
     },
     "hoca": {
       "name": "hoca",
@@ -1136,7 +1074,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T19:27:43.068689"
+      "extracted_at": "2026-01-11T19:49:27.332595"
     },
     "Caster": {
       "name": "Caster",
@@ -1145,7 +1083,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T19:27:44.514286"
+      "extracted_at": "2026-01-11T19:49:28.816933"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1154,7 +1092,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T19:27:46.146042"
+      "extracted_at": "2026-01-11T19:49:30.241915"
     }
   },
   "player_urls": {

@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-11T22:52:08.391373",
-  "total_events": 43,
+  "last_updated": "2026-01-11T23:15:48.683770",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-01-2026",
-      "time": "21:00",
-      "datetime": "11-01-2026 21:00",
-      "league": "Coupe De France",
-      "teams": "Lille - Lyon",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (21:00) Coupe De France : Lille - Lyon  (CH1fr) (CH158es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "21:00",
-      "datetime": "11-01-2026 21:00",
-      "league": "NBA",
-      "teams": "Orlando Magic - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (21:00) NBA : Orlando Magic - New Orleans Pelicans  (CH3fr) (CH162us) (CH156es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "21:15",
-      "datetime": "11-01-2026 21:15",
-      "league": "Coupe Du Portugal",
-      "teams": "Torreense - Leiria",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (21:15) Coupe Du Portugal : Torreense - Leiria  (CH144pt) (CH69es)"
-    },
     {
       "date": "11-01-2026",
       "time": "21:30",
@@ -765,7 +707,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-11T22:52:01.134624"
+      "extracted_at": "2026-01-11T23:15:40.745512"
     },
     "hoca": {
       "name": "hoca",
@@ -774,7 +716,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T22:52:02.606257"
+      "extracted_at": "2026-01-11T23:15:42.208139"
     },
     "Caster": {
       "name": "Caster",
@@ -783,7 +725,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T22:52:05.123224"
+      "extracted_at": "2026-01-11T23:15:44.977238"
     },
     "WIGI": {
       "name": "WIGI",
@@ -792,7 +734,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T22:52:07.391228"
+      "extracted_at": "2026-01-11T23:15:47.683634"
     }
   },
   "player_urls": {

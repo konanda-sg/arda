@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-12T09:54:44.684147",
+  "last_updated": "2026-01-12T10:21:28.138837",
   "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -17,9 +17,13 @@
         {
           "id": "70",
           "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
         }
       ],
-      "raw_line": "12-01-2026 (18:30) Saudi Pro League : Al-Hilal - Al-Nassr  (CH70es)"
+      "raw_line": "12-01-2026 (18:30) Saudi Pro League : Al-Hilal - Al-Nassr  (CH70es) (CH123de)"
     },
     {
       "date": "12-01-2026",
@@ -33,6 +37,10 @@
           "lang": "it"
         },
         {
+          "id": "124",
+          "lang": "de"
+        },
+        {
           "id": "98",
           "lang": "es"
         },
@@ -41,7 +49,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "12-01-2026 (18:30) Serie A : Genoa - Cagliari  (CH137it) (CH98es) (CH87es)"
+      "raw_line": "12-01-2026 (18:30) Serie A : Genoa - Cagliari  (CH137it) (CH124de) (CH98es) (CH87es)"
     },
     {
       "date": "12-01-2026",
@@ -109,11 +117,15 @@
           "lang": "it"
         },
         {
+          "id": "124",
+          "lang": "de"
+        },
+        {
           "id": "159",
           "lang": "es"
         }
       ],
-      "raw_line": "12-01-2026 (20:45) Serie A : Juventus - Cremonese  (CH45fr) (CH138it) (CH159es)"
+      "raw_line": "12-01-2026 (20:45) Serie A : Juventus - Cremonese  (CH45fr) (CH138it) (CH124de) (CH159es)"
     },
     {
       "date": "12-01-2026",
@@ -427,7 +439,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-12T09:54:36.551346"
+      "extracted_at": "2026-01-12T10:21:20.392916"
     },
     "hoca": {
       "name": "hoca",
@@ -436,7 +448,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T09:54:38.013581"
+      "extracted_at": "2026-01-12T10:21:21.994708"
     },
     "Caster": {
       "name": "Caster",
@@ -445,7 +457,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T09:54:40.805648"
+      "extracted_at": "2026-01-12T10:21:24.653674"
     },
     "WIGI": {
       "name": "WIGI",
@@ -454,7 +466,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T09:54:43.684017"
+      "extracted_at": "2026-01-12T10:21:27.138675"
     }
   },
   "player_urls": {

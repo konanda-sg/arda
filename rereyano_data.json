@@ -1,56 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-12T22:52:20.060962",
-  "total_events": 18,
+  "last_updated": "2026-01-12T23:14:17.850184",
+  "total_events": 16,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "12-01-2026",
-      "time": "21:00",
-      "datetime": "12-01-2026 21:00",
-      "league": "Laliga",
-      "teams": "FC Séville - Celta Vigo",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-01-2026 (21:00) Laliga : FC Séville - Celta Vigo  (CH4fr) (CH49es) (CH87es)"
-    },
-    {
-      "date": "12-01-2026",
-      "time": "21:10",
-      "datetime": "12-01-2026 21:10",
-      "league": "Coupe De France",
-      "teams": "PSG - Paris FC",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-01-2026 (21:10) Coupe De France : PSG - Paris FC  (CH1fr) (CH158es) (CH70es)"
-    },
     {
       "date": "13-01-2026",
       "time": "01:00",
@@ -323,7 +279,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-12T22:52:12.626960"
+      "extracted_at": "2026-01-12T23:14:10.347815"
     },
     "hoca": {
       "name": "hoca",
@@ -332,7 +288,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T22:52:14.125253"
+      "extracted_at": "2026-01-12T23:14:11.855211"
     },
     "Caster": {
       "name": "Caster",
@@ -341,7 +297,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T22:52:16.683829"
+      "extracted_at": "2026-01-12T23:14:14.366983"
     },
     "WIGI": {
       "name": "WIGI",
@@ -350,7 +306,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T22:52:19.060806"
+      "extracted_at": "2026-01-12T23:14:16.850037"
     }
   },
   "player_urls": {

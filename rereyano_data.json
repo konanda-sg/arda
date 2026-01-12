@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-12T14:31:27.787057",
+  "last_updated": "2026-01-12T14:59:30.094619",
   "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -207,11 +207,15 @@
       "teams": "Detroit Red Wings - Carolina Hurricanes",
       "channels": [
         {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
           "id": "162",
           "lang": "us"
         }
       ],
-      "raw_line": "13-01-2026 (01:00) NHL : Detroit Red Wings - Carolina Hurricanes  (CH162us)"
+      "raw_line": "13-01-2026 (01:00) NHL : Detroit Red Wings - Carolina Hurricanes  (CH4fr) (CH162us)"
     },
     {
       "date": "13-01-2026",
@@ -439,7 +443,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-12T14:31:19.954833"
+      "extracted_at": "2026-01-12T14:59:22.440338"
     },
     "hoca": {
       "name": "hoca",
@@ -448,7 +452,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T14:31:21.795946"
+      "extracted_at": "2026-01-12T14:59:24.029581"
     },
     "Caster": {
       "name": "Caster",
@@ -457,7 +461,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T14:31:24.530439"
+      "extracted_at": "2026-01-12T14:59:26.582167"
     },
     "WIGI": {
       "name": "WIGI",
@@ -466,7 +470,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-12T14:31:26.786917"
+      "extracted_at": "2026-01-12T14:59:29.094478"
     }
   },
   "player_urls": {

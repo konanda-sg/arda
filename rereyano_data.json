@@ -1,64 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-11T23:51:02.597423",
-  "total_events": 39,
+  "last_updated": "2026-01-12T01:22:26.702134",
+  "total_events": 37,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-01-2026",
-      "time": "22:30",
-      "datetime": "11-01-2026 22:30",
-      "league": "NFL",
-      "teams": "Philadelphia Eagles - San Francisco 49ers",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "164",
-          "lang": "us"
-        },
-        {
-          "id": "80",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-01-2026 (22:30) NFL : Philadelphia Eagles - San Francisco 49ers  (CH2fr) (CH164us) (CH80es) (CH91es) (CH107es) (CH101es) (CH70es)"
-    },
-    {
-      "date": "11-01-2026",
-      "time": "23:00",
-      "datetime": "11-01-2026 23:00",
-      "league": "NHL",
-      "teams": "Boston Bruins - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-01-2026 (23:00) NHL : Boston Bruins - Pittsburgh Penguins  (CH165us)"
-    },
     {
       "date": "12-01-2026",
       "time": "00:00",
@@ -693,7 +641,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-11T23:50:54.326733"
+      "extracted_at": "2026-01-12T01:22:19.242470"
     },
     "hoca": {
       "name": "hoca",
@@ -702,7 +650,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T23:50:56.049416"
+      "extracted_at": "2026-01-12T01:22:20.680583"
     },
     "Caster": {
       "name": "Caster",
@@ -711,7 +659,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T23:50:58.805904"
+      "extracted_at": "2026-01-12T01:22:23.364904"
     },
     "WIGI": {
       "name": "WIGI",
@@ -720,7 +668,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-11T23:51:01.597276"
+      "extracted_at": "2026-01-12T01:22:25.701910"
     }
   },
   "player_urls": {

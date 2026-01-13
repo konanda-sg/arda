@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-13T06:27:37.085478",
-  "total_events": 1,
+  "last_updated": "2026-01-13T06:58:15.551286",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "13-01-2026",
-      "time": "04:30",
-      "datetime": "13-01-2026 04:30",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Charlotte Hornets",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-01-2026 (04:30) NBA : Los Angeles Clippers - Charlotte Hornets  (CH175us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-13T06:27:29.222182"
+      "extracted_at": "2026-01-13T06:58:07.931258"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-13T06:27:30.817076"
+      "extracted_at": "2026-01-13T06:58:09.310535"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-13T06:27:33.587018"
+      "extracted_at": "2026-01-13T06:58:11.940959"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-13T06:27:36.085306"
+      "extracted_at": "2026-01-13T06:58:14.551131"
     }
   },
   "player_urls": {

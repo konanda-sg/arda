@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-13T19:38:41.355719",
-  "total_events": 38,
+  "last_updated": "2026-01-13T19:50:29.772992",
+  "total_events": 35,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "13-01-2026",
-      "time": "18:30",
-      "datetime": "13-01-2026 18:30",
-      "league": "Bundesliga",
-      "teams": "Stuttgart - Eintracht Francfort",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-01-2026 (18:30) Bundesliga : Stuttgart - Eintracht Francfort  (CH4fr) (CH111de) (CH88es)"
-    },
-    {
-      "date": "13-01-2026",
-      "time": "18:30",
-      "datetime": "13-01-2026 18:30",
-      "league": "Coupe De Turquie",
-      "teams": "Fethiyespor - Galatasaray",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "13-01-2026 (18:30) Coupe De Turquie : Fethiyespor - Galatasaray  (CH151tr)"
-    },
-    {
-      "date": "13-01-2026",
-      "time": "18:30",
-      "datetime": "13-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Damac - Al-Ittihad FC",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-01-2026 (18:30) Saudi Pro League : Damac - Al-Ittihad FC  (CH55es) (CH61es)"
-    },
     {
       "date": "13-01-2026",
       "time": "20:30",
@@ -251,11 +197,11 @@
           "lang": "es"
         },
         {
-          "id": "82",
+          "id": "81",
           "lang": "es"
         }
       ],
-      "raw_line": "13-01-2026 (21:00) Coupe Du Roi : La Corogne - Atl. Madrid  (CH49es) (CH82es)"
+      "raw_line": "13-01-2026 (21:00) Coupe Du Roi : La Corogne - Atl. Madrid  (CH49es) (CH81es)"
     },
     {
       "date": "13-01-2026",
@@ -675,7 +621,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-13T19:38:33.779664"
+      "extracted_at": "2026-01-13T19:50:22.174178"
     },
     "hoca": {
       "name": "hoca",
@@ -684,7 +630,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-13T19:38:35.251358"
+      "extracted_at": "2026-01-13T19:50:23.666096"
     },
     "Caster": {
       "name": "Caster",
@@ -693,7 +639,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-13T19:38:37.801643"
+      "extracted_at": "2026-01-13T19:50:26.226035"
     },
     "WIGI": {
       "name": "WIGI",
@@ -702,7 +648,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-13T19:38:40.355569"
+      "extracted_at": "2026-01-13T19:50:28.772838"
     }
   },
   "player_urls": {

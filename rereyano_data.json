@@ -1,31 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-14T06:57:59.965688",
-  "total_events": 1,
+  "last_updated": "2026-01-14T07:25:59.010165",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "14-01-2026",
-      "time": "05:00",
-      "datetime": "14-01-2026 05:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-01-2026 (05:00) NBA : Golden State Warriors - Portland Trail Blazers  (CH1fr) (CH196us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -33,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-14T06:57:46.673927"
+      "extracted_at": "2026-01-14T07:25:51.636186"
     },
     "hoca": {
       "name": "hoca",
@@ -42,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T06:57:48.347292"
+      "extracted_at": "2026-01-14T07:25:53.160339"
     },
     "Caster": {
       "name": "Caster",
@@ -51,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T06:57:51.059028"
+      "extracted_at": "2026-01-14T07:25:55.676527"
     },
     "WIGI": {
       "name": "WIGI",
@@ -60,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T06:57:58.965506"
+      "extracted_at": "2026-01-14T07:25:58.010031"
     }
   },
   "player_urls": {

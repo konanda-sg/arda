@@ -1,150 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-14T22:46:21.250673",
-  "total_events": 24,
+  "last_updated": "2026-01-14T23:30:20.896130",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "CAN",
-      "teams": "Nigéria - Maroc",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) CAN : Nigéria - Maroc  (CH1fr) (CH61es) (CH81es) (CH69es) (CH125de)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "Coupe Du Roi",
-      "teams": "Alaves - Vallecano",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) Coupe Du Roi : Alaves - Vallecano  (CH162es)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "Coupe Du Roi",
-      "teams": "Albacete - Real Madrid",
-      "channels": [
-        {
-          "id": "60",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) Coupe Du Roi : Albacete - Real Madrid  (CH60es) (CH82es)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "Coupe Du Roi",
-      "teams": "Betis - Elche",
-      "channels": [
-        {
-          "id": "49",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) Coupe Du Roi : Betis - Elche  (CH49es)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "D1 Féminin",
-      "teams": "Paris FC F - Nantes F",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) D1 Féminin : Paris FC F - Nantes F  (CH12fr)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "Efl Cup",
-      "teams": "Chelsea - Arsenal",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) Efl Cup : Chelsea - Arsenal  (CH2fr) (CH127gb) (CH120de) (CH87es) (CH98es)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "21:00",
-      "datetime": "14-01-2026 21:00",
-      "league": "Knvb Beker",
-      "teams": "Alkmaar - Ajax",
-      "channels": [
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "96",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (21:00) Knvb Beker : Alkmaar - Ajax  (CH141nl) (CH96es)"
-    },
     {
       "date": "14-01-2026",
       "time": "21:45",
@@ -451,7 +313,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-14T22:46:14.146429"
+      "extracted_at": "2026-01-14T23:30:13.657432"
     },
     "hoca": {
       "name": "hoca",
@@ -460,7 +322,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T22:46:15.647727"
+      "extracted_at": "2026-01-14T23:30:15.126342"
     },
     "Caster": {
       "name": "Caster",
@@ -469,7 +331,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T22:46:17.859991"
+      "extracted_at": "2026-01-14T23:30:17.621891"
     },
     "WIGI": {
       "name": "WIGI",
@@ -478,7 +340,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T22:46:20.250528"
+      "extracted_at": "2026-01-14T23:30:19.895989"
     }
   },
   "player_urls": {

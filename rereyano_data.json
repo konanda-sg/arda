@@ -1,92 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-14T20:17:35.148392",
-  "total_events": 42,
+  "last_updated": "2026-01-14T20:43:30.420194",
+  "total_events": 38,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "14-01-2026",
-      "time": "18:30",
-      "datetime": "14-01-2026 18:30",
-      "league": "Bundesliga",
-      "teams": "Wolfsburg - St. Pauli",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (18:30) Bundesliga : Wolfsburg - St. Pauli  (CH6fr) (CH111de) (CH116es)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "18:30",
-      "datetime": "14-01-2026 18:30",
-      "league": "Coupe De Turquie",
-      "teams": "Beyoglu Yeni Carsi - Fenerbahce",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "14-01-2026 (18:30) Coupe De Turquie : Beyoglu Yeni Carsi - Fenerbahce  (CH151tr)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "18:30",
-      "datetime": "14-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Al Ahli SC - Al-Taawon",
-      "channels": [
-        {
-          "id": "50",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (18:30) Saudi Pro League : Al Ahli SC - Al-Taawon  (CH50es)"
-    },
-    {
-      "date": "14-01-2026",
-      "time": "18:30",
-      "datetime": "14-01-2026 18:30",
-      "league": "Serie A",
-      "teams": "Naples - Parme",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-01-2026 (18:30) Serie A : Naples - Parme  (CH137it) (CH124de) (CH87es) (CH98es) (CH70es)"
-    },
     {
       "date": "14-01-2026",
       "time": "18:45",
@@ -771,7 +691,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-14T20:17:29.440907"
+      "extracted_at": "2026-01-14T20:43:24.868814"
     },
     "hoca": {
       "name": "hoca",
@@ -780,7 +700,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T20:17:30.841840"
+      "extracted_at": "2026-01-14T20:43:26.226925"
     },
     "Caster": {
       "name": "Caster",
@@ -789,7 +709,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T20:17:32.539775"
+      "extracted_at": "2026-01-14T20:43:27.938080"
     },
     "WIGI": {
       "name": "WIGI",
@@ -798,7 +718,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-14T20:17:34.148268"
+      "extracted_at": "2026-01-14T20:43:29.420053"
     }
   },
   "player_urls": {

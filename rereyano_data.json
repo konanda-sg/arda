@@ -1,134 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-15T22:18:25.050583",
-  "total_events": 29,
+  "last_updated": "2026-01-15T22:45:33.713691",
+  "total_events": 22,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-01-2026",
-      "time": "20:30",
-      "datetime": "15-01-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "Augsburg - Union Berlin",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:30) Bundesliga : Augsburg - Union Berlin  (CH2fr) (CH111de) (CH116es)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:30",
-      "datetime": "15-01-2026 20:30",
-      "league": "Coupe De Belgique",
-      "teams": "Anderlecht - La Gantoise",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:30) Coupe De Belgique : Anderlecht - La Gantoise  (CH153fr)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:30",
-      "datetime": "15-01-2026 20:30",
-      "league": "Euro masculin de Handball",
-      "teams": "Allemagne - Autriche",
-      "channels": [
-        {
-          "id": "119",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:30) Euro masculin de Handball : Allemagne - Autriche  (CH119de)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:30",
-      "datetime": "15-01-2026 20:30",
-      "league": "Euro masculin de Handball",
-      "teams": "Norvège - Ukraine",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:30) Euro masculin de Handball : Norvège - Ukraine  (CH1fr)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:30",
-      "datetime": "15-01-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Milano - Étoile Rouge Belgrade",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:30) EuroLeague : Milano - Étoile Rouge Belgrade  (CH64es)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:45",
-      "datetime": "15-01-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Paris - Monaco",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:45) EuroLeague : Paris - Monaco  (CH62es)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:45",
-      "datetime": "15-01-2026 20:45",
-      "league": "Serie A",
-      "teams": "Como - AC Milan",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:45) Serie A : Como - AC Milan  (CH45fr) (CH137it) (CH123de) (CH87es) (CH99es)"
-    },
     {
       "date": "15-01-2026",
       "time": "21:00",
@@ -473,7 +351,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-15T22:18:17.571047"
+      "extracted_at": "2026-01-15T22:45:25.587340"
     },
     "hoca": {
       "name": "hoca",
@@ -482,7 +360,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T22:18:19.111828"
+      "extracted_at": "2026-01-15T22:45:27.196816"
     },
     "Caster": {
       "name": "Caster",
@@ -491,7 +369,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T22:18:21.491011"
+      "extracted_at": "2026-01-15T22:45:29.941529"
     },
     "WIGI": {
       "name": "WIGI",
@@ -500,7 +378,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T22:18:24.050437"
+      "extracted_at": "2026-01-15T22:45:32.713552"
     }
   },
   "player_urls": {

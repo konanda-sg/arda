@@ -1,12 +1,599 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-15T12:36:42.648473",
-  "total_events": 0,
+  "last_updated": "2026-01-15T13:27:59.601045",
+  "total_events": 37,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "15-01-2026",
+      "time": "13:30",
+      "datetime": "15-01-2026 13:30",
+      "league": "Coupe De Turquie",
+      "teams": "Eyupspor - Igdir FK",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "15-01-2026 (13:30) Coupe De Turquie : Eyupspor - Igdir FK  (CH151tr)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "16:00",
+      "datetime": "15-01-2026 16:00",
+      "league": "Coupe De Turquie",
+      "teams": "Bodrumspor - Konyaspor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "15-01-2026 (16:00) Coupe De Turquie : Bodrumspor - Konyaspor  (CH151tr)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "17:00",
+      "datetime": "15-01-2026 17:00",
+      "league": "EuroLeague",
+      "teams": "Dubai - Virtus Bologna",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (17:00) EuroLeague : Dubai - Virtus Bologna  (CH62es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "18:30",
+      "datetime": "15-01-2026 18:30",
+      "league": "Coupe De Turquie",
+      "teams": "Besiktas - Keciorengucu",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "15-01-2026 (18:30) Coupe De Turquie : Besiktas - Keciorengucu  (CH151tr)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "18:30",
+      "datetime": "15-01-2026 18:30",
+      "league": "EuroLeague",
+      "teams": "Anadolu Efes - Baskonia",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (18:30) EuroLeague : Anadolu Efes - Baskonia  (CH55es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "18:30",
+      "datetime": "15-01-2026 18:30",
+      "league": "Serie A",
+      "teams": "Hellas Vérone - Bologne",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (18:30) Serie A : Hellas Vérone - Bologne  (CH137it) (CH123de) (CH87es) (CH70es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "18:45",
+      "datetime": "15-01-2026 18:45",
+      "league": "Knvb Beker",
+      "teams": "Heerenveen - Waalwijk",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "15-01-2026 (18:45) Knvb Beker : Heerenveen - Waalwijk  (CH142nl)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "19:30",
+      "datetime": "15-01-2026 19:30",
+      "league": "EuroLeague",
+      "teams": "Bayern - Panathinaikos",
+      "channels": [
+        {
+          "id": "63",
+          "lang": "es"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (19:30) EuroLeague : Bayern - Panathinaikos  (CH63es) (CH95es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:00",
+      "datetime": "15-01-2026 20:00",
+      "league": "NBA",
+      "teams": "Orlando Magic - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:00) NBA : Orlando Magic - Memphis Grizzlies  (CH170us)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:05",
+      "datetime": "15-01-2026 20:05",
+      "league": "EuroLeague",
+      "teams": "Maccabi Tel Aviv - Zalgiris Kaunas",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:05) EuroLeague : Maccabi Tel Aviv - Zalgiris Kaunas  (CH65es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:30",
+      "datetime": "15-01-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "Augsburg - Union Berlin",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:30) Bundesliga : Augsburg - Union Berlin  (CH2fr) (CH111de) (CH116es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:30",
+      "datetime": "15-01-2026 20:30",
+      "league": "Coupe De Belgique",
+      "teams": "Anderlecht - La Gantoise",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:30) Coupe De Belgique : Anderlecht - La Gantoise  (CH153fr)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:30",
+      "datetime": "15-01-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Milano - Étoile Rouge Belgrade",
+      "channels": [
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:30) EuroLeague : Milano - Étoile Rouge Belgrade  (CH64es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:45",
+      "datetime": "15-01-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Paris - Monaco",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:45) EuroLeague : Paris - Monaco  (CH62es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "20:45",
+      "datetime": "15-01-2026 20:45",
+      "league": "Serie A",
+      "teams": "Como - AC Milan",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (20:45) Serie A : Como - AC Milan  (CH12fr) (CH137it) (CH123de) (CH87es) (CH99es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "21:00",
+      "datetime": "15-01-2026 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Burgos CF - Valence",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (21:00) Coupe Du Roi : Burgos CF - Valence  (CH162es) (CH81es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "21:00",
+      "datetime": "15-01-2026 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Racing Santander - Barcelone",
+      "channels": [
+        {
+          "id": "46",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-01-2026 (21:00) Coupe Du Roi : Racing Santander - Barcelone  (CH46fr) (CH49es) (CH82es)"
+    },
+    {
+      "date": "15-01-2026",
+      "time": "21:00",
+      "datetime": "15-01-2026 21:00",
+      "league": "Knvb Beker",
+      "teams": "Sparta Rotterdam - FC Volendam",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "15-01-2026 (21:00) Knvb Beker : Sparta Rotterdam - FC Volendam  (CH141nl)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:00",
+      "datetime": "16-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Phoenix Suns",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:00) NBA : Detroit Pistons - Phoenix Suns  (CH171us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:00",
+      "datetime": "16-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Buffalo Sabres - Montreal Canadiens",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:00) NHL : Buffalo Sabres - Montreal Canadiens  (CH179us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:00",
+      "datetime": "16-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:00) NHL : Columbus Blue Jackets - Vancouver Canucks  (CH180us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:00",
+      "datetime": "16-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Pittsburgh Penguins - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:00) NHL : Pittsburgh Penguins - Philadelphia Flyers  (CH181us) (CH89es) (CH98es)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:00",
+      "datetime": "16-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Washington Capitals - San Jose Sharks",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:00) NHL : Washington Capitals - San Jose Sharks  (CH182us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:30",
+      "datetime": "16-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Houston Rockets - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:30) NBA : Houston Rockets - Oklahoma City Thunder  (CH172us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:30",
+      "datetime": "16-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Miami Heat - Boston Celtics",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:30) NBA : Miami Heat - Boston Celtics  (CH173us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "01:30",
+      "datetime": "16-01-2026 01:30",
+      "league": "Supercopa Colombia",
+      "teams": "Junior - Santa Fe",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-01-2026 (01:30) Supercopa Colombia : Junior - Santa Fe  (CH81es)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "02:00",
+      "datetime": "16-01-2026 02:00",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (02:00) NBA : San Antonio Spurs - Milwaukee Bucks  (CH174us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "02:00",
+      "datetime": "16-01-2026 02:00",
+      "league": "NHL",
+      "teams": "Boston Bruins - Seattle Kraken",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (02:00) NHL : Boston Bruins - Seattle Kraken  (CH183us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "02:00",
+      "datetime": "16-01-2026 02:00",
+      "league": "NHL",
+      "teams": "Minnesota Wild - Winnipeg Jets",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (02:00) NHL : Minnesota Wild - Winnipeg Jets  (CH184us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "02:30",
+      "datetime": "16-01-2026 02:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - Utah Jazz",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (02:30) NBA : Dallas Mavericks - Utah Jazz  (CH175us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "02:30",
+      "datetime": "16-01-2026 02:30",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - Calgary Flames",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (02:30) NHL : Chicago Blackhawks - Calgary Flames  (CH185us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "03:00",
+      "datetime": "16-01-2026 03:00",
+      "league": "NHL",
+      "teams": "Edmonton Oilers - New York Islanders",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (03:00) NHL : Edmonton Oilers - New York Islanders  (CH186us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "03:00",
+      "datetime": "16-01-2026 03:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Dallas Stars",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (03:00) NHL : Utah Mammoth - Dallas Stars  (CH187us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "03:30",
+      "datetime": "16-01-2026 03:30",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Toronto Maple Leafs",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-01-2026 (03:30) NHL : Vegas Golden Knights - Toronto Maple Leafs  (CH188us) (CH89es) (CH98es)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "04:00",
+      "datetime": "16-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - New York Knicks",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (04:00) NBA : Golden State Warriors - New York Knicks  (CH176us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "04:00",
+      "datetime": "16-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (04:00) NBA : Portland Trail Blazers - Atlanta Hawks  (CH177us)"
+    },
+    {
+      "date": "16-01-2026",
+      "time": "04:30",
+      "datetime": "16-01-2026 04:30",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-01-2026 (04:30) NBA : Los Angeles Lakers - Charlotte Hornets  (CH178us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +601,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-15T12:36:35.235543"
+      "extracted_at": "2026-01-15T13:27:51.354660"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +610,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T12:36:36.651011"
+      "extracted_at": "2026-01-15T13:27:53.087265"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +619,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T12:36:39.164792"
+      "extracted_at": "2026-01-15T13:27:56.142623"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +628,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T12:36:41.648295"
+      "extracted_at": "2026-01-15T13:27:58.600903"
     }
   },
   "player_urls": {

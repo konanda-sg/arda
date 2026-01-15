@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-15T21:52:47.323130",
-  "total_events": 31,
+  "last_updated": "2026-01-15T22:18:25.050583",
+  "total_events": 29,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-01-2026",
-      "time": "20:00",
-      "datetime": "15-01-2026 20:00",
-      "league": "NBA",
-      "teams": "Orlando Magic - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:00) NBA : Orlando Magic - Memphis Grizzlies  (CH170us)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "20:05",
-      "datetime": "15-01-2026 20:05",
-      "league": "EuroLeague",
-      "teams": "Maccabi Tel Aviv - Zalgiris Kaunas",
-      "channels": [
-        {
-          "id": "65",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (20:05) EuroLeague : Maccabi Tel Aviv - Zalgiris Kaunas  (CH65es)"
-    },
     {
       "date": "15-01-2026",
       "time": "20:30",
@@ -501,7 +473,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-15T21:52:40.325238"
+      "extracted_at": "2026-01-15T22:18:17.571047"
     },
     "hoca": {
       "name": "hoca",
@@ -510,7 +482,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T21:52:41.730520"
+      "extracted_at": "2026-01-15T22:18:19.111828"
     },
     "Caster": {
       "name": "Caster",
@@ -519,7 +491,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T21:52:44.220151"
+      "extracted_at": "2026-01-15T22:18:21.491011"
     },
     "WIGI": {
       "name": "WIGI",
@@ -528,7 +500,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T21:52:46.322977"
+      "extracted_at": "2026-01-15T22:18:24.050437"
     }
   },
   "player_urls": {

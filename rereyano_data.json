@@ -1,80 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-15T20:20:24.573365",
-  "total_events": 36,
+  "last_updated": "2026-01-15T20:47:08.860454",
+  "total_events": 32,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-01-2026",
-      "time": "18:30",
-      "datetime": "15-01-2026 18:30",
-      "league": "Coupe De Turquie",
-      "teams": "Besiktas - Keciorengucu",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "15-01-2026 (18:30) Coupe De Turquie : Besiktas - Keciorengucu  (CH151tr)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "18:30",
-      "datetime": "15-01-2026 18:30",
-      "league": "EuroLeague",
-      "teams": "Anadolu Efes - Baskonia",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (18:30) EuroLeague : Anadolu Efes - Baskonia  (CH55es)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "18:30",
-      "datetime": "15-01-2026 18:30",
-      "league": "Serie A",
-      "teams": "Hellas Vérone - Bologne",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-01-2026 (18:30) Serie A : Hellas Vérone - Bologne  (CH137it) (CH123de) (CH87es) (CH70es)"
-    },
-    {
-      "date": "15-01-2026",
-      "time": "18:45",
-      "datetime": "15-01-2026 18:45",
-      "league": "Knvb Beker",
-      "teams": "Heerenveen - Waalwijk",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "15-01-2026 (18:45) Knvb Beker : Heerenveen - Waalwijk  (CH142nl)"
-    },
     {
       "date": "15-01-2026",
       "time": "19:30",
@@ -587,7 +519,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-15T20:20:18.147306"
+      "extracted_at": "2026-01-15T20:47:01.552662"
     },
     "hoca": {
       "name": "hoca",
@@ -596,7 +528,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T20:20:19.508801"
+      "extracted_at": "2026-01-15T20:47:03.188745"
     },
     "Caster": {
       "name": "Caster",
@@ -605,7 +537,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T20:20:21.337915"
+      "extracted_at": "2026-01-15T20:47:05.543451"
     },
     "WIGI": {
       "name": "WIGI",
@@ -614,7 +546,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-15T20:20:23.573209"
+      "extracted_at": "2026-01-15T20:47:07.860307"
     }
   },
   "player_urls": {

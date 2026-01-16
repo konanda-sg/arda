@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T04:10:57.272362",
-  "total_events": 8,
+  "last_updated": "2026-01-16T04:52:09.166485",
+  "total_events": 6,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "02:30",
-      "datetime": "16-01-2026 02:30",
-      "league": "NBA",
-      "teams": "Dallas Mavericks - Utah Jazz",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (02:30) NBA : Dallas Mavericks - Utah Jazz  (CH175us)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "02:30",
-      "datetime": "16-01-2026 02:30",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - Calgary Flames",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (02:30) NHL : Chicago Blackhawks - Calgary Flames  (CH185us)"
-    },
     {
       "date": "16-01-2026",
       "time": "03:00",
@@ -135,7 +107,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T04:10:50.041315"
+      "extracted_at": "2026-01-16T04:52:01.208940"
     },
     "hoca": {
       "name": "hoca",
@@ -144,7 +116,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T04:10:51.615970"
+      "extracted_at": "2026-01-16T04:52:02.742136"
     },
     "Caster": {
       "name": "Caster",
@@ -153,7 +125,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T04:10:53.594001"
+      "extracted_at": "2026-01-16T04:52:05.458858"
     },
     "WIGI": {
       "name": "WIGI",
@@ -162,7 +134,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T04:10:56.272220"
+      "extracted_at": "2026-01-16T04:52:08.166330"
     }
   },
   "player_urls": {

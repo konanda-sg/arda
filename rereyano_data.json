@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T20:53:15.251502",
-  "total_events": 50,
+  "last_updated": "2026-01-16T21:17:06.737720",
+  "total_events": 48,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "19:00",
-      "datetime": "16-01-2026 19:00",
-      "league": "Ligue 1",
-      "teams": "Monaco - Lorient",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:00) Ligue 1 : Monaco - Lorient  (CH20fr) (CH123de) (CH69es) (CH87es)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:00",
-      "datetime": "16-01-2026 19:00",
-      "league": "Pro D2",
-      "teams": "USO Nevers Rugby - Provence Rugby",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:00) Pro D2 : USO Nevers Rugby - Provence Rugby  (CH13fr)"
-    },
     {
       "date": "16-01-2026",
       "time": "19:30",
@@ -791,7 +751,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T20:53:07.942907"
+      "extracted_at": "2026-01-16T21:16:59.502698"
     },
     "hoca": {
       "name": "hoca",
@@ -800,7 +760,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T20:53:09.395516"
+      "extracted_at": "2026-01-16T21:17:00.862879"
     },
     "Caster": {
       "name": "Caster",
@@ -809,7 +769,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T20:53:11.840749"
+      "extracted_at": "2026-01-16T21:17:03.307709"
     },
     "WIGI": {
       "name": "WIGI",
@@ -818,7 +778,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T20:53:14.251357"
+      "extracted_at": "2026-01-16T21:17:05.737577"
     }
   },
   "player_urls": {

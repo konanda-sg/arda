@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T04:52:09.166485",
-  "total_events": 6,
+  "last_updated": "2026-01-16T05:22:08.416210",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "03:00",
-      "datetime": "16-01-2026 03:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - New York Islanders",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (03:00) NHL : Edmonton Oilers - New York Islanders  (CH186us)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "03:00",
-      "datetime": "16-01-2026 03:00",
-      "league": "NHL",
-      "teams": "Utah Mammoth - Dallas Stars",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (03:00) NHL : Utah Mammoth - Dallas Stars  (CH187us)"
-    },
     {
       "date": "16-01-2026",
       "time": "03:30",
@@ -107,7 +79,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T04:52:01.208940"
+      "extracted_at": "2026-01-16T05:22:00.963708"
     },
     "hoca": {
       "name": "hoca",
@@ -116,7 +88,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T04:52:02.742136"
+      "extracted_at": "2026-01-16T05:22:02.619059"
     },
     "Caster": {
       "name": "Caster",
@@ -125,7 +97,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T04:52:05.458858"
+      "extracted_at": "2026-01-16T05:22:04.898358"
     },
     "WIGI": {
       "name": "WIGI",
@@ -134,7 +106,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T04:52:08.166330"
+      "extracted_at": "2026-01-16T05:22:07.416077"
     }
   },
   "player_urls": {

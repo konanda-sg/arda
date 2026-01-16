@@ -1,34 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T05:22:08.416210",
-  "total_events": 4,
+  "last_updated": "2026-01-16T05:47:43.981524",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "03:30",
-      "datetime": "16-01-2026 03:30",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Toronto Maple Leafs",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (03:30) NHL : Vegas Golden Knights - Toronto Maple Leafs  (CH188us) (CH89es) (CH98es)"
-    },
     {
       "date": "16-01-2026",
       "time": "04:00",
@@ -79,7 +57,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T05:22:00.963708"
+      "extracted_at": "2026-01-16T05:47:36.250590"
     },
     "hoca": {
       "name": "hoca",
@@ -88,7 +66,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T05:22:02.619059"
+      "extracted_at": "2026-01-16T05:47:38.003568"
     },
     "Caster": {
       "name": "Caster",
@@ -97,7 +75,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T05:22:04.898358"
+      "extracted_at": "2026-01-16T05:47:40.352495"
     },
     "WIGI": {
       "name": "WIGI",
@@ -106,7 +84,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T05:22:07.416077"
+      "extracted_at": "2026-01-16T05:47:42.981412"
     }
   },
   "player_urls": {

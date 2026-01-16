@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T22:44:33.248651",
-  "total_events": 31,
+  "last_updated": "2026-01-16T22:54:59.322965",
+  "total_events": 27,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "20:45",
-      "datetime": "16-01-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Real Madrid - Barcelone",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:45) EuroLeague : Real Madrid - Barcelone  (CH62es)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "20:45",
-      "datetime": "16-01-2026 20:45",
-      "league": "Pro League",
-      "teams": "Club Brugge - RAAL La Louviere",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:45) Pro League : Club Brugge - RAAL La Louviere  (CH153fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "20:45",
-      "datetime": "16-01-2026 20:45",
-      "league": "Scottish Cup",
-      "teams": "Rangers - Annan",
-      "channels": [
-        {
-          "id": "135",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:45) Scottish Cup : Rangers - Annan  (CH135gb)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "20:45",
-      "datetime": "16-01-2026 20:45",
-      "league": "Serie A",
-      "teams": "Pisa - Atalanta",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:45) Serie A : Pisa - Atalanta  (CH138it) (CH158es)"
-    },
     {
       "date": "16-01-2026",
       "time": "21:00",
@@ -509,7 +449,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T22:44:25.988020"
+      "extracted_at": "2026-01-16T22:54:51.867606"
     },
     "hoca": {
       "name": "hoca",
@@ -518,7 +458,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T22:44:27.358943"
+      "extracted_at": "2026-01-16T22:54:53.424318"
     },
     "Caster": {
       "name": "Caster",
@@ -527,7 +467,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T22:44:29.790369"
+      "extracted_at": "2026-01-16T22:54:55.896485"
     },
     "WIGI": {
       "name": "WIGI",
@@ -536,7 +476,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T22:44:32.248507"
+      "extracted_at": "2026-01-16T22:54:58.322761"
     }
   },
   "player_urls": {

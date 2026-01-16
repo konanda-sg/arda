@@ -1,110 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T21:17:06.737720",
-  "total_events": 48,
+  "last_updated": "2026-01-16T21:41:41.865877",
+  "total_events": 41,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "National",
-      "teams": "Aubagne - Paris 13 Atl.",
-      "channels": [
-        {
-          "id": "47",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) National : Aubagne - Paris 13 Atl.  (CH47fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "National",
-      "teams": "Valenciennes - Bourg-en-Bresse",
-      "channels": [
-        {
-          "id": "46",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) National : Valenciennes - Bourg-en-Bresse  (CH46fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "Pro D2",
-      "teams": "AS Béziers - Stade Aurillacois",
-      "channels": [
-        {
-          "id": "33",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) Pro D2 : AS Béziers - Stade Aurillacois  (CH33fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "Pro D2",
-      "teams": "Biarritz Olympique - Soyaux Angoulême",
-      "channels": [
-        {
-          "id": "32",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) Pro D2 : Biarritz Olympique - Soyaux Angoulême  (CH32fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "Pro D2",
-      "teams": "Colomiers Rugby - Oyonnax Rugby",
-      "channels": [
-        {
-          "id": "34",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) Pro D2 : Colomiers Rugby - Oyonnax Rugby  (CH34fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "Pro D2",
-      "teams": "Stade Montois - Valence Romans",
-      "channels": [
-        {
-          "id": "35",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) Pro D2 : Stade Montois - Valence Romans  (CH35fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "19:30",
-      "datetime": "16-01-2026 19:30",
-      "league": "Pro D2",
-      "teams": "US Carcassonne - US Dax",
-      "channels": [
-        {
-          "id": "36",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (19:30) Pro D2 : US Carcassonne - US Dax  (CH36fr)"
-    },
     {
       "date": "16-01-2026",
       "time": "20:00",
@@ -751,7 +653,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T21:16:59.502698"
+      "extracted_at": "2026-01-16T21:41:33.463626"
     },
     "hoca": {
       "name": "hoca",
@@ -760,7 +662,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T21:17:00.862879"
+      "extracted_at": "2026-01-16T21:41:35.095658"
     },
     "Caster": {
       "name": "Caster",
@@ -769,7 +671,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T21:17:03.307709"
+      "extracted_at": "2026-01-16T21:41:37.847841"
     },
     "WIGI": {
       "name": "WIGI",
@@ -778,7 +680,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T21:17:05.737577"
+      "extracted_at": "2026-01-16T21:41:40.865735"
     }
   },
   "player_urls": {

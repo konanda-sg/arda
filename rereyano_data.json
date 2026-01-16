@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T22:17:10.660675",
-  "total_events": 34,
+  "last_updated": "2026-01-16T22:44:33.248651",
+  "total_events": 31,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "20:30",
-      "datetime": "16-01-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "Werder Brême - Eintracht Francfort",
-      "channels": [
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:30) Bundesliga : Werder Brême - Eintracht Francfort  (CH111de) (CH55es)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "20:30",
-      "datetime": "16-01-2026 20:30",
-      "league": "Euro masculin de Handball",
-      "teams": "Iles Féroé - Suisse",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:30) Euro masculin de Handball : Iles Féroé - Suisse  (CH9fr)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "20:30",
-      "datetime": "16-01-2026 20:30",
-      "league": "Laliga 2",
-      "teams": "Castellon - Leganes",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (20:30) Laliga 2 : Castellon - Leganes  (CH53es)"
-    },
     {
       "date": "16-01-2026",
       "time": "20:45",
@@ -555,7 +509,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T22:17:02.637232"
+      "extracted_at": "2026-01-16T22:44:25.988020"
     },
     "hoca": {
       "name": "hoca",
@@ -564,7 +518,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T22:17:04.103736"
+      "extracted_at": "2026-01-16T22:44:27.358943"
     },
     "Caster": {
       "name": "Caster",
@@ -573,7 +527,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T22:17:06.765332"
+      "extracted_at": "2026-01-16T22:44:29.790369"
     },
     "WIGI": {
       "name": "WIGI",
@@ -582,7 +536,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T22:17:09.660543"
+      "extracted_at": "2026-01-16T22:44:32.248507"
     }
   },
   "player_urls": {

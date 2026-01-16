@@ -1,90 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-16T01:19:36.584420",
-  "total_events": 19,
+  "last_updated": "2026-01-16T03:14:35.708793",
+  "total_events": 14,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-01-2026",
-      "time": "01:00",
-      "datetime": "16-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Phoenix Suns",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (01:00) NBA : Detroit Pistons - Phoenix Suns  (CH171us)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "01:00",
-      "datetime": "16-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Buffalo Sabres - Montreal Canadiens",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (01:00) NHL : Buffalo Sabres - Montreal Canadiens  (CH179us)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "01:00",
-      "datetime": "16-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Columbus Blue Jackets - Vancouver Canucks",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (01:00) NHL : Columbus Blue Jackets - Vancouver Canucks  (CH180us)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "01:00",
-      "datetime": "16-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - Philadelphia Flyers",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-01-2026 (01:00) NHL : Pittsburgh Penguins - Philadelphia Flyers  (CH181us) (CH89es) (CH98es)"
-    },
-    {
-      "date": "16-01-2026",
-      "time": "01:00",
-      "datetime": "16-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Washington Capitals - San Jose Sharks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-01-2026 (01:00) NHL : Washington Capitals - San Jose Sharks  (CH182us)"
-    },
     {
       "date": "16-01-2026",
       "time": "01:30",
@@ -297,7 +219,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-16T01:19:28.179797"
+      "extracted_at": "2026-01-16T03:14:27.918450"
     },
     "hoca": {
       "name": "hoca",
@@ -306,7 +228,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T01:19:29.643432"
+      "extracted_at": "2026-01-16T03:14:29.558258"
     },
     "Caster": {
       "name": "Caster",
@@ -315,7 +237,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T01:19:32.464076"
+      "extracted_at": "2026-01-16T03:14:32.157285"
     },
     "WIGI": {
       "name": "WIGI",
@@ -324,7 +246,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-16T01:19:35.584274"
+      "extracted_at": "2026-01-16T03:14:34.708644"
     }
   },
   "player_urls": {

@@ -1,68 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-17T05:52:32.501188",
-  "total_events": 5,
+  "last_updated": "2026-01-17T06:24:39.945330",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "17-01-2026",
-      "time": "04:00",
-      "datetime": "17-01-2026 04:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Dorados - Zacatecas Mineros",
-      "channels": [
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-01-2026 (04:00) Liga De Expansion Mx : Dorados - Zacatecas Mineros  (CH98es)"
-    },
-    {
-      "date": "17-01-2026",
-      "time": "04:00",
-      "datetime": "17-01-2026 04:00",
-      "league": "Liga Mx",
-      "teams": "Mazatlan FC - Monterrey",
-      "channels": [
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-01-2026 (04:00) Liga Mx : Mazatlan FC - Monterrey  (CH108es)"
-    },
-    {
-      "date": "17-01-2026",
-      "time": "04:00",
-      "datetime": "17-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Washington Wizards",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-01-2026 (04:00) NBA : Sacramento Kings - Washington Wizards  (CH185us)"
-    },
-    {
-      "date": "17-01-2026",
-      "time": "04:06",
-      "datetime": "17-01-2026 04:06",
-      "league": "Liga Mx Women",
-      "teams": "Leon F - Tigres F",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-01-2026 (04:06) Liga Mx Women : Leon F - Tigres F  (CH159es)"
-    },
     {
       "date": "17-01-2026",
       "time": "04:30",
@@ -85,7 +29,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-17T05:52:25.083296"
+      "extracted_at": "2026-01-17T06:24:31.414266"
     },
     "hoca": {
       "name": "hoca",
@@ -94,7 +38,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-17T05:52:26.612661"
+      "extracted_at": "2026-01-17T06:24:33.140728"
     },
     "Caster": {
       "name": "Caster",
@@ -103,7 +47,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-17T05:52:29.042185"
+      "extracted_at": "2026-01-17T06:24:36.161961"
     },
     "WIGI": {
       "name": "WIGI",
@@ -112,7 +56,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-17T05:52:31.501031"
+      "extracted_at": "2026-01-17T06:24:38.945129"
     }
   },
   "player_urls": {

@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-17T06:24:39.945330",
-  "total_events": 1,
+  "last_updated": "2026-01-17T06:52:14.540238",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "17-01-2026",
-      "time": "04:30",
-      "datetime": "17-01-2026 04:30",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-01-2026 (04:30) NHL : Los Angeles Kings - Anaheim Ducks  (CH190us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -29,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-17T06:24:31.414266"
+      "extracted_at": "2026-01-17T06:52:07.149860"
     },
     "hoca": {
       "name": "hoca",
@@ -38,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-17T06:24:33.140728"
+      "extracted_at": "2026-01-17T06:52:08.633096"
     },
     "Caster": {
       "name": "Caster",
@@ -47,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-17T06:24:36.161961"
+      "extracted_at": "2026-01-17T06:52:11.073075"
     },
     "WIGI": {
       "name": "WIGI",
@@ -56,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-17T06:24:38.945129"
+      "extracted_at": "2026-01-17T06:52:13.540090"
     }
   },
   "player_urls": {

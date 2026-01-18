@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-18T22:42:47.840068",
-  "total_events": 61,
+  "last_updated": "2026-01-18T22:52:40.988172",
+  "total_events": 59,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "18-01-2026",
-      "time": "20:45",
-      "datetime": "18-01-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Lyon - Brest",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "18-01-2026 (20:45) Ligue 1 : Lyon - Brest  (CH20fr)"
-    },
-    {
-      "date": "18-01-2026",
-      "time": "20:45",
-      "datetime": "18-01-2026 20:45",
-      "league": "Serie A",
-      "teams": "AC Milan - Lecce",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-01-2026 (20:45) Serie A : AC Milan - Lecce  (CH45fr) (CH137it) (CH89es) (CH98es)"
-    },
     {
       "date": "18-01-2026",
       "time": "21:00",
@@ -1073,7 +1033,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-18T22:42:41.737794"
+      "extracted_at": "2026-01-18T22:52:34.653790"
     },
     "hoca": {
       "name": "hoca",
@@ -1082,7 +1042,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T22:42:43.042603"
+      "extracted_at": "2026-01-18T22:52:36.048436"
     },
     "Caster": {
       "name": "Caster",
@@ -1091,7 +1051,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T22:42:44.925142"
+      "extracted_at": "2026-01-18T22:52:38.082407"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1100,7 +1060,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T22:42:46.839932"
+      "extracted_at": "2026-01-18T22:52:39.988009"
     }
   },
   "player_urls": {

@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-18T18:22:09.209406",
-  "total_events": 95,
+  "last_updated": "2026-01-18T18:48:52.530230",
+  "total_events": 93,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "18-01-2026",
-      "time": "16:30",
-      "datetime": "18-01-2026 16:30",
-      "league": "Liga Portugal",
-      "teams": "Santa Clara - Famalicao",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "18-01-2026 (16:30) Liga Portugal : Santa Clara - Famalicao  (CH144pt)"
-    },
-    {
-      "date": "18-01-2026",
-      "time": "16:45",
-      "datetime": "18-01-2026 16:45",
-      "league": "Eredivisie",
-      "teams": "Feyenoord - Sparta Rotterdam",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "18-01-2026 (16:45) Eredivisie : Feyenoord - Sparta Rotterdam  (CH142nl) (CH99es) (CH125de)"
-    },
     {
       "date": "18-01-2026",
       "time": "17:00",
@@ -1649,7 +1613,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-18T18:22:01.212798"
+      "extracted_at": "2026-01-18T18:48:45.141885"
     },
     "hoca": {
       "name": "hoca",
@@ -1658,7 +1622,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T18:22:02.838706"
+      "extracted_at": "2026-01-18T18:48:46.638910"
     },
     "Caster": {
       "name": "Caster",
@@ -1667,7 +1631,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T18:22:05.598884"
+      "extracted_at": "2026-01-18T18:48:49.109173"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1676,7 +1640,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T18:22:08.209258"
+      "extracted_at": "2026-01-18T18:48:51.530047"
     }
   },
   "player_urls": {

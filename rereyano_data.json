@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-18T20:52:56.603625",
-  "total_events": 71,
+  "last_updated": "2026-01-18T21:14:49.271416",
+  "total_events": 68,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "18-01-2026",
-      "time": "19:00",
-      "datetime": "18-01-2026 19:00",
-      "league": "Liga Endesa",
-      "teams": "Real Madrid - Valence",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-01-2026 (19:00) Liga Endesa : Real Madrid - Valence  (CH156es)"
-    },
-    {
-      "date": "18-01-2026",
-      "time": "19:00",
-      "datetime": "18-01-2026 19:00",
-      "league": "Liga Mx",
-      "teams": "U.N.A.M. - Leon",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-01-2026 (19:00) Liga Mx : U.N.A.M. - Leon  (CH68es) (CH106es)"
-    },
-    {
-      "date": "18-01-2026",
-      "time": "19:00",
-      "datetime": "18-01-2026 19:00",
-      "league": "Liga Portugal",
-      "teams": "Tondela - Braga",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "18-01-2026 (19:00) Liga Portugal : Tondela - Braga  (CH144pt)"
-    },
     {
       "date": "18-01-2026",
       "time": "19:15",
@@ -1229,7 +1183,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-18T20:52:50.146720"
+      "extracted_at": "2026-01-18T21:14:43.100477"
     },
     "hoca": {
       "name": "hoca",
@@ -1238,7 +1192,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T20:52:51.512672"
+      "extracted_at": "2026-01-18T21:14:44.448816"
     },
     "Caster": {
       "name": "Caster",
@@ -1247,7 +1201,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T20:52:53.976191"
+      "extracted_at": "2026-01-18T21:14:46.686355"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1256,7 +1210,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-18T20:52:55.603447"
+      "extracted_at": "2026-01-18T21:14:48.271273"
     }
   },
   "player_urls": {

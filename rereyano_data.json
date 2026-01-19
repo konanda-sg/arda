@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-19T03:22:19.663373",
-  "total_events": 45,
+  "last_updated": "2026-01-19T04:36:07.679396",
+  "total_events": 41,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-01-2026",
-      "time": "02:00",
-      "datetime": "19-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Denver Nuggets - Charlotte Hornets",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-01-2026 (02:00) NBA : Denver Nuggets - Charlotte Hornets  (CH177us)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "02:00",
-      "datetime": "19-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - St. Louis Blues",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-01-2026 (02:00) NHL : Edmonton Oilers - St. Louis Blues  (CH178us)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "02:06",
-      "datetime": "19-01-2026 02:06",
-      "league": "Liga Mx",
-      "teams": "Pachuca - Club America",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (02:06) Liga Mx : Pachuca - Club America  (CH68es)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "02:30",
-      "datetime": "19-01-2026 02:30",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Santa Fe - Aguilas",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (02:30) Liga Betplay Dimayor : Santa Fe - Aguilas  (CH81es) (CH82es)"
-    },
     {
       "date": "19-01-2026",
       "time": "03:00",
@@ -773,7 +713,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-19T03:22:11.801529"
+      "extracted_at": "2026-01-19T04:36:00.140775"
     },
     "hoca": {
       "name": "hoca",
@@ -782,7 +722,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T03:22:13.286822"
+      "extracted_at": "2026-01-19T04:36:01.670535"
     },
     "Caster": {
       "name": "Caster",
@@ -791,7 +731,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T03:22:15.875160"
+      "extracted_at": "2026-01-19T04:36:04.081923"
     },
     "WIGI": {
       "name": "WIGI",
@@ -800,7 +740,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T03:22:18.663227"
+      "extracted_at": "2026-01-19T04:36:06.679212"
     }
   },
   "player_urls": {

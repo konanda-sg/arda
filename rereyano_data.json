@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-19T20:56:47.038519",
-  "total_events": 32,
+  "last_updated": "2026-01-19T21:17:29.378201",
+  "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-01-2026",
-      "time": "19:00",
-      "datetime": "19-01-2026 19:00",
-      "league": "Betfred Super League",
-      "teams": "Volos - Atromitos",
-      "channels": [
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "19-01-2026 (19:00) Betfred Super League : Volos - Atromitos  (CH149gr)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "19:00",
-      "datetime": "19-01-2026 19:00",
-      "league": "NBA",
-      "teams": "Atlanta Hawks - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (19:00) NBA : Atlanta Hawks - Milwaukee Bucks  (CH6fr) (CH170us) (CH75es)"
-    },
     {
       "date": "19-01-2026",
       "time": "19:30",
@@ -571,7 +535,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-19T20:56:38.942273"
+      "extracted_at": "2026-01-19T21:17:21.866585"
     },
     "hoca": {
       "name": "hoca",
@@ -580,7 +544,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T20:56:40.314673"
+      "extracted_at": "2026-01-19T21:17:23.385316"
     },
     "Caster": {
       "name": "Caster",
@@ -589,7 +553,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T20:56:43.297638"
+      "extracted_at": "2026-01-19T21:17:25.876050"
     },
     "WIGI": {
       "name": "WIGI",
@@ -598,7 +562,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T20:56:46.038338"
+      "extracted_at": "2026-01-19T21:17:28.378019"
     }
   },
   "player_urls": {

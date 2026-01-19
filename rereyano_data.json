@@ -1,138 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-19T01:23:15.630972",
-  "total_events": 52,
+  "last_updated": "2026-01-19T03:22:19.663373",
+  "total_events": 45,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-01-2026",
-      "time": "00:00",
-      "datetime": "19-01-2026 00:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Jaiba Brava - Tepatitlan de Morelos",
-      "channels": [
-        {
-          "id": "105",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (00:00) Liga De Expansion Mx : Jaiba Brava - Tepatitlan de Morelos  (CH105es)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "00:00",
-      "datetime": "19-01-2026 00:00",
-      "league": "Liga Mx",
-      "teams": "Santos Laguna - Juarez",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (00:00) Liga Mx : Santos Laguna - Juarez  (CH68es)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "00:20",
-      "datetime": "19-01-2026 00:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Junior - Tolima",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (00:20) Liga Betplay Dimayor : Junior - Tolima  (CH81es)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "00:30",
-      "datetime": "19-01-2026 00:30",
-      "league": "NFL",
-      "teams": "Chicago Bears - Los Angeles Rams",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "174",
-          "lang": "us"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "80",
-          "lang": "es"
-        },
-        {
-          "id": "101",
-          "lang": "es"
-        },
-        {
-          "id": "104",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (00:30) NFL : Chicago Bears - Los Angeles Rams  (CH2fr) (CH174us) (CH93es) (CH80es) (CH101es) (CH104es) (CH107es)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "01:00",
-      "datetime": "19-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Brooklyn Nets",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-01-2026 (01:00) NBA : Chicago Bulls - Brooklyn Nets  (CH175us)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "01:00",
-      "datetime": "19-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Houston Rockets - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-01-2026 (01:00) NBA : Houston Rockets - New Orleans Pelicans  (CH1fr) (CH176us)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "01:15",
-      "datetime": "19-01-2026 01:15",
-      "league": "Copa Argentina",
-      "teams": "Lanus - Sarmiento de La Banda",
-      "channels": [
-        {
-          "id": "77",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (01:15) Copa Argentina : Lanus - Sarmiento de La Banda  (CH77es)"
-    },
     {
       "date": "19-01-2026",
       "time": "02:00",
@@ -899,7 +773,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-19T01:23:09.289924"
+      "extracted_at": "2026-01-19T03:22:11.801529"
     },
     "hoca": {
       "name": "hoca",
@@ -908,7 +782,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T01:23:10.687195"
+      "extracted_at": "2026-01-19T03:22:13.286822"
     },
     "Caster": {
       "name": "Caster",
@@ -917,7 +791,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T01:23:12.668707"
+      "extracted_at": "2026-01-19T03:22:15.875160"
     },
     "WIGI": {
       "name": "WIGI",
@@ -926,7 +800,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T01:23:14.630827"
+      "extracted_at": "2026-01-19T03:22:18.663227"
     }
   },
   "player_urls": {

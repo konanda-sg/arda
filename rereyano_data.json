@@ -1,100 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-19T22:55:58.860973",
-  "total_events": 22,
+  "last_updated": "2026-01-19T23:17:11.798681",
+  "total_events": 18,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-01-2026",
-      "time": "21:00",
-      "datetime": "19-01-2026 21:00",
-      "league": "Laliga",
-      "teams": "Elche - FC Séville",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-01-2026 (21:00) Laliga : Elche - FC Séville  (CH5fr) (CH51es) (CH123de) (CH71es) (CH88es)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "21:00",
-      "datetime": "19-01-2026 21:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - Los Angeles Clippers",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-01-2026 (21:00) NBA : Washington Wizards - Los Angeles Clippers  (CH8fr) (CH173us)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "21:00",
-      "datetime": "19-01-2026 21:00",
-      "league": "Premier League",
-      "teams": "Brighton - Bournemouth",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "19-01-2026 (21:00) Premier League : Brighton - Bournemouth  (CH12fr) (CH127gb) (CH56es) (CH120de)"
-    },
-    {
-      "date": "19-01-2026",
-      "time": "21:15",
-      "datetime": "19-01-2026 21:15",
-      "league": "Liga Portugal",
-      "teams": "Estrela - Estoril",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "19-01-2026 (21:15) Liga Portugal : Estrela - Estoril  (CH144pt)"
-    },
     {
       "date": "19-01-2026",
       "time": "22:00",
@@ -391,7 +303,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-19T22:55:50.298411"
+      "extracted_at": "2026-01-19T23:17:04.546476"
     },
     "hoca": {
       "name": "hoca",
@@ -400,7 +312,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T22:55:52.063250"
+      "extracted_at": "2026-01-19T23:17:06.000599"
     },
     "Caster": {
       "name": "Caster",
@@ -409,7 +321,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T22:55:55.109268"
+      "extracted_at": "2026-01-19T23:17:08.478740"
     },
     "WIGI": {
       "name": "WIGI",
@@ -418,7 +330,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-19T22:55:57.860828"
+      "extracted_at": "2026-01-19T23:17:10.798514"
     }
   },
   "player_urls": {

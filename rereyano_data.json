@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-20T01:18:29.811089",
-  "total_events": 12,
+  "last_updated": "2026-01-20T03:17:46.936856",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "20-01-2026",
-      "time": "00:00",
-      "datetime": "20-01-2026 00:00",
-      "league": "NHL",
-      "teams": "Florida Panthers - San Jose Sharks",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (00:00) NHL : Florida Panthers - San Jose Sharks  (CH178us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "01:00",
-      "datetime": "20-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - Indiana Pacers",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (01:00) NBA : Philadelphia 76ers - Indiana Pacers  (CH7fr) (CH179us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "01:15",
-      "datetime": "20-01-2026 01:15",
-      "league": "Copa Argentina",
-      "teams": "Estudiantes - Ituzaingo",
-      "channels": [
-        {
-          "id": "77",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-01-2026 (01:15) Copa Argentina : Estudiantes - Ituzaingo  (CH77es)"
-    },
     {
       "date": "20-01-2026",
       "time": "01:30",
@@ -203,7 +157,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-20T01:18:21.801434"
+      "extracted_at": "2026-01-20T03:17:39.129980"
     },
     "hoca": {
       "name": "hoca",
@@ -212,7 +166,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T01:18:23.289176"
+      "extracted_at": "2026-01-20T03:17:40.871216"
     },
     "Caster": {
       "name": "Caster",
@@ -221,7 +175,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T01:18:26.172246"
+      "extracted_at": "2026-01-20T03:17:43.280927"
     },
     "WIGI": {
       "name": "WIGI",
@@ -230,7 +184,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T01:18:28.810958"
+      "extracted_at": "2026-01-20T03:17:45.936715"
     }
   },
   "player_urls": {

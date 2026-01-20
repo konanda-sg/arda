@@ -1,94 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-20T03:17:46.936856",
-  "total_events": 9,
+  "last_updated": "2026-01-20T04:30:33.732844",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "20-01-2026",
-      "time": "01:30",
-      "datetime": "20-01-2026 01:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Phoenix Suns",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (01:30) NBA : Brooklyn Nets - Phoenix Suns  (CH8fr) (CH180us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "01:30",
-      "datetime": "20-01-2026 01:30",
-      "league": "NHL",
-      "teams": "Toronto Maple Leafs - Minnesota Wild",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (01:30) NHL : Toronto Maple Leafs - Minnesota Wild  (CH181us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "02:00",
-      "datetime": "20-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Boston Celtics",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "182",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-01-2026 (02:00) NBA : Detroit Pistons - Boston Celtics  (CH6fr) (CH182us) (CH75es)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "02:00",
-      "datetime": "20-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Philadelphia Flyers",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (02:00) NHL : Vegas Golden Knights - Philadelphia Flyers  (CH183us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "02:30",
-      "datetime": "20-01-2026 02:30",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - Winnipeg Jets",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (02:30) NHL : Chicago Blackhawks - Winnipeg Jets  (CH184us)"
-    },
     {
       "date": "20-01-2026",
       "time": "03:00",
@@ -157,7 +75,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-20T03:17:39.129980"
+      "extracted_at": "2026-01-20T04:30:25.735040"
     },
     "hoca": {
       "name": "hoca",
@@ -166,7 +84,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T03:17:40.871216"
+      "extracted_at": "2026-01-20T04:30:27.360776"
     },
     "Caster": {
       "name": "Caster",
@@ -175,7 +93,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T03:17:43.280927"
+      "extracted_at": "2026-01-20T04:30:30.088522"
     },
     "WIGI": {
       "name": "WIGI",
@@ -184,7 +102,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T03:17:45.936715"
+      "extracted_at": "2026-01-20T04:30:32.732658"
     }
   },
   "player_urls": {

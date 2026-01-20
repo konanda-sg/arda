@@ -1,59 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-20T05:46:31.077358",
-  "total_events": 3,
+  "last_updated": "2026-01-20T06:29:52.028479",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "20-01-2026",
-      "time": "04:00",
-      "datetime": "20-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Miami Heat",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (04:00) NBA : Golden State Warriors - Miami Heat  (CH4fr) (CH186us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "04:00",
-      "datetime": "20-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Anaheim Ducks - New York Rangers",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (04:00) NHL : Anaheim Ducks - New York Rangers  (CH187us)"
-    },
-    {
-      "date": "20-01-2026",
-      "time": "04:00",
-      "datetime": "20-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - New York Islanders",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-01-2026 (04:00) NHL : Vancouver Canucks - New York Islanders  (CH188us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -61,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-20T05:46:23.055120"
+      "extracted_at": "2026-01-20T06:29:44.000412"
     },
     "hoca": {
       "name": "hoca",
@@ -70,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T05:46:24.685627"
+      "extracted_at": "2026-01-20T06:29:45.659226"
     },
     "Caster": {
       "name": "Caster",
@@ -79,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T05:46:27.465639"
+      "extracted_at": "2026-01-20T06:29:48.295341"
     },
     "WIGI": {
       "name": "WIGI",
@@ -88,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T05:46:30.077214"
+      "extracted_at": "2026-01-20T06:29:51.028329"
     }
   },
   "player_urls": {

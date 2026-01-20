@@ -1,12 +1,943 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-20T07:55:24.930779",
-  "total_events": 0,
+  "last_updated": "2026-01-20T08:29:10.054547",
+  "total_events": 53,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "20-01-2026",
+      "time": "16:30",
+      "datetime": "20-01-2026 16:30",
+      "league": "Ligue Des Champions",
+      "teams": "Kairat Almaty - Club Brugge",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (16:30) Ligue Des Champions : Kairat Almaty - Club Brugge  (CH12fr) (CH161es) (CH126gb) (CH123de) (CH139it) (CH87es) (CH78es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:00",
+      "datetime": "20-01-2026 18:00",
+      "league": "Euro masculin de Handball",
+      "teams": "Monténégro - Suisse",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:00) Euro masculin de Handball : Monténégro - Suisse  (CH4fr)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:15",
+      "datetime": "20-01-2026 18:15",
+      "league": "EuroLeague",
+      "teams": "Olympiakos - Maccabi Tel Aviv",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:15) EuroLeague : Olympiakos - Maccabi Tel Aviv  (CH67es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:30",
+      "datetime": "20-01-2026 18:30",
+      "league": "EuroLeague",
+      "teams": "Hapoel Tel-Aviv - Anadolu Efes",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:30) EuroLeague : Hapoel Tel-Aviv - Anadolu Efes  (CH65es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:30",
+      "datetime": "20-01-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al Ahli SC - Al Khaleej",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:30) Saudi Pro League : Al Ahli SC - Al Khaleej  (CH55es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:45",
+      "datetime": "20-01-2026 18:45",
+      "league": "EuroLeague",
+      "teams": "Monaco - Étoile Rouge Belgrade",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:45) EuroLeague : Monaco - Étoile Rouge Belgrade  (CH66es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:45",
+      "datetime": "20-01-2026 18:45",
+      "league": "Knvb Beker",
+      "teams": "De Treffers - Nijmegen",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:45) Knvb Beker : De Treffers - Nijmegen  (CH142nl)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "18:45",
+      "datetime": "20-01-2026 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Bodo/Glimt - Manchester City",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (18:45) Ligue Des Champions : Bodo/Glimt - Manchester City  (CH12fr) (CH162es) (CH129gb) (CH124de) (CH139it) (CH87es) (CH78es) (CH68es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:00",
+      "datetime": "20-01-2026 20:00",
+      "league": "EuroLeague",
+      "teams": "Lyon-Villeurbanne - Zalgiris Kaunas",
+      "channels": [
+        {
+          "id": "50",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:00) EuroLeague : Lyon-Villeurbanne - Zalgiris Kaunas  (CH50es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:15",
+      "datetime": "20-01-2026 20:15",
+      "league": "EuroLeague",
+      "teams": "Panathinaikos - Baskonia",
+      "channels": [
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:15) EuroLeague : Panathinaikos - Baskonia  (CH64es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:30",
+      "datetime": "20-01-2026 20:30",
+      "league": "Euro masculin de Handball",
+      "teams": "Danemark - Portugal",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:30) Euro masculin de Handball : Danemark - Portugal  (CH1fr)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:30",
+      "datetime": "20-01-2026 20:30",
+      "league": "Euro masculin de Handball",
+      "teams": "Hongrie - Islande",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:30) Euro masculin de Handball : Hongrie - Islande  (CH4fr)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:30",
+      "datetime": "20-01-2026 20:30",
+      "league": "Euro masculin de Handball",
+      "teams": "Slovénie - Iles Féroé",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:30) Euro masculin de Handball : Slovénie - Iles Féroé  (CH3fr)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:30",
+      "datetime": "20-01-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Barcelone - Dubai",
+      "channels": [
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:30) EuroLeague : Barcelone - Dubai  (CH63es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:30",
+      "datetime": "20-01-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Bayern - Partizan",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:30) EuroLeague : Bayern - Partizan  (CH54es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:30",
+      "datetime": "20-01-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Valence - Paris",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:30) EuroLeague : Valence - Paris  (CH55es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Charlton - Derby",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Charlton - Derby  (CH190gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Coventry - Millwall",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Coventry - Millwall  (CH191gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Ipswich - Bristol City",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Ipswich - Bristol City  (CH192gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Oxford Utd - QPR",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Oxford Utd - QPR  (CH193gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Preston - Hull",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Preston - Hull  (CH194gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Sheffield Wed - Birmingham",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Sheffield Wed - Birmingham  (CH195gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "Swansea - Blackburn",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : Swansea - Blackburn  (CH196gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "Championship",
+      "teams": "West Brom - Norwich",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) Championship : West Brom - Norwich  (CH197gb)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "20:45",
+      "datetime": "20-01-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Real Madrid - Milano",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (20:45) EuroLeague : Real Madrid - Milano  (CH62es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Championship",
+      "teams": "Wrexham - Leicester",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Championship : Wrexham - Leicester  (CH5fr) (CH127gb) (CH79es) (CH98es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Multiplex Ligue des Champions -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Multiplex Ligue des Champions -   (CH14fr) (CH164es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "FC Copenhague - Naples",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "148",
+          "lang": "es"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "92",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : FC Copenhague - Naples  (CH35fr) (CH148es) (CH138it) (CH92es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Inter - Arsenal",
+      "channels": [
+        {
+          "id": "33",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Inter - Arsenal  (CH33fr) (CH163es) (CH132gb) (CH139it) (CH88es) (CH78es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Olympiakos - Bayer Leverkusen",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Olympiakos - Bayer Leverkusen  (CH37fr) (CH167es) (CH123de) (CH90es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Real Madrid - Monaco",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Real Madrid - Monaco  (CH13fr) (CH161es) (CH129gb) (CH114de) (CH87es) (CH68es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Sporting - PSG",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Sporting - PSG  (CH12fr) (CH166es) (CH131us) (CH91es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Tottenham - Dortmund",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Tottenham - Dortmund  (CH34fr) (CH165es) (CH112de) (CH126gb) (CH89es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "21:00",
+      "datetime": "20-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Villarreal - Ajax",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "00",
+          "lang": "us"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (21:00) Ligue Des Champions : Villarreal - Ajax  (CH36fr) (CH162es) (CH00us) (CH93es)"
+    },
+    {
+      "date": "20-01-2026",
+      "time": "23:00",
+      "datetime": "20-01-2026 23:00",
+      "league": "Supercopa Chili",
+      "teams": "Huachipato - U. Catolica",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-01-2026 (23:00) Supercopa Chili : Huachipato - U. Catolica  (CH83es)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "01:00",
+      "datetime": "21-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Phoenix Suns",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (01:00) NBA : Philadelphia 76ers - Phoenix Suns  (CH170us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "01:00",
+      "datetime": "21-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - Ottawa Senators",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (01:00) NHL : Columbus Blue Jackets - Ottawa Senators  (CH177us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "01:00",
+      "datetime": "21-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Montreal Canadiens - Minnesota Wild",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (01:00) NHL : Montreal Canadiens - Minnesota Wild  (CH178us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "01:00",
+      "datetime": "21-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - San Jose Sharks",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (01:00) NHL : Tampa Bay Lightning - San Jose Sharks  (CH179us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "01:30",
+      "datetime": "21-01-2026 01:30",
+      "league": "NHL",
+      "teams": "Dallas Stars - Boston Bruins",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-01-2026 (01:30) NHL : Dallas Stars - Boston Bruins  (CH180us) (CH90es)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "02:00",
+      "datetime": "21-01-2026 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Pachuca F - Puebla F",
+      "channels": [
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-01-2026 (02:00) Liga Mx Women : Pachuca F - Puebla F  (CH158es)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "02:00",
+      "datetime": "21-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (02:00) NBA : Chicago Bulls - Los Angeles Clippers  (CH171us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "02:00",
+      "datetime": "21-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "172",
+          "lang": "us"
+        },
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-01-2026 (02:00) NBA : Houston Rockets - San Antonio Spurs  (CH1fr) (CH172us) (CH75es)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "02:00",
+      "datetime": "21-01-2026 02:00",
+      "league": "NHL",
+      "teams": "Nashville Predators - Buffalo Sabres",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (02:00) NHL : Nashville Predators - Buffalo Sabres  (CH181us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "02:00",
+      "datetime": "21-01-2026 02:00",
+      "league": "NHL",
+      "teams": "Winnipeg Jets - St. Louis Blues",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (02:00) NHL : Winnipeg Jets - St. Louis Blues  (CH182us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "03:00",
+      "datetime": "21-01-2026 03:00",
+      "league": "Liga Mx Women",
+      "teams": "Atl. San Luis F - Club America F",
+      "channels": [
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-01-2026 (03:00) Liga Mx Women : Atl. San Luis F - Club America F  (CH97es)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "03:00",
+      "datetime": "21-01-2026 03:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (03:00) NBA : Utah Jazz - Minnesota Timberwolves  (CH173us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "04:00",
+      "datetime": "21-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        },
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-01-2026 (04:00) NBA : Denver Nuggets - Los Angeles Lakers  (CH174us) (CH75es)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "04:00",
+      "datetime": "21-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Toronto Raptors",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (04:00) NBA : Golden State Warriors - Toronto Raptors  (CH175us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "04:00",
+      "datetime": "21-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Sacramento Kings - Miami Heat",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (04:00) NBA : Sacramento Kings - Miami Heat  (CH176us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "04:00",
+      "datetime": "21-01-2026 04:00",
+      "league": "NHL",
+      "teams": "Edmonton Oilers - New Jersey Devils",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (04:00) NHL : Edmonton Oilers - New Jersey Devils  (CH183us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "04:00",
+      "datetime": "21-01-2026 04:00",
+      "league": "NHL",
+      "teams": "Los Angeles Kings - New York Rangers",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-01-2026 (04:00) NHL : Los Angeles Kings - New York Rangers  (CH184us)"
+    },
+    {
+      "date": "21-01-2026",
+      "time": "04:06",
+      "datetime": "21-01-2026 04:06",
+      "league": "Liga Mx Women",
+      "teams": "Tijuana F - Juarez F",
+      "channels": [
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-01-2026 (04:06) Liga Mx Women : Tijuana F - Juarez F  (CH158es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +945,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-20T07:55:16.416978"
+      "extracted_at": "2026-01-20T08:28:25.025435"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +954,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T07:55:18.088399"
+      "extracted_at": "2026-01-20T08:28:26.746460"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +963,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T07:55:21.017162"
+      "extracted_at": "2026-01-20T08:28:48.247242"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +972,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-20T07:55:23.930567"
+      "extracted_at": "2026-01-20T08:29:09.054399"
     }
   },
   "player_urls": {

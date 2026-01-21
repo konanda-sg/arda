@@ -1,108 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-21T03:16:10.060163",
-  "total_events": 14,
+  "last_updated": "2026-01-21T04:30:12.187999",
+  "total_events": 8,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "21-01-2026",
-      "time": "01:30",
-      "datetime": "21-01-2026 01:30",
-      "league": "NHL",
-      "teams": "Dallas Stars - Boston Bruins",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-01-2026 (01:30) NHL : Dallas Stars - Boston Bruins  (CH180us) (CH90es)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "02:00",
-      "datetime": "21-01-2026 02:00",
-      "league": "Liga Mx Women",
-      "teams": "Pachuca F - Puebla F",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-01-2026 (02:00) Liga Mx Women : Pachuca F - Puebla F  (CH158es)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "02:00",
-      "datetime": "21-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Los Angeles Clippers",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (02:00) NBA : Chicago Bulls - Los Angeles Clippers  (CH171us)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "02:00",
-      "datetime": "21-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Houston Rockets - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "172",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-01-2026 (02:00) NBA : Houston Rockets - San Antonio Spurs  (CH1fr) (CH172us) (CH75es)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "02:00",
-      "datetime": "21-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Nashville Predators - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (02:00) NHL : Nashville Predators - Buffalo Sabres  (CH181us)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "02:00",
-      "datetime": "21-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Winnipeg Jets - St. Louis Blues",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (02:00) NHL : Winnipeg Jets - St. Louis Blues  (CH182us)"
-    },
     {
       "date": "21-01-2026",
       "time": "03:00",
@@ -227,7 +131,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-21T03:16:01.783410"
+      "extracted_at": "2026-01-21T04:30:04.957362"
     },
     "hoca": {
       "name": "hoca",
@@ -236,7 +140,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-21T03:16:03.407386"
+      "extracted_at": "2026-01-21T04:30:06.476664"
     },
     "Caster": {
       "name": "Caster",
@@ -245,7 +149,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-21T03:16:06.240392"
+      "extracted_at": "2026-01-21T04:30:08.899388"
     },
     "WIGI": {
       "name": "WIGI",
@@ -254,7 +158,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-21T03:16:09.060013"
+      "extracted_at": "2026-01-21T04:30:11.187879"
     }
   },
   "player_urls": {

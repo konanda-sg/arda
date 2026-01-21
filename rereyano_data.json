@@ -1,101 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-21T05:59:00.721065",
-  "total_events": 6,
+  "last_updated": "2026-01-21T06:42:14.683639",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "21-01-2026",
-      "time": "04:00",
-      "datetime": "21-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Denver Nuggets - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "174",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-01-2026 (04:00) NBA : Denver Nuggets - Los Angeles Lakers  (CH174us) (CH75es)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "04:00",
-      "datetime": "21-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Toronto Raptors",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (04:00) NBA : Golden State Warriors - Toronto Raptors  (CH175us)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "04:00",
-      "datetime": "21-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Miami Heat",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (04:00) NBA : Sacramento Kings - Miami Heat  (CH176us)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "04:00",
-      "datetime": "21-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - New Jersey Devils",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (04:00) NHL : Edmonton Oilers - New Jersey Devils  (CH183us)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "04:00",
-      "datetime": "21-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - New York Rangers",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-01-2026 (04:00) NHL : Los Angeles Kings - New York Rangers  (CH184us)"
-    },
-    {
-      "date": "21-01-2026",
-      "time": "04:06",
-      "datetime": "21-01-2026 04:06",
-      "league": "Liga Mx Women",
-      "teams": "Tijuana F - Juarez F",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-01-2026 (04:06) Liga Mx Women : Tijuana F - Juarez F  (CH158es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -103,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-21T05:58:53.473794"
+      "extracted_at": "2026-01-21T06:42:06.037063"
     },
     "hoca": {
       "name": "hoca",
@@ -112,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-21T05:58:54.982466"
+      "extracted_at": "2026-01-21T06:42:07.698130"
     },
     "Caster": {
       "name": "Caster",
@@ -121,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-21T05:58:57.503617"
+      "extracted_at": "2026-01-21T06:42:10.799816"
     },
     "WIGI": {
       "name": "WIGI",
@@ -130,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-21T05:58:59.720911"
+      "extracted_at": "2026-01-21T06:42:13.683486"
     }
   },
   "player_urls": {

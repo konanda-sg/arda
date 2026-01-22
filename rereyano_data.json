@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-22T05:06:40.660730",
-  "total_events": 5,
+  "last_updated": "2026-01-22T05:46:54.603954",
+  "total_events": 2,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "22-01-2026",
-      "time": "03:30",
-      "datetime": "22-01-2026 03:30",
-      "league": "NBA",
-      "teams": "Milwaukee Bucks - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "178",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-01-2026 (03:30) NBA : Milwaukee Bucks - Oklahoma City Thunder  (CH1fr) (CH178us) (CH156es) (CH90es)"
-    },
-    {
-      "date": "22-01-2026",
-      "time": "03:30",
-      "datetime": "22-01-2026 03:30",
-      "league": "NHL",
-      "teams": "Calgary Flames - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-01-2026 (03:30) NHL : Calgary Flames - Pittsburgh Penguins  (CH179us)"
-    },
-    {
-      "date": "22-01-2026",
-      "time": "03:30",
-      "datetime": "22-01-2026 03:30",
-      "league": "NHL",
-      "teams": "Seattle Kraken - New York Islanders",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-01-2026 (03:30) NHL : Seattle Kraken - New York Islanders  (CH180us)"
-    },
     {
       "date": "22-01-2026",
       "time": "04:00",
@@ -97,7 +43,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-22T05:06:33.545333"
+      "extracted_at": "2026-01-22T05:46:47.360318"
     },
     "hoca": {
       "name": "hoca",
@@ -106,7 +52,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-22T05:06:35.040061"
+      "extracted_at": "2026-01-22T05:46:49.073832"
     },
     "Caster": {
       "name": "Caster",
@@ -115,7 +61,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-22T05:06:37.467397"
+      "extracted_at": "2026-01-22T05:46:51.341119"
     },
     "WIGI": {
       "name": "WIGI",
@@ -124,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-22T05:06:39.660588"
+      "extracted_at": "2026-01-22T05:46:53.603751"
     }
   },
   "player_urls": {

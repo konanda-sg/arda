@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T05:55:34.226630",
-  "total_events": 2,
+  "last_updated": "2026-01-23T06:27:58.855244",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "23-01-2026",
-      "time": "04:00",
-      "datetime": "23-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-01-2026 (04:00) NBA : Los Angeles Clippers - Los Angeles Lakers  (CH194us)"
-    },
-    {
-      "date": "23-01-2026",
-      "time": "04:00",
-      "datetime": "23-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Miami Heat",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-01-2026 (04:00) NBA : Portland Trail Blazers - Miami Heat  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T05:55:26.838941"
+      "extracted_at": "2026-01-23T06:27:50.568358"
     },
     "hoca": {
       "name": "hoca",
@@ -52,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T05:55:28.369304"
+      "extracted_at": "2026-01-23T06:27:52.302939"
     },
     "Caster": {
       "name": "Caster",
@@ -61,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T05:55:30.791009"
+      "extracted_at": "2026-01-23T06:27:55.208062"
     },
     "WIGI": {
       "name": "WIGI",
@@ -70,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T05:55:33.226489"
+      "extracted_at": "2026-01-23T06:27:57.855116"
     }
   },
   "player_urls": {

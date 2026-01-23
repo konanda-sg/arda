@@ -1,88 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T05:00:24.878052",
-  "total_events": 6,
+  "last_updated": "2026-01-23T05:35:53.238020",
+  "total_events": 2,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-01-2026",
-      "time": "03:00",
-      "datetime": "23-01-2026 03:00",
-      "league": "Amical International",
-      "teams": "Panama - Mexique",
-      "channels": [
-        {
-          "id": "108",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-01-2026 (03:00) Amical International : Panama - Mexique  (CH108es) (CH107es) (CH106es) (CH68es) (CH70es)"
-    },
-    {
-      "date": "23-01-2026",
-      "time": "03:00",
-      "datetime": "23-01-2026 03:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-01-2026 (03:00) NBA : Utah Jazz - San Antonio Spurs  (CH191us)"
-    },
-    {
-      "date": "23-01-2026",
-      "time": "03:00",
-      "datetime": "23-01-2026 03:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-01-2026 (03:00) NHL : Edmonton Oilers - Pittsburgh Penguins  (CH4fr) (CH192us)"
-    },
-    {
-      "date": "23-01-2026",
-      "time": "03:30",
-      "datetime": "23-01-2026 03:30",
-      "league": "NHL",
-      "teams": "Minnesota Wild - Detroit Red Wings",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-01-2026 (03:30) NHL : Minnesota Wild - Detroit Red Wings  (CH193us)"
-    },
     {
       "date": "23-01-2026",
       "time": "04:00",
@@ -119,7 +43,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T05:00:16.585790"
+      "extracted_at": "2026-01-23T05:35:44.637694"
     },
     "hoca": {
       "name": "hoca",
@@ -128,7 +52,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T05:00:18.118927"
+      "extracted_at": "2026-01-23T05:35:46.412746"
     },
     "Caster": {
       "name": "Caster",
@@ -137,7 +61,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T05:00:20.545032"
+      "extracted_at": "2026-01-23T05:35:49.263170"
     },
     "WIGI": {
       "name": "WIGI",
@@ -146,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T05:00:23.877928"
+      "extracted_at": "2026-01-23T05:35:52.237879"
     }
   },
   "player_urls": {

@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T16:55:41.476710",
-  "total_events": 248,
+  "last_updated": "2026-01-23T17:23:33.501640",
+  "total_events": 250,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -95,9 +95,13 @@
         {
           "id": "78",
           "lang": "es"
+        },
+        {
+          "id": "113",
+          "lang": "de"
         }
       ],
-      "raw_line": "23-01-2026 (18:30) Bundesliga 2 : Darmstadt - Nurnberg  (CH9fr) (CH78es) (CHde)"
+      "raw_line": "23-01-2026 (18:30) Bundesliga 2 : Darmstadt - Nurnberg  (CH9fr) (CH78es) (CH113de)"
     },
     {
       "date": "23-01-2026",
@@ -351,15 +355,15 @@
           "lang": "fr"
         },
         {
-          "id": "55",
-          "lang": "es"
-        },
-        {
           "id": "111",
           "lang": "de"
+        },
+        {
+          "id": "55",
+          "lang": "es"
         }
       ],
-      "raw_line": "23-01-2026 (20:30) Bundesliga : St. Pauli - Hamburger SV  (CH2fr) (CH55es) (CH111de)"
+      "raw_line": "23-01-2026 (20:30) Bundesliga : St. Pauli - Hamburger SV  (CH2fr) (CH111de) (CH55es)"
     },
     {
       "date": "23-01-2026",
@@ -457,19 +461,19 @@
           "lang": "fr"
         },
         {
-          "id": "88",
-          "lang": "es"
-        },
-        {
           "id": "137",
           "lang": "it"
         },
         {
           "id": "145",
           "lang": "pt"
+        },
+        {
+          "id": "88",
+          "lang": "es"
         }
       ],
-      "raw_line": "23-01-2026 (20:45) Serie A : Inter - Pisa  (CH45fr) (CH88es) (CH137it) (CH145pt)"
+      "raw_line": "23-01-2026 (20:45) Serie A : Inter - Pisa  (CH45fr) (CH137it) (CH145pt) (CH88es)"
     },
     {
       "date": "23-01-2026",
@@ -483,19 +487,19 @@
           "lang": "fr"
         },
         {
-          "id": "99",
-          "lang": "es"
-        },
-        {
           "id": "127",
           "lang": "gb"
         },
         {
           "id": "128",
           "lang": "gb"
+        },
+        {
+          "id": "99",
+          "lang": "es"
         }
       ],
-      "raw_line": "23-01-2026 (21:00) Championship : Derby - West Brom  (CH10fr) (CH99es) (CH127gb) (CH128gb)"
+      "raw_line": "23-01-2026 (21:00) Championship : Derby - West Brom  (CH10fr) (CH127gb) (CH128gb) (CH99es)"
     },
     {
       "date": "23-01-2026",
@@ -510,10 +514,6 @@
         },
         {
           "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "50",
           "lang": "es"
         },
         {
@@ -533,7 +533,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "23-01-2026 (21:00) Laliga : Levante - Elche  (CH9fr) (CH51es) (CH50es) (CH71es) (CH94es) (CH106es) (CH107es)"
+      "raw_line": "23-01-2026 (21:00) Laliga : Levante - Elche  (CH9fr) (CH51es) (CH71es) (CH94es) (CH106es) (CH107es)"
     },
     {
       "date": "23-01-2026",
@@ -1163,23 +1163,23 @@
       "teams": "Como - Torino",
       "channels": [
         {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
           "id": "137",
           "lang": "it"
         },
         {
           "id": "145",
           "lang": "pt"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "24-01-2026 (15:00) Serie A : Como - Torino  (CH70es) (CH97es) (CH137it) (CH145pt)"
+      "raw_line": "24-01-2026 (15:00) Serie A : Como - Torino  (CH137it) (CH145pt) (CH70es) (CH97es)"
     },
     {
       "date": "24-01-2026",
@@ -1221,19 +1221,19 @@
           "lang": "fr"
         },
         {
-          "id": "88",
-          "lang": "es"
-        },
-        {
           "id": "112",
           "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
         },
         {
           "id": "117",
           "lang": "es"
         }
       ],
-      "raw_line": "24-01-2026 (15:30) Bundesliga : Bayer Leverkusen - Werder Bremen  (CH5fr) (CH88es) (CH112de) (CH117es)"
+      "raw_line": "24-01-2026 (15:30) Bundesliga : Bayer Leverkusen - Werder Bremen  (CH5fr) (CH112de) (CH88es) (CH117es)"
     },
     {
       "date": "24-01-2026",
@@ -1763,6 +1763,14 @@
       "teams": "Fiorentina - Cagliari",
       "channels": [
         {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
           "id": "70",
           "lang": "es"
         },
@@ -1773,17 +1781,9 @@
         {
           "id": "97",
           "lang": "es"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
         }
       ],
-      "raw_line": "24-01-2026 (18:00) Serie A : Fiorentina - Cagliari  (CH70es) (CH88es) (CH97es) (CH137it) (CH145pt)"
+      "raw_line": "24-01-2026 (18:00) Serie A : Fiorentina - Cagliari  (CH137it) (CH145pt) (CH70es) (CH88es) (CH97es)"
     },
     {
       "date": "24-01-2026",
@@ -2167,23 +2167,23 @@
           "lang": "fr"
         },
         {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
           "id": "138",
           "lang": "it"
         },
         {
           "id": "140",
           "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "24-01-2026 (20:45) Serie A : Lecce - Lazio  (CH45fr) (CH70es) (CH98es) (CH138it) (CH140it)"
+      "raw_line": "24-01-2026 (20:45) Serie A : Lecce - Lazio  (CH45fr) (CH138it) (CH140it) (CH70es) (CH98es)"
     },
     {
       "date": "24-01-2026",
@@ -2765,23 +2765,23 @@
       "teams": "Sassuolo - Cremonese",
       "channels": [
         {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
           "id": "137",
           "lang": "it"
         },
         {
           "id": "145",
           "lang": "pt"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (12:30) Serie A : Sassuolo - Cremonese  (CH89es) (CH97es) (CH137it) (CH145pt)"
+      "raw_line": "25-01-2026 (12:30) Serie A : Sassuolo - Cremonese  (CH137it) (CH145pt) (CH89es) (CH97es)"
     },
     {
       "date": "25-01-2026",
@@ -3085,11 +3085,15 @@
       "teams": "Genoa - Bologna",
       "channels": [
         {
+          "id": "139",
+          "lang": "it"
+        },
+        {
           "id": "97",
           "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (15:00) Serie A : Genoa - Bologna  (CH97es)"
+      "raw_line": "25-01-2026 (15:00) Serie A : Genoa - Bologna  (CH139it) (CH97es)"
     },
     {
       "date": "25-01-2026",
@@ -3131,19 +3135,19 @@
           "lang": "fr"
         },
         {
-          "id": "88",
-          "lang": "es"
-        },
-        {
           "id": "123",
           "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
         },
         {
           "id": "116",
           "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (15:30) Bundesliga : B. Monchengladbach - Stuttgart  (CH4fr) (CH88es) (CH123de) (CH116es)"
+      "raw_line": "25-01-2026 (15:30) Bundesliga : B. Monchengladbach - Stuttgart  (CH4fr) (CH123de) (CH88es) (CH116es)"
     },
     {
       "date": "25-01-2026",
@@ -3469,14 +3473,6 @@
           "lang": "fr"
         },
         {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
           "id": "138",
           "lang": "it"
         },
@@ -3487,9 +3483,17 @@
         {
           "id": "145",
           "lang": "pt"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (18:00) Serie A : Juventus - Napoli  (CH45fr) (CH88es) (CH97es) (CH138it) (CH140it) (CH145pt)"
+      "raw_line": "25-01-2026 (18:00) Serie A : Juventus - Napoli  (CH45fr) (CH138it) (CH140it) (CH145pt) (CH88es) (CH97es)"
     },
     {
       "date": "25-01-2026",
@@ -3777,14 +3781,6 @@
           "lang": "fr"
         },
         {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
           "id": "126",
           "lang": "gb"
         },
@@ -3795,9 +3791,17 @@
         {
           "id": "145",
           "lang": "pt"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (20:45) Serie A : AS Roma - AC Milan  (CH45fr) (CH88es) (CH98es) (CH126gb) (CH137it) (CH145pt)"
+      "raw_line": "25-01-2026 (20:45) Serie A : AS Roma - AC Milan  (CH45fr) (CH126gb) (CH137it) (CH145pt) (CH88es) (CH98es)"
     },
     {
       "date": "25-01-2026",
@@ -4194,6 +4198,46 @@
         }
       ],
       "raw_line": "26-01-2026 (15:30) Euro masculin de Handball : Portugal - Norvège  (CH4fr)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "18:00",
+      "datetime": "26-01-2026 18:00",
+      "league": "Euro masculin de Handball",
+      "teams": "Espagne - France",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-01-2026 (18:00) Euro masculin de Handball : Espagne - France  (CH1fr)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "18:00",
+      "datetime": "26-01-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Eyupspor - Besiktas",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "26-01-2026 (18:00) Super Lig : Eyupspor - Besiktas  (CH4fr) (CH78es) (CH91es) (CH151tr)"
     }
   ],
   "player_streams": {
@@ -4203,7 +4247,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T16:55:34.118447"
+      "extracted_at": "2026-01-23T17:23:24.699186"
     },
     "hoca": {
       "name": "hoca",
@@ -4212,7 +4256,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T16:55:35.617048"
+      "extracted_at": "2026-01-23T17:23:26.413724"
     },
     "Caster": {
       "name": "Caster",
@@ -4221,7 +4265,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T16:55:38.026716"
+      "extracted_at": "2026-01-23T17:23:29.531302"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4230,7 +4274,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T16:55:40.476540"
+      "extracted_at": "2026-01-23T17:23:32.501485"
     }
   },
   "player_urls": {

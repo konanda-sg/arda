@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T18:58:22.023511",
-  "total_events": 253,
+  "last_updated": "2026-01-23T19:41:08.067497",
+  "total_events": 255,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4336,6 +4336,34 @@
         }
       ],
       "raw_line": "26-01-2026 (18:30) Saudi Pro League : Al-Nassr - Al-Taawon  (CH61es)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "20:30",
+      "datetime": "26-01-2026 20:30",
+      "league": "Euro masculin de Handball",
+      "teams": "Allemagne - Danemark",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-01-2026 (20:30) Euro masculin de Handball : Allemagne - Danemark  (CH1fr)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "20:30",
+      "datetime": "26-01-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Ceuta - Cultural Leonesa",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-01-2026 (20:30) Laliga 2 : Ceuta - Cultural Leonesa  (CH53es)"
     }
   ],
   "player_streams": {
@@ -4345,7 +4373,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T18:58:13.691987"
+      "extracted_at": "2026-01-23T19:41:00.617945"
     },
     "hoca": {
       "name": "hoca",
@@ -4354,7 +4382,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T18:58:15.203791"
+      "extracted_at": "2026-01-23T19:41:02.140050"
     },
     "Caster": {
       "name": "Caster",
@@ -4363,7 +4391,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T18:58:18.098821"
+      "extracted_at": "2026-01-23T19:41:04.606048"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4372,7 +4400,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T18:58:21.023353"
+      "extracted_at": "2026-01-23T19:41:07.067304"
     }
   },
   "player_urls": {

@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T17:23:33.501640",
-  "total_events": 250,
+  "last_updated": "2026-01-23T17:47:32.606612",
+  "total_events": 253,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -525,15 +525,11 @@
           "lang": "es"
         },
         {
-          "id": "106",
-          "lang": "es"
-        },
-        {
           "id": "107",
           "lang": "es"
         }
       ],
-      "raw_line": "23-01-2026 (21:00) Laliga : Levante - Elche  (CH9fr) (CH51es) (CH71es) (CH94es) (CH106es) (CH107es)"
+      "raw_line": "23-01-2026 (21:00) Laliga : Levante - Elche  (CH9fr) (CH51es) (CH71es) (CH94es) (CH107es)"
     },
     {
       "date": "23-01-2026",
@@ -1955,6 +1951,24 @@
     },
     {
       "date": "24-01-2026",
+      "time": "18:30",
+      "datetime": "24-01-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Neom SC - Al Ahli SC",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-01-2026 (18:30) Saudi Pro League : Neom SC - Al Ahli SC  (CH55es) (CH61es)"
+    },
+    {
+      "date": "24-01-2026",
       "time": "18:45",
       "datetime": "24-01-2026 18:45",
       "league": "Eredivisie",
@@ -2275,9 +2289,13 @@
         {
           "id": "182",
           "lang": "us"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "24-01-2026 (21:00) NBA : Philadelphia 76ers - New York Knicks  (CH4fr) (CH182us)"
+      "raw_line": "24-01-2026 (21:00) NBA : Philadelphia 76ers - New York Knicks  (CH4fr) (CH182us) (CH97es)"
     },
     {
       "date": "24-01-2026",
@@ -2419,9 +2437,13 @@
         {
           "id": "184",
           "lang": "us"
+        },
+        {
+          "id": "97",
+          "lang": "es"
         }
       ],
-      "raw_line": "24-01-2026 (23:30) NBA : Minnesota Timberwolves - Golden State Warriors  (CH1fr) (CH184us)"
+      "raw_line": "24-01-2026 (23:30) NBA : Minnesota Timberwolves - Golden State Warriors  (CH1fr) (CH184us) (CH97es)"
     },
     {
       "date": "24-01-2026",
@@ -2587,9 +2609,13 @@
         {
           "id": "190",
           "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (02:00) NBA : Chicago Bulls - Boston Celtics  (CH190us)"
+      "raw_line": "25-01-2026 (02:00) NBA : Chicago Bulls - Boston Celtics  (CH190us) (CH155es)"
     },
     {
       "date": "25-01-2026",
@@ -2647,9 +2673,17 @@
         {
           "id": "192",
           "lang": "us"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "156",
+          "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (02:30) NBA : Dallas Mavericks - Los Angeles Lakers  (CH192us)"
+      "raw_line": "25-01-2026 (02:30) NBA : Dallas Mavericks - Los Angeles Lakers  (CH192us) (CH97es) (CH156es)"
     },
     {
       "date": "25-01-2026",
@@ -3595,6 +3629,20 @@
     },
     {
       "date": "25-01-2026",
+      "time": "18:30",
+      "datetime": "25-01-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al Riyadh - Al-Hilal",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-01-2026 (18:30) Saudi Pro League : Al Riyadh - Al-Hilal  (CH55es)"
+    },
+    {
+      "date": "25-01-2026",
       "time": "19:00",
       "datetime": "25-01-2026 19:00",
       "league": "Liga De Expansion Mx",
@@ -3869,11 +3917,27 @@
       "teams": "Denver Broncos - New England Patriots",
       "channels": [
         {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
           "id": "182",
           "lang": "us"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "25-01-2026 (21:00) NFL : Denver Broncos - New England Patriots  (CH182us)"
+      "raw_line": "25-01-2026 (21:00) NFL : Denver Broncos - New England Patriots  (CH1fr) (CH182us) (CH97es) (CH107es) (CH89es)"
     },
     {
       "date": "25-01-2026",
@@ -4035,11 +4099,31 @@
       "teams": "Seattle Seahawks - Los Angeles Rams",
       "channels": [
         {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "27",
+          "lang": "fr"
+        },
+        {
           "id": "187",
           "lang": "us"
+        },
+        {
+          "id": "101",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
         }
       ],
-      "raw_line": "26-01-2026 (00:30) NFL : Seattle Seahawks - Los Angeles Rams  (CH187us)"
+      "raw_line": "26-01-2026 (00:30) NFL : Seattle Seahawks - Los Angeles Rams  (CH1fr) (CH27fr) (CH187us) (CH101es) (CH107es) (CH91es)"
     },
     {
       "date": "26-01-2026",
@@ -4238,6 +4322,20 @@
         }
       ],
       "raw_line": "26-01-2026 (18:00) Super Lig : Eyupspor - Besiktas  (CH4fr) (CH78es) (CH91es) (CH151tr)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "18:30",
+      "datetime": "26-01-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al-Nassr - Al-Taawon",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-01-2026 (18:30) Saudi Pro League : Al-Nassr - Al-Taawon  (CH61es)"
     }
   ],
   "player_streams": {
@@ -4247,7 +4345,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T17:23:24.699186"
+      "extracted_at": "2026-01-23T17:46:59.589775"
     },
     "hoca": {
       "name": "hoca",
@@ -4256,7 +4354,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T17:23:26.413724"
+      "extracted_at": "2026-01-23T17:47:01.007635"
     },
     "Caster": {
       "name": "Caster",
@@ -4265,7 +4363,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T17:23:29.531302"
+      "extracted_at": "2026-01-23T17:47:21.075072"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4274,7 +4372,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T17:23:32.501485"
+      "extracted_at": "2026-01-23T17:47:31.606469"
     }
   },
   "player_urls": {

@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T19:51:30.299886",
-  "total_events": 257,
+  "last_updated": "2026-01-23T20:20:45.923312",
+  "total_events": 259,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-01-2026",
-      "time": "18:00",
-      "datetime": "23-01-2026 18:00",
-      "league": "Euro masculin de Handball",
-      "teams": "Suisse - Hongrie",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "23-01-2026 (18:00) Euro masculin de Handball : Suisse - Hongrie  (CH4fr)"
-    },
-    {
-      "date": "23-01-2026",
-      "time": "18:00",
-      "datetime": "23-01-2026 18:00",
-      "league": "National",
-      "teams": "Villefranche - Aubagne",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "23-01-2026 (18:00) National : Villefranche - Aubagne  (CH45fr)"
-    },
-    {
-      "date": "23-01-2026",
-      "time": "18:00",
-      "datetime": "23-01-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Trabzonspor - Kasimpasa",
-      "channels": [
-        {
-          "id": "10",
-          "lang": "fr"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "23-01-2026 (18:00) Super Lig : Trabzonspor - Kasimpasa  (CH10fr) (CH151tr)"
-    },
     {
       "date": "23-01-2026",
       "time": "18:30",
@@ -4400,6 +4354,128 @@
         }
       ],
       "raw_line": "26-01-2026 (20:45) Serie A : Verona - Udinese  (CH138it) (CH124de) (CH70es)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "21:00",
+      "datetime": "26-01-2026 21:00",
+      "league": "Championship",
+      "teams": "Norwich - Coventry",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "128",
+          "lang": "gb"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-01-2026 (21:00) Championship : Norwich - Coventry  (CH6fr) (CH128gb) (CH79es) (CH91es) (CH98es)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "21:00",
+      "datetime": "26-01-2026 21:00",
+      "league": "Laliga",
+      "teams": "Girona - Getafe",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-01-2026 (21:00) Laliga : Girona - Getafe  (CH5fr) (CH49es) (CH71es) (CH89es)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "21:00",
+      "datetime": "26-01-2026 21:00",
+      "league": "Premier League",
+      "teams": "Everton - Leeds",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-01-2026 (21:00) Premier League : Everton - Leeds  (CH12fr) (CH127gb) (CH56es) (CH88es) (CH120de)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "21:00",
+      "datetime": "26-01-2026 21:00",
+      "league": "Torneo LPF",
+      "teams": "Platense - Instituto",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-01-2026 (21:00) Torneo LPF : Platense - Instituto  (CH76es)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "21:15",
+      "datetime": "26-01-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "FC Porto - Gil Vicente",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-01-2026 (21:15) Liga Portugal : FC Porto - Gil Vicente  (CH4fr) (CH125de) (CH144pt)"
     }
   ],
   "player_streams": {
@@ -4409,7 +4485,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T19:51:23.212104"
+      "extracted_at": "2026-01-23T20:20:38.594359"
     },
     "hoca": {
       "name": "hoca",
@@ -4418,7 +4494,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T19:51:24.698044"
+      "extracted_at": "2026-01-23T20:20:40.089737"
     },
     "Caster": {
       "name": "Caster",
@@ -4427,7 +4503,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T19:51:26.821593"
+      "extracted_at": "2026-01-23T20:20:42.476879"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4436,7 +4512,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T19:51:29.299735"
+      "extracted_at": "2026-01-23T20:20:44.923170"
     }
   },
   "player_urls": {

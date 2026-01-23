@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T19:41:08.067497",
-  "total_events": 255,
+  "last_updated": "2026-01-23T19:51:30.299886",
+  "total_events": 257,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4364,6 +4364,42 @@
         }
       ],
       "raw_line": "26-01-2026 (20:30) Laliga 2 : Ceuta - Cultural Leonesa  (CH53es)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "20:45",
+      "datetime": "26-01-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Le Mans - Dunkerque",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-01-2026 (20:45) Ligue 2 : Le Mans - Dunkerque  (CH1fr)"
+    },
+    {
+      "date": "26-01-2026",
+      "time": "20:45",
+      "datetime": "26-01-2026 20:45",
+      "league": "Serie A",
+      "teams": "Verona - Udinese",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-01-2026 (20:45) Serie A : Verona - Udinese  (CH138it) (CH124de) (CH70es)"
     }
   ],
   "player_streams": {
@@ -4373,7 +4409,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T19:41:00.617945"
+      "extracted_at": "2026-01-23T19:51:23.212104"
     },
     "hoca": {
       "name": "hoca",
@@ -4382,7 +4418,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T19:41:02.140050"
+      "extracted_at": "2026-01-23T19:51:24.698044"
     },
     "Caster": {
       "name": "Caster",
@@ -4391,7 +4427,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T19:41:04.606048"
+      "extracted_at": "2026-01-23T19:51:26.821593"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4400,7 +4436,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T19:41:07.067304"
+      "extracted_at": "2026-01-23T19:51:29.299735"
     }
   },
   "player_urls": {

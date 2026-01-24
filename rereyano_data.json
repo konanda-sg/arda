@@ -1,86 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-24T01:17:13.421655",
-  "total_events": 236,
+  "last_updated": "2026-01-24T03:10:33.012001",
+  "total_events": 233,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "24-01-2026",
-      "time": "00:00",
-      "datetime": "24-01-2026 00:00",
-      "league": "Torneo LPF",
-      "teams": "Independiente - Estudiantes L.P.",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-01-2026 (00:00) Torneo LPF : Independiente - Estudiantes L.P.  (CH76es)"
-    },
-    {
-      "date": "24-01-2026",
-      "time": "00:20",
-      "datetime": "24-01-2026 00:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Inter Bogotá - Cucuta",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-01-2026 (00:20) Liga Betplay Dimayor : Inter Bogotá - Cucuta  (CH81es)"
-    },
-    {
-      "date": "24-01-2026",
-      "time": "01:00",
-      "datetime": "24-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Houston Rockets",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-01-2026 (01:00) NBA : Detroit Pistons - Houston Rockets  (CH180us)"
-    },
-    {
-      "date": "24-01-2026",
-      "time": "01:00",
-      "datetime": "24-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - Tampa Bay Lightning",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-01-2026 (01:00) NHL : Chicago Blackhawks - Tampa Bay Lightning  (CH181us)"
-    },
-    {
-      "date": "24-01-2026",
-      "time": "01:00",
-      "datetime": "24-01-2026 01:00",
-      "league": "NHL",
-      "teams": "Toronto Maple Leafs - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-01-2026 (01:00) NHL : Toronto Maple Leafs - Vegas Golden Knights  (CH4fr) (CH182us)"
-    },
     {
       "date": "24-01-2026",
       "time": "01:30",
@@ -4090,6 +4016,46 @@
         }
       ],
       "raw_line": "27-01-2026 (02:00) NBA : Houston Rockets - Memphis Grizzlies  (CH189us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "02:30",
+      "datetime": "27-01-2026 02:30",
+      "league": "NHL",
+      "teams": "Edmonton Oilers - Anaheim Ducks",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (02:30) NHL : Edmonton Oilers - Anaheim Ducks  (CH4fr) (CH190us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "03:30",
+      "datetime": "27-01-2026 03:30",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Golden State Warriors",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "191",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (03:30) NBA : Minnesota Timberwolves - Golden State Warriors  (CH1fr) (CH191us) (CH98es)"
     }
   ],
   "player_streams": {
@@ -4099,7 +4065,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-24T01:17:04.825618"
+      "extracted_at": "2026-01-24T03:10:24.533834"
     },
     "hoca": {
       "name": "hoca",
@@ -4108,7 +4074,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-24T01:17:06.459339"
+      "extracted_at": "2026-01-24T03:10:26.046837"
     },
     "Caster": {
       "name": "Caster",
@@ -4117,7 +4083,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-24T01:17:09.440073"
+      "extracted_at": "2026-01-24T03:10:28.991655"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4126,7 +4092,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-24T01:17:12.421499"
+      "extracted_at": "2026-01-24T03:10:32.011821"
     }
   },
   "player_urls": {

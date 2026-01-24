@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-23T23:53:03.919560",
-  "total_events": 227,
+  "last_updated": "2026-01-24T01:17:13.421655",
+  "total_events": 236,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-01-2026",
-      "time": "23:00",
-      "datetime": "23-01-2026 23:00",
-      "league": "Torneo LPF",
-      "teams": "San Lorenzo - Lanus",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-01-2026 (23:00) Torneo LPF : San Lorenzo - Lanus  (CH75es)"
-    },
     {
       "date": "24-01-2026",
       "time": "00:00",
@@ -3956,6 +3942,154 @@
         }
       ],
       "raw_line": "26-01-2026 (21:15) Liga Portugal : FC Porto - Gil Vicente  (CH4fr) (CH125de) (CH144pt)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:00",
+      "datetime": "27-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:00) NBA : Charlotte Hornets - Philadelphia 76ers  (CH180us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:00",
+      "datetime": "27-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Orlando Magic",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "181",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:00) NBA : Cleveland Cavaliers - Orlando Magic  (CH1fr) (CH181us) (CH98es)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:00",
+      "datetime": "27-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:00) NHL : Columbus Blue Jackets - Los Angeles Kings  (CH182us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:00",
+      "datetime": "27-01-2026 01:00",
+      "league": "NHL",
+      "teams": "New York Rangers - Boston Bruins",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:00) NHL : New York Rangers - Boston Bruins  (CH183us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:00",
+      "datetime": "27-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Philadelphia Flyers - New York Islanders",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:00) NHL : Philadelphia Flyers - New York Islanders  (CH184us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:00",
+      "datetime": "27-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - Utah Mammoth",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:00) NHL : Tampa Bay Lightning - Utah Mammoth  (CH185us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "01:30",
+      "datetime": "27-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - Indiana Pacers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (01:30) NBA : Atlanta Hawks - Indiana Pacers  (CH186us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "02:00",
+      "datetime": "27-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Boston Celtics - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (02:00) NBA : Boston Celtics - Portland Trail Blazers  (CH187us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "02:00",
+      "datetime": "27-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (02:00) NBA : Chicago Bulls - Los Angeles Lakers  (CH188us)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "02:00",
+      "datetime": "27-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-01-2026 (02:00) NBA : Houston Rockets - Memphis Grizzlies  (CH189us)"
     }
   ],
   "player_streams": {
@@ -3965,7 +4099,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-23T23:52:55.221207"
+      "extracted_at": "2026-01-24T01:17:04.825618"
     },
     "hoca": {
       "name": "hoca",
@@ -3974,7 +4108,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T23:52:56.922900"
+      "extracted_at": "2026-01-24T01:17:06.459339"
     },
     "Caster": {
       "name": "Caster",
@@ -3983,7 +4117,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T23:52:59.812847"
+      "extracted_at": "2026-01-24T01:17:09.440073"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3992,7 +4126,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-23T23:53:02.919375"
+      "extracted_at": "2026-01-24T01:17:12.421499"
     }
   },
   "player_urls": {

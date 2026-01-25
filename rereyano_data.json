@@ -1,186 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-25T19:50:12.314954",
-  "total_events": 70,
+  "last_updated": "2026-01-25T20:19:25.467813",
+  "total_events": 61,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "25-01-2026",
-      "time": "18:00",
-      "datetime": "25-01-2026 18:00",
-      "league": "Euro masculin de Handball",
-      "teams": "Islande - Suède",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:00) Euro masculin de Handball : Islande - Suède  (CH3fr)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:00",
-      "datetime": "25-01-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Unicaja - Murcia",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:00) Liga Endesa : Unicaja - Murcia  (CH156es)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:00",
-      "datetime": "25-01-2026 18:00",
-      "league": "Serie A",
-      "teams": "Juventus - Napoli",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "140",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:00) Serie A : Juventus - Napoli  (CH45fr) (CH138it) (CH140it) (CH145pt) (CH88es) (CH97es)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:00",
-      "datetime": "25-01-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Fenerbahce - Goztepe",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:00) Super Lig : Fenerbahce - Goztepe  (CH2fr) (CH78es) (CH91es) (CH97es) (CH98es) (CH151tr)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:30",
-      "datetime": "25-01-2026 18:30",
-      "league": "Betfred Super League",
-      "teams": "Atromitos - Panathinaikos",
-      "channels": [
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:30) Betfred Super League : Atromitos - Panathinaikos  (CH150gr)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:30",
-      "datetime": "25-01-2026 18:30",
-      "league": "Laliga",
-      "teams": "Real Sociedad - Celta Vigo",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:30) Laliga : Real Sociedad - Celta Vigo  (CH1fr) (CH49es) (CH71es)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:30",
-      "datetime": "25-01-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Zaragoza - Castellon",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:30) Laliga 2 : Zaragoza - Castellon  (CH53es)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:30",
-      "datetime": "25-01-2026 18:30",
-      "league": "Pro League",
-      "teams": "Anderlecht - Dender",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:30) Pro League : Anderlecht - Dender  (CH153fr)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "18:30",
-      "datetime": "25-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Al Riyadh - Al-Hilal",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (18:30) Saudi Pro League : Al Riyadh - Al-Hilal  (CH55es)"
-    },
     {
       "date": "25-01-2026",
       "time": "19:00",
@@ -561,6 +387,10 @@
       "teams": "Boca Juniors - Dep. Riestra",
       "channels": [
         {
+          "id": "76",
+          "lang": "es"
+        },
+        {
           "id": "61",
           "lang": "es"
         },
@@ -573,7 +403,7 @@
           "lang": "de"
         }
       ],
-      "raw_line": "25-01-2026 (22:30) Torneo LPF : Boca Juniors - Dep. Riestra  (CH61es) (CH87es) (CH125de)"
+      "raw_line": "25-01-2026 (22:30) Torneo LPF : Boca Juniors - Dep. Riestra  (CH76es) (CH61es) (CH87es) (CH125de)"
     },
     {
       "date": "25-01-2026",
@@ -1259,7 +1089,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-25T19:50:05.684301"
+      "extracted_at": "2026-01-25T20:19:17.813814"
     },
     "hoca": {
       "name": "hoca",
@@ -1268,7 +1098,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T19:50:07.117941"
+      "extracted_at": "2026-01-25T20:19:19.397312"
     },
     "Caster": {
       "name": "Caster",
@@ -1277,7 +1107,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T19:50:08.864240"
+      "extracted_at": "2026-01-25T20:19:21.276160"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1286,7 +1116,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T19:50:11.314815"
+      "extracted_at": "2026-01-25T20:19:24.467686"
     }
   },
   "player_urls": {

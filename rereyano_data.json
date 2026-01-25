@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-25T13:21:02.750055",
-  "total_events": 110,
+  "last_updated": "2026-01-25T13:49:12.457021",
+  "total_events": 111,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -620,6 +620,20 @@
         }
       ],
       "raw_line": "25-01-2026 (17:00) Liga Endesa : Baskonia - Joventut  (CH157es)"
+    },
+    {
+      "date": "25-01-2026",
+      "time": "17:15",
+      "datetime": "25-01-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "25-01-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
     },
     {
       "date": "25-01-2026",
@@ -1979,7 +1993,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-25T13:20:55.809530"
+      "extracted_at": "2026-01-25T13:49:05.003028"
     },
     "hoca": {
       "name": "hoca",
@@ -1988,7 +2002,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T13:20:57.222377"
+      "extracted_at": "2026-01-25T13:49:06.360341"
     },
     "Caster": {
       "name": "Caster",
@@ -1997,7 +2011,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T13:20:59.181782"
+      "extracted_at": "2026-01-25T13:49:08.964827"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2006,7 +2020,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T13:21:01.749889"
+      "extracted_at": "2026-01-25T13:49:11.456882"
     }
   },
   "player_urls": {

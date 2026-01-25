@@ -1,68 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-25T22:44:02.231181",
-  "total_events": 52,
+  "last_updated": "2026-01-25T22:54:45.344760",
+  "total_events": 50,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "25-01-2026",
-      "time": "20:45",
-      "datetime": "25-01-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Lille - Strasbourg",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (20:45) Ligue 1 : Lille - Strasbourg  (CH20fr) (CH138it) (CH69es)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "20:45",
-      "datetime": "25-01-2026 20:45",
-      "league": "Serie A",
-      "teams": "AS Roma - AC Milan",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (20:45) Serie A : AS Roma - AC Milan  (CH45fr) (CH126gb) (CH137it) (CH145pt) (CH88es) (CH98es)"
-    },
     {
       "date": "25-01-2026",
       "time": "21:00",
@@ -935,7 +879,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-25T22:43:54.967115"
+      "extracted_at": "2026-01-25T22:54:38.724740"
     },
     "hoca": {
       "name": "hoca",
@@ -944,7 +888,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T22:43:56.486731"
+      "extracted_at": "2026-01-25T22:54:40.131616"
     },
     "Caster": {
       "name": "Caster",
@@ -953,7 +897,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T22:43:58.568441"
+      "extracted_at": "2026-01-25T22:54:41.803331"
     },
     "WIGI": {
       "name": "WIGI",
@@ -962,7 +906,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T22:44:01.231032"
+      "extracted_at": "2026-01-25T22:54:44.344608"
     }
   },
   "player_urls": {

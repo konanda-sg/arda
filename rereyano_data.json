@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-25T23:51:52.772284",
-  "total_events": 41,
+  "last_updated": "2026-01-26T01:25:32.100093",
+  "total_events": 38,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "25-01-2026",
-      "time": "22:30",
-      "datetime": "25-01-2026 22:30",
-      "league": "Torneo LPF",
-      "teams": "Boca Juniors - Dep. Riestra",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "25-01-2026 (22:30) Torneo LPF : Boca Juniors - Dep. Riestra  (CH76es) (CH61es) (CH87es) (CH125de)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "23:00",
-      "datetime": "25-01-2026 23:00",
-      "league": "NHL",
-      "teams": "Ottawa Senators - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-01-2026 (23:00) NHL : Ottawa Senators - Vegas Golden Knights  (CH185us)"
-    },
-    {
-      "date": "25-01-2026",
-      "time": "23:00",
-      "datetime": "25-01-2026 23:00",
-      "league": "Supercopa Chili",
-      "teams": "U. Catolica - Coquimbo",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-01-2026 (23:00) Supercopa Chili : U. Catolica - Coquimbo  (CH83es)"
-    },
     {
       "date": "26-01-2026",
       "time": "00:00",
@@ -717,7 +663,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-25T23:51:45.922884"
+      "extracted_at": "2026-01-26T01:25:25.334753"
     },
     "hoca": {
       "name": "hoca",
@@ -726,7 +672,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T23:51:47.387682"
+      "extracted_at": "2026-01-26T01:25:26.847140"
     },
     "Caster": {
       "name": "Caster",
@@ -735,7 +681,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T23:51:49.414709"
+      "extracted_at": "2026-01-26T01:25:28.636642"
     },
     "WIGI": {
       "name": "WIGI",
@@ -744,7 +690,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-25T23:51:51.772001"
+      "extracted_at": "2026-01-26T01:25:31.099937"
     }
   },
   "player_urls": {

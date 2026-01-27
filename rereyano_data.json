@@ -1,12 +1,497 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-27T11:54:40.944650",
-  "total_events": 0,
+  "last_updated": "2026-01-27T12:41:58.342523",
+  "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "27-01-2026",
+      "time": "20:30",
+      "datetime": "27-01-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "bundesliga konferenz -",
+      "channels": [
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "27-01-2026 (20:30) Bundesliga : bundesliga konferenz -   (CH123de)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "20:30",
+      "datetime": "27-01-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "St. Pauli - RB Leipzig",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (20:30) Bundesliga : St. Pauli - RB Leipzig  (CH2fr) (CH111de) (CH116es)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "20:30",
+      "datetime": "27-01-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "Werder Bremen - Hoffenheim",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "117",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (20:30) Bundesliga : Werder Bremen - Hoffenheim  (CH3fr) (CH112de) (CH117es)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "21:00",
+      "datetime": "27-01-2026 21:00",
+      "league": "Coppa Italia",
+      "teams": "Fiorentina - Como",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (21:00) Coppa Italia : Fiorentina - Como  (CH139it) (CH56es) (CH124de) (CH145pt) (CH82es) (CH94es)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "21:00",
+      "datetime": "27-01-2026 21:00",
+      "league": "EuroLeague",
+      "teams": "Paris - Real Madrid",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (21:00) EuroLeague : Paris - Real Madrid  (CH62es)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "21:45",
+      "datetime": "27-01-2026 21:45",
+      "league": "Torneo LPF",
+      "teams": "Velez Sarsfield - Talleres Cordoba",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (21:45) Torneo LPF : Velez Sarsfield - Talleres Cordoba  (CH55es) (CH76es)"
+    },
+    {
+      "date": "27-01-2026",
+      "time": "22:00",
+      "datetime": "27-01-2026 22:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Cucuta - Bucaramanga",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-01-2026 (22:00) Liga Betplay Dimayor : Cucuta - Bucaramanga  (CH81es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "00:00",
+      "datetime": "28-01-2026 00:00",
+      "league": "Torneo LPF",
+      "teams": "Gimnasia Mendoza - San Lorenzo",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (00:00) Torneo LPF : Gimnasia Mendoza - San Lorenzo  (CH75es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "00:00",
+      "datetime": "28-01-2026 00:00",
+      "league": "Torneo LPF",
+      "teams": "Huracan - Ind. Rivadavia",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (00:00) Torneo LPF : Huracan - Ind. Rivadavia  (CH76es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "00:20",
+      "datetime": "28-01-2026 00:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Fortaleza - Llaneros",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (00:20) Liga Betplay Dimayor : Fortaleza - Llaneros  (CH81es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NBA : Washington Wizards - Portland Trail Blazers  (CH1fr) (CH180us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Boston Bruins - Nashville Predators",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NHL : Boston Bruins - Nashville Predators  (CH186us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Detroit Red Wings - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NHL : Detroit Red Wings - Los Angeles Kings  (CH187us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Florida Panthers - Utah Mammoth",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NHL : Florida Panthers - Utah Mammoth  (CH188us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Montreal Canadiens - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NHL : Montreal Canadiens - Vegas Golden Knights  (CH4fr) (CH189us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Winnipeg Jets",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NHL : New Jersey Devils - Winnipeg Jets  (CH190us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:00",
+      "datetime": "28-01-2026 01:00",
+      "league": "NHL",
+      "teams": "Toronto Maple Leafs - Buffalo Sabres",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:00) NHL : Toronto Maple Leafs - Buffalo Sabres  (CH191us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "01:30",
+      "datetime": "28-01-2026 01:30",
+      "league": "NBA",
+      "teams": "New York Knicks - Sacramento Kings",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (01:30) NBA : New York Knicks - Sacramento Kings  (CH181us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:00",
+      "datetime": "28-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - New Orleans Pelicans",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:00) NBA : Oklahoma City Thunder - New Orleans Pelicans  (CH182us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:00",
+      "datetime": "28-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "us"
+        },
+        {
+          "id": "121",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:00) NBA : Philadelphia 76ers - Milwaukee Bucks  (CH127us) (CH121de) (CH144pt)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:00",
+      "datetime": "28-01-2026 02:00",
+      "league": "NHL",
+      "teams": "Minnesota Wild - Chicago Blackhawks",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:00) NHL : Minnesota Wild - Chicago Blackhawks  (CH192us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:00",
+      "datetime": "28-01-2026 02:00",
+      "league": "NHL",
+      "teams": "St. Louis Blues - Dallas Stars",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:00) NHL : St. Louis Blues - Dallas Stars  (CH193us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:15",
+      "datetime": "28-01-2026 02:15",
+      "league": "Torneo LPF",
+      "teams": "Atl. Tucuman - Central Cordoba",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:15) Torneo LPF : Atl. Tucuman - Central Cordoba  (CH76es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:15",
+      "datetime": "28-01-2026 02:15",
+      "league": "Torneo LPF",
+      "teams": "Newells Old Boys - Independiente",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:15) Torneo LPF : Newells Old Boys - Independiente  (CH75es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "02:30",
+      "datetime": "28-01-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Ind. Medellin - Deportes Tolima",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (02:30) Liga Betplay Dimayor : Ind. Medellin - Deportes Tolima  (CH81es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "03:00",
+      "datetime": "28-01-2026 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Detroit Pistons",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (03:00) NBA : Denver Nuggets - Detroit Pistons  (CH183us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "03:00",
+      "datetime": "28-01-2026 03:00",
+      "league": "NBA",
+      "teams": "Phoenix Suns - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (03:00) NBA : Phoenix Suns - Brooklyn Nets  (CH184us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "04:00",
+      "datetime": "28-01-2026 04:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        },
+        {
+          "id": "185",
+          "lang": "us"
+        },
+        {
+          "id": "121",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "28-01-2026 (04:00) NBA : Utah Jazz - Los Angeles Clippers  (CH3fr) (CH185us) (CH121de)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "04:00",
+      "datetime": "28-01-2026 04:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - Washington Capitals",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (04:00) NHL : Seattle Kraken - Washington Capitals  (CH194us)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "04:00",
+      "datetime": "28-01-2026 04:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - San Jose Sharks",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-01-2026 (04:00) NHL : Vancouver Canucks - San Jose Sharks  (CH195us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +499,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-27T11:54:33.320205"
+      "extracted_at": "2026-01-27T12:41:49.700672"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +508,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T11:54:34.816003"
+      "extracted_at": "2026-01-27T12:41:51.528056"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +517,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T11:54:37.328976"
+      "extracted_at": "2026-01-27T12:41:54.360331"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +526,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T11:54:39.944479"
+      "extracted_at": "2026-01-27T12:41:57.342380"
     }
   },
   "player_urls": {

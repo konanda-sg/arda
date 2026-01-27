@@ -1,70 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-27T22:19:00.975476",
-  "total_events": 30,
+  "last_updated": "2026-01-27T22:45:26.363318",
+  "total_events": 27,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "27-01-2026",
-      "time": "20:30",
-      "datetime": "27-01-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "bundesliga konferenz -",
-      "channels": [
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "27-01-2026 (20:30) Bundesliga : bundesliga konferenz -   (CH123de)"
-    },
-    {
-      "date": "27-01-2026",
-      "time": "20:30",
-      "datetime": "27-01-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "St. Pauli - RB Leipzig",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "27-01-2026 (20:30) Bundesliga : St. Pauli - RB Leipzig  (CH2fr) (CH111de) (CH116es)"
-    },
-    {
-      "date": "27-01-2026",
-      "time": "20:30",
-      "datetime": "27-01-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "Werder Bremen - Hoffenheim",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "117",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "27-01-2026 (20:30) Bundesliga : Werder Bremen - Hoffenheim  (CH3fr) (CH112de) (CH117es)"
-    },
     {
       "date": "27-01-2026",
       "time": "21:00",
@@ -499,7 +441,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-27T22:18:53.081050"
+      "extracted_at": "2026-01-27T22:45:16.353667"
     },
     "hoca": {
       "name": "hoca",
@@ -508,7 +450,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T22:18:54.666063"
+      "extracted_at": "2026-01-27T22:45:17.758421"
     },
     "Caster": {
       "name": "Caster",
@@ -517,7 +459,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T22:18:57.469906"
+      "extracted_at": "2026-01-27T22:45:20.790701"
     },
     "WIGI": {
       "name": "WIGI",
@@ -526,7 +468,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T22:18:59.975334"
+      "extracted_at": "2026-01-27T22:45:25.363160"
     }
   },
   "player_urls": {

@@ -1,60 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-27T22:57:22.028177",
-  "total_events": 27,
+  "last_updated": "2026-01-27T23:21:51.196837",
+  "total_events": 25,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "27-01-2026",
-      "time": "21:00",
-      "datetime": "27-01-2026 21:00",
-      "league": "Coppa Italia",
-      "teams": "Fiorentina - Como",
-      "channels": [
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "27-01-2026 (21:00) Coppa Italia : Fiorentina - Como  (CH139it) (CH56es) (CH124de) (CH145pt) (CH82es) (CH94es)"
-    },
-    {
-      "date": "27-01-2026",
-      "time": "21:00",
-      "datetime": "27-01-2026 21:00",
-      "league": "EuroLeague",
-      "teams": "Paris - Real Madrid",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "27-01-2026 (21:00) EuroLeague : Paris - Real Madrid  (CH62es)"
-    },
     {
       "date": "27-01-2026",
       "time": "21:45",
@@ -441,7 +393,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-27T22:57:14.695169"
+      "extracted_at": "2026-01-27T23:21:42.543884"
     },
     "hoca": {
       "name": "hoca",
@@ -450,7 +402,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T22:57:16.126300"
+      "extracted_at": "2026-01-27T23:21:44.427525"
     },
     "Caster": {
       "name": "Caster",
@@ -459,7 +411,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T22:57:18.537723"
+      "extracted_at": "2026-01-27T23:21:47.412962"
     },
     "WIGI": {
       "name": "WIGI",
@@ -468,7 +420,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-27T22:57:21.028028"
+      "extracted_at": "2026-01-27T23:21:50.196701"
     }
   },
   "player_urls": {

@@ -1,63 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-28T05:59:27.756252",
-  "total_events": 3,
+  "last_updated": "2026-01-28T06:43:05.162647",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "28-01-2026",
-      "time": "04:00",
-      "datetime": "28-01-2026 04:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Los Angeles Clippers",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "185",
-          "lang": "us"
-        },
-        {
-          "id": "121",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "28-01-2026 (04:00) NBA : Utah Jazz - Los Angeles Clippers  (CH3fr) (CH185us) (CH121de)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "04:00",
-      "datetime": "28-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Washington Capitals",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-01-2026 (04:00) NHL : Seattle Kraken - Washington Capitals  (CH194us)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "04:00",
-      "datetime": "28-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - San Jose Sharks",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-01-2026 (04:00) NHL : Vancouver Canucks - San Jose Sharks  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -65,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-28T05:59:19.291901"
+      "extracted_at": "2026-01-28T06:42:57.117721"
     },
     "hoca": {
       "name": "hoca",
@@ -74,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T05:59:21.175888"
+      "extracted_at": "2026-01-28T06:42:58.807779"
     },
     "Caster": {
       "name": "Caster",
@@ -83,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T05:59:24.112631"
+      "extracted_at": "2026-01-28T06:43:01.630105"
     },
     "WIGI": {
       "name": "WIGI",
@@ -92,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T05:59:26.756130"
+      "extracted_at": "2026-01-28T06:43:04.162500"
     }
   },
   "player_urls": {

@@ -1,12 +1,851 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-28T12:41:07.799881",
-  "total_events": 0,
+  "last_updated": "2026-01-28T13:35:15.408107",
+  "total_events": 43,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Multiplex Ligue des Champions -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Multiplex Ligue des Champions -   (CH11fr)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "champions league konferenz -",
+      "channels": [
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : champions league konferenz -   (CH124de)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Ajax - Olympiacos Piraeus",
+      "channels": [
+        {
+          "id": "46",
+          "lang": "fr"
+        },
+        {
+          "id": "142",
+          "lang": "nl"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "172",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Ajax - Olympiacos Piraeus  (CH46fr) (CH142nl) (CH149gr) (CH172es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Arsenal - Kairat Almaty",
+      "channels": [
+        {
+          "id": "42",
+          "lang": "fr"
+        },
+        {
+          "id": "177",
+          "lang": "es"
+        },
+        {
+          "id": "92",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Arsenal - Kairat Almaty  (CH42fr) (CH177es) (CH92es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Ath Bilbao - Sporting CP",
+      "channels": [
+        {
+          "id": "44",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Ath Bilbao - Sporting CP  (CH44fr) (CH164es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Atl. Madrid - Bodo/Glimt",
+      "channels": [
+        {
+          "id": "40",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Atl. Madrid - Bodo/Glimt  (CH40fr) (CH163es) (CH89es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Barcelona - FC Copenhagen",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Barcelona - FC Copenhagen  (CH37fr) (CH115de) (CH162es) (CH91es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Bayer Leverkusen - Villarreal",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "118",
+          "lang": "de"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Bayer Leverkusen - Villarreal  (CH45fr) (CH118de) (CH165es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Benfica - Real Madrid",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Benfica - Real Madrid  (CH34fr) (CH144pt) (CH161es) (CH68es) (CH78es) (CH88es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Club Brugge KV - Marseille",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "175",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Club Brugge KV - Marseille  (CH13fr) (CH175es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Dortmund - Inter",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "169",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Dortmund - Inter  (CH36fr) (CH123de) (CH138it) (CH169es) (CH79es) (CH93es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Eintracht Frankfurt - Tottenham",
+      "channels": [
+        {
+          "id": "43",
+          "lang": "fr"
+        },
+        {
+          "id": "117",
+          "lang": "de"
+        },
+        {
+          "id": "178",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Eintracht Frankfurt - Tottenham  (CH43fr) (CH117de) (CH178es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Liverpool - Qarabag",
+      "channels": [
+        {
+          "id": "38",
+          "lang": "fr"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "176",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Liverpool - Qarabag  (CH38fr) (CH113de) (CH130gb) (CH176es) (CH90es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Manchester City - Galatasaray",
+      "channels": [
+        {
+          "id": "39",
+          "lang": "fr"
+        },
+        {
+          "id": "116",
+          "lang": "de"
+        },
+        {
+          "id": "168",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Manchester City - Galatasaray  (CH39fr) (CH116de) (CH168es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Monaco - Juventus",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "171",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Monaco - Juventus  (CH14fr) (CH140it) (CH171es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "MultiChampions: Jornada 8 -",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : MultiChampions: Jornada 8 -   (CH166es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Napoli - Chelsea",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "170",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Napoli - Chelsea  (CH35fr) (CH132gb) (CH137it) (CH170es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "PSG - Newcastle",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : PSG - Newcastle  (CH12fr) (CH114de) (CH131gb) (CH167es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "PSV - Bayern Munich",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "174",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : PSV - Bayern Munich  (CH41fr) (CH87es) (CH112de) (CH141nl) (CH174es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Pafos - Slavia Prague",
+      "channels": [
+        {
+          "id": "48",
+          "lang": "fr"
+        },
+        {
+          "id": "179",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Pafos - Slavia Prague  (CH48fr) (CH179es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Royale Union SG - Atalanta",
+      "channels": [
+        {
+          "id": "47",
+          "lang": "fr"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "173",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Ligue Des Champions : Royale Union SG - Atalanta  (CH47fr) (CH139it) (CH173es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "21:00",
+      "datetime": "28-01-2026 21:00",
+      "league": "Torneo LPF",
+      "teams": "Aldosivi - Barracas Central",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (21:00) Torneo LPF : Aldosivi - Barracas Central  (CH75es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "22:10",
+      "datetime": "28-01-2026 22:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Alianza - Chico",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (22:10) Liga Betplay Dimayor : Alianza - Chico  (CH81es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "23:00",
+      "datetime": "28-01-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Atletico-MG - Palmeiras",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (23:00) Serie A Bresil : Atletico-MG - Palmeiras  (CH125de) (CH158es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "23:00",
+      "datetime": "28-01-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Internacional - Athletico-PR",
+      "channels": [
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (23:00) Serie A Bresil : Internacional - Athletico-PR  (CH82es)"
+    },
+    {
+      "date": "28-01-2026",
+      "time": "23:00",
+      "datetime": "28-01-2026 23:00",
+      "league": "Torneo LPF",
+      "teams": "Racing Club - Rosario Central",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-01-2026 (23:00) Torneo LPF : Racing Club - Rosario Central  (CH76es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "00:00",
+      "datetime": "29-01-2026 00:00",
+      "league": "Torneo LPF",
+      "teams": "River Plate - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (00:00) Torneo LPF : River Plate - Gimnasia L.P.  (CH75es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "00:30",
+      "datetime": "29-01-2026 00:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Santa Fe - Pereira",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (00:30) Liga Betplay Dimayor : Santa Fe - Pereira  (CH81es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:00",
+      "datetime": "29-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:00) NBA : Cleveland Cavaliers - Los Angeles Lakers  (CH1fr) (CH180us) (CH97es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:00",
+      "datetime": "29-01-2026 01:00",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Chicago Bulls",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:00) NBA : Indiana Pacers - Chicago Bulls  (CH181us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:00",
+      "datetime": "29-01-2026 01:00",
+      "league": "NHL",
+      "teams": "New York Islanders - New York Rangers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:00) NHL : New York Islanders - New York Rangers  (CH182us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:30",
+      "datetime": "29-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:30) NBA : Boston Celtics - Atlanta Hawks  (CH145pt) (CH183us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:30",
+      "datetime": "29-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Miami Heat - Orlando Magic",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:30) NBA : Miami Heat - Orlando Magic  (CH184us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:30",
+      "datetime": "29-01-2026 01:30",
+      "league": "NBA",
+      "teams": "Toronto Raptors - New York Knicks",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:30) NBA : Toronto Raptors - New York Knicks  (CH185us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:30",
+      "datetime": "29-01-2026 01:30",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:30) NHL : Columbus Blue Jackets - Philadelphia Flyers  (CH186us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:30",
+      "datetime": "29-01-2026 01:30",
+      "league": "NHL",
+      "teams": "Ottawa Senators - Colorado Avalanche",
+      "channels": [
+        {
+          "id": "121",
+          "lang": "de"
+        },
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:30) NHL : Ottawa Senators - Colorado Avalanche  (CH121de) (CH187us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "01:30",
+      "datetime": "29-01-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Sao Paulo - Flamengo RJ",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (01:30) Serie A Bresil : Sao Paulo - Flamengo RJ  (CH125de) (CH158es) (CH162es) (CH82es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "02:00",
+      "datetime": "29-01-2026 02:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (02:00) NBA : Memphis Grizzlies - Charlotte Hornets  (CH188us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "02:15",
+      "datetime": "29-01-2026 02:15",
+      "league": "Torneo LPF",
+      "teams": "Estudiantes L.P. - Boca Juniors",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (02:15) Torneo LPF : Estudiantes L.P. - Boca Juniors  (CH161es) (CH87es) (CH76es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "02:30",
+      "datetime": "29-01-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Pasto - Millonarios",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (02:30) Liga Betplay Dimayor : Dep. Pasto - Millonarios  (CH81es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "02:30",
+      "datetime": "29-01-2026 02:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (02:30) NBA : Dallas Mavericks - Minnesota Timberwolves  (CH189us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "03:00",
+      "datetime": "29-01-2026 03:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Golden State Warriors",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-01-2026 (03:00) NBA : Utah Jazz - Golden State Warriors  (CH190us)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "03:30",
+      "datetime": "29-01-2026 03:30",
+      "league": "NBA",
+      "teams": "Houston Rockets - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "191",
+          "lang": "us"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (03:30) NBA : Houston Rockets - San Antonio Spurs  (CH1fr) (CH191us) (CH97es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +853,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-28T12:40:59.672482"
+      "extracted_at": "2026-01-28T13:35:06.757876"
     },
     "hoca": {
       "name": "hoca",
@@ -23,7 +862,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T12:41:01.327557"
+      "extracted_at": "2026-01-28T13:35:08.289375"
     },
     "Caster": {
       "name": "Caster",
@@ -32,7 +871,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T12:41:04.149680"
+      "extracted_at": "2026-01-28T13:35:11.788492"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +880,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T12:41:06.799752"
+      "extracted_at": "2026-01-28T13:35:14.407934"
     }
   },
   "player_urls": {

@@ -1,118 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-28T03:18:52.597575",
-  "total_events": 13,
+  "last_updated": "2026-01-28T04:30:02.593092",
+  "total_events": 6,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-01-2026",
-      "time": "01:30",
-      "datetime": "28-01-2026 01:30",
-      "league": "NBA",
-      "teams": "New York Knicks - Sacramento Kings",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-01-2026 (01:30) NBA : New York Knicks - Sacramento Kings  (CH181us)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "02:00",
-      "datetime": "28-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Oklahoma City Thunder - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-01-2026 (02:00) NBA : Oklahoma City Thunder - New Orleans Pelicans  (CH182us)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "02:00",
-      "datetime": "28-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "127",
-          "lang": "us"
-        },
-        {
-          "id": "121",
-          "lang": "de"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "28-01-2026 (02:00) NBA : Philadelphia 76ers - Milwaukee Bucks  (CH127us) (CH121de) (CH144pt)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "02:00",
-      "datetime": "28-01-2026 02:00",
-      "league": "NHL",
-      "teams": "Minnesota Wild - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-01-2026 (02:00) NHL : Minnesota Wild - Chicago Blackhawks  (CH192us)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "02:00",
-      "datetime": "28-01-2026 02:00",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Dallas Stars",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-01-2026 (02:00) NHL : St. Louis Blues - Dallas Stars  (CH193us)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "02:15",
-      "datetime": "28-01-2026 02:15",
-      "league": "Torneo LPF",
-      "teams": "Atl. Tucuman - Central Cordoba",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-01-2026 (02:15) Torneo LPF : Atl. Tucuman - Central Cordoba  (CH76es)"
-    },
-    {
-      "date": "28-01-2026",
-      "time": "02:15",
-      "datetime": "28-01-2026 02:15",
-      "league": "Torneo LPF",
-      "teams": "Newells Old Boys - Independiente",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-01-2026 (02:15) Torneo LPF : Newells Old Boys - Independiente  (CH75es)"
-    },
     {
       "date": "28-01-2026",
       "time": "02:30",
@@ -213,7 +107,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-28T03:18:44.499859"
+      "extracted_at": "2026-01-28T04:29:53.851158"
     },
     "hoca": {
       "name": "hoca",
@@ -222,7 +116,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T03:18:45.896911"
+      "extracted_at": "2026-01-28T04:29:55.555486"
     },
     "Caster": {
       "name": "Caster",
@@ -231,7 +125,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T03:18:48.819802"
+      "extracted_at": "2026-01-28T04:29:58.627310"
     },
     "WIGI": {
       "name": "WIGI",
@@ -240,7 +134,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-28T03:18:51.597428"
+      "extracted_at": "2026-01-28T04:30:01.592943"
     }
   },
   "player_urls": {

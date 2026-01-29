@@ -1,208 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-29T01:47:40.311411",
-  "total_events": 17,
+  "last_updated": "2026-01-29T04:04:15.574291",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "29-01-2026",
-      "time": "00:00",
-      "datetime": "29-01-2026 00:00",
-      "league": "Torneo LPF",
-      "teams": "River Plate - Gimnasia L.P.",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-01-2026 (00:00) Torneo LPF : River Plate - Gimnasia L.P.  (CH75es)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "00:30",
-      "datetime": "29-01-2026 00:30",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Santa Fe - Pereira",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-01-2026 (00:30) Liga Betplay Dimayor : Santa Fe - Pereira  (CH81es)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:00",
-      "datetime": "29-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Cleveland Cavaliers - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:00) NBA : Cleveland Cavaliers - Los Angeles Lakers  (CH1fr) (CH180us) (CH97es)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:00",
-      "datetime": "29-01-2026 01:00",
-      "league": "NBA",
-      "teams": "Indiana Pacers - Chicago Bulls",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:00) NBA : Indiana Pacers - Chicago Bulls  (CH181us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:00",
-      "datetime": "29-01-2026 01:00",
-      "league": "NHL",
-      "teams": "New York Islanders - New York Rangers",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:00) NHL : New York Islanders - New York Rangers  (CH182us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:30",
-      "datetime": "29-01-2026 01:30",
-      "league": "NBA",
-      "teams": "Boston Celtics - Atlanta Hawks",
-      "channels": [
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:30) NBA : Boston Celtics - Atlanta Hawks  (CH145pt) (CH183us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:30",
-      "datetime": "29-01-2026 01:30",
-      "league": "NBA",
-      "teams": "Miami Heat - Orlando Magic",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:30) NBA : Miami Heat - Orlando Magic  (CH184us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:30",
-      "datetime": "29-01-2026 01:30",
-      "league": "NBA",
-      "teams": "Toronto Raptors - New York Knicks",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:30) NBA : Toronto Raptors - New York Knicks  (CH185us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:30",
-      "datetime": "29-01-2026 01:30",
-      "league": "NHL",
-      "teams": "Columbus Blue Jackets - Philadelphia Flyers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:30) NHL : Columbus Blue Jackets - Philadelphia Flyers  (CH186us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:30",
-      "datetime": "29-01-2026 01:30",
-      "league": "NHL",
-      "teams": "Ottawa Senators - Colorado Avalanche",
-      "channels": [
-        {
-          "id": "121",
-          "lang": "de"
-        },
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:30) NHL : Ottawa Senators - Colorado Avalanche  (CH121de) (CH187us)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "01:30",
-      "datetime": "29-01-2026 01:30",
-      "league": "Serie A Bresil",
-      "teams": "Sao Paulo - Flamengo RJ",
-      "channels": [
-        {
-          "id": "125",
-          "lang": "de"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-01-2026 (01:30) Serie A Bresil : Sao Paulo - Flamengo RJ  (CH125de) (CH158es) (CH162es) (CH82es)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "02:00",
-      "datetime": "29-01-2026 02:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Charlotte Hornets",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-01-2026 (02:00) NBA : Memphis Grizzlies - Charlotte Hornets  (CH188us)"
-    },
     {
       "date": "29-01-2026",
       "time": "02:15",
@@ -297,7 +101,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-29T01:47:32.846102"
+      "extracted_at": "2026-01-29T04:04:07.376187"
     },
     "hoca": {
       "name": "hoca",
@@ -306,7 +110,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-29T01:47:34.332207"
+      "extracted_at": "2026-01-29T04:04:09.085946"
     },
     "Caster": {
       "name": "Caster",
@@ -315,7 +119,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-29T01:47:36.786149"
+      "extracted_at": "2026-01-29T04:04:12.514221"
     },
     "WIGI": {
       "name": "WIGI",
@@ -324,7 +128,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-29T01:47:39.311256"
+      "extracted_at": "2026-01-29T04:04:14.574141"
     }
   },
   "player_urls": {

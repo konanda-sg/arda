@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-29T19:44:29.636502",
+  "last_updated": "2026-01-29T20:00:49.280040",
   "total_events": 60,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -81,7 +81,7 @@
       "date": "29-01-2026",
       "time": "21:00",
       "datetime": "29-01-2026 21:00",
-      "league": "Ligue Des Champions",
+      "league": "Ligue Europa",
       "teams": "Europa League konferenz -",
       "channels": [
         {
@@ -89,13 +89,13 @@
           "lang": "de"
         }
       ],
-      "raw_line": "29-01-2026 (21:00) Ligue Des Champions : Europa League konferenz -   (CH110de)"
+      "raw_line": "29-01-2026 (21:00) Ligue Europa : Europa League konferenz -   (CH110de)"
     },
     {
       "date": "29-01-2026",
       "time": "21:00",
       "datetime": "29-01-2026 21:00",
-      "league": "Ligue Des Champions",
+      "league": "Ligue Europa",
       "teams": "Multiplex Ligue Europa -",
       "channels": [
         {
@@ -103,21 +103,7 @@
           "lang": "fr"
         }
       ],
-      "raw_line": "29-01-2026 (21:00) Ligue Des Champions : Multiplex Ligue Europa -   (CH14fr)"
-    },
-    {
-      "date": "29-01-2026",
-      "time": "21:00",
-      "datetime": "29-01-2026 21:00",
-      "league": "Ligue Des Champions",
-      "teams": "MultiChampions: Jornada 8 -",
-      "channels": [
-        {
-          "id": "163",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-01-2026 (21:00) Ligue Des Champions : MultiChampions: Jornada 8 -   (CH163es)"
+      "raw_line": "29-01-2026 (21:00) Ligue Europa : Multiplex Ligue Europa -   (CH14fr)"
     },
     {
       "date": "29-01-2026",
@@ -446,6 +432,20 @@
         }
       ],
       "raw_line": "29-01-2026 (21:00) Ligue Europa : Midtjylland - Din. Zagreb  (CH43fr) (CH112de) (CH171es)"
+    },
+    {
+      "date": "29-01-2026",
+      "time": "21:00",
+      "datetime": "29-01-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "MultiChampions: Jornada 8 -",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-01-2026 (21:00) Ligue Europa : MultiChampions: Jornada 8 -   (CH163es)"
     },
     {
       "date": "29-01-2026",
@@ -1039,7 +1039,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-29T19:44:21.134304"
+      "extracted_at": "2026-01-29T20:00:42.024109"
     },
     "hoca": {
       "name": "hoca",
@@ -1048,7 +1048,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-29T19:44:22.615069"
+      "extracted_at": "2026-01-29T20:00:43.335535"
     },
     "Caster": {
       "name": "Caster",
@@ -1057,7 +1057,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-29T19:44:25.749107"
+      "extracted_at": "2026-01-29T20:00:45.786367"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1066,7 +1066,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-29T19:44:28.636353"
+      "extracted_at": "2026-01-29T20:00:48.279919"
     }
   },
   "player_urls": {

@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T23:21:13.830289",
+  "last_updated": "2026-01-30T23:47:14.342228",
   "total_events": 237,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-01-2026",
-      "time": "21:45",
-      "datetime": "30-01-2026 21:45",
-      "league": "Liga Portugal",
-      "teams": "Vitoria Guimaraes - Moreirense",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "30-01-2026 (21:45) Liga Portugal : Vitoria Guimaraes - Moreirense  (CH144pt)"
-    },
     {
       "date": "31-01-2026",
       "time": "00:00",
@@ -4104,6 +4090,20 @@
         }
       ],
       "raw_line": "02-02-2026 (23:45) Torneo LPF : Tigre - Racing Club  (CH76es)"
+    },
+    {
+      "date": "03-02-2026",
+      "time": "00:20",
+      "datetime": "03-02-2026 00:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Inter Bogotá - Deportes Tolima",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-02-2026 (00:20) Liga Betplay Dimayor : Inter Bogotá - Deportes Tolima  (CH81es)"
     }
   ],
   "player_streams": {
@@ -4113,7 +4113,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T23:21:05.477220"
+      "extracted_at": "2026-01-30T23:47:07.104229"
     },
     "hoca": {
       "name": "hoca",
@@ -4122,7 +4122,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T23:21:06.805737"
+      "extracted_at": "2026-01-30T23:47:08.482382"
     },
     "Caster": {
       "name": "Caster",
@@ -4131,7 +4131,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T23:21:09.638351"
+      "extracted_at": "2026-01-30T23:47:10.869169"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4140,7 +4140,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T23:21:12.830142"
+      "extracted_at": "2026-01-30T23:47:13.342081"
     }
   },
   "player_urls": {

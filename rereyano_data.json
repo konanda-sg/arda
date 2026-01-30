@@ -1,69 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T05:21:27.155850",
-  "total_events": 4,
+  "last_updated": "2026-01-30T06:03:09.305942",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "30-01-2026",
-      "time": "03:30",
-      "datetime": "30-01-2026 03:30",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-01-2026 (03:30) NBA : Minnesota Timberwolves - Oklahoma City Thunder  (CH182us)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "04:00",
-      "datetime": "30-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Toronto Maple Leafs",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-01-2026 (04:00) NHL : Seattle Kraken - Toronto Maple Leafs  (CH195us)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "04:00",
-      "datetime": "30-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-01-2026 (04:00) NHL : Vancouver Canucks - Anaheim Ducks  (CH196us)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "04:00",
-      "datetime": "30-01-2026 04:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Dallas Stars",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-01-2026 (04:00) NHL : Vegas Golden Knights - Dallas Stars  (CH197us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -71,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T05:21:19.035593"
+      "extracted_at": "2026-01-30T06:03:01.023286"
     },
     "hoca": {
       "name": "hoca",
@@ -80,7 +23,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T05:21:20.409397"
+      "extracted_at": "2026-01-30T06:03:02.638697"
     },
     "Caster": {
       "name": "Caster",
@@ -89,7 +32,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T05:21:23.302110"
+      "extracted_at": "2026-01-30T06:03:05.614802"
     },
     "WIGI": {
       "name": "WIGI",
@@ -98,7 +41,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T05:21:26.155672"
+      "extracted_at": "2026-01-30T06:03:08.305793"
     }
   },
   "player_urls": {

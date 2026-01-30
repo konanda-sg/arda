@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T17:20:49.086150",
-  "total_events": 257,
+  "last_updated": "2026-01-30T17:58:05.856267",
+  "total_events": 258,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -103,10 +103,6 @@
       "teams": "Al Kholood - Al Nassr",
       "channels": [
         {
-          "id": "61",
-          "lang": "es"
-        },
-        {
           "id": "55",
           "lang": "es"
         },
@@ -115,15 +111,11 @@
           "lang": "es"
         },
         {
-          "id": "124",
-          "lang": "de"
-        },
-        {
           "id": "144",
           "lang": "pt"
         }
       ],
-      "raw_line": "30-01-2026 (18:30) Saudi Pro League : Al Kholood - Al Nassr  (CH61es) (CH55es) (CH70es) (CH124de) (CH144pt)"
+      "raw_line": "30-01-2026 (18:30) Saudi Pro League : Al Kholood - Al Nassr  (CH55es) (CH70es) (CH144pt)"
     },
     {
       "date": "30-01-2026",
@@ -4412,6 +4404,32 @@
         }
       ],
       "raw_line": "02-02-2026 (18:00) Super Lig : Kocaelispor - Fenerbahce  (CH5fr) (CH69es) (CH79es) (CH98es) (CH151tr)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "18:30",
+      "datetime": "02-02-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al Hilal - Al Ahli SC",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "02-02-2026 (18:30) Saudi Pro League : Al Hilal - Al Ahli SC  (CH61es) (CH70es) (CH125de) (CH144pt)"
     }
   ],
   "player_streams": {
@@ -4421,7 +4439,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T17:20:41.451888"
+      "extracted_at": "2026-01-30T17:57:58.397724"
     },
     "hoca": {
       "name": "hoca",
@@ -4430,7 +4448,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T17:20:43.029260"
+      "extracted_at": "2026-01-30T17:57:59.908133"
     },
     "Caster": {
       "name": "Caster",
@@ -4439,7 +4457,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T17:20:45.671480"
+      "extracted_at": "2026-01-30T17:58:02.281503"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4448,7 +4466,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T17:20:48.085975"
+      "extracted_at": "2026-01-30T17:58:04.856125"
     }
   },
   "player_urls": {

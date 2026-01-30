@@ -1,54 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T19:52:41.043678",
+  "last_updated": "2026-01-30T20:23:47.716904",
   "total_events": 261,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-01-2026",
-      "time": "18:00",
-      "datetime": "30-01-2026 18:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Sport Huancayo - Alianza Lima",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:00) Liga 1 Te Apuesto : Sport Huancayo - Alianza Lima  (CH84es)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "18:00",
-      "datetime": "30-01-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Antalyaspor - Trabzonspor",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:00) Super Lig : Antalyaspor - Trabzonspor  (CH151tr)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "18:00",
-      "datetime": "30-01-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Kasimpasa - Samsunspor",
-      "channels": [
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:00) Super Lig : Kasimpasa - Samsunspor  (CH152tr)"
-    },
     {
       "date": "30-01-2026",
       "time": "18:30",
@@ -4496,6 +4454,76 @@
         }
       ],
       "raw_line": "02-02-2026 (20:45) Serie A : Udinese - AS Roma  (CH45fr) (CH138it) (CH124de) (CH149gr) (CH91es) (CH99es)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "21:00",
+      "datetime": "02-02-2026 21:00",
+      "league": "Laliga",
+      "teams": "Mallorca - Sevilla",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (21:00) Laliga : Mallorca - Sevilla  (CH1fr) (CH49es) (CH123de) (CH88es)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "21:00",
+      "datetime": "02-02-2026 21:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Comerciantes Unidos - Moquegua",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (21:00) Liga 1 Te Apuesto : Comerciantes Unidos - Moquegua  (CH84es)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "21:00",
+      "datetime": "02-02-2026 21:00",
+      "league": "Premier League",
+      "teams": "Sunderland - Burnley",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (21:00) Premier League : Sunderland - Burnley  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH90es)"
     }
   ],
   "player_streams": {
@@ -4505,7 +4533,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T19:52:33.314703"
+      "extracted_at": "2026-01-30T20:23:39.969292"
     },
     "hoca": {
       "name": "hoca",
@@ -4514,7 +4542,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T19:52:34.839980"
+      "extracted_at": "2026-01-30T20:23:41.350162"
     },
     "Caster": {
       "name": "Caster",
@@ -4523,7 +4551,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T19:52:37.329656"
+      "extracted_at": "2026-01-30T20:23:43.726081"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4532,7 +4560,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T19:52:40.043522"
+      "extracted_at": "2026-01-30T20:23:46.716739"
     }
   },
   "player_urls": {

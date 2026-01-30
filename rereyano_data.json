@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T19:21:23.340879",
-  "total_events": 259,
+  "last_updated": "2026-01-30T19:52:41.043678",
+  "total_events": 261,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4448,6 +4448,54 @@
         }
       ],
       "raw_line": "02-02-2026 (19:45) Liga Portugal : AFS - Braga  (CH4fr) (CH145pt)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "20:30",
+      "datetime": "02-02-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Mirandes - Malaga",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (20:30) Laliga 2 : Mirandes - Malaga  (CH53es)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "20:45",
+      "datetime": "02-02-2026 20:45",
+      "league": "Serie A",
+      "teams": "Udinese - AS Roma",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (20:45) Serie A : Udinese - AS Roma  (CH45fr) (CH138it) (CH124de) (CH149gr) (CH91es) (CH99es)"
     }
   ],
   "player_streams": {
@@ -4457,7 +4505,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T19:21:15.601363"
+      "extracted_at": "2026-01-30T19:52:33.314703"
     },
     "hoca": {
       "name": "hoca",
@@ -4466,7 +4514,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T19:21:16.940038"
+      "extracted_at": "2026-01-30T19:52:34.839980"
     },
     "Caster": {
       "name": "Caster",
@@ -4475,7 +4523,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T19:21:19.662516"
+      "extracted_at": "2026-01-30T19:52:37.329656"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4484,7 +4532,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T19:21:22.340732"
+      "extracted_at": "2026-01-30T19:52:40.043522"
     }
   },
   "player_urls": {

@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T17:58:05.856267",
-  "total_events": 258,
+  "last_updated": "2026-01-30T19:21:23.340879",
+  "total_events": 259,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4430,6 +4430,24 @@
         }
       ],
       "raw_line": "02-02-2026 (18:30) Saudi Pro League : Al Hilal - Al Ahli SC  (CH61es) (CH70es) (CH125de) (CH144pt)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "19:45",
+      "datetime": "02-02-2026 19:45",
+      "league": "Liga Portugal",
+      "teams": "AFS - Braga",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "02-02-2026 (19:45) Liga Portugal : AFS - Braga  (CH4fr) (CH145pt)"
     }
   ],
   "player_streams": {
@@ -4439,7 +4457,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T17:57:58.397724"
+      "extracted_at": "2026-01-30T19:21:15.601363"
     },
     "hoca": {
       "name": "hoca",
@@ -4448,7 +4466,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T17:57:59.908133"
+      "extracted_at": "2026-01-30T19:21:16.940038"
     },
     "Caster": {
       "name": "Caster",
@@ -4457,7 +4475,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T17:58:02.281503"
+      "extracted_at": "2026-01-30T19:21:19.662516"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4466,7 +4484,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T17:58:04.856125"
+      "extracted_at": "2026-01-30T19:21:22.340732"
     }
   },
   "player_urls": {

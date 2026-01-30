@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T15:07:34.352459",
-  "total_events": 255,
+  "last_updated": "2026-01-30T15:52:11.403217",
+  "total_events": 256,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4352,6 +4352,36 @@
         }
       ],
       "raw_line": "02-02-2026 (03:30) NHL : Anaheim Ducks - Vegas Golden Knights  (CH192us)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "16:15",
+      "datetime": "02-02-2026 16:15",
+      "league": "Saudi Pro League",
+      "teams": "Al Riyadh - Al Nassr",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "02-02-2026 (16:15) Saudi Pro League : Al Riyadh - Al Nassr  (CH61es) (CH55es) (CH70es) (CH125de) (CH144pt)"
     }
   ],
   "player_streams": {
@@ -4361,7 +4391,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T15:07:26.155889"
+      "extracted_at": "2026-01-30T15:52:03.122274"
     },
     "hoca": {
       "name": "hoca",
@@ -4370,7 +4400,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T15:07:27.553844"
+      "extracted_at": "2026-01-30T15:52:04.542059"
     },
     "Caster": {
       "name": "Caster",
@@ -4379,7 +4409,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T15:07:30.663778"
+      "extracted_at": "2026-01-30T15:52:07.654391"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4388,7 +4418,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T15:07:33.352312"
+      "extracted_at": "2026-01-30T15:52:10.403075"
     }
   },
   "player_urls": {

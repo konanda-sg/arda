@@ -1,80 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T20:23:47.716904",
-  "total_events": 261,
+  "last_updated": "2026-01-30T20:54:05.387999",
+  "total_events": 259,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-01-2026",
-      "time": "18:30",
-      "datetime": "30-01-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "18:30",
-      "datetime": "30-01-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "Magdeburg - Hannover",
-      "channels": [
-        {
-          "id": "113",
-          "lang": "de"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:30) Bundesliga 2 : Magdeburg - Hannover  (CH113de) (CH78es)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "18:30",
-      "datetime": "30-01-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "Nurnberg - Preussen Munster",
-      "channels": [
-        {
-          "id": "114",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:30) Bundesliga 2 : Nurnberg - Preussen Munster  (CH114de)"
-    },
-    {
-      "date": "30-01-2026",
-      "time": "18:30",
-      "datetime": "30-01-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Al Kholood - Al Nassr",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "30-01-2026 (18:30) Saudi Pro League : Al Kholood - Al Nassr  (CH55es) (CH70es) (CH144pt)"
-    },
     {
       "date": "30-01-2026",
       "time": "19:00",
@@ -4524,6 +4456,42 @@
         }
       ],
       "raw_line": "02-02-2026 (21:00) Premier League : Sunderland - Burnley  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH90es)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "21:30",
+      "datetime": "02-02-2026 21:30",
+      "league": "Torneo LPF",
+      "teams": "Gimnasia L.P. - Aldosivi",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (21:30) Torneo LPF : Gimnasia L.P. - Aldosivi  (CH76es)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "21:45",
+      "datetime": "02-02-2026 21:45",
+      "league": "Liga Portugal",
+      "teams": "Casa Pia - FC Porto",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "02-02-2026 (21:45) Liga Portugal : Casa Pia - FC Porto  (CH5fr) (CH125de) (CH144pt)"
     }
   ],
   "player_streams": {
@@ -4533,7 +4501,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T20:23:39.969292"
+      "extracted_at": "2026-01-30T20:53:58.070703"
     },
     "hoca": {
       "name": "hoca",
@@ -4542,7 +4510,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T20:23:41.350162"
+      "extracted_at": "2026-01-30T20:53:59.455294"
     },
     "Caster": {
       "name": "Caster",
@@ -4551,7 +4519,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T20:23:43.726081"
+      "extracted_at": "2026-01-30T20:54:01.989279"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4560,7 +4528,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T20:23:46.716739"
+      "extracted_at": "2026-01-30T20:54:04.387833"
     }
   },
   "player_urls": {

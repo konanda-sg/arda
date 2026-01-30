@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-30T20:54:05.387999",
+  "last_updated": "2026-01-30T21:24:15.188482",
   "total_events": 259,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "30-01-2026",
-      "time": "19:00",
-      "datetime": "30-01-2026 19:00",
-      "league": "Pro D2",
-      "teams": "Aurillac - Valence Romans",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "30-01-2026 (19:00) Pro D2 : Aurillac - Valence Romans  (CH13fr)"
-    },
     {
       "date": "30-01-2026",
       "time": "19:30",
@@ -4492,6 +4478,20 @@
         }
       ],
       "raw_line": "02-02-2026 (21:45) Liga Portugal : Casa Pia - FC Porto  (CH5fr) (CH125de) (CH144pt)"
+    },
+    {
+      "date": "02-02-2026",
+      "time": "22:00",
+      "datetime": "02-02-2026 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Everton - Union La Calera",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-02-2026 (22:00) Campeonato Itaú Chile : Everton - Union La Calera  (CH83es)"
     }
   ],
   "player_streams": {
@@ -4501,7 +4501,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-30T20:53:58.070703"
+      "extracted_at": "2026-01-30T21:24:07.655487"
     },
     "hoca": {
       "name": "hoca",
@@ -4510,7 +4510,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T20:53:59.455294"
+      "extracted_at": "2026-01-30T21:24:09.153811"
     },
     "Caster": {
       "name": "Caster",
@@ -4519,7 +4519,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T20:54:01.989279"
+      "extracted_at": "2026-01-30T21:24:11.563486"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4528,7 +4528,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-30T20:54:04.387833"
+      "extracted_at": "2026-01-30T21:24:14.188330"
     }
   },
   "player_urls": {

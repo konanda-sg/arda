@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-31T23:17:48.863283",
-  "total_events": 152,
+  "last_updated": "2026-01-31T23:44:05.359567",
+  "total_events": 150,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "31-01-2026",
-      "time": "21:30",
-      "datetime": "31-01-2026 21:30",
-      "league": "Liga Portugal",
-      "teams": "Alverca - Estrela",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "31-01-2026 (21:30) Liga Portugal : Alverca - Estrela  (CH144pt)"
-    },
-    {
-      "date": "31-01-2026",
-      "time": "21:30",
-      "datetime": "31-01-2026 21:30",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - New York Rangers",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-01-2026 (21:30) NHL : Pittsburgh Penguins - New York Rangers  (CH183us)"
-    },
     {
       "date": "31-01-2026",
       "time": "22:00",
@@ -2567,7 +2539,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-31T23:17:44.057376"
+      "extracted_at": "2026-01-31T23:44:00.071108"
     },
     "hoca": {
       "name": "hoca",
@@ -2576,25 +2548,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-31T23:17:45.340457"
+      "extracted_at": "2026-01-31T23:44:01.574204"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": "https://royaltysweater.live/embed/zj52139k3",
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-31T23:17:46.597262"
+      "extracted_at": "2026-01-31T23:44:03.057916"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://rereyano.ru/player/4/1",
-      "iframe_url": "https://infinitequalified.live/embed/ysagetp2j4x",
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-31T23:17:47.863145"
+      "extracted_at": "2026-01-31T23:44:04.359428"
     }
   },
   "player_urls": {

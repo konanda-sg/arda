@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-01-31T22:18:25.260973",
-  "total_events": 166,
+  "last_updated": "2026-01-31T22:47:28.025520",
+  "total_events": 163,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "31-01-2026",
-      "time": "20:30",
-      "datetime": "31-01-2026 20:30",
-      "league": "Bundesliga 2",
-      "teams": "Kaiserslautern - Elversberg",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "31-01-2026 (20:30) Bundesliga 2 : Kaiserslautern - Elversberg  (CH5fr) (CH112de)"
-    },
-    {
-      "date": "31-01-2026",
-      "time": "20:45",
-      "datetime": "31-01-2026 20:45",
-      "league": "Pro League",
-      "teams": "St. Truiden - Charleroi",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "31-01-2026 (20:45) Pro League : St. Truiden - Charleroi  (CH153fr)"
-    },
-    {
-      "date": "31-01-2026",
-      "time": "20:45",
-      "datetime": "31-01-2026 20:45",
-      "league": "Serie A",
-      "teams": "Cagliari - Verona",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-01-2026 (20:45) Serie A : Cagliari - Verona  (CH138it) (CH149gr) (CH70es) (CH88es) (CH97es)"
-    },
     {
       "date": "31-01-2026",
       "time": "21:00",
@@ -2831,7 +2769,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-01-31T22:18:19.744628"
+      "extracted_at": "2026-01-31T22:47:22.796523"
     },
     "hoca": {
       "name": "hoca",
@@ -2840,7 +2778,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-31T22:18:21.211942"
+      "extracted_at": "2026-01-31T22:47:24.112095"
     },
     "Caster": {
       "name": "Caster",
@@ -2849,7 +2787,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-31T22:18:22.944521"
+      "extracted_at": "2026-01-31T22:47:25.763014"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2858,7 +2796,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-01-31T22:18:24.260822"
+      "extracted_at": "2026-01-31T22:47:27.025379"
     }
   },
   "player_urls": {

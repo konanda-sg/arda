@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-01T22:24:13.542627",
-  "total_events": 65,
+  "last_updated": "2026-02-01T22:50:37.413659",
+  "total_events": 63,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-02-2026",
-      "time": "20:45",
-      "datetime": "01-02-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Strasbourg - PSG",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-02-2026 (20:45) Ligue 1 : Strasbourg - PSG  (CH20fr) (CH123de) (CH69es) (CH87es)"
-    },
-    {
-      "date": "01-02-2026",
-      "time": "20:45",
-      "datetime": "01-02-2026 20:45",
-      "league": "Serie A",
-      "teams": "Parma - Juventus",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "160",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-02-2026 (20:45) Serie A : Parma - Juventus  (CH45fr) (CH137it) (CH124de) (CH126gb) (CH149gr) (CH160es)"
-    },
     {
       "date": "01-02-2026",
       "time": "21:00",
@@ -1122,7 +1062,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-01T22:24:04.393563"
+      "extracted_at": "2026-02-01T22:50:28.566519"
     },
     "hoca": {
       "name": "hoca",
@@ -1131,7 +1071,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-01T22:24:06.291485"
+      "extracted_at": "2026-02-01T22:50:30.679829"
     },
     "Caster": {
       "name": "Caster",
@@ -1140,7 +1080,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-01T22:24:09.653556"
+      "extracted_at": "2026-02-01T22:50:33.595526"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1149,7 +1089,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-01T22:24:12.542511"
+      "extracted_at": "2026-02-01T22:50:36.413508"
     }
   },
   "player_urls": {

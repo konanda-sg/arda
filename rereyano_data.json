@@ -1,180 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-03T22:25:04.882049",
-  "total_events": 38,
+  "last_updated": "2026-02-03T22:56:49.212712",
+  "total_events": 28,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-02-2026",
-      "time": "20:30",
-      "datetime": "03-02-2026 20:30",
-      "league": "Coupe De France",
-      "teams": "Reims - Le Mans",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:30) Coupe De France : Reims - Le Mans  (CH2fr)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:30",
-      "datetime": "03-02-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Barcelona - Fenerbahce",
-      "channels": [
-        {
-          "id": "63",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:30) EuroLeague : Barcelona - Fenerbahce  (CH63es)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:30",
-      "datetime": "03-02-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Bayern - Paris",
-      "channels": [
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:30) EuroLeague : Bayern - Paris  (CH67es)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:30",
-      "datetime": "03-02-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Olimpia Milano - Baskonia",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:30) EuroLeague : Olimpia Milano - Baskonia  (CH64es)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:45",
-      "datetime": "03-02-2026 20:45",
-      "league": "Championship",
-      "teams": "Blackburn - Sheffield Wed",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:45) Championship : Blackburn - Sheffield Wed  (CH190gb)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:45",
-      "datetime": "03-02-2026 20:45",
-      "league": "Championship",
-      "teams": "Hull - Watford",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:45) Championship : Hull - Watford  (CH191gb)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:45",
-      "datetime": "03-02-2026 20:45",
-      "league": "Championship",
-      "teams": "Portsmouth - Ipswich",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:45) Championship : Portsmouth - Ipswich  (CH192gb)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:45",
-      "datetime": "03-02-2026 20:45",
-      "league": "Championship",
-      "teams": "Sheffield Utd - Oxford Utd",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:45) Championship : Sheffield Utd - Oxford Utd  (CH193gb)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:45",
-      "datetime": "03-02-2026 20:45",
-      "league": "DFB Pokal",
-      "teams": "Bayer Leverkusen - St. Pauli",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "121",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:45) DFB Pokal : Bayer Leverkusen - St. Pauli  (CH5fr) (CH99es) (CH121de)"
-    },
-    {
-      "date": "03-02-2026",
-      "time": "20:45",
-      "datetime": "03-02-2026 20:45",
-      "league": "Serie A",
-      "teams": "Bologna - AC Milan",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "148",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "03-02-2026 (20:45) Serie A : Bologna - AC Milan  (CH45fr) (CH88es) (CH126gb) (CH137it) (CH145pt) (CH148gr)"
-    },
     {
       "date": "03-02-2026",
       "time": "21:00",
@@ -664,7 +496,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-03T22:24:56.877296"
+      "extracted_at": "2026-02-03T22:56:40.881857"
     },
     "hoca": {
       "name": "hoca",
@@ -673,7 +505,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-03T22:24:58.714354"
+      "extracted_at": "2026-02-03T22:56:42.939727"
     },
     "Caster": {
       "name": "Caster",
@@ -682,7 +514,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-03T22:25:01.431786"
+      "extracted_at": "2026-02-03T22:56:46.124683"
     },
     "WIGI": {
       "name": "WIGI",
@@ -691,7 +523,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-03T22:25:03.881905"
+      "extracted_at": "2026-02-03T22:56:48.212576"
     }
   },
   "player_urls": {

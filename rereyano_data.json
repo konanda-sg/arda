@@ -1,49 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-04T06:04:11.083137",
-  "total_events": 2,
+  "last_updated": "2026-02-04T07:10:14.231542",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "04-02-2026",
-      "time": "05:00",
-      "datetime": "04-02-2026 05:00",
-      "league": "Concacaf Champions Cup",
-      "teams": "San Diego FC - UNAM Pumas",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-02-2026 (05:00) Concacaf Champions Cup : San Diego FC - UNAM Pumas  (CH68es)"
-    },
-    {
-      "date": "04-02-2026",
-      "time": "05:00",
-      "datetime": "04-02-2026 05:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Phoenix Suns",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "196",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-02-2026 (05:00) NBA : Portland Trail Blazers - Phoenix Suns  (CH1fr) (CH196us) (CH75es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -52,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-04T06:04:03.188257"
+      "extracted_at": "2026-02-04T07:10:05.520939"
     },
     "hoca": {
       "name": "hoca",
@@ -61,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-04T06:04:05.124028"
+      "extracted_at": "2026-02-04T07:10:07.531092"
     },
     "Caster": {
       "name": "Caster",
@@ -70,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-04T06:04:07.878148"
+      "extracted_at": "2026-02-04T07:10:10.372930"
     },
     "WIGI": {
       "name": "WIGI",
@@ -79,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-04T06:04:10.082984"
+      "extracted_at": "2026-02-04T07:10:13.231383"
     }
   },
   "player_urls": {

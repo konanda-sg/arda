@@ -1,12 +1,643 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-05T15:02:30.812670",
-  "total_events": 0,
+  "last_updated": "2026-02-05T15:57:29.756599",
+  "total_events": 39,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "05-02-2026",
+      "time": "16:00",
+      "datetime": "05-02-2026 16:00",
+      "league": "Coupe De Turquie",
+      "teams": "Kocaelispor - Besiktas",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "05-02-2026 (16:00) Coupe De Turquie : Kocaelispor - Besiktas  (CH165tr)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "17:00",
+      "datetime": "05-02-2026 17:00",
+      "league": "EuroLeague",
+      "teams": "Dubai - Real Madrid",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (17:00) EuroLeague : Dubai - Real Madrid  (CH55es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "18:30",
+      "datetime": "05-02-2026 18:30",
+      "league": "Coupe De Turquie",
+      "teams": "Fenerbahce - Erzurumspor",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "05-02-2026 (18:30) Coupe De Turquie : Fenerbahce - Erzurumspor  (CH165tr)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "18:30",
+      "datetime": "05-02-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al Ahli SC - Al Hazem",
+      "channels": [
+        {
+          "id": "47",
+          "lang": "sa"
+        }
+      ],
+      "raw_line": "05-02-2026 (18:30) Saudi Pro League : Al Ahli SC - Al Hazem  (CH47sa)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "18:30",
+      "datetime": "05-02-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al Okhdood - Al Hilal",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (18:30) Saudi Pro League : Al Okhdood - Al Hilal  (CH70es) (CH144pt) (CH161es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "20:00",
+      "datetime": "05-02-2026 20:00",
+      "league": "EuroLeague",
+      "teams": "Hapoel Tel-Aviv - Valencia",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (20:00) EuroLeague : Hapoel Tel-Aviv - Valencia  (CH62es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "20:00",
+      "datetime": "05-02-2026 20:00",
+      "league": "Knvb Beker",
+      "teams": "Telstar - G.A. Eagles",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "05-02-2026 (20:00) Knvb Beker : Telstar - G.A. Eagles  (CH141nl) (CH125de)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "20:30",
+      "datetime": "05-02-2026 20:30",
+      "league": "Coupe De Belgique",
+      "teams": "Anderlecht - Antwerp",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "05-02-2026 (20:30) Coupe De Belgique : Anderlecht - Antwerp  (CH153fr)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "20:30",
+      "datetime": "05-02-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Bayern - Monaco",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (20:30) EuroLeague : Bayern - Monaco  (CH66es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "20:30",
+      "datetime": "05-02-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Partizan Mozzart Bet - Panathinaikos",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "05-02-2026 (20:30) EuroLeague : Partizan Mozzart Bet - Panathinaikos  (CH65es) (CH150gr)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "20:45",
+      "datetime": "05-02-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Paris - Fenerbahce",
+      "channels": [
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (20:45) EuroLeague : Paris - Fenerbahce  (CH64es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "21:00",
+      "datetime": "05-02-2026 21:00",
+      "league": "Copa De La Reina",
+      "teams": "Real Madrid W - Barcelona W",
+      "channels": [
+        {
+          "id": "60",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (21:00) Copa De La Reina : Real Madrid W - Barcelona W  (CH60es) (CH88es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "21:00",
+      "datetime": "05-02-2026 21:00",
+      "league": "Coppa Italia",
+      "teams": "Atalanta - Juventus",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "05-02-2026 (21:00) Coppa Italia : Atalanta - Juventus  (CH45fr) (CH139it) (CH56es) (CH82es) (CH94es) (CH145pt)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "21:00",
+      "datetime": "05-02-2026 21:00",
+      "league": "Coupe De France",
+      "teams": "Strasbourg - Monaco",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (21:00) Coupe De France : Strasbourg - Monaco  (CH1fr) (CH70es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "21:00",
+      "datetime": "05-02-2026 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Betis - Atl. Madrid",
+      "channels": [
+        {
+          "id": "46",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (21:00) Coupe Du Roi : Betis - Atl. Madrid  (CH46fr) (CH49es) (CH81es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "21:10",
+      "datetime": "05-02-2026 21:10",
+      "league": "Tournoi des Six Nations",
+      "teams": "France - Ireland",
+      "channels": [
+        {
+          "id": "28",
+          "lang": "fr"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (21:10) Tournoi des Six Nations : France - Ireland  (CH28fr) (CH55es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "21:45",
+      "datetime": "05-02-2026 21:45",
+      "league": "Coupe Du Portugal",
+      "teams": "Sporting CP - AFS",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (21:45) Coupe Du Portugal : Sporting CP - AFS  (CH144pt) (CH69es) (CH78es) (CH82es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "23:00",
+      "datetime": "05-02-2026 23:00",
+      "league": "Copa Argentina",
+      "teams": "Dep. Riestra - Deportivo Maipu",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (23:00) Copa Argentina : Dep. Riestra - Deportivo Maipu  (CH77es)"
+    },
+    {
+      "date": "05-02-2026",
+      "time": "23:00",
+      "datetime": "05-02-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Bahia - Fluminense",
+      "channels": [
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-02-2026 (23:00) Serie A Bresil : Bahia - Fluminense  (CH108es)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Washington Wizards",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NBA : Detroit Pistons - Washington Wizards  (CH180us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NBA",
+      "teams": "Orlando Magic - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NBA : Orlando Magic - Brooklyn Nets  (CH181us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NHL",
+      "teams": "Buffalo Sabres - Pittsburgh Penguins",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NHL : Buffalo Sabres - Pittsburgh Penguins  (CH188us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - New York Islanders",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NHL : New Jersey Devils - New York Islanders  (CH189us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NHL",
+      "teams": "New York Rangers - Carolina Hurricanes",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NHL : New York Rangers - Carolina Hurricanes  (CH190us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NHL",
+      "teams": "Philadelphia Flyers - Ottawa Senators",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NHL : Philadelphia Flyers - Ottawa Senators  (CH191us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:00",
+      "datetime": "06-02-2026 01:00",
+      "league": "NHL",
+      "teams": "Washington Capitals - Nashville Predators",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:00) NHL : Washington Capitals - Nashville Predators  (CH192us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:15",
+      "datetime": "06-02-2026 01:15",
+      "league": "Copa Argentina",
+      "teams": "Barracas Central - Temperley",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:15) Copa Argentina : Barracas Central - Temperley  (CH77es)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:30",
+      "datetime": "06-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - Utah Jazz",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:30) NBA : Atlanta Hawks - Utah Jazz  (CH182us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:30",
+      "datetime": "06-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Chicago Bulls",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:30) NBA : Toronto Raptors - Chicago Bulls  (CH183us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:30",
+      "datetime": "06-02-2026 01:30",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - Florida Panthers",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:30) NHL : Tampa Bay Lightning - Florida Panthers  (CH4fr) (CH193us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "01:30",
+      "datetime": "06-02-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Cruzeiro - Coritiba",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-02-2026 (01:30) Serie A Bresil : Cruzeiro - Coritiba  (CH55es) (CH82es) (CH108es)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "02:00",
+      "datetime": "06-02-2026 02:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Millonarios - Pereira",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-02-2026 (02:00) Liga Betplay Dimayor : Millonarios - Pereira  (CH81es)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "02:00",
+      "datetime": "06-02-2026 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (02:00) NBA : Houston Rockets - Charlotte Hornets  (CH184us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "02:06",
+      "datetime": "06-02-2026 02:06",
+      "league": "Liga Mx Women",
+      "teams": "Juarez W - Club America W",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-02-2026 (02:06) Liga Mx Women : Juarez W - Club America W  (CH70es)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "02:30",
+      "datetime": "06-02-2026 02:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (02:30) NBA : Dallas Mavericks - San Antonio Spurs  (CH185us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "04:00",
+      "datetime": "06-02-2026 04:00",
+      "league": "Liga Mx Women",
+      "teams": "Tigres UANL W - Cruz Azul W",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-02-2026 (04:00) Liga Mx Women : Tigres UANL W - Cruz Azul W  (CH70es)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "04:00",
+      "datetime": "06-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (04:00) NBA : Los Angeles Lakers - Philadelphia 76ers  (CH186us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "04:00",
+      "datetime": "06-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Phoenix Suns - Golden State Warriors",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (04:00) NBA : Phoenix Suns - Golden State Warriors  (CH187us)"
+    },
+    {
+      "date": "06-02-2026",
+      "time": "04:00",
+      "datetime": "06-02-2026 04:00",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-02-2026 (04:00) NHL : Vegas Golden Knights - Los Angeles Kings  (CH5fr) (CH194us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -15,7 +646,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-05T15:02:08.818434"
+      "extracted_at": "2026-02-05T15:57:19.917542"
     },
     "hoca": {
       "name": "hoca",
@@ -24,15 +655,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-05T15:02:10.363133"
+      "extracted_at": "2026-02-05T15:57:21.994664"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://rereyano.ru/player/3/1",
-      "iframe_url": null,
+      "iframe_url": "https://toneassertive.net/embed/zj52139k3",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-02-05T15:02:26.951458"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-02-05T15:57:25.618769"
     },
     "WIGI": {
       "name": "WIGI",
@@ -41,7 +673,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-05T15:02:29.812546"
+      "extracted_at": "2026-02-05T15:57:28.756466"
     }
   },
   "player_urls": {

@@ -1,108 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T22:49:38.247726",
-  "total_events": 221,
+  "last_updated": "2026-02-06T23:20:39.899689",
+  "total_events": 219,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-02-2026",
-      "time": "21:00",
-      "datetime": "06-02-2026 21:00",
-      "league": "Laliga",
-      "teams": "Celta Vigo - Osasuna",
-      "channels": [
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (21:00) Laliga : Celta Vigo - Osasuna  (CH51es) (CH124de) (CH94es) (CH107es)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "21:00",
-      "datetime": "06-02-2026 21:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Moquegua - Cajamarca",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (21:00) Liga 1 Te Apuesto : Moquegua - Cajamarca  (CH84es)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "21:00",
-      "datetime": "06-02-2026 21:00",
-      "league": "Premier League",
-      "teams": "Leeds - Nottingham",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (21:00) Premier League : Leeds - Nottingham  (CH12fr) (CH127gb) (CH56es) (CH138it) (CH120de) (CH88es)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "21:01",
-      "datetime": "06-02-2026 21:01",
-      "league": "Championship",
-      "teams": "Charlton - QPR",
-      "channels": [
-        {
-          "id": "128",
-          "lang": "gb"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (21:01) Championship : Charlton - QPR  (CH128gb) (CH93es) (CH99es)"
-    },
     {
       "date": "06-02-2026",
       "time": "23:00",
@@ -3892,6 +3796,34 @@
         }
       ],
       "raw_line": "09-02-2026 (23:15) Torneo LPF : Lanus - Talleres Cordoba  (CH75es)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "00:00",
+      "datetime": "10-02-2026 00:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Union La Calera - Cobresal",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-02-2026 (00:00) Campeonato Itaú Chile : Union La Calera - Cobresal  (CH83es)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "00:00",
+      "datetime": "10-02-2026 00:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "CA Cerro - Danubio",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-02-2026 (00:00) Liga AUF Uruguaya : CA Cerro - Danubio  (CH109es)"
     }
   ],
   "player_streams": {
@@ -3902,7 +3834,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T22:49:27.528222"
+      "extracted_at": "2026-02-06T23:20:31.634531"
     },
     "hoca": {
       "name": "hoca",
@@ -3911,7 +3843,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T22:49:30.249876"
+      "extracted_at": "2026-02-06T23:20:34.184389"
     },
     "Caster": {
       "name": "Caster",
@@ -3920,7 +3852,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T22:49:33.624147"
+      "extracted_at": "2026-02-06T23:20:36.927308"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3929,7 +3861,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T22:49:37.247576"
+      "extracted_at": "2026-02-06T23:20:38.899540"
     }
   },
   "player_urls": {

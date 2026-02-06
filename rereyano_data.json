@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T19:07:29.172896",
-  "total_events": 235,
+  "last_updated": "2026-02-06T19:49:42.771316",
+  "total_events": 238,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4084,6 +4084,68 @@
         }
       ],
       "raw_line": "09-02-2026 (19:45) Liga Portugal : Famalicao - AFS  (CH145pt)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "20:30",
+      "datetime": "09-02-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Racing Santander - Mirandes",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-02-2026 (20:30) Laliga 2 : Racing Santander - Mirandes  (CH53es)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "20:45",
+      "datetime": "09-02-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Amiens - Clermont",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "09-02-2026 (20:45) Ligue 2 : Amiens - Clermont  (CH1fr)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "20:45",
+      "datetime": "09-02-2026 20:45",
+      "league": "Serie A",
+      "teams": "AS Roma - Cagliari",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "09-02-2026 (20:45) Serie A : AS Roma - Cagliari  (CH45fr) (CH138it) (CH98es) (CH124de) (CH126gb) (CH149gr)"
     }
   ],
   "player_streams": {
@@ -4094,7 +4156,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:07:19.773759"
+      "extracted_at": "2026-02-06T19:49:31.685292"
     },
     "hoca": {
       "name": "hoca",
@@ -4103,7 +4165,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:07:22.980666"
+      "extracted_at": "2026-02-06T19:49:35.403028"
     },
     "Caster": {
       "name": "Caster",
@@ -4112,7 +4174,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:07:25.991594"
+      "extracted_at": "2026-02-06T19:49:38.822947"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4121,7 +4183,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:07:28.172749"
+      "extracted_at": "2026-02-06T19:49:41.771150"
     }
   },
   "player_urls": {

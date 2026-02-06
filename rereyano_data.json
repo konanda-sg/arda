@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T17:27:44.407031",
-  "total_events": 233,
+  "last_updated": "2026-02-06T19:07:29.172896",
+  "total_events": 235,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -29,11 +29,11 @@
       "teams": "Greuther Furth - Magdeburg",
       "channels": [
         {
-          "id": "13",
+          "id": "113",
           "lang": "de"
         }
       ],
-      "raw_line": "06-02-2026 (18:30) Bundesliga 2 : Greuther Furth - Magdeburg  (CH13de)"
+      "raw_line": "06-02-2026 (18:30) Bundesliga 2 : Greuther Furth - Magdeburg  (CH113de)"
     },
     {
       "date": "06-02-2026",
@@ -4048,6 +4048,42 @@
         }
       ],
       "raw_line": "09-02-2026 (18:00) Super Lig : Gaziantep - Kasimpasa  (CH152tr)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "18:30",
+      "datetime": "09-02-2026 18:30",
+      "league": "Serie A",
+      "teams": "Atalanta - Cremonese",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "09-02-2026 (18:30) Serie A : Atalanta - Cremonese  (CH137it) (CH99es) (CH124de)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "19:45",
+      "datetime": "09-02-2026 19:45",
+      "league": "Liga Portugal",
+      "teams": "Famalicao - AFS",
+      "channels": [
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "09-02-2026 (19:45) Liga Portugal : Famalicao - AFS  (CH145pt)"
     }
   ],
   "player_streams": {
@@ -4058,7 +4094,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T17:27:35.223417"
+      "extracted_at": "2026-02-06T19:07:19.773759"
     },
     "hoca": {
       "name": "hoca",
@@ -4067,7 +4103,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T17:27:38.147304"
+      "extracted_at": "2026-02-06T19:07:22.980666"
     },
     "Caster": {
       "name": "Caster",
@@ -4076,7 +4112,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T17:27:41.145250"
+      "extracted_at": "2026-02-06T19:07:25.991594"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4085,7 +4121,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T17:27:43.406885"
+      "extracted_at": "2026-02-06T19:07:28.172749"
     }
   },
   "player_urls": {

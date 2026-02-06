@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T19:49:42.771316",
-  "total_events": 238,
+  "last_updated": "2026-02-06T20:28:30.614310",
+  "total_events": 241,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4146,6 +4146,88 @@
         }
       ],
       "raw_line": "09-02-2026 (20:45) Serie A : AS Roma - Cagliari  (CH45fr) (CH138it) (CH98es) (CH124de) (CH126gb) (CH149gr)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "21:00",
+      "datetime": "09-02-2026 21:00",
+      "league": "Laliga",
+      "teams": "Villarreal - Espanyol",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-02-2026 (21:00) Laliga : Villarreal - Espanyol  (CH7fr) (CH51es) (CH123de) (CH71es) (CH94es)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "21:00",
+      "datetime": "09-02-2026 21:00",
+      "league": "Torneo LPF",
+      "teams": "Barracas Central - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-02-2026 (21:00) Torneo LPF : Barracas Central - Gimnasia L.P.  (CH75es)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "21:01",
+      "datetime": "09-02-2026 21:01",
+      "league": "Championship",
+      "teams": "Sheffield Utd - Middlesbrough",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "128",
+          "lang": "gb"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-02-2026 (21:01) Championship : Sheffield Utd - Middlesbrough  (CH6fr) (CH127gb) (CH128gb) (CH79es) (CH91es) (CH98es) (CH99es)"
     }
   ],
   "player_streams": {
@@ -4156,7 +4238,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:49:31.685292"
+      "extracted_at": "2026-02-06T20:28:22.016592"
     },
     "hoca": {
       "name": "hoca",
@@ -4165,7 +4247,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:49:35.403028"
+      "extracted_at": "2026-02-06T20:28:24.483176"
     },
     "Caster": {
       "name": "Caster",
@@ -4174,7 +4256,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:49:38.822947"
+      "extracted_at": "2026-02-06T20:28:27.392419"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4183,7 +4265,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T19:49:41.771150"
+      "extracted_at": "2026-02-06T20:28:29.614144"
     }
   },
   "player_urls": {

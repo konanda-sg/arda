@@ -1,73 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T05:22:18.512103",
-  "total_events": 4,
+  "last_updated": "2026-02-06T06:11:56.915945",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "06-02-2026",
-      "time": "04:00",
-      "datetime": "06-02-2026 04:00",
-      "league": "Liga Mx Women",
-      "teams": "Tigres UANL W - Cruz Azul W",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (04:00) Liga Mx Women : Tigres UANL W - Cruz Azul W  (CH70es)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "04:00",
-      "datetime": "06-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-02-2026 (04:00) NBA : Los Angeles Lakers - Philadelphia 76ers  (CH186us)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "04:00",
-      "datetime": "06-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Phoenix Suns - Golden State Warriors",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-02-2026 (04:00) NBA : Phoenix Suns - Golden State Warriors  (CH187us)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "04:00",
-      "datetime": "06-02-2026 04:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-02-2026 (04:00) NHL : Vegas Golden Knights - Los Angeles Kings  (CH5fr) (CH194us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -76,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T05:22:08.465583"
+      "extracted_at": "2026-02-06T06:11:47.911986"
     },
     "hoca": {
       "name": "hoca",
@@ -85,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T05:22:10.699712"
+      "extracted_at": "2026-02-06T06:11:50.158410"
     },
     "Caster": {
       "name": "Caster",
@@ -94,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T05:22:14.206893"
+      "extracted_at": "2026-02-06T06:11:53.079496"
     },
     "WIGI": {
       "name": "WIGI",
@@ -103,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T05:22:17.511864"
+      "extracted_at": "2026-02-06T06:11:55.915806"
     }
   },
   "player_urls": {

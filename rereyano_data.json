@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T16:42:55.745896",
-  "total_events": 231,
+  "last_updated": "2026-02-06T17:27:44.407031",
+  "total_events": 233,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -3996,6 +3996,58 @@
         }
       ],
       "raw_line": "09-02-2026 (15:00) Super Lig : Kayserispor - Kocaelispor  (CH151tr)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "18:00",
+      "datetime": "09-02-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Fenerbahce - Genclerbirligi",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-02-2026 (18:00) Super Lig : Fenerbahce - Genclerbirligi  (CH2fr) (CH151tr) (CH145pt) (CH69es) (CH79es) (CH91es) (CH98es)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "18:00",
+      "datetime": "09-02-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Gaziantep - Kasimpasa",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "09-02-2026 (18:00) Super Lig : Gaziantep - Kasimpasa  (CH152tr)"
     }
   ],
   "player_streams": {
@@ -4006,16 +4058,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T16:42:45.512811"
+      "extracted_at": "2026-02-06T17:27:35.223417"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
+      "iframe_url": "https://toneassertive.net/embed/zj52139k3",
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T16:42:47.957471"
+      "extracted_at": "2026-02-06T17:27:38.147304"
     },
     "Caster": {
       "name": "Caster",
@@ -4024,7 +4076,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T16:42:51.422512"
+      "extracted_at": "2026-02-06T17:27:41.145250"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4033,7 +4085,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T16:42:54.745749"
+      "extracted_at": "2026-02-06T17:27:43.406885"
     }
   },
   "player_urls": {

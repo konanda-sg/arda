@@ -1,106 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T20:28:30.614310",
-  "total_events": 241,
+  "last_updated": "2026-02-06T20:59:39.657545",
+  "total_events": 238,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-02-2026",
-      "time": "18:30",
-      "datetime": "06-02-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "06-02-2026 (18:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "18:30",
-      "datetime": "06-02-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "Greuther Furth - Magdeburg",
-      "channels": [
-        {
-          "id": "113",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "06-02-2026 (18:30) Bundesliga 2 : Greuther Furth - Magdeburg  (CH113de)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "18:30",
-      "datetime": "06-02-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "Preussen Munster - Bochum",
-      "channels": [
-        {
-          "id": "114",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "06-02-2026 (18:30) Bundesliga 2 : Preussen Munster - Bochum  (CH114de)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "18:30",
-      "datetime": "06-02-2026 18:30",
-      "league": "EuroLeague",
-      "teams": "Anadolu Efes - Zalgiris Kaunas",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (18:30) EuroLeague : Anadolu Efes - Zalgiris Kaunas  (CH64es)"
-    },
-    {
-      "date": "06-02-2026",
-      "time": "18:30",
-      "datetime": "06-02-2026 18:30",
-      "league": "Saudi Pro League",
-      "teams": "Al Nassr - Al Ittihad",
-      "channels": [
-        {
-          "id": "47",
-          "lang": "fr"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "148",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "06-02-2026 (18:30) Saudi Pro League : Al Nassr - Al Ittihad  (CH47fr) (CH55es) (CH70es) (CH124de) (CH125de) (CH144pt) (CH148gr)"
-    },
     {
       "date": "06-02-2026",
       "time": "19:30",
@@ -4228,6 +4134,42 @@
         }
       ],
       "raw_line": "09-02-2026 (21:01) Championship : Sheffield Utd - Middlesbrough  (CH6fr) (CH127gb) (CH128gb) (CH79es) (CH91es) (CH98es) (CH99es)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "21:30",
+      "datetime": "09-02-2026 21:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "FC Cajamarca - Deportivo Garcilaso",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-02-2026 (21:30) Liga 1 Te Apuesto : FC Cajamarca - Deportivo Garcilaso  (CH84es)"
+    },
+    {
+      "date": "09-02-2026",
+      "time": "21:45",
+      "datetime": "09-02-2026 21:45",
+      "league": "Liga Portugal",
+      "teams": "FC Porto - Sporting CP",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "09-02-2026 (21:45) Liga Portugal : FC Porto - Sporting CP  (CH2fr) (CH125de) (CH144pt)"
     }
   ],
   "player_streams": {
@@ -4238,7 +4180,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T20:28:22.016592"
+      "extracted_at": "2026-02-06T20:59:29.901651"
     },
     "hoca": {
       "name": "hoca",
@@ -4247,7 +4189,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T20:28:24.483176"
+      "extracted_at": "2026-02-06T20:59:33.003148"
     },
     "Caster": {
       "name": "Caster",
@@ -4256,7 +4198,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T20:28:27.392419"
+      "extracted_at": "2026-02-06T20:59:36.018188"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4265,7 +4207,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T20:28:29.614144"
+      "extracted_at": "2026-02-06T20:59:38.657404"
     }
   },
   "player_urls": {

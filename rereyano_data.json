@@ -1,96 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-07T01:29:41.473540",
-  "total_events": 226,
+  "last_updated": "2026-02-07T03:42:47.038563",
+  "total_events": 224,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-02-2026",
-      "time": "00:00",
-      "datetime": "07-02-2026 00:00",
-      "league": "Campeonato Itaú Chile",
-      "teams": "A. Italiano - U. De Concepcion",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (00:00) Campeonato Itaú Chile : A. Italiano - U. De Concepcion  (CH83es)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "00:20",
-      "datetime": "07-02-2026 00:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Dep. Pasto - Bucaramanga",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (00:20) Liga Betplay Dimayor : Dep. Pasto - Bucaramanga  (CH81es)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "01:00",
-      "datetime": "07-02-2026 01:00",
-      "league": "Torneo LPF",
-      "teams": "Central Cordoba - Union de Santa Fe",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (01:00) Torneo LPF : Central Cordoba - Union de Santa Fe  (CH75es)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "01:30",
-      "datetime": "07-02-2026 01:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Wanderers - Defensor Sp.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (01:30) Liga AUF Uruguaya : Wanderers - Defensor Sp.  (CH109es)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "01:30",
-      "datetime": "07-02-2026 01:30",
-      "league": "NBA",
-      "teams": "Boston Celtics - Miami Heat",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-02-2026 (01:30) NBA : Boston Celtics - Miami Heat  (CH180us)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "01:30",
-      "datetime": "07-02-2026 01:30",
-      "league": "NBA",
-      "teams": "Detroit Pistons - New York Knicks",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-02-2026 (01:30) NBA : Detroit Pistons - New York Knicks  (CH181us)"
-    },
     {
       "date": "07-02-2026",
       "time": "02:00",
@@ -3926,6 +3842,66 @@
         }
       ],
       "raw_line": "10-02-2026 (02:00) NBA : New Orleans Pelicans - Sacramento Kings  (CH185us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "03:00",
+      "datetime": "10-02-2026 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (03:00) NBA : Denver Nuggets - Cleveland Cavaliers  (CH186us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "04:00",
+      "datetime": "10-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (04:00) NBA : Golden State Warriors - Memphis Grizzlies  (CH187us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "04:00",
+      "datetime": "10-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (04:00) NBA : Los Angeles Lakers - Oklahoma City Thunder  (CH1fr) (CH188us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "04:00",
+      "datetime": "10-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (04:00) NBA : Portland Trail Blazers - Philadelphia 76ers  (CH189us)"
     }
   ],
   "player_streams": {
@@ -3936,7 +3912,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T01:29:32.266779"
+      "extracted_at": "2026-02-07T03:42:37.364116"
     },
     "hoca": {
       "name": "hoca",
@@ -3945,7 +3921,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T01:29:35.261732"
+      "extracted_at": "2026-02-07T03:42:40.729376"
     },
     "Caster": {
       "name": "Caster",
@@ -3954,7 +3930,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T01:29:37.941335"
+      "extracted_at": "2026-02-07T03:42:43.812261"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3963,7 +3939,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T01:29:40.473395"
+      "extracted_at": "2026-02-07T03:42:46.038440"
     }
   },
   "player_urls": {

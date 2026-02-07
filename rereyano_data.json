@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-07T22:21:15.043706",
-  "total_events": 151,
+  "last_updated": "2026-02-07T22:53:14.006452",
+  "total_events": 148,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-02-2026",
-      "time": "20:30",
-      "datetime": "07-02-2026 20:30",
-      "league": "Bundesliga 2",
-      "teams": "Darmstadt - Kaiserslautern",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "07-02-2026 (20:30) Bundesliga 2 : Darmstadt - Kaiserslautern  (CH7fr) (CH112de)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "20:45",
-      "datetime": "07-02-2026 20:45",
-      "league": "Pro League",
-      "teams": "Gent - Leuven",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-02-2026 (20:45) Pro League : Gent - Leuven  (CH153fr)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "20:45",
-      "datetime": "07-02-2026 20:45",
-      "league": "Serie A",
-      "teams": "Fiorentina - Torino",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "07-02-2026 (20:45) Serie A : Fiorentina - Torino  (CH138it) (CH70es) (CH90es) (CH98es) (CH149gr)"
-    },
     {
       "date": "07-02-2026",
       "time": "21:00",
@@ -2646,7 +2584,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T22:21:05.259072"
+      "extracted_at": "2026-02-07T22:53:04.655538"
     },
     "hoca": {
       "name": "hoca",
@@ -2655,7 +2593,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T22:21:08.309899"
+      "extracted_at": "2026-02-07T22:53:07.547597"
     },
     "Caster": {
       "name": "Caster",
@@ -2664,7 +2602,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T22:21:11.021017"
+      "extracted_at": "2026-02-07T22:53:10.323384"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2673,7 +2611,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T22:21:14.043534"
+      "extracted_at": "2026-02-07T22:53:13.006300"
     }
   },
   "player_urls": {

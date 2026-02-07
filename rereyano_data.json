@@ -1,82 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-07T05:44:17.258621",
-  "total_events": 218,
+  "last_updated": "2026-02-07T06:24:01.306068",
+  "total_events": 213,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-02-2026",
-      "time": "04:00",
-      "datetime": "07-02-2026 04:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Zacatecas Mineros - Atl. Morelia",
-      "channels": [
-        {
-          "id": "105",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (04:00) Liga De Expansion Mx : Zacatecas Mineros - Atl. Morelia  (CH105es)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "04:00",
-      "datetime": "07-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-02-2026 (04:00) NBA : Portland Trail Blazers - Memphis Grizzlies  (CH184us)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "04:00",
-      "datetime": "07-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Los Angeles Clippers",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-02-2026 (04:00) NBA : Sacramento Kings - Los Angeles Clippers  (CH185us)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "04:06",
-      "datetime": "07-02-2026 04:06",
-      "league": "Liga Mx",
-      "teams": "Club Tijuana - Puebla",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (04:06) Liga Mx : Club Tijuana - Puebla  (CH68es)"
-    },
-    {
-      "date": "07-02-2026",
-      "time": "04:06",
-      "datetime": "07-02-2026 04:06",
-      "league": "Liga Mx",
-      "teams": "Mazatlan FC - Guadalajara Chivas",
-      "channels": [
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-02-2026 (04:06) Liga Mx : Mazatlan FC - Guadalajara Chivas  (CH108es)"
-    },
     {
       "date": "07-02-2026",
       "time": "12:30",
@@ -3816,18 +3746,20 @@
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://rereyano.ru/player/1/1",
-      "iframe_url": null,
+      "iframe_url": "https://dishtrainer.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-02-07T05:43:22.897488"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-02-07T06:23:51.774898"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": null,
+      "iframe_url": "https://toneassertive.net/embed/zj52139k3",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-02-07T05:43:53.958982"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-02-07T06:23:54.737112"
     },
     "Caster": {
       "name": "Caster",
@@ -3836,7 +3768,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T05:43:56.949904"
+      "extracted_at": "2026-02-07T06:23:57.435654"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3845,7 +3777,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-07T05:44:16.258476"
+      "extracted_at": "2026-02-07T06:24:00.305929"
     }
   },
   "player_urls": {

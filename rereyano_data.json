@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-06T23:48:08.901248",
-  "total_events": 219,
+  "last_updated": "2026-02-07T01:29:41.473540",
+  "total_events": 226,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-02-2026",
-      "time": "23:00",
-      "datetime": "06-02-2026 23:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Albion - Liverpool M.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-02-2026 (23:00) Liga AUF Uruguaya : Albion - Liverpool M.  (CH109es)"
-    },
     {
       "date": "07-02-2026",
       "time": "00:00",
@@ -3824,6 +3810,122 @@
         }
       ],
       "raw_line": "10-02-2026 (00:00) Liga AUF Uruguaya : CA Cerro - Danubio  (CH109es)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "01:00",
+      "datetime": "10-02-2026 01:00",
+      "league": "Liga Mx Women",
+      "teams": "Tigres UANL W - Juarez W",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-02-2026 (01:00) Liga Mx Women : Tigres UANL W - Juarez W  (CH70es)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "01:00",
+      "datetime": "10-02-2026 01:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Detroit Pistons",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (01:00) NBA : Charlotte Hornets - Detroit Pistons  (CH180us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "01:30",
+      "datetime": "10-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Chicago Bulls",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (01:30) NBA : Brooklyn Nets - Chicago Bulls  (CH181us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "01:30",
+      "datetime": "10-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Miami Heat - Utah Jazz",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (01:30) NBA : Miami Heat - Utah Jazz  (CH182us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "01:30",
+      "datetime": "10-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Orlando Magic - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (01:30) NBA : Orlando Magic - Milwaukee Bucks  (CH1fr) (CH183us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "01:30",
+      "datetime": "10-02-2026 01:30",
+      "league": "Torneo LPF",
+      "teams": "Estudiantes Rio Cuarto - Ind. Rivadavia",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-02-2026 (01:30) Torneo LPF : Estudiantes Rio Cuarto - Ind. Rivadavia  (CH76es)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "02:00",
+      "datetime": "10-02-2026 02:00",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (02:00) NBA : Minnesota Timberwolves - Atlanta Hawks  (CH184us)"
+    },
+    {
+      "date": "10-02-2026",
+      "time": "02:00",
+      "datetime": "10-02-2026 02:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Sacramento Kings",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-02-2026 (02:00) NBA : New Orleans Pelicans - Sacramento Kings  (CH185us)"
     }
   ],
   "player_streams": {
@@ -3834,7 +3936,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T23:47:59.262246"
+      "extracted_at": "2026-02-07T01:29:32.266779"
     },
     "hoca": {
       "name": "hoca",
@@ -3843,7 +3945,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T23:48:02.136765"
+      "extracted_at": "2026-02-07T01:29:35.261732"
     },
     "Caster": {
       "name": "Caster",
@@ -3852,7 +3954,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T23:48:05.029887"
+      "extracted_at": "2026-02-07T01:29:37.941335"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3861,7 +3963,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-06T23:48:07.901101"
+      "extracted_at": "2026-02-07T01:29:40.473395"
     }
   },
   "player_urls": {

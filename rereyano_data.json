@@ -1,128 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-08T19:03:29.949599",
-  "total_events": 73,
+  "last_updated": "2026-02-08T19:36:55.467286",
+  "total_events": 67,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-02-2026",
-      "time": "17:15",
-      "datetime": "08-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Multiplex Ligue 1 -",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "08-02-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
-    },
-    {
-      "date": "08-02-2026",
-      "time": "17:15",
-      "datetime": "08-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Angers - Toulouse",
-      "channels": [
-        {
-          "id": "18",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "08-02-2026 (17:15) Ligue 1 : Angers - Toulouse  (CH18fr)"
-    },
-    {
-      "date": "08-02-2026",
-      "time": "17:15",
-      "datetime": "08-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Auxerre - Paris FC",
-      "channels": [
-        {
-          "id": "22",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-02-2026 (17:15) Ligue 1 : Auxerre - Paris FC  (CH22fr) (CH69es)"
-    },
-    {
-      "date": "08-02-2026",
-      "time": "17:15",
-      "datetime": "08-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Le Havre - Strasbourg",
-      "channels": [
-        {
-          "id": "21",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "08-02-2026 (17:15) Ligue 1 : Le Havre - Strasbourg  (CH21fr)"
-    },
-    {
-      "date": "08-02-2026",
-      "time": "17:30",
-      "datetime": "08-02-2026 17:30",
-      "league": "Bundesliga",
-      "teams": "Bayern Munich - Hoffenheim",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-02-2026 (17:30) Bundesliga : Bayern Munich - Hoffenheim  (CH1fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "08-02-2026",
-      "time": "17:30",
-      "datetime": "08-02-2026 17:30",
-      "league": "Premier League",
-      "teams": "Liverpool - Manchester City",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-02-2026 (17:30) Premier League : Liverpool - Manchester City  (CH11fr) (CH127gb) (CH120de) (CH56es) (CH61es) (CH87es)"
-    },
     {
       "date": "08-02-2026",
       "time": "18:00",
@@ -1318,7 +1202,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T19:03:22.429631"
+      "extracted_at": "2026-02-08T19:36:35.644237"
     },
     "hoca": {
       "name": "hoca",
@@ -1327,7 +1211,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T19:03:24.708948"
+      "extracted_at": "2026-02-08T19:36:45.034132"
     },
     "Caster": {
       "name": "Caster",
@@ -1336,7 +1220,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T19:03:26.675358"
+      "extracted_at": "2026-02-08T19:36:50.989166"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1345,7 +1229,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T19:03:28.949452"
+      "extracted_at": "2026-02-08T19:36:54.467141"
     }
   },
   "player_urls": {

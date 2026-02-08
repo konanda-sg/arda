@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-08T23:26:42.332502",
-  "total_events": 42,
+  "last_updated": "2026-02-08T23:53:34.427331",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-02-2026",
-      "time": "21:30",
-      "datetime": "08-02-2026 21:30",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Cienciano - Juan Pablo II",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-02-2026 (21:30) Liga 1 Te Apuesto : Cienciano - Juan Pablo II  (CH84es)"
-    },
-    {
-      "date": "08-02-2026",
-      "time": "21:30",
-      "datetime": "08-02-2026 21:30",
-      "league": "Liga Portugal",
-      "teams": "Benfica - Alverca",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        },
-        {
-          "id": "147",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "08-02-2026 (21:30) Liga Portugal : Benfica - Alverca  (CH2fr) (CH125de) (CH147pt)"
-    },
     {
       "date": "08-02-2026",
       "time": "22:00",
@@ -728,7 +692,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T23:26:34.002243"
+      "extracted_at": "2026-02-08T23:53:23.710791"
     },
     "hoca": {
       "name": "hoca",
@@ -737,7 +701,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T23:26:36.505123"
+      "extracted_at": "2026-02-08T23:53:27.232912"
     },
     "Caster": {
       "name": "Caster",
@@ -746,7 +710,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T23:26:39.062297"
+      "extracted_at": "2026-02-08T23:53:30.788185"
     },
     "WIGI": {
       "name": "WIGI",
@@ -755,7 +719,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-08T23:26:41.332347"
+      "extracted_at": "2026-02-08T23:53:33.427166"
     }
   },
   "player_urls": {

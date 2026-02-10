@@ -1,104 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-10T22:49:52.841270",
-  "total_events": 16,
+  "last_updated": "2026-02-10T23:34:40.805593",
+  "total_events": 12,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "10-02-2026",
-      "time": "21:00",
-      "datetime": "10-02-2026 21:00",
-      "league": "Championship",
-      "teams": "Birmingham - West Brom",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "10-02-2026 (21:00) Championship : Birmingham - West Brom  (CH7fr) (CH127gb)"
-    },
-    {
-      "date": "10-02-2026",
-      "time": "21:00",
-      "datetime": "10-02-2026 21:00",
-      "league": "Coppa Italia",
-      "teams": "Napoli - Como",
-      "channels": [
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "10-02-2026 (21:00) Coppa Italia : Napoli - Como  (CH139it) (CH82es) (CH94es) (CH145pt)"
-    },
-    {
-      "date": "10-02-2026",
-      "time": "21:00",
-      "datetime": "10-02-2026 21:00",
-      "league": "Premiership",
-      "teams": "Hearts - Hibernian",
-      "channels": [
-        {
-          "id": "134",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "10-02-2026 (21:00) Premiership : Hearts - Hibernian  (CH134gb)"
-    },
-    {
-      "date": "10-02-2026",
-      "time": "21:15",
-      "datetime": "10-02-2026 21:15",
-      "league": "Premier League",
-      "teams": "West Ham - Manchester Utd",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "113",
-          "lang": "de"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "10-02-2026 (21:15) Premier League : West Ham - Manchester Utd  (CH12fr) (CH126gb) (CH113de) (CH61es) (CH56es) (CH150gr)"
-    },
     {
       "date": "10-02-2026",
       "time": "22:00",
@@ -280,7 +188,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T22:49:43.257504"
+      "extracted_at": "2026-02-10T23:34:31.995030"
     },
     "hoca": {
       "name": "hoca",
@@ -289,7 +197,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T22:49:46.153865"
+      "extracted_at": "2026-02-10T23:34:34.724011"
     },
     "Caster": {
       "name": "Caster",
@@ -298,7 +206,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T22:49:48.966117"
+      "extracted_at": "2026-02-10T23:34:37.607471"
     },
     "WIGI": {
       "name": "WIGI",
@@ -307,7 +215,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T22:49:51.841112"
+      "extracted_at": "2026-02-10T23:34:39.805420"
     }
   },
   "player_urls": {

@@ -1,59 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-10T05:18:03.087055",
-  "total_events": 3,
+  "last_updated": "2026-02-10T06:42:08.426407",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-02-2026",
-      "time": "04:00",
-      "datetime": "10-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-02-2026 (04:00) NBA : Golden State Warriors - Memphis Grizzlies  (CH187us)"
-    },
-    {
-      "date": "10-02-2026",
-      "time": "04:00",
-      "datetime": "10-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-02-2026 (04:00) NBA : Los Angeles Lakers - Oklahoma City Thunder  (CH1fr) (CH188us)"
-    },
-    {
-      "date": "10-02-2026",
-      "time": "04:00",
-      "datetime": "10-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-02-2026 (04:00) NBA : Portland Trail Blazers - Philadelphia 76ers  (CH189us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -62,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T05:17:53.851961"
+      "extracted_at": "2026-02-10T06:41:59.607356"
     },
     "hoca": {
       "name": "hoca",
@@ -71,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T05:17:57.022364"
+      "extracted_at": "2026-02-10T06:42:02.695078"
     },
     "Caster": {
       "name": "Caster",
@@ -80,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T05:17:59.838635"
+      "extracted_at": "2026-02-10T06:42:05.267187"
     },
     "WIGI": {
       "name": "WIGI",
@@ -89,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-10T05:18:02.086889"
+      "extracted_at": "2026-02-10T06:42:07.426259"
     }
   },
   "player_urls": {

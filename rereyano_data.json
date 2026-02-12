@@ -1,12 +1,391 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-12T13:03:25.796388",
-  "total_events": 0,
+  "last_updated": "2026-02-12T14:16:21.991746",
+  "total_events": 23,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "12-02-2026",
+      "time": "18:30",
+      "datetime": "12-02-2026 18:30",
+      "league": "EuroLeague",
+      "teams": "Anadolu Efes - Virtus Bologna",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (18:30) EuroLeague : Anadolu Efes - Virtus Bologna  (CH67es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "18:45",
+      "datetime": "12-02-2026 18:45",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Wolfsburg W - Juventus W",
+      "channels": [
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (18:45) Ligue Des Champions Femmes : Wolfsburg W - Juventus W  (CH71es) (CH91es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "20:05",
+      "datetime": "12-02-2026 20:05",
+      "league": "EuroLeague",
+      "teams": "Maccabi Tel Aviv - Bayern",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (20:05) EuroLeague : Maccabi Tel Aviv - Bayern  (CH160es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "20:15",
+      "datetime": "12-02-2026 20:15",
+      "league": "EuroLeague",
+      "teams": "Olympiacos - Crvena zvezda",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "12-02-2026 (20:15) EuroLeague : Olympiacos - Crvena zvezda  (CH66es) (CH150gr)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "20:30",
+      "datetime": "12-02-2026 20:30",
+      "league": "Coupe De Belgique",
+      "teams": "Antwerp - Anderlecht",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "12-02-2026 (20:30) Coupe De Belgique : Antwerp - Anderlecht  (CH153fr)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "20:30",
+      "datetime": "12-02-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Barcelona - Paris",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (20:30) EuroLeague : Barcelona - Paris  (CH55es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "20:30",
+      "datetime": "12-02-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Valencia - Lyon-Villeurbanne",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (20:30) EuroLeague : Valencia - Lyon-Villeurbanne  (CH62es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "21:00",
+      "datetime": "12-02-2026 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Atl. Madrid - Barcelona",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (21:00) Coupe Du Roi : Atl. Madrid - Barcelona  (CH45fr) (CH49es) (CH60es) (CH82es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "21:00",
+      "datetime": "12-02-2026 21:00",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Atl. Madrid W - Manchester Utd W",
+      "channels": [
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (21:00) Ligue Des Champions Femmes : Atl. Madrid W - Manchester Utd W  (CH71es) (CH91es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "21:00",
+      "datetime": "12-02-2026 21:00",
+      "league": "Premier League",
+      "teams": "Brentford - Arsenal",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (21:00) Premier League : Brentford - Arsenal  (CH12fr) (CH126gb) (CH56es) (CH120de) (CH72es) (CH87es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "21:00",
+      "datetime": "12-02-2026 21:00",
+      "league": "Pro D2",
+      "teams": "Nevers - Colomiers",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "12-02-2026 (21:00) Pro D2 : Nevers - Colomiers  (CH13fr)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "22:10",
+      "datetime": "12-02-2026 22:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Chico - Jaguares de Cordoba",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (22:10) Liga Betplay Dimayor : Chico - Jaguares de Cordoba  (CH81es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "23:00",
+      "datetime": "12-02-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Athletico-PR - Santos",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "12-02-2026 (23:00) Serie A Bresil : Athletico-PR - Santos  (CH125de)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "23:00",
+      "datetime": "12-02-2026 23:00",
+      "league": "Torneo LPF",
+      "teams": "Tigre - Aldosivi",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (23:00) Torneo LPF : Tigre - Aldosivi  (CH76es)"
+    },
+    {
+      "date": "12-02-2026",
+      "time": "23:30",
+      "datetime": "12-02-2026 23:30",
+      "league": "Serie A Bresil",
+      "teams": "Fluminense - Botafogo RJ",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-02-2026 (23:30) Serie A Bresil : Fluminense - Botafogo RJ  (CH55es) (CH61es)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "00:00",
+      "datetime": "13-02-2026 00:00",
+      "league": "Serie A Bresil",
+      "teams": "Corinthians - Bragantino",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-02-2026 (00:00) Serie A Bresil : Corinthians - Bragantino  (CH84es)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "00:20",
+      "datetime": "13-02-2026 00:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Once Caldas - Junior",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-02-2026 (00:20) Liga Betplay Dimayor : Once Caldas - Junior  (CH81es)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "01:15",
+      "datetime": "13-02-2026 01:15",
+      "league": "Torneo LPF",
+      "teams": "Argentinos Jrs - River Plate",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "13-02-2026 (01:15) Torneo LPF : Argentinos Jrs - River Plate  (CH75es) (CH88es) (CH145pt)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "01:30",
+      "datetime": "13-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-02-2026 (01:30) NBA : Oklahoma City Thunder - Milwaukee Bucks  (CH180us)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "02:00",
+      "datetime": "13-02-2026 02:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Cruz Azul - Vancouver FC",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-02-2026 (02:00) Concacaf Champions Cup : Cruz Azul - Vancouver FC  (CH68es)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "02:30",
+      "datetime": "13-02-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Atl. Nacional - Fortaleza",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-02-2026 (02:30) Liga Betplay Dimayor : Atl. Nacional - Fortaleza  (CH81es)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "03:00",
+      "datetime": "13-02-2026 03:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-02-2026 (03:00) NBA : Utah Jazz - Portland Trail Blazers  (CH181us)"
+    },
+    {
+      "date": "13-02-2026",
+      "time": "04:00",
+      "datetime": "13-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-02-2026 (04:00) NBA : Los Angeles Lakers - Dallas Mavericks  (CH182us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -15,7 +394,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T13:03:15.313419"
+      "extracted_at": "2026-02-12T14:16:12.870302"
     },
     "hoca": {
       "name": "hoca",
@@ -24,7 +403,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T13:03:19.143459"
+      "extracted_at": "2026-02-12T14:16:15.856362"
     },
     "Caster": {
       "name": "Caster",
@@ -33,7 +412,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T13:03:22.193611"
+      "extracted_at": "2026-02-12T14:16:18.688428"
     },
     "WIGI": {
       "name": "WIGI",
@@ -42,7 +421,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T13:03:24.796176"
+      "extracted_at": "2026-02-12T14:16:20.991610"
     }
   },
   "player_urls": {

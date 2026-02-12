@@ -1,53 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-12T05:51:33.768075",
-  "total_events": 2,
+  "last_updated": "2026-02-12T06:56:28.296589",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "12-02-2026",
-      "time": "04:00",
-      "datetime": "12-02-2026 04:00",
-      "league": "Concacaf Champions Cup",
-      "teams": "Monterrey - Xelaju",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-02-2026 (04:00) Concacaf Champions Cup : Monterrey - Xelaju  (CH68es)"
-    },
-    {
-      "date": "12-02-2026",
-      "time": "04:00",
-      "datetime": "12-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Golden State Warriors - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "193",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-02-2026 (04:00) NBA : Golden State Warriors - San Antonio Spurs  (CH1fr) (CH193us) (CH156es) (CH88es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -56,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T05:51:24.207060"
+      "extracted_at": "2026-02-12T06:56:18.039152"
     },
     "hoca": {
       "name": "hoca",
@@ -65,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T05:51:27.226344"
+      "extracted_at": "2026-02-12T06:56:21.519058"
     },
     "Caster": {
       "name": "Caster",
@@ -74,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T05:51:30.151254"
+      "extracted_at": "2026-02-12T06:56:24.062256"
     },
     "WIGI": {
       "name": "WIGI",
@@ -83,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-12T05:51:32.767930"
+      "extracted_at": "2026-02-12T06:56:27.296442"
     }
   },
   "player_urls": {

@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-13T22:52:27.924641",
-  "total_events": 21,
+  "last_updated": "2026-02-13T23:26:56.130142",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "13-02-2026",
-      "time": "21:00",
-      "datetime": "13-02-2026 21:00",
-      "league": "Laliga",
-      "teams": "Elche - Osasuna",
-      "channels": [
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-02-2026 (21:00) Laliga : Elche - Osasuna  (CH51es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "13-02-2026",
-      "time": "21:00",
-      "datetime": "13-02-2026 21:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Cajamarca - Cusco",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-02-2026 (21:00) Liga 1 Te Apuesto : Cajamarca - Cusco  (CH84es)"
-    },
-    {
-      "date": "13-02-2026",
-      "time": "21:00",
-      "datetime": "13-02-2026 21:00",
-      "league": "Pro D2",
-      "teams": "CA Brive - Agen",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "13-02-2026 (21:00) Pro D2 : CA Brive - Agen  (CH13fr)"
-    },
-    {
-      "date": "13-02-2026",
-      "time": "21:05",
-      "datetime": "13-02-2026 21:05",
-      "league": "Ligue 1",
-      "teams": "Monaco - Nantes",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-02-2026 (21:05) Ligue 1 : Monaco - Nantes  (CH20fr) (CH69es) (CH124de)"
-    },
     {
       "date": "13-02-2026",
       "time": "21:45",
@@ -334,7 +262,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T22:52:19.083777"
+      "extracted_at": "2026-02-13T23:26:45.878076"
     },
     "hoca": {
       "name": "hoca",
@@ -343,7 +271,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T22:52:21.984063"
+      "extracted_at": "2026-02-13T23:26:49.381356"
     },
     "Caster": {
       "name": "Caster",
@@ -352,7 +280,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T22:52:24.482594"
+      "extracted_at": "2026-02-13T23:26:52.452215"
     },
     "WIGI": {
       "name": "WIGI",
@@ -361,7 +289,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T22:52:26.924487"
+      "extracted_at": "2026-02-13T23:26:55.129992"
     }
   },
   "player_urls": {

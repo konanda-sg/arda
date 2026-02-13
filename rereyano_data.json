@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-13T05:43:22.035197",
-  "total_events": 1,
+  "last_updated": "2026-02-13T06:40:49.038450",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "13-02-2026",
-      "time": "04:00",
-      "datetime": "13-02-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Dallas Mavericks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-02-2026 (04:00) NBA : Los Angeles Lakers - Dallas Mavericks  (CH182us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -30,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T05:43:12.753996"
+      "extracted_at": "2026-02-13T06:40:40.309565"
     },
     "hoca": {
       "name": "hoca",
@@ -39,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T05:43:15.691204"
+      "extracted_at": "2026-02-13T06:40:43.333121"
     },
     "Caster": {
       "name": "Caster",
@@ -48,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T05:43:18.403507"
+      "extracted_at": "2026-02-13T06:40:45.676202"
     },
     "WIGI": {
       "name": "WIGI",
@@ -57,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-13T05:43:21.035021"
+      "extracted_at": "2026-02-13T06:40:48.038302"
     }
   },
   "player_urls": {

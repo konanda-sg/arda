@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-14T11:44:33.478234",
-  "total_events": 184,
+  "last_updated": "2026-02-14T11:57:09.716448",
+  "total_events": 185,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -43,19 +43,11 @@
       "teams": "Braunschweig - Darmstadt",
       "channels": [
         {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
           "id": "115",
           "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Braunschweig - Darmstadt  (CH87es) (CH112de) (CH115de)"
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Braunschweig - Darmstadt  (CH115de)"
     },
     {
       "date": "14-02-2026",
@@ -73,19 +65,11 @@
           "lang": "es"
         },
         {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
           "id": "113",
           "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Hertha Berlin - Hannover  (CH8fr) (CH78es) (CH87es) (CH112de) (CH113de)"
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Hertha Berlin - Hannover  (CH8fr) (CH78es) (CH113de)"
     },
     {
       "date": "14-02-2026",
@@ -95,19 +79,11 @@
       "teams": "Kaiserslautern - Greuther Furth",
       "channels": [
         {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
           "id": "114",
           "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Kaiserslautern - Greuther Furth  (CH87es) (CH112de) (CH114de)"
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Kaiserslautern - Greuther Furth  (CH114de)"
     },
     {
       "date": "14-02-2026",
@@ -284,6 +260,20 @@
       "time": "15:30",
       "datetime": "14-02-2026 15:30",
       "league": "Bundesliga",
+      "teams": "bundesliga konferenz -",
+      "channels": [
+        {
+          "id": "123",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:30) Bundesliga : bundesliga konferenz -   (CH123de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:30",
+      "datetime": "14-02-2026 15:30",
+      "league": "Bundesliga",
       "teams": "Bayer Leverkusen - St. Pauli",
       "channels": [
         {
@@ -295,11 +285,11 @@
           "lang": "de"
         },
         {
-          "id": "115",
-          "lang": "de"
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "14-02-2026 (15:30) Bundesliga : Bayer Leverkusen - St. Pauli  (CH5fr) (CH114de) (CH115de)"
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Bayer Leverkusen - St. Pauli  (CH5fr) (CH114de) (CH116es)"
     },
     {
       "date": "14-02-2026",
@@ -315,13 +305,9 @@
         {
           "id": "112",
           "lang": "de"
-        },
-        {
-          "id": "113",
-          "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (15:30) Bundesliga : Eintracht Frankfurt - B. Monchengladbach  (CH6fr) (CH112de) (CH113de)"
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Eintracht Frankfurt - B. Monchengladbach  (CH6fr) (CH112de)"
     },
     {
       "date": "14-02-2026",
@@ -333,13 +319,9 @@
         {
           "id": "113",
           "lang": "de"
-        },
-        {
-          "id": "114",
-          "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (15:30) Bundesliga : Hamburger SV - Union Berlin  (CH113de) (CH114de)"
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Hamburger SV - Union Berlin  (CH113de)"
     },
     {
       "date": "14-02-2026",
@@ -353,15 +335,11 @@
           "lang": "fr"
         },
         {
-          "id": "112",
-          "lang": "de"
-        },
-        {
           "id": "115",
           "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (15:30) Bundesliga : Hoffenheim - Freiburg  (CH7fr) (CH112de) (CH115de)"
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Hoffenheim - Freiburg  (CH7fr) (CH115de)"
     },
     {
       "date": "14-02-2026",
@@ -865,11 +843,11 @@
           "lang": "de"
         },
         {
-          "id": "128",
-          "lang": "gb"
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "14-02-2026 (18:30) Bundesliga : Stuttgart - FC Koln  (CH2fr) (CH88es) (CH111de) (CH128gb)"
+      "raw_line": "14-02-2026 (18:30) Bundesliga : Stuttgart - FC Koln  (CH2fr) (CH88es) (CH111de) (CH116es)"
     },
     {
       "date": "14-02-2026",
@@ -1127,15 +1105,11 @@
       "teams": "SG Dynamo Dresden - Elversberg",
       "channels": [
         {
-          "id": "87",
-          "lang": "es"
-        },
-        {
           "id": "112",
           "lang": "de"
         }
       ],
-      "raw_line": "14-02-2026 (20:30) Bundesliga 2 : SG Dynamo Dresden - Elversberg  (CH87es) (CH112de)"
+      "raw_line": "14-02-2026 (20:30) Bundesliga 2 : SG Dynamo Dresden - Elversberg  (CH112de)"
     },
     {
       "date": "14-02-2026",
@@ -2101,9 +2075,13 @@
         {
           "id": "124",
           "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "15-02-2026 (15:30) Bundesliga : Augsburg - Heidenheim  (CH7fr) (CH124de)"
+      "raw_line": "15-02-2026 (15:30) Bundesliga : Augsburg - Heidenheim  (CH7fr) (CH124de) (CH116es)"
     },
     {
       "date": "15-02-2026",
@@ -2329,9 +2307,17 @@
         {
           "id": "91",
           "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
         }
       ],
-      "raw_line": "15-02-2026 (17:30) Bundesliga : RB Leipzig - Wolfsburg  (CH5fr) (CH61es) (CH91es)"
+      "raw_line": "15-02-2026 (17:30) Bundesliga : RB Leipzig - Wolfsburg  (CH5fr) (CH61es) (CH91es) (CH123de) (CH116es)"
     },
     {
       "date": "15-02-2026",
@@ -3280,7 +3266,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:44:24.032615"
+      "extracted_at": "2026-02-14T11:56:59.034298"
     },
     "hoca": {
       "name": "hoca",
@@ -3289,7 +3275,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:44:27.005142"
+      "extracted_at": "2026-02-14T11:57:02.454809"
     },
     "Caster": {
       "name": "Caster",
@@ -3298,7 +3284,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:44:29.761733"
+      "extracted_at": "2026-02-14T11:57:05.279380"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3307,7 +3293,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:44:32.478082"
+      "extracted_at": "2026-02-14T11:57:08.716299"
     }
   },
   "player_urls": {

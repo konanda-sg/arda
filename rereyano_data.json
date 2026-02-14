@@ -1,12 +1,3277 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-14T11:19:30.830178",
-  "total_events": 0,
+  "last_updated": "2026-02-14T11:44:33.478234",
+  "total_events": 184,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "14-02-2026",
+      "time": "12:30",
+      "datetime": "14-02-2026 12:30",
+      "league": "Super Lig",
+      "teams": "Genclerbirligi - Rizespor",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "14-02-2026 (12:30) Super Lig : Genclerbirligi - Rizespor  (CH152tr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "13:00",
+      "datetime": "14-02-2026 13:00",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "13:00",
+      "datetime": "14-02-2026 13:00",
+      "league": "Bundesliga 2",
+      "teams": "Braunschweig - Darmstadt",
+      "channels": [
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Braunschweig - Darmstadt  (CH87es) (CH112de) (CH115de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "13:00",
+      "datetime": "14-02-2026 13:00",
+      "league": "Bundesliga 2",
+      "teams": "Hertha Berlin - Hannover",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Hertha Berlin - Hannover  (CH8fr) (CH78es) (CH87es) (CH112de) (CH113de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "13:00",
+      "datetime": "14-02-2026 13:00",
+      "league": "Bundesliga 2",
+      "teams": "Kaiserslautern - Greuther Furth",
+      "channels": [
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (13:00) Bundesliga 2 : Kaiserslautern - Greuther Furth  (CH87es) (CH112de) (CH114de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "13:15",
+      "datetime": "14-02-2026 13:15",
+      "league": "Fa Cup",
+      "teams": "Burton - West Ham",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-02-2026 (13:15) Fa Cup : Burton - West Ham  (CH10fr) (CH126gb) (CH129us) (CH124de) (CH145pt) (CH148gr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "14:00",
+      "datetime": "14-02-2026 14:00",
+      "league": "Laliga",
+      "teams": "Espanyol - Celta Vigo",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (14:00) Laliga : Espanyol - Celta Vigo  (CH9fr) (CH49es) (CH71es) (CH88es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "14:00",
+      "datetime": "14-02-2026 14:00",
+      "league": "Laliga 2",
+      "teams": "Cordoba - Leganes",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (14:00) Laliga 2 : Cordoba - Leganes  (CH53es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "14:00",
+      "datetime": "14-02-2026 14:00",
+      "league": "Ligue 2",
+      "teams": "Grenoble - Reims",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (14:00) Ligue 2 : Grenoble - Reims  (CH2fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "14:00",
+      "datetime": "14-02-2026 14:00",
+      "league": "Ligue 2",
+      "teams": "Montpellier - Le Mans",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (14:00) Ligue 2 : Montpellier - Le Mans  (CH1fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "14:30",
+      "datetime": "14-02-2026 14:30",
+      "league": "Top 14",
+      "teams": "Bordeaux Begles - Castres Olympique",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (14:30) Top 14 : Bordeaux Begles - Castres Olympique  (CH11fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:00",
+      "datetime": "14-02-2026 15:00",
+      "league": "Serie A",
+      "teams": "Como - Fiorentina",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:00) Serie A : Como - Fiorentina  (CH137it) (CH70es) (CH97es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:00",
+      "datetime": "14-02-2026 15:00",
+      "league": "Super Lig",
+      "teams": "Alanyaspor - Konyaspor",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:00) Super Lig : Alanyaspor - Konyaspor  (CH152tr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:10",
+      "datetime": "14-02-2026 15:10",
+      "league": "Tournoi des Six Nations",
+      "teams": "Ireland - Italy",
+      "channels": [
+        {
+          "id": "24",
+          "lang": "fr"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:10) Tournoi des Six Nations : Ireland - Italy  (CH24fr) (CH55es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:30",
+      "datetime": "14-02-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Bayer Leverkusen - St. Pauli",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Bayer Leverkusen - St. Pauli  (CH5fr) (CH114de) (CH115de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:30",
+      "datetime": "14-02-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Eintracht Frankfurt - B. Monchengladbach",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Eintracht Frankfurt - B. Monchengladbach  (CH6fr) (CH112de) (CH113de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:30",
+      "datetime": "14-02-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Hamburger SV - Union Berlin",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Hamburger SV - Union Berlin  (CH113de) (CH114de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:30",
+      "datetime": "14-02-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Hoffenheim - Freiburg",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Hoffenheim - Freiburg  (CH7fr) (CH112de) (CH115de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "15:30",
+      "datetime": "14-02-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Werder Bremen - Bayern Munich",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (15:30) Bundesliga : Werder Bremen - Bayern Munich  (CH4fr) (CH87es) (CH111de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Betfred Super League",
+      "teams": "Panetolikos - Asteras Tripolis",
+      "channels": [
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Betfred Super League : Panetolikos - Asteras Tripolis  (CH149gr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "La Serena - Coquimbo",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Campeonato Itaú Chile : La Serena - Coquimbo  (CH83es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Championship",
+      "teams": "Derby - Swansea",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Championship : Derby - Swansea  (CH10fr) (CH148gr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Championship",
+      "teams": "Portsmouth - Sheffield Utd",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Championship : Portsmouth - Sheffield Utd  (CH195us)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Championship",
+      "teams": "Preston - Watford",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Championship : Preston - Watford  (CH196us)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Championship",
+      "teams": "QPR - Blackburn",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Championship : QPR - Blackburn  (CH197us)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Championship",
+      "teams": "Sheffield Wed - Millwall",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Championship : Sheffield Wed - Millwall  (CH198us)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Fa Cup",
+      "teams": "Burnley - Mansfield",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Fa Cup : Burnley - Mansfield  (CH190us)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Fa Cup",
+      "teams": "Manchester City - Salford",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "us"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "160",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Fa Cup : Manchester City - Salford  (CH8fr) (CH130us) (CH124de) (CH160es) (CH71es) (CH88es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Fa Cup",
+      "teams": "Norwich - West Brom",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Fa Cup : Norwich - West Brom  (CH191us)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Fa Cup",
+      "teams": "Southampton - Leicester",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Fa Cup : Southampton - Leicester  (CH192us) (CH161es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:00",
+      "datetime": "14-02-2026 16:00",
+      "league": "Pro League",
+      "teams": "Leuven - Dender",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:00) Pro League : Leuven - Dender  (CH153fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:15",
+      "datetime": "14-02-2026 16:15",
+      "league": "Laliga",
+      "teams": "Getafe - Villarreal",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:15) Laliga : Getafe - Villarreal  (CH2fr) (CH51es) (CH94es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:15",
+      "datetime": "14-02-2026 16:15",
+      "league": "Laliga 2",
+      "teams": "Burgos CF - Cadiz CF",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:15) Laliga 2 : Burgos CF - Cadiz CF  (CH53es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:30",
+      "datetime": "14-02-2026 16:30",
+      "league": "Eredivisie",
+      "teams": "Heracles - NAC Breda",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:30) Eredivisie : Heracles - NAC Breda  (CH142nl)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:30",
+      "datetime": "14-02-2026 16:30",
+      "league": "Liga Portugal",
+      "teams": "Casa Pia - Arouca",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:30) Liga Portugal : Casa Pia - Arouca  (CH144pt)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:35",
+      "datetime": "14-02-2026 16:35",
+      "league": "Top 14",
+      "teams": "Aviron Bayonnais - Racing 92",
+      "channels": [
+        {
+          "id": "32",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:35) Top 14 : Aviron Bayonnais - Racing 92  (CH32fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:35",
+      "datetime": "14-02-2026 16:35",
+      "league": "Top 14",
+      "teams": "Lyon - Montauban",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:35) Top 14 : Lyon - Montauban  (CH34fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:35",
+      "datetime": "14-02-2026 16:35",
+      "league": "Top 14",
+      "teams": "MultiRugby -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:35) Top 14 : MultiRugby -   (CH11fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:35",
+      "datetime": "14-02-2026 16:35",
+      "league": "Top 14",
+      "teams": "Stade Rochelais - Montpellier",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:35) Top 14 : Stade Rochelais - Montpellier  (CH35fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "16:35",
+      "datetime": "14-02-2026 16:35",
+      "league": "Top 14",
+      "teams": "USA Perpignan - Section Paloise",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (16:35) Top 14 : USA Perpignan - Section Paloise  (CH13fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "17:00",
+      "datetime": "14-02-2026 17:00",
+      "league": "Ligue 1",
+      "teams": "Marseille - Strasbourg",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (17:00) Ligue 1 : Marseille - Strasbourg  (CH1fr) (CH69es) (CH158es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "17:40",
+      "datetime": "14-02-2026 17:40",
+      "league": "Tournoi des Six Nations",
+      "teams": "Scotland - England",
+      "channels": [
+        {
+          "id": "24",
+          "lang": "fr"
+        },
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (17:40) Tournoi des Six Nations : Scotland - England  (CH24fr) (CH62es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:00",
+      "datetime": "14-02-2026 18:00",
+      "league": "Liga Endesa",
+      "teams": "Basket Zaragoza - Joventut Badalona",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:00) Liga Endesa : Basket Zaragoza - Joventut Badalona  (CH155es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:00",
+      "datetime": "14-02-2026 18:00",
+      "league": "Serie A",
+      "teams": "Lazio - Atalanta",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:00) Serie A : Lazio - Atalanta  (CH45fr) (CH137it) (CH70es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:00",
+      "datetime": "14-02-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Trabzonspor - Fenerbahce",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:00) Super Lig : Trabzonspor - Fenerbahce  (CH7fr) (CH80es) (CH97es) (CH151tr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:15",
+      "datetime": "14-02-2026 18:15",
+      "league": "Pro League",
+      "teams": "Charleroi - Gent",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:15) Pro League : Charleroi - Gent  (CH154fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:30",
+      "datetime": "14-02-2026 18:30",
+      "league": "Betfred Super League",
+      "teams": "Levadiakos - Olympiacos Piraeus",
+      "channels": [
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:30) Betfred Super League : Levadiakos - Olympiacos Piraeus  (CH150gr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:30",
+      "datetime": "14-02-2026 18:30",
+      "league": "Bundesliga",
+      "teams": "Stuttgart - FC Koln",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "128",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:30) Bundesliga : Stuttgart - FC Koln  (CH2fr) (CH88es) (CH111de) (CH128gb)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:30",
+      "datetime": "14-02-2026 18:30",
+      "league": "Laliga",
+      "teams": "Sevilla - Alaves",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:30) Laliga : Sevilla - Alaves  (CH6fr) (CH49es) (CH71es) (CH94es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:30",
+      "datetime": "14-02-2026 18:30",
+      "league": "Laliga 2",
+      "teams": "Cultural Leonesa - Zaragoza",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:30) Laliga 2 : Cultural Leonesa - Zaragoza  (CH53es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:30",
+      "datetime": "14-02-2026 18:30",
+      "league": "Saudi Pro League",
+      "teams": "Al Fateh - Al Nassr",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:30) Saudi Pro League : Al Fateh - Al Nassr  (CH55es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:45",
+      "datetime": "14-02-2026 18:45",
+      "league": "Eredivisie",
+      "teams": "Excelsior - AZ Alkmaar",
+      "channels": [
+        {
+          "id": "143",
+          "lang": "nl"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:45) Eredivisie : Excelsior - AZ Alkmaar  (CH143nl) (CH100es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "18:45",
+      "datetime": "14-02-2026 18:45",
+      "league": "Fa Cup",
+      "teams": "Aston Villa - Newcastle",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (18:45) Fa Cup : Aston Villa - Newcastle  (CH4fr) (CH129us) (CH124de) (CH145pt) (CH149gr) (CH87es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "19:00",
+      "datetime": "14-02-2026 19:00",
+      "league": "Betfred Super League",
+      "teams": "Volos - Aris",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-02-2026 (19:00) Betfred Super League : Volos - Aris  (CH148gr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "19:00",
+      "datetime": "14-02-2026 19:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Deportivo Garcilaso - AD Tarma",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (19:00) Liga 1 Te Apuesto : Deportivo Garcilaso - AD Tarma  (CH84es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "19:00",
+      "datetime": "14-02-2026 19:00",
+      "league": "Liga Endesa",
+      "teams": "Granada - Gran Canaria",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (19:00) Liga Endesa : Granada - Gran Canaria  (CH156es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "19:00",
+      "datetime": "14-02-2026 19:00",
+      "league": "Liga Portugal",
+      "teams": "Vitoria Guimaraes - Estrela",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "14-02-2026 (19:00) Liga Portugal : Vitoria Guimaraes - Estrela  (CH144pt)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "19:00",
+      "datetime": "14-02-2026 19:00",
+      "league": "Ligue 1",
+      "teams": "Lille - Brest",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (19:00) Ligue 1 : Lille - Brest  (CH20fr) (CH69es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:00",
+      "datetime": "14-02-2026 20:00",
+      "league": "Eredivisie",
+      "teams": "Ajax - Sittard",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:00) Eredivisie : Ajax - Sittard  (CH141nl) (CH98es) (CH125de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:00",
+      "datetime": "14-02-2026 20:00",
+      "league": "Liga Endesa",
+      "teams": "Tenerife - Breogan",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:00) Liga Endesa : Tenerife - Breogan  (CH157es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:00",
+      "datetime": "14-02-2026 20:00",
+      "league": "Liga Mx Women",
+      "teams": "Juarez W - UNAM Pumas W",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:00) Liga Mx Women : Juarez W - UNAM Pumas W  (CH70es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:00",
+      "datetime": "14-02-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Guingamp - St Etienne",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:00) Ligue 2 : Guingamp - St Etienne  (CH1fr) (CH152tr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:30",
+      "datetime": "14-02-2026 20:30",
+      "league": "Bundesliga 2",
+      "teams": "SG Dynamo Dresden - Elversberg",
+      "channels": [
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:30) Bundesliga 2 : SG Dynamo Dresden - Elversberg  (CH87es) (CH112de)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:45",
+      "datetime": "14-02-2026 20:45",
+      "league": "Pro League",
+      "teams": "St. Liege - Royale Union SG",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:45) Pro League : St. Liege - Royale Union SG  (CH153fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "20:45",
+      "datetime": "14-02-2026 20:45",
+      "league": "Serie A",
+      "teams": "Inter - Juventus",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (20:45) Serie A : Inter - Juventus  (CH45fr) (CH138it) (CH88es) (CH97es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Eredivisie",
+      "teams": "Groningen - Utrecht",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Eredivisie : Groningen - Utrecht  (CH142nl)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Fa Cup",
+      "teams": "Liverpool - Brighton",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Fa Cup : Liverpool - Brighton  (CH6fr) (CH126gb) (CH129us) (CH124de) (CH145pt) (CH161es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Laliga",
+      "teams": "Real Madrid - Real Sociedad",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Laliga : Real Madrid - Real Sociedad  (CH2fr) (CH49es) (CH71es) (CH87es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Laliga 2",
+      "teams": "Granada CF - Valladolid",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Laliga 2 : Granada CF - Valladolid  (CH53es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Maldonado - Progreso",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Liga AUF Uruguaya : Maldonado - Progreso  (CH109es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Liga Endesa",
+      "teams": "Murcia - San Pablo Burgos",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Liga Endesa : Murcia - San Pablo Burgos  (CH155es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:00",
+      "datetime": "14-02-2026 21:00",
+      "league": "Top 14",
+      "teams": "RC Toulonnais - Clermont",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:00) Top 14 : RC Toulonnais - Clermont  (CH11fr)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:05",
+      "datetime": "14-02-2026 21:05",
+      "league": "Ligue 1",
+      "teams": "Paris FC - Lens",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:05) Ligue 1 : Paris FC - Lens  (CH20fr) (CH69es) (CH158es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:15",
+      "datetime": "14-02-2026 21:15",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Juan Pablo II - Sporting Cristal",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:15) Liga 1 Te Apuesto : Juan Pablo II - Sporting Cristal  (CH84es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:30",
+      "datetime": "14-02-2026 21:30",
+      "league": "Liga Portugal",
+      "teams": "Gil Vicente - Braga",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:30) Liga Portugal : Gil Vicente - Braga  (CH5fr) (CH144pt)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "21:30",
+      "datetime": "14-02-2026 21:30",
+      "league": "Torneo LPF",
+      "teams": "Banfield - Racing Club",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (21:30) Torneo LPF : Banfield - Racing Club  (CH75es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "22:00",
+      "datetime": "14-02-2026 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Limache - O'Higgins",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (22:00) Campeonato Itaú Chile : Limache - O'Higgins  (CH83es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "22:30",
+      "datetime": "14-02-2026 22:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Millonarios - Llaneros",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (22:30) Liga Betplay Dimayor : Millonarios - Llaneros  (CH81es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "23:30",
+      "datetime": "14-02-2026 23:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Sport Boys - Grau",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (23:30) Liga 1 Te Apuesto : Sport Boys - Grau  (CH84es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "23:45",
+      "datetime": "14-02-2026 23:45",
+      "league": "Torneo LPF",
+      "teams": "Huracan - Sarmiento Junin",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (23:45) Torneo LPF : Huracan - Sarmiento Junin  (CH75es)"
+    },
+    {
+      "date": "14-02-2026",
+      "time": "23:45",
+      "datetime": "14-02-2026 23:45",
+      "league": "Torneo LPF",
+      "teams": "Talleres Cordoba - Gimnasia Mendoza",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-02-2026 (23:45) Torneo LPF : Talleres Cordoba - Gimnasia Mendoza  (CH76es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "00:00",
+      "datetime": "15-02-2026 00:00",
+      "league": "Liga Mx",
+      "teams": "Atl. San Luis - Queretaro",
+      "channels": [
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (00:00) Liga Mx : Atl. San Luis - Queretaro  (CH97es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "00:00",
+      "datetime": "15-02-2026 00:00",
+      "league": "Liga Mx",
+      "teams": "Pachuca - Atlas",
+      "channels": [
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (00:00) Liga Mx : Pachuca - Atlas  (CH158es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "00:30",
+      "datetime": "15-02-2026 00:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Cobresal - U. Catolica",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (00:30) Campeonato Itaú Chile : Cobresal - U. Catolica  (CH83es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "00:30",
+      "datetime": "15-02-2026 00:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Nacional - Racing Montevideo",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (00:30) Liga AUF Uruguaya : Nacional - Racing Montevideo  (CH109es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "00:30",
+      "datetime": "15-02-2026 00:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Ind. Medellin - Pereira",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (00:30) Liga Betplay Dimayor : Ind. Medellin - Pereira  (CH81es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:00",
+      "datetime": "15-02-2026 02:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Alianza Atl. - Alianza Lima",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:00) Liga 1 Te Apuesto : Alianza Atl. - Alianza Lima  (CH84es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:00",
+      "datetime": "15-02-2026 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Atl. Morelia - Venados",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:00) Liga De Expansion Mx : Atl. Morelia - Venados  (CH105es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:00",
+      "datetime": "15-02-2026 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Cancun - Zacatecas Mineros",
+      "channels": [
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:00) Liga De Expansion Mx : Cancun - Zacatecas Mineros  (CH74es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:00",
+      "datetime": "15-02-2026 02:00",
+      "league": "Liga Mx",
+      "teams": "Monterrey - Club Leon",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:00) Liga Mx : Monterrey - Club Leon  (CH68es) (CH106es) (CH107es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:00",
+      "datetime": "15-02-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Atl. Tucuman - Estudiantes Rio Cuarto",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:00) Torneo LPF : Atl. Tucuman - Estudiantes Rio Cuarto  (CH76es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:00",
+      "datetime": "15-02-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Ind. Rivadavia - Belgrano",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:00) Torneo LPF : Ind. Rivadavia - Belgrano  (CH75es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:06",
+      "datetime": "15-02-2026 02:06",
+      "league": "Liga Mx",
+      "teams": "Juarez - Necaxa",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:06) Liga Mx : Juarez - Necaxa  (CH70es) (CH108es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "02:30",
+      "datetime": "15-02-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Pasto - Inter Bogotá",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (02:30) Liga Betplay Dimayor : Dep. Pasto - Inter Bogotá  (CH81es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "04:07",
+      "datetime": "15-02-2026 04:07",
+      "league": "Liga Mx",
+      "teams": "Guadalajara Chivas - Club America",
+      "channels": [
+        {
+          "id": "72",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (04:07) Liga Mx : Guadalajara Chivas - Club America  (CH72es) (CH73es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "12:00",
+      "datetime": "15-02-2026 12:00",
+      "league": "Liga Endesa",
+      "teams": "Forca Lleida - Basquet Girona",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (12:00) Liga Endesa : Forca Lleida - Basquet Girona  (CH157es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "12:15",
+      "datetime": "15-02-2026 12:15",
+      "league": "Eredivisie",
+      "teams": "Feyenoord - G.A. Eagles",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "142",
+          "lang": "nl"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (12:15) Eredivisie : Feyenoord - G.A. Eagles  (CH125de) (CH142nl) (CH89es) (CH98es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "12:30",
+      "datetime": "15-02-2026 12:30",
+      "league": "Liga Endesa",
+      "teams": "MoraBanc Andorra - Valencia",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (12:30) Liga Endesa : MoraBanc Andorra - Valencia  (CH155es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "12:30",
+      "datetime": "15-02-2026 12:30",
+      "league": "Serie A",
+      "teams": "Udinese - Sassuolo",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (12:30) Serie A : Udinese - Sassuolo  (CH137it) (CH70es) (CH87es) (CH97es) (CH124de) (CH145pt) (CH149gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "12:30",
+      "datetime": "15-02-2026 12:30",
+      "league": "Super Lig",
+      "teams": "Kocaelispor - Gaziantep",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "15-02-2026 (12:30) Super Lig : Kocaelispor - Gaziantep  (CH151tr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "13:00",
+      "datetime": "15-02-2026 13:00",
+      "league": "Fa Cup",
+      "teams": "Birmingham - Leeds",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (13:00) Fa Cup : Birmingham - Leeds  (CH1fr) (CH129us) (CH148gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "13:30",
+      "datetime": "15-02-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (13:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH111de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "13:30",
+      "datetime": "15-02-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Bochum - Paderborn",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (13:30) Bundesliga 2 : Bochum - Paderborn  (CH113de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "13:30",
+      "datetime": "15-02-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Holstein Kiel - Schalke",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (13:30) Bundesliga 2 : Holstein Kiel - Schalke  (CH4fr) (CH112de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "13:30",
+      "datetime": "15-02-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Magdeburg - Arminia Bielefeld",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (13:30) Bundesliga 2 : Magdeburg - Arminia Bielefeld  (CH114de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "13:30",
+      "datetime": "15-02-2026 13:30",
+      "league": "Pro League",
+      "teams": "Cercle Brugge KSV - Club Brugge KV",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-02-2026 (13:30) Pro League : Cercle Brugge KSV - Club Brugge KV  (CH153fr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "14:00",
+      "datetime": "15-02-2026 14:00",
+      "league": "Laliga",
+      "teams": "Oviedo - Ath Bilbao",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (14:00) Laliga : Oviedo - Ath Bilbao  (CH6fr) (CH49es) (CH71es) (CH90es) (CH107es) (CH150gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "14:00",
+      "datetime": "15-02-2026 14:00",
+      "league": "Laliga 2",
+      "teams": "Mirandes - Las Palmas",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (14:00) Laliga 2 : Mirandes - Las Palmas  (CH53es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "14:30",
+      "datetime": "15-02-2026 14:30",
+      "league": "Eredivisie",
+      "teams": "Heerenveen - Zwolle",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "15-02-2026 (14:30) Eredivisie : Heerenveen - Zwolle  (CH141nl)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "14:30",
+      "datetime": "15-02-2026 14:30",
+      "league": "Eredivisie",
+      "teams": "Telstar - Twente",
+      "channels": [
+        {
+          "id": "143",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "15-02-2026 (14:30) Eredivisie : Telstar - Twente  (CH143nl)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "14:30",
+      "datetime": "15-02-2026 14:30",
+      "league": "Fa Cup",
+      "teams": "Grimsby - Wolves",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "15-02-2026 (14:30) Fa Cup : Grimsby - Wolves  (CH8fr) (CH126gb)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Fa Cup",
+      "teams": "Oxford Utd - Sunderland",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Fa Cup : Oxford Utd - Sunderland  (CH9fr) (CH160es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Fa Cup",
+      "teams": "Stoke - Fulham",
+      "channels": [
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Fa Cup : Stoke - Fulham  (CH129us) (CH145pt) (CH161es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Ligue 1",
+      "teams": "Le Havre - Toulouse",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Ligue 1 : Le Havre - Toulouse  (CH20fr) (CH69es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Premiership",
+      "teams": "Kilmarnock - Celtic",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Premiership : Kilmarnock - Celtic  (CH127gb) (CH125de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Serie A",
+      "teams": "Cremonese - Genoa",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Serie A : Cremonese - Genoa  (CH138it) (CH70es) (CH97es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Serie A",
+      "teams": "Parma - Verona",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Serie A : Parma - Verona  (CH137it) (CH149gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:00",
+      "datetime": "15-02-2026 15:00",
+      "league": "Super Lig",
+      "teams": "Goztepe - Kayserispor",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:00) Super Lig : Goztepe - Kayserispor  (CH10fr) (CH151tr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "15:30",
+      "datetime": "15-02-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Augsburg - Heidenheim",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (15:30) Bundesliga : Augsburg - Heidenheim  (CH7fr) (CH124de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:00",
+      "datetime": "15-02-2026 16:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. De Concepcion - D. Concepcion",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:00) Campeonato Itaú Chile : U. De Concepcion - D. Concepcion  (CH83es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:00",
+      "datetime": "15-02-2026 16:00",
+      "league": "Pro League",
+      "teams": "Antwerp - Westerlo",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:00) Pro League : Antwerp - Westerlo  (CH154fr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:10",
+      "datetime": "15-02-2026 16:10",
+      "league": "Tournoi des Six Nations",
+      "teams": "Wales - France",
+      "channels": [
+        {
+          "id": "24",
+          "lang": "fr"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:10) Tournoi des Six Nations : Wales - France  (CH24fr) (CH55es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:15",
+      "datetime": "15-02-2026 16:15",
+      "league": "Laliga",
+      "teams": "Rayo Vallecano - Atl. Madrid",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:15) Laliga : Rayo Vallecano - Atl. Madrid  (CH6fr) (CH51es) (CH71es) (CH94es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:15",
+      "datetime": "15-02-2026 16:15",
+      "league": "Laliga 2",
+      "teams": "Eibar - Racing Santander",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:15) Laliga 2 : Eibar - Racing Santander  (CH53es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:15",
+      "datetime": "15-02-2026 16:15",
+      "league": "Laliga 2",
+      "teams": "Huesca - Ceuta",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:15) Laliga 2 : Huesca - Ceuta  (CH54es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:30",
+      "datetime": "15-02-2026 16:30",
+      "league": "Betfred Super League",
+      "teams": "Kifisia - OFI Crete",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:30) Betfred Super League : Kifisia - OFI Crete  (CH148gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:30",
+      "datetime": "15-02-2026 16:30",
+      "league": "Liga Portugal",
+      "teams": "Nacional - FC Porto",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:30) Liga Portugal : Nacional - FC Porto  (CH4fr) (CH144pt)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "16:45",
+      "datetime": "15-02-2026 16:45",
+      "league": "Eredivisie",
+      "teams": "Sparta Rotterdam - Nijmegen",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "15-02-2026 (16:45) Eredivisie : Sparta Rotterdam - Nijmegen  (CH142nl)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:00",
+      "datetime": "15-02-2026 17:00",
+      "league": "Liga Endesa",
+      "teams": "Barcelona - Manresa",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:00) Liga Endesa : Barcelona - Manresa  (CH156es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:15",
+      "datetime": "15-02-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:15",
+      "datetime": "15-02-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Lorient - Angers",
+      "channels": [
+        {
+          "id": "21",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:15) Ligue 1 : Lorient - Angers  (CH21fr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:15",
+      "datetime": "15-02-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Metz - Auxerre",
+      "channels": [
+        {
+          "id": "22",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:15) Ligue 1 : Metz - Auxerre  (CH22fr) (CH69es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:30",
+      "datetime": "15-02-2026 17:30",
+      "league": "Bundesliga",
+      "teams": "RB Leipzig - Wolfsburg",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:30) Bundesliga : RB Leipzig - Wolfsburg  (CH5fr) (CH61es) (CH91es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:30",
+      "datetime": "15-02-2026 17:30",
+      "league": "Fa Cup",
+      "teams": "Arsenal - Wigan",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:30) Fa Cup : Arsenal - Wigan  (CH1fr) (CH126gb) (CH145pt) (CH87es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "17:30",
+      "datetime": "15-02-2026 17:30",
+      "league": "Premiership",
+      "teams": "Rangers - Hearts",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (17:30) Premiership : Rangers - Hearts  (CH127gb) (CH125de)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:00",
+      "datetime": "15-02-2026 18:00",
+      "league": "Liga Endesa",
+      "teams": "Bilbao - Baskonia",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:00) Liga Endesa : Bilbao - Baskonia  (CH157es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:00",
+      "datetime": "15-02-2026 18:00",
+      "league": "Serie A",
+      "teams": "Torino - Bologna",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:00) Serie A : Torino - Bologna  (CH138it) (CH89es) (CH97es) (CH149gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:00",
+      "datetime": "15-02-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Basaksehir - Besiktas",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:00) Super Lig : Basaksehir - Besiktas  (CH7fr) (CH78es) (CH151tr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:30",
+      "datetime": "15-02-2026 18:30",
+      "league": "Betfred Super League",
+      "teams": "PAOK - AEK Athens",
+      "channels": [
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:30) Betfred Super League : PAOK - AEK Athens  (CH150gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:30",
+      "datetime": "15-02-2026 18:30",
+      "league": "Laliga",
+      "teams": "Levante - Valencia",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:30) Laliga : Levante - Valencia  (CH6fr) (CH49es) (CH71es) (CH88es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:30",
+      "datetime": "15-02-2026 18:30",
+      "league": "Laliga 2",
+      "teams": "Albacete - Gijon",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:30) Laliga 2 : Albacete - Gijon  (CH53es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "18:30",
+      "datetime": "15-02-2026 18:30",
+      "league": "Pro League",
+      "teams": "Anderlecht - RAAL La Louviere",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-02-2026 (18:30) Pro League : Anderlecht - RAAL La Louviere  (CH153fr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "19:00",
+      "datetime": "15-02-2026 19:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Sport Huancayo - FC Cajamarca",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (19:00) Liga 1 Te Apuesto : Sport Huancayo - FC Cajamarca  (CH84es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "19:00",
+      "datetime": "15-02-2026 19:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Leones Negros - Tepatitlan de Morelos",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (19:00) Liga De Expansion Mx : Leones Negros - Tepatitlan de Morelos  (CH105es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "19:00",
+      "datetime": "15-02-2026 19:00",
+      "league": "Liga Endesa",
+      "teams": "Unicaja - Real Madrid",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (19:00) Liga Endesa : Unicaja - Real Madrid  (CH155es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "19:00",
+      "datetime": "15-02-2026 19:00",
+      "league": "Liga Portugal",
+      "teams": "AFS - Estoril",
+      "channels": [
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "15-02-2026 (19:00) Liga Portugal : AFS - Estoril  (CH145pt)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "19:15",
+      "datetime": "15-02-2026 19:15",
+      "league": "Pro League",
+      "teams": "St. Truiden - Waregem",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "15-02-2026 (19:15) Pro League : St. Truiden - Waregem  (CH154fr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "20:00",
+      "datetime": "15-02-2026 20:00",
+      "league": "Betfred Super League",
+      "teams": "Panathinaikos - AEL Larissa",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (20:00) Betfred Super League : Panathinaikos - AEL Larissa  (CH148gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "20:10",
+      "datetime": "15-02-2026 20:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Aguilas - Bucaramanga",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (20:10) Liga Betplay Dimayor : Aguilas - Bucaramanga  (CH81es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "20:45",
+      "datetime": "15-02-2026 20:45",
+      "league": "Ligue 1",
+      "teams": "Lyon - Nice",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (20:45) Ligue 1 : Lyon - Nice  (CH20fr) (CH69es) (CH88es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "20:45",
+      "datetime": "15-02-2026 20:45",
+      "league": "Serie A",
+      "teams": "Napoli - AS Roma",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "15-02-2026 (20:45) Serie A : Napoli - AS Roma  (CH45fr) (CH137it) (CH87es) (CH97es) (CH124de) (CH126gb) (CH145pt) (CH149gr)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:00",
+      "datetime": "15-02-2026 21:00",
+      "league": "Laliga",
+      "teams": "Mallorca - Betis",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:00) Laliga : Mallorca - Betis  (CH1fr) (CH51es) (CH71es) (CH94es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:00",
+      "datetime": "15-02-2026 21:00",
+      "league": "Laliga 2",
+      "teams": "Castellon - Dep. La Coruna",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:00) Laliga 2 : Castellon - Dep. La Coruna  (CH4fr) (CH53es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:00",
+      "datetime": "15-02-2026 21:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Danubio - Boston River",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:00) Liga AUF Uruguaya : Danubio - Boston River  (CH109es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:00",
+      "datetime": "15-02-2026 21:00",
+      "league": "Torneo LPF",
+      "teams": "Gimnasia L.P. - Estudiantes L.P.",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:00) Torneo LPF : Gimnasia L.P. - Estudiantes L.P.  (CH75es) (CH61es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:05",
+      "datetime": "15-02-2026 21:05",
+      "league": "Top 14",
+      "teams": "Stade Francais Paris - Stade Toulousain",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:05) Top 14 : Stade Francais Paris - Stade Toulousain  (CH11fr) (CH63es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:15",
+      "datetime": "15-02-2026 21:15",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Comerciantes Unidos - Los Chankas",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:15) Liga 1 Te Apuesto : Comerciantes Unidos - Los Chankas  (CH84es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "21:30",
+      "datetime": "15-02-2026 21:30",
+      "league": "Liga Portugal",
+      "teams": "Sporting CP - Famalicao",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "15-02-2026 (21:30) Liga Portugal : Sporting CP - Famalicao  (CH2fr) (CH125de) (CH144pt)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "22:00",
+      "datetime": "15-02-2026 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Nublense - A. Italiano",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (22:00) Campeonato Itaú Chile : Nublense - A. Italiano  (CH83es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "22:20",
+      "datetime": "15-02-2026 22:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Deportes Tolima - Once Caldas",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (22:20) Liga Betplay Dimayor : Deportes Tolima - Once Caldas  (CH81es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "23:00",
+      "datetime": "15-02-2026 23:00",
+      "league": "NBA",
+      "teams": "Team World - Team Stars",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (23:00) NBA : Team World - Team Stars  (CH1fr) (CH180us) (CH145pt) (CH156es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "23:30",
+      "datetime": "15-02-2026 23:30",
+      "league": "Liga Mx",
+      "teams": "Cruz Azul - Tigres UANL",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-02-2026 (23:30) Liga Mx : Cruz Azul - Tigres UANL  (CH68es) (CH106es) (CH107es)"
+    },
+    {
+      "date": "15-02-2026",
+      "time": "23:30",
+      "datetime": "15-02-2026 23:30",
+      "league": "Torneo LPF",
+      "teams": "Boca Juniors - Platense",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "15-02-2026 (23:30) Torneo LPF : Boca Juniors - Platense  (CH76es) (CH55es) (CH61es) (CH87es) (CH125de)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "00:00",
+      "datetime": "16-02-2026 00:00",
+      "league": "Liga Mx",
+      "teams": "Santos Laguna - Mazatlan FC",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (00:00) Liga Mx : Santos Laguna - Mazatlan FC  (CH98es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "00:30",
+      "datetime": "16-02-2026 00:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Colo Colo - Union La Calera",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (00:30) Campeonato Itaú Chile : Colo Colo - Union La Calera  (CH83es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "00:30",
+      "datetime": "16-02-2026 00:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "FBC Melgar - Moquegua",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (00:30) Liga 1 Te Apuesto : FBC Melgar - Moquegua  (CH84es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "00:30",
+      "datetime": "16-02-2026 00:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Central Esp. - Penarol",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (00:30) Liga AUF Uruguaya : Central Esp. - Penarol  (CH109es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "00:30",
+      "datetime": "16-02-2026 00:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Cali - Atl. Nacional",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (00:30) Liga Betplay Dimayor : Dep. Cali - Atl. Nacional  (CH81es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "02:00",
+      "datetime": "16-02-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Instituto - Central Cordoba",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (02:00) Torneo LPF : Instituto - Central Cordoba  (CH76es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "02:00",
+      "datetime": "16-02-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Rosario Central - Barracas Central",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (02:00) Torneo LPF : Rosario Central - Barracas Central  (CH75es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "02:05",
+      "datetime": "16-02-2026 02:05",
+      "league": "Liga Mx Women",
+      "teams": "Club America W - Monterrey W",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (02:05) Liga Mx Women : Club America W - Monterrey W  (CH68es) (CH106es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "02:30",
+      "datetime": "16-02-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Fortaleza - Chico",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (02:30) Liga Betplay Dimayor : Fortaleza - Chico  (CH81es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "17:00",
+      "datetime": "16-02-2026 17:00",
+      "league": "Betfred Super League",
+      "teams": "Atromitos - Panserraikos",
+      "channels": [
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "16-02-2026 (17:00) Betfred Super League : Atromitos - Panserraikos  (CH150gr)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "18:00",
+      "datetime": "16-02-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Kasimpasa - Karagumruk",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "16-02-2026 (18:00) Super Lig : Kasimpasa - Karagumruk  (CH151tr)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "20:30",
+      "datetime": "16-02-2026 20:30",
+      "league": "Fa Cup",
+      "teams": "Macclesfield - Brentford",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "129",
+          "lang": "us"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "16-02-2026 (20:30) Fa Cup : Macclesfield - Brentford  (CH5fr) (CH124de) (CH126gb) (CH129us) (CH148gr)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "20:30",
+      "datetime": "16-02-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Real Sociedad B - Malaga",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (20:30) Laliga 2 : Real Sociedad B - Malaga  (CH6fr) (CH53es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "20:45",
+      "datetime": "16-02-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Bastia - Troyes",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-02-2026 (20:45) Ligue 2 : Bastia - Troyes  (CH1fr)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "20:45",
+      "datetime": "16-02-2026 20:45",
+      "league": "Serie A",
+      "teams": "Cagliari - Lecce",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "16-02-2026 (20:45) Serie A : Cagliari - Lecce  (CH137it) (CH88es) (CH138it) (CH145pt) (CH149gr)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "21:00",
+      "datetime": "16-02-2026 21:00",
+      "league": "Championship",
+      "teams": "Coventry - Middlesbrough",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "16-02-2026 (21:00) Championship : Coventry - Middlesbrough  (CH6fr) (CH127gb) (CH78es) (CH98es) (CH120de)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "21:00",
+      "datetime": "16-02-2026 21:00",
+      "league": "Laliga",
+      "teams": "Girona - Barcelona",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (21:00) Laliga : Girona - Barcelona  (CH2fr) (CH51es) (CH71es) (CH150gr) (CH94es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "21:15",
+      "datetime": "16-02-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "Rio Ave - Moreirense",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "16-02-2026 (21:15) Liga Portugal : Rio Ave - Moreirense  (CH144pt)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "23:00",
+      "datetime": "16-02-2026 23:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Albion - CA Cerro",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (23:00) Liga AUF Uruguaya : Albion - CA Cerro  (CH109es)"
+    },
+    {
+      "date": "16-02-2026",
+      "time": "23:00",
+      "datetime": "16-02-2026 23:00",
+      "league": "Torneo LPF",
+      "teams": "Dep. Riestra - Newells Old Boys",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-02-2026 (23:00) Torneo LPF : Dep. Riestra - Newells Old Boys  (CH76es)"
+    },
+    {
+      "date": "17-02-2026",
+      "time": "01:30",
+      "datetime": "17-02-2026 01:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Montevideo City - Juventud",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-02-2026 (01:30) Liga AUF Uruguaya : Montevideo City - Juventud  (CH109es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -15,7 +3280,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:19:21.818263"
+      "extracted_at": "2026-02-14T11:44:24.032615"
     },
     "hoca": {
       "name": "hoca",
@@ -24,7 +3289,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:19:24.717927"
+      "extracted_at": "2026-02-14T11:44:27.005142"
     },
     "Caster": {
       "name": "Caster",
@@ -33,7 +3298,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:19:27.225107"
+      "extracted_at": "2026-02-14T11:44:29.761733"
     },
     "WIGI": {
       "name": "WIGI",
@@ -42,7 +3307,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T11:19:29.830028"
+      "extracted_at": "2026-02-14T11:44:32.478082"
     }
   },
   "player_urls": {

@@ -1,45 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-14T05:59:27.734640",
-  "total_events": 2,
+  "last_updated": "2026-02-14T06:54:12.734886",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "14-02-2026",
-      "time": "04:00",
-      "datetime": "14-02-2026 04:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Irapuato - Dorados de Sinaloa",
-      "channels": [
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-02-2026 (04:00) Liga De Expansion Mx : Irapuato - Dorados de Sinaloa  (CH98es)"
-    },
-    {
-      "date": "14-02-2026",
-      "time": "04:05",
-      "datetime": "14-02-2026 04:05",
-      "league": "Liga Mx",
-      "teams": "Toluca - Club Tijuana",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-02-2026 (04:05) Liga Mx : Toluca - Club Tijuana  (CH68es) (CH108es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -48,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T05:59:18.753214"
+      "extracted_at": "2026-02-14T06:54:04.035393"
     },
     "hoca": {
       "name": "hoca",
@@ -57,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T05:59:21.685253"
+      "extracted_at": "2026-02-14T06:54:06.546006"
     },
     "Caster": {
       "name": "Caster",
@@ -66,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T05:59:24.105853"
+      "extracted_at": "2026-02-14T06:54:08.992393"
     },
     "WIGI": {
       "name": "WIGI",
@@ -75,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-14T05:59:26.734495"
+      "extracted_at": "2026-02-14T06:54:11.734738"
     }
   },
   "player_urls": {

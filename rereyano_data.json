@@ -1,132 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-15T19:02:54.329542",
-  "total_events": 55,
+  "last_updated": "2026-02-15T19:37:39.471857",
+  "total_events": 49,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-02-2026",
-      "time": "17:15",
-      "datetime": "15-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Multiplex Ligue 1 -",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "15-02-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "17:15",
-      "datetime": "15-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Lorient - Angers",
-      "channels": [
-        {
-          "id": "21",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "15-02-2026 (17:15) Ligue 1 : Lorient - Angers  (CH21fr)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "17:15",
-      "datetime": "15-02-2026 17:15",
-      "league": "Ligue 1",
-      "teams": "Metz - Auxerre",
-      "channels": [
-        {
-          "id": "22",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-02-2026 (17:15) Ligue 1 : Metz - Auxerre  (CH22fr) (CH69es)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "17:30",
-      "datetime": "15-02-2026 17:30",
-      "league": "Bundesliga",
-      "teams": "RB Leipzig - Wolfsburg",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-02-2026 (17:30) Bundesliga : RB Leipzig - Wolfsburg  (CH5fr) (CH61es) (CH91es) (CH123de) (CH116es)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "17:30",
-      "datetime": "15-02-2026 17:30",
-      "league": "Fa Cup",
-      "teams": "Arsenal - Wigan",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-02-2026 (17:30) Fa Cup : Arsenal - Wigan  (CH1fr) (CH126gb) (CH145pt) (CH87es)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "17:30",
-      "datetime": "15-02-2026 17:30",
-      "league": "Premiership",
-      "teams": "Rangers - Hearts",
-      "channels": [
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "15-02-2026 (17:30) Premiership : Rangers - Hearts  (CH127gb) (CH125de)"
-    },
     {
       "date": "15-02-2026",
       "time": "18:00",
@@ -1030,7 +910,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:02:45.143762"
+      "extracted_at": "2026-02-15T19:37:30.481829"
     },
     "hoca": {
       "name": "hoca",
@@ -1039,7 +919,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:02:47.200221"
+      "extracted_at": "2026-02-15T19:37:32.060397"
     },
     "Caster": {
       "name": "Caster",
@@ -1048,7 +928,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:02:50.300773"
+      "extracted_at": "2026-02-15T19:37:35.113503"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1057,7 +937,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:02:53.329395"
+      "extracted_at": "2026-02-15T19:37:38.471710"
     }
   },
   "player_urls": {

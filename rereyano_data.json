@@ -1,76 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-15T22:19:15.067619",
-  "total_events": 35,
+  "last_updated": "2026-02-15T22:50:41.676027",
+  "total_events": 33,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-02-2026",
-      "time": "20:45",
-      "datetime": "15-02-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Lyon - Nice",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-02-2026 (20:45) Ligue 1 : Lyon - Nice  (CH20fr) (CH69es) (CH88es)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "20:45",
-      "datetime": "15-02-2026 20:45",
-      "league": "Serie A",
-      "teams": "Napoli - AS Roma",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "15-02-2026 (20:45) Serie A : Napoli - AS Roma  (CH45fr) (CH137it) (CH87es) (CH97es) (CH124de) (CH126gb) (CH145pt) (CH149gr)"
-    },
     {
       "date": "15-02-2026",
       "time": "21:00",
@@ -682,7 +618,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T22:19:06.181210"
+      "extracted_at": "2026-02-15T22:50:33.356500"
     },
     "hoca": {
       "name": "hoca",
@@ -691,7 +627,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T22:19:08.185847"
+      "extracted_at": "2026-02-15T22:50:34.741032"
     },
     "Caster": {
       "name": "Caster",
@@ -700,7 +636,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T22:19:11.107071"
+      "extracted_at": "2026-02-15T22:50:38.340855"
     },
     "WIGI": {
       "name": "WIGI",
@@ -709,7 +645,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T22:19:14.067449"
+      "extracted_at": "2026-02-15T22:50:40.675893"
     }
   },
   "player_urls": {

@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-15T19:54:36.953481",
-  "total_events": 49,
+  "last_updated": "2026-02-15T20:20:56.818857",
+  "total_events": 46,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-02-2026",
-      "time": "18:00",
-      "datetime": "15-02-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Bilbao - Baskonia",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-02-2026 (18:00) Liga Endesa : Bilbao - Baskonia  (CH157es)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "18:00",
-      "datetime": "15-02-2026 18:00",
-      "league": "Serie A",
-      "teams": "Torino - Bologna",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "15-02-2026 (18:00) Serie A : Torino - Bologna  (CH138it) (CH89es) (CH97es) (CH149gr)"
-    },
-    {
-      "date": "15-02-2026",
-      "time": "18:00",
-      "datetime": "15-02-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Basaksehir - Besiktas",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "15-02-2026 (18:00) Super Lig : Basaksehir - Besiktas  (CH7fr) (CH78es) (CH151tr)"
-    },
     {
       "date": "15-02-2026",
       "time": "18:30",
@@ -910,7 +848,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:54:27.520763"
+      "extracted_at": "2026-02-15T20:20:48.678141"
     },
     "hoca": {
       "name": "hoca",
@@ -919,7 +857,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:54:29.949770"
+      "extracted_at": "2026-02-15T20:20:50.078221"
     },
     "Caster": {
       "name": "Caster",
@@ -928,7 +866,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:54:33.280677"
+      "extracted_at": "2026-02-15T20:20:52.478827"
     },
     "WIGI": {
       "name": "WIGI",
@@ -937,7 +875,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-15T19:54:35.953334"
+      "extracted_at": "2026-02-15T20:20:55.818705"
     }
   },
   "player_urls": {

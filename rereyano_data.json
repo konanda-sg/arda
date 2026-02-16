@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-16T11:59:44.812342",
-  "total_events": 12,
+  "last_updated": "2026-02-16T13:16:03.026223",
+  "total_events": 14,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -238,6 +238,34 @@
         }
       ],
       "raw_line": "17-02-2026 (01:30) Liga AUF Uruguaya : Montevideo City - Juventud  (CH109es)"
+    },
+    {
+      "date": "17-02-2026",
+      "time": "02:00",
+      "datetime": "17-02-2026 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Atl. San Luis W - Queretaro W",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-02-2026 (02:00) Liga Mx Women : Atl. San Luis W - Queretaro W  (CH98es)"
+    },
+    {
+      "date": "17-02-2026",
+      "time": "02:00",
+      "datetime": "17-02-2026 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Guadalajara Chivas W - Atlas W",
+      "channels": [
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-02-2026 (02:00) Liga Mx Women : Guadalajara Chivas W - Atlas W  (CH73es)"
     }
   ],
   "player_streams": {
@@ -248,7 +276,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:59:34.659075"
+      "extracted_at": "2026-02-16T13:15:55.276837"
     },
     "hoca": {
       "name": "hoca",
@@ -257,7 +285,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:59:37.127194"
+      "extracted_at": "2026-02-16T13:15:57.156786"
     },
     "Caster": {
       "name": "Caster",
@@ -266,7 +294,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:59:40.866656"
+      "extracted_at": "2026-02-16T13:15:59.624336"
     },
     "WIGI": {
       "name": "WIGI",
@@ -275,7 +303,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:59:43.812202"
+      "extracted_at": "2026-02-16T13:16:02.026031"
     }
   },
   "player_urls": {

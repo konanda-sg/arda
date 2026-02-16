@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-16T11:27:07.742462",
+  "last_updated": "2026-02-16T11:59:44.812342",
   "total_events": 12,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -47,23 +47,19 @@
           "lang": "fr"
         },
         {
-          "id": "124",
-          "lang": "de"
-        },
-        {
           "id": "126",
           "lang": "gb"
         },
         {
-          "id": "129",
-          "lang": "us"
+          "id": "124",
+          "lang": "de"
         },
         {
           "id": "148",
           "lang": "gr"
         }
       ],
-      "raw_line": "16-02-2026 (20:30) Fa Cup : Macclesfield - Brentford  (CH5fr) (CH124de) (CH126gb) (CH129us) (CH148gr)"
+      "raw_line": "16-02-2026 (20:30) Fa Cup : Macclesfield - Brentford  (CH5fr) (CH126gb) (CH124de) (CH148gr)"
     },
     {
       "date": "16-02-2026",
@@ -105,14 +101,6 @@
       "teams": "Cagliari - Lecce",
       "channels": [
         {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
           "id": "138",
           "lang": "it"
         },
@@ -123,9 +111,13 @@
         {
           "id": "149",
           "lang": "gr"
+        },
+        {
+          "id": "88",
+          "lang": "es"
         }
       ],
-      "raw_line": "16-02-2026 (20:45) Serie A : Cagliari - Lecce  (CH137it) (CH88es) (CH138it) (CH145pt) (CH149gr)"
+      "raw_line": "16-02-2026 (20:45) Serie A : Cagliari - Lecce  (CH138it) (CH145pt) (CH149gr) (CH88es)"
     },
     {
       "date": "16-02-2026",
@@ -135,12 +127,16 @@
       "teams": "Coventry - Middlesbrough",
       "channels": [
         {
-          "id": "6",
+          "id": "7",
           "lang": "fr"
         },
         {
           "id": "127",
           "lang": "gb"
+        },
+        {
+          "id": "120",
+          "lang": "de"
         },
         {
           "id": "78",
@@ -149,13 +145,9 @@
         {
           "id": "98",
           "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
         }
       ],
-      "raw_line": "16-02-2026 (21:00) Championship : Coventry - Middlesbrough  (CH6fr) (CH127gb) (CH78es) (CH98es) (CH120de)"
+      "raw_line": "16-02-2026 (21:00) Championship : Coventry - Middlesbrough  (CH7fr) (CH127gb) (CH120de) (CH78es) (CH98es)"
     },
     {
       "date": "16-02-2026",
@@ -173,19 +165,23 @@
           "lang": "es"
         },
         {
-          "id": "71",
-          "lang": "es"
+          "id": "123",
+          "lang": "de"
         },
         {
           "id": "150",
           "lang": "gr"
         },
         {
+          "id": "71",
+          "lang": "es"
+        },
+        {
           "id": "94",
           "lang": "es"
         }
       ],
-      "raw_line": "16-02-2026 (21:00) Laliga : Girona - Barcelona  (CH2fr) (CH51es) (CH71es) (CH150gr) (CH94es)"
+      "raw_line": "16-02-2026 (21:00) Laliga : Girona - Barcelona  (CH2fr) (CH51es) (CH123de) (CH150gr) (CH71es) (CH94es)"
     },
     {
       "date": "16-02-2026",
@@ -252,7 +248,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:26:59.522682"
+      "extracted_at": "2026-02-16T11:59:34.659075"
     },
     "hoca": {
       "name": "hoca",
@@ -261,7 +257,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:27:01.448534"
+      "extracted_at": "2026-02-16T11:59:37.127194"
     },
     "Caster": {
       "name": "Caster",
@@ -270,7 +266,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:27:04.344810"
+      "extracted_at": "2026-02-16T11:59:40.866656"
     },
     "WIGI": {
       "name": "WIGI",
@@ -279,7 +275,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-16T11:27:06.742305"
+      "extracted_at": "2026-02-16T11:59:43.812202"
     }
   },
   "player_urls": {

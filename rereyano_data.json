@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-17T01:46:06.554981",
-  "total_events": 3,
+  "last_updated": "2026-02-17T04:14:56.898887",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "17-02-2026",
-      "time": "01:30",
-      "datetime": "17-02-2026 01:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Montevideo City - Juventud",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-02-2026 (01:30) Liga AUF Uruguaya : Montevideo City - Juventud  (CH109es)"
-    },
-    {
-      "date": "17-02-2026",
-      "time": "02:00",
-      "datetime": "17-02-2026 02:00",
-      "league": "Liga Mx Women",
-      "teams": "Atl. San Luis W - Queretaro W",
-      "channels": [
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-02-2026 (02:00) Liga Mx Women : Atl. San Luis W - Queretaro W  (CH98es)"
-    },
-    {
-      "date": "17-02-2026",
-      "time": "02:00",
-      "datetime": "17-02-2026 02:00",
-      "league": "Liga Mx Women",
-      "teams": "Guadalajara Chivas W - Atlas W",
-      "channels": [
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-02-2026 (02:00) Liga Mx Women : Guadalajara Chivas W - Atlas W  (CH73es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -58,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-17T01:45:57.556857"
+      "extracted_at": "2026-02-17T04:14:49.008275"
     },
     "hoca": {
       "name": "hoca",
@@ -67,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-17T01:46:00.045117"
+      "extracted_at": "2026-02-17T04:14:50.847639"
     },
     "Caster": {
       "name": "Caster",
@@ -76,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-17T01:46:03.074522"
+      "extracted_at": "2026-02-17T04:14:53.327121"
     },
     "WIGI": {
       "name": "WIGI",
@@ -85,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-17T01:46:05.554834"
+      "extracted_at": "2026-02-17T04:14:55.898738"
     }
   },
   "player_urls": {

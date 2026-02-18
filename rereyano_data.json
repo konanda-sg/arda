@@ -1,34 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-18T16:09:40.166802",
-  "total_events": 18,
+  "last_updated": "2026-02-18T17:20:07.530947",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "18-02-2026",
-      "time": "15:10",
-      "datetime": "18-02-2026 15:10",
-      "league": "formula 1",
-      "teams": "Tests de pré-saison Essais de l'après-midi 2e partie -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "121",
-          "lang": "de"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "18-02-2026 (15:10) formula 1 : Tests de pré-saison Essais de l'après-midi 2e partie -   (CH13fr) (CH121de) (CH60es)"
-    },
     {
       "date": "18-02-2026",
       "time": "18:45",
@@ -476,15 +454,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-18T16:08:17.221702"
+      "extracted_at": "2026-02-18T17:19:59.357012"
     },
     "hoca": {
       "name": "hoca",
       "player_url": "https://rereyano.ru/player/2/1",
-      "iframe_url": null,
+      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-02-18T16:08:48.317299"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-02-18T17:20:01.642325"
     },
     "Caster": {
       "name": "Caster",
@@ -493,15 +472,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-18T16:09:08.073978"
+      "extracted_at": "2026-02-18T17:20:03.970680"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://rereyano.ru/player/4/1",
-      "iframe_url": null,
+      "iframe_url": "https://doubttooth.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-02-18T16:09:39.166648"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-02-18T17:20:06.530802"
     }
   },
   "player_urls": {

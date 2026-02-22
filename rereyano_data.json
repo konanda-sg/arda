@@ -1,60 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-22T22:19:39.261931",
-  "total_events": 38,
+  "last_updated": "2026-02-22T22:50:17.503414",
+  "total_events": 36,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "22-02-2026",
-      "time": "20:45",
-      "datetime": "22-02-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Strasbourg - Lyon",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (20:45) Ligue 1 : Strasbourg - Lyon  (CH20fr) (CH138it) (CH69es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "20:45",
-      "datetime": "22-02-2026 20:45",
-      "league": "Serie A",
-      "teams": "AS Roma - Cremonese",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (20:45) Serie A : AS Roma - Cremonese  (CH45fr) (CH137it) (CH124de) (CH99es)"
-    },
     {
       "date": "22-02-2026",
       "time": "21:00",
@@ -620,7 +572,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:19:31.279185"
+      "extracted_at": "2026-02-22T22:50:09.686389"
     },
     "hoca": {
       "name": "hoca",
@@ -629,7 +581,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:19:33.223998"
+      "extracted_at": "2026-02-22T22:50:11.617020"
     },
     "Caster": {
       "name": "Caster",
@@ -638,7 +590,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:19:36.742973"
+      "extracted_at": "2026-02-22T22:50:14.166247"
     },
     "WIGI": {
       "name": "WIGI",
@@ -647,7 +599,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:19:38.261785"
+      "extracted_at": "2026-02-22T22:50:16.503177"
     }
   },
   "player_urls": {

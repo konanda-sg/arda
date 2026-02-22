@@ -1,140 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-22T20:49:44.643709",
-  "total_events": 48,
+  "last_updated": "2026-02-22T21:19:51.845318",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "22-02-2026",
-      "time": "19:00",
-      "datetime": "22-02-2026 19:00",
-      "league": "Baloncesto Copa del Rey",
-      "teams": "Real Madrid - Baskonia",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:00) Baloncesto Copa del Rey : Real Madrid - Baskonia  (CH155es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:00",
-      "datetime": "22-02-2026 19:00",
-      "league": "Betfred Super League",
-      "teams": "AEK Athens - Levadiakos",
-      "channels": [
-        {
-          "id": "148",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:00) Betfred Super League : AEK Athens - Levadiakos  (CH148gr)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:00",
-      "datetime": "22-02-2026 19:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Macara - Leones del Norte",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:00) Ecuador Ligapro : Macara - Leones del Norte  (CH86es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:00",
-      "datetime": "22-02-2026 19:00",
-      "league": "Liga Mx Women",
-      "teams": "Puebla W - Mazatlan FC W",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:00) Liga Mx Women : Puebla W - Mazatlan FC W  (CH162es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:00",
-      "datetime": "22-02-2026 19:00",
-      "league": "Liga Portugal",
-      "teams": "Estoril - Gil Vicente",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:00) Liga Portugal : Estoril - Gil Vicente  (CH4fr) (CH145pt)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:00",
-      "datetime": "22-02-2026 19:00",
-      "league": "NBA",
-      "teams": "Oklahoma City Thunder - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:00) NBA : Oklahoma City Thunder - Cleveland Cavaliers  (CH1fr) (CH180us) (CH156es) (CH89es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:15",
-      "datetime": "22-02-2026 19:15",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Los Chankas - Sport Huancayo",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:15) Liga 1 Te Apuesto : Los Chankas - Sport Huancayo  (CH84es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "19:15",
-      "datetime": "22-02-2026 19:15",
-      "league": "Pro League",
-      "teams": "Westerlo - Charleroi",
-      "channels": [
-        {
-          "id": "154",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "22-02-2026 (19:15) Pro League : Westerlo - Charleroi  (CH154fr)"
-    },
     {
       "date": "22-02-2026",
       "time": "19:30",
@@ -788,7 +660,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T20:49:37.764895"
+      "extracted_at": "2026-02-22T21:19:42.877465"
     },
     "hoca": {
       "name": "hoca",
@@ -797,7 +669,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T20:49:39.823477"
+      "extracted_at": "2026-02-22T21:19:44.857395"
     },
     "Caster": {
       "name": "Caster",
@@ -806,7 +678,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T20:49:41.660214"
+      "extracted_at": "2026-02-22T21:19:47.460582"
     },
     "WIGI": {
       "name": "WIGI",
@@ -815,7 +687,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T20:49:43.643553"
+      "extracted_at": "2026-02-22T21:19:50.845165"
     }
   },
   "player_urls": {

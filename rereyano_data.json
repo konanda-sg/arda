@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-22T22:50:17.503414",
-  "total_events": 36,
+  "last_updated": "2026-02-22T23:20:57.167427",
+  "total_events": 32,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "22-02-2026",
-      "time": "21:00",
-      "datetime": "22-02-2026 21:00",
-      "league": "Laliga",
-      "teams": "Villarreal - Valencia",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (21:00) Laliga : Villarreal - Valencia  (CH2fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "21:00",
-      "datetime": "22-02-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Malaga - Albacete",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (21:00) Laliga 2 : Malaga - Albacete  (CH5fr) (CH53es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "21:00",
-      "datetime": "22-02-2026 21:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Juventud - Central Esp.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (21:00) Liga AUF Uruguaya : Juventud - Central Esp.  (CH109es)"
-    },
-    {
-      "date": "22-02-2026",
-      "time": "21:00",
-      "datetime": "22-02-2026 21:00",
-      "league": "Torneo LPF",
-      "teams": "San Lorenzo - Estudiantes Rio Cuarto",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-02-2026 (21:00) Torneo LPF : San Lorenzo - Estudiantes Rio Cuarto  (CH75es)"
-    },
     {
       "date": "22-02-2026",
       "time": "21:30",
@@ -572,7 +500,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:50:09.686389"
+      "extracted_at": "2026-02-22T23:20:50.068517"
     },
     "hoca": {
       "name": "hoca",
@@ -581,7 +509,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:50:11.617020"
+      "extracted_at": "2026-02-22T23:20:52.146983"
     },
     "Caster": {
       "name": "Caster",
@@ -590,7 +518,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:50:14.166247"
+      "extracted_at": "2026-02-22T23:20:54.109185"
     },
     "WIGI": {
       "name": "WIGI",
@@ -599,7 +527,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-22T22:50:16.503177"
+      "extracted_at": "2026-02-22T23:20:56.167287"
     }
   },
   "player_urls": {

@@ -1,104 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-23T23:01:19.274943",
-  "total_events": 9,
+  "last_updated": "2026-02-23T23:39:18.052279",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-02-2026",
-      "time": "21:00",
-      "datetime": "23-02-2026 21:00",
-      "league": "Laliga",
-      "teams": "Alaves - Girona",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (21:00) Laliga : Alaves - Girona  (CH4fr) (CH49es) (CH123de) (CH71es) (CH88es)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "21:00",
-      "datetime": "23-02-2026 21:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Moquegua - Deportivo Garcilaso",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (21:00) Liga 1 Te Apuesto : Moquegua - Deportivo Garcilaso  (CH84es)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "21:00",
-      "datetime": "23-02-2026 21:00",
-      "league": "Premier League",
-      "teams": "Everton - Manchester Utd",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (21:00) Premier League : Everton - Manchester Utd  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH72es) (CH87es)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "21:15",
-      "datetime": "23-02-2026 21:15",
-      "league": "Liga Portugal",
-      "teams": "Famalicao - Casa Pia",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "23-02-2026 (21:15) Liga Portugal : Famalicao - Casa Pia  (CH144pt)"
-    },
     {
       "date": "23-02-2026",
       "time": "22:00",
@@ -182,10 +90,11 @@
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://rereyano.ru/player/1/1",
-      "iframe_url": null,
+      "iframe_url": "https://doubttooth.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-02-23T23:00:41.333883"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-02-23T23:39:11.257275"
     },
     "hoca": {
       "name": "hoca",
@@ -194,7 +103,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:01:12.377244"
+      "extracted_at": "2026-02-23T23:39:13.258710"
     },
     "Caster": {
       "name": "Caster",
@@ -203,7 +112,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:01:15.336601"
+      "extracted_at": "2026-02-23T23:39:14.999636"
     },
     "WIGI": {
       "name": "WIGI",
@@ -212,7 +121,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:01:18.274803"
+      "extracted_at": "2026-02-23T23:39:17.052146"
     }
   },
   "player_urls": {

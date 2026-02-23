@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-23T23:39:18.052279",
-  "total_events": 5,
+  "last_updated": "2026-02-23T23:59:46.309884",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-02-2026",
-      "time": "22:00",
-      "datetime": "23-02-2026 22:00",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Cucuta - Deportes Tolima",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (22:00) Liga Betplay Dimayor : Cucuta - Deportes Tolima  (CH81es)"
-    },
     {
       "date": "24-02-2026",
       "time": "01:00",
@@ -35,9 +21,13 @@
         {
           "id": "170",
           "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
         }
       ],
-      "raw_line": "24-02-2026 (01:00) NBA : Detroit Pistons - San Antonio Spurs  (CH1fr) (CH170us)"
+      "raw_line": "24-02-2026 (01:00) NBA : Detroit Pistons - San Antonio Spurs  (CH1fr) (CH170us) (CH156es)"
     },
     {
       "date": "24-02-2026",
@@ -84,6 +74,622 @@
         }
       ],
       "raw_line": "24-02-2026 (03:30) NBA : Houston Rockets - Utah Jazz  (CH1fr) (CH172us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "14:00",
+      "datetime": "24-02-2026 14:00",
+      "league": "Youth League",
+      "teams": "Inter U19 - Betis U19",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (14:00) Youth League : Inter U19 - Betis U19  (CH161es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "16:00",
+      "datetime": "24-02-2026 16:00",
+      "league": "Youth League",
+      "teams": "Eintracht Frankfurt U19 - Sporting CP U19",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (16:00) Youth League : Eintracht Frankfurt U19 - Sporting CP U19  (CH162es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "18:45",
+      "datetime": "24-02-2026 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Atl. Madrid - Club Brugge KV",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (18:45) Ligue Des Champions : Atl. Madrid - Club Brugge KV  (CH12fr) (CH161es) (CH130gb) (CH139it) (CH87es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:00",
+      "datetime": "24-02-2026 20:00",
+      "league": "Saudi Pro League",
+      "teams": "Al Hazem - Al Ittihad",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "sa"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:00) Saudi Pro League : Al Hazem - Al Ittihad  (CH192sa)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:00",
+      "datetime": "24-02-2026 20:00",
+      "league": "Saudi Pro League",
+      "teams": "Al Khaleej - Al Kholood",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "sa"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:00) Saudi Pro League : Al Khaleej - Al Kholood  (CH193sa)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:00",
+      "datetime": "24-02-2026 20:00",
+      "league": "Saudi Pro League",
+      "teams": "Al Taawon - Al Hilal",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "191",
+          "lang": "sa"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:00) Saudi Pro League : Al Taawon - Al Hilal  (CH55es) (CH191sa) (CH125de) (CH144pt)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "Blackburn - Bristol City",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : Blackburn - Bristol City  (CH190us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "Hull - Derby",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : Hull - Derby  (CH191us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "Middlesbrough - Leicester",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : Middlesbrough - Leicester  (CH192us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "Swansea - Preston",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : Swansea - Preston  (CH193us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "Watford - Ipswich",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : Watford - Ipswich  (CH194us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "West Brom - Charlton",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : West Brom - Charlton  (CH195us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "20:45",
+      "datetime": "24-02-2026 20:45",
+      "league": "Championship",
+      "teams": "Wrexham - Portsmouth",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-02-2026 (20:45) Championship : Wrexham - Portsmouth  (CH196us)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "21:00",
+      "datetime": "24-02-2026 21:00",
+      "league": "Championship",
+      "teams": "Southampton - QPR",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (21:00) Championship : Southampton - QPR  (CH4fr) (CH127gb) (CH145pt) (CH98es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "21:00",
+      "datetime": "24-02-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Bayer Leverkusen - Olympiacos Piraeus",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Bayer Leverkusen - Olympiacos Piraeus  (CH13fr) (CH162es) (CH129gb) (CH140it) (CH88es) (CH78es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "21:00",
+      "datetime": "24-02-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Inter - Bodo/Glimt",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Inter - Bodo/Glimt  (CH12fr) (CH163es) (CH126gb) (CH139it) (CH87es) (CH68es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "21:00",
+      "datetime": "24-02-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Newcastle - Qarabag",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Newcastle - Qarabag  (CH14fr) (CH165es) (CH132gb) (CH138it) (CH91es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "21:00",
+      "datetime": "24-02-2026 21:00",
+      "league": "Torneo LPF",
+      "teams": "Platense - Defensa y Justicia",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (21:00) Torneo LPF : Platense - Defensa y Justicia  (CH75es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "23:15",
+      "datetime": "24-02-2026 23:15",
+      "league": "Torneo LPF",
+      "teams": "San Lorenzo - Instituto",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (23:15) Torneo LPF : San Lorenzo - Instituto  (CH76es)"
+    },
+    {
+      "date": "24-02-2026",
+      "time": "23:45",
+      "datetime": "24-02-2026 23:45",
+      "league": "Torneo LPF",
+      "teams": "Central Cordoba - Talleres Cordoba",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-02-2026 (23:45) Torneo LPF : Central Cordoba - Talleres Cordoba  (CH75es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:00",
+      "datetime": "25-02-2026 01:00",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:00) NBA : Indiana Pacers - Philadelphia 76ers  (CH170us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:15",
+      "datetime": "25-02-2026 01:15",
+      "league": "Copa Argentina",
+      "teams": "Boca Juniors - Chivilcoy",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:15) Copa Argentina : Boca Juniors - Chivilcoy  (CH77es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:30",
+      "datetime": "25-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - Washington Wizards",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:30) NBA : Atlanta Hawks - Washington Wizards  (CH171us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:30",
+      "datetime": "25-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:30) NBA : Brooklyn Nets - Dallas Mavericks  (CH172us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:30",
+      "datetime": "25-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - New York Knicks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "173",
+          "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:30) NBA : Cleveland Cavaliers - New York Knicks  (CH1fr) (CH173us) (CH155es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:30",
+      "datetime": "25-02-2026 01:30",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:30) NBA : Toronto Raptors - Oklahoma City Thunder  (CH174us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "01:30",
+      "datetime": "25-02-2026 01:30",
+      "league": "Torneo LPF",
+      "teams": "Belgrano - Atl. Tucuman",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (01:30) Torneo LPF : Belgrano - Atl. Tucuman  (CH76es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "02:00",
+      "datetime": "25-02-2026 02:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Nashville SC - Atl. Ottawa",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (02:00) Concacaf Champions Cup : Nashville SC - Atl. Ottawa  (CH68es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "02:00",
+      "datetime": "25-02-2026 02:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (02:00) NBA : Chicago Bulls - Charlotte Hornets  (CH175us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "02:00",
+      "datetime": "25-02-2026 02:00",
+      "league": "NBA",
+      "teams": "Milwaukee Bucks - Miami Heat",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (02:00) NBA : Milwaukee Bucks - Miami Heat  (CH176us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "02:00",
+      "datetime": "25-02-2026 02:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Golden State Warriors",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (02:00) NBA : New Orleans Pelicans - Golden State Warriors  (CH177us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "02:00",
+      "datetime": "25-02-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Gimnasia Mendoza - Independiente",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (02:00) Torneo LPF : Gimnasia Mendoza - Independiente  (CH75es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "03:00",
+      "datetime": "25-02-2026 03:00",
+      "league": "NBA",
+      "teams": "Phoenix Suns - Boston Celtics",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (03:00) NBA : Phoenix Suns - Boston Celtics  (CH178us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "04:00",
+      "datetime": "25-02-2026 04:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Los Angeles FC - Real Espana",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (04:00) Concacaf Champions Cup : Los Angeles FC - Real Espana  (CH68es)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "04:00",
+      "datetime": "25-02-2026 04:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-02-2026 (04:00) NBA : Portland Trail Blazers - Minnesota Timberwolves  (CH1fr) (CH179us)"
+    },
+    {
+      "date": "25-02-2026",
+      "time": "04:30",
+      "datetime": "25-02-2026 04:30",
+      "league": "NBA",
+      "teams": "Los Angeles Lakers - Orlando Magic",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-02-2026 (04:30) NBA : Los Angeles Lakers - Orlando Magic  (CH180us) (CH156es)"
     }
   ],
   "player_streams": {
@@ -94,7 +700,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:39:11.257275"
+      "extracted_at": "2026-02-23T23:59:39.167810"
     },
     "hoca": {
       "name": "hoca",
@@ -103,7 +709,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:39:13.258710"
+      "extracted_at": "2026-02-23T23:59:41.226326"
     },
     "Caster": {
       "name": "Caster",
@@ -112,7 +718,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:39:14.999636"
+      "extracted_at": "2026-02-23T23:59:43.608178"
     },
     "WIGI": {
       "name": "WIGI",
@@ -121,7 +727,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T23:39:17.052146"
+      "extracted_at": "2026-02-23T23:59:45.309735"
     }
   },
   "player_urls": {

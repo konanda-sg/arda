@@ -1,112 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-23T22:01:36.828912",
-  "total_events": 15,
+  "last_updated": "2026-02-23T23:01:19.274943",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-02-2026",
-      "time": "20:00",
-      "datetime": "23-02-2026 20:00",
-      "league": "Saudi Pro League",
-      "teams": "Al Qadsiah - Al Ettifaq",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "sa"
-        }
-      ],
-      "raw_line": "23-02-2026 (20:00) Saudi Pro League : Al Qadsiah - Al Ettifaq  (CH192sa)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "20:00",
-      "datetime": "23-02-2026 20:00",
-      "league": "Saudi Pro League",
-      "teams": "Al Shabab - Al Riyadh",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "sa"
-        }
-      ],
-      "raw_line": "23-02-2026 (20:00) Saudi Pro League : Al Shabab - Al Riyadh  (CH193sa)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "20:00",
-      "datetime": "23-02-2026 20:00",
-      "league": "Saudi Pro League",
-      "teams": "Damac - Al Ahli SC",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "sa"
-        }
-      ],
-      "raw_line": "23-02-2026 (20:00) Saudi Pro League : Damac - Al Ahli SC  (CH191sa)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "20:30",
-      "datetime": "23-02-2026 20:30",
-      "league": "Laliga 2",
-      "teams": "Cadiz CF - Real Sociedad B",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (20:30) Laliga 2 : Cadiz CF - Real Sociedad B  (CH53es)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "20:45",
-      "datetime": "23-02-2026 20:45",
-      "league": "Ligue 2",
-      "teams": "Le Mans - Guingamp",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "23-02-2026 (20:45) Ligue 2 : Le Mans - Guingamp  (CH1fr)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "20:45",
-      "datetime": "23-02-2026 20:45",
-      "league": "Serie A",
-      "teams": "Bologna - Udinese",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (20:45) Serie A : Bologna - Udinese  (CH138it) (CH124de) (CH145pt) (CH149gr) (CH98es)"
-    },
     {
       "date": "23-02-2026",
       "time": "21:00",
@@ -282,11 +182,10 @@
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://rereyano.ru/player/1/1",
-      "iframe_url": "https://doubttooth.net/embed/ysagetp2j4x",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-02-23T22:01:26.584731"
+      "status": "no_iframe",
+      "extracted_at": "2026-02-23T23:00:41.333883"
     },
     "hoca": {
       "name": "hoca",
@@ -295,7 +194,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T22:01:29.015428"
+      "extracted_at": "2026-02-23T23:01:12.377244"
     },
     "Caster": {
       "name": "Caster",
@@ -304,7 +203,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T22:01:33.187284"
+      "extracted_at": "2026-02-23T23:01:15.336601"
     },
     "WIGI": {
       "name": "WIGI",
@@ -313,7 +212,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T22:01:35.828774"
+      "extracted_at": "2026-02-23T23:01:18.274803"
     }
   },
   "player_urls": {

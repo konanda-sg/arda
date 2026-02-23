@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-23T04:21:03.438252",
-  "total_events": 20,
+  "last_updated": "2026-02-23T05:47:42.949593",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "23-02-2026",
-      "time": "02:30",
-      "datetime": "23-02-2026 02:30",
-      "league": "Liga Betplay Dimayor",
-      "teams": "America De Cali - Jaguares de Cordoba",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-02-2026 (02:30) Liga Betplay Dimayor : America De Cali - Jaguares de Cordoba  (CH81es)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "03:00",
-      "datetime": "23-02-2026 03:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Orlando Magic",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-02-2026 (03:00) NBA : Los Angeles Clippers - Orlando Magic  (CH190us)"
-    },
-    {
-      "date": "23-02-2026",
-      "time": "03:15",
-      "datetime": "23-02-2026 03:15",
-      "league": "MLS",
-      "teams": "Seattle Sounders - Colorado Rapids",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "23-02-2026 (03:15) MLS : Seattle Sounders - Colorado Rapids  (CH70es) (CH161us)"
-    },
     {
       "date": "23-02-2026",
       "time": "18:00",
@@ -392,7 +346,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T04:20:55.307378"
+      "extracted_at": "2026-02-23T05:47:33.972810"
     },
     "hoca": {
       "name": "hoca",
@@ -401,7 +355,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T04:20:57.764061"
+      "extracted_at": "2026-02-23T05:47:36.141427"
     },
     "Caster": {
       "name": "Caster",
@@ -410,7 +364,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T04:21:00.763433"
+      "extracted_at": "2026-02-23T05:47:39.024630"
     },
     "WIGI": {
       "name": "WIGI",
@@ -419,7 +373,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-23T04:21:02.438099"
+      "extracted_at": "2026-02-23T05:47:41.949435"
     }
   },
   "player_urls": {

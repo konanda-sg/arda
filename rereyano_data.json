@@ -1,62 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-24T02:39:24.992962",
-  "total_events": 40,
+  "last_updated": "2026-02-24T04:32:06.708265",
+  "total_events": 37,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "24-02-2026",
-      "time": "01:00",
-      "datetime": "24-02-2026 01:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "170",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-02-2026 (01:00) NBA : Detroit Pistons - San Antonio Spurs  (CH1fr) (CH170us) (CH156es)"
-    },
-    {
-      "date": "24-02-2026",
-      "time": "01:30",
-      "datetime": "24-02-2026 01:30",
-      "league": "Ecuador Ligapro",
-      "teams": "Libertad - Manta",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-02-2026 (01:30) Ecuador Ligapro : Libertad - Manta  (CH86es)"
-    },
-    {
-      "date": "24-02-2026",
-      "time": "02:00",
-      "datetime": "24-02-2026 02:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Sacramento Kings",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-02-2026 (02:00) NBA : Memphis Grizzlies - Sacramento Kings  (CH171us)"
-    },
     {
       "date": "24-02-2026",
       "time": "03:30",
@@ -700,7 +650,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T02:39:17.515604"
+      "extracted_at": "2026-02-24T04:31:59.537261"
     },
     "hoca": {
       "name": "hoca",
@@ -709,7 +659,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T02:39:19.388757"
+      "extracted_at": "2026-02-24T04:32:01.600596"
     },
     "Caster": {
       "name": "Caster",
@@ -718,7 +668,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T02:39:21.906219"
+      "extracted_at": "2026-02-24T04:32:03.625589"
     },
     "WIGI": {
       "name": "WIGI",
@@ -727,7 +677,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T02:39:23.992797"
+      "extracted_at": "2026-02-24T04:32:05.708124"
     }
   },
   "player_urls": {

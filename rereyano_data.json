@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-24T12:01:35.013917",
+  "last_updated": "2026-02-24T13:43:22.149951",
   "total_events": 36,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -55,15 +55,23 @@
           "lang": "gb"
         },
         {
+          "id": "123",
+          "lang": "de"
+        },
+        {
           "id": "139",
           "lang": "it"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
         },
         {
           "id": "87",
           "lang": "es"
         }
       ],
-      "raw_line": "24-02-2026 (18:45) Ligue Des Champions : Atl. Madrid - Club Brugge KV  (CH12fr) (CH161es) (CH130gb) (CH139it) (CH87es)"
+      "raw_line": "24-02-2026 (18:45) Ligue Des Champions : Atl. Madrid - Club Brugge KV  (CH12fr) (CH161es) (CH130gb) (CH123de) (CH139it) (CH141nl) (CH87es)"
     },
     {
       "date": "24-02-2026",
@@ -263,8 +271,20 @@
           "lang": "gb"
         },
         {
+          "id": "112",
+          "lang": "de"
+        },
+        {
           "id": "140",
           "lang": "it"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        },
+        {
+          "id": "143",
+          "lang": "nl"
         },
         {
           "id": "88",
@@ -275,7 +295,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Bayer Leverkusen - Olympiacos Piraeus  (CH13fr) (CH162es) (CH129gb) (CH140it) (CH88es) (CH78es)"
+      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Bayer Leverkusen - Olympiacos Piraeus  (CH13fr) (CH162es) (CH129gb) (CH112de) (CH140it) (CH148gr) (CH143nl) (CH88es) (CH78es)"
     },
     {
       "date": "24-02-2026",
@@ -297,8 +317,20 @@
           "lang": "gb"
         },
         {
+          "id": "113",
+          "lang": "de"
+        },
+        {
           "id": "139",
           "lang": "it"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
         },
         {
           "id": "87",
@@ -309,7 +341,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Inter - Bodo/Glimt  (CH12fr) (CH163es) (CH126gb) (CH139it) (CH87es) (CH68es)"
+      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Inter - Bodo/Glimt  (CH12fr) (CH163es) (CH126gb) (CH113de) (CH139it) (CH149gr) (CH141nl) (CH87es) (CH68es)"
     },
     {
       "date": "24-02-2026",
@@ -331,15 +363,27 @@
           "lang": "gb"
         },
         {
+          "id": "123",
+          "lang": "de"
+        },
+        {
           "id": "138",
           "lang": "it"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        },
+        {
+          "id": "142",
+          "lang": "nl"
         },
         {
           "id": "91",
           "lang": "es"
         }
       ],
-      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Newcastle - Qarabag  (CH14fr) (CH165es) (CH132gb) (CH138it) (CH91es)"
+      "raw_line": "24-02-2026 (21:00) Ligue Des Champions : Newcastle - Qarabag  (CH14fr) (CH165es) (CH132gb) (CH123de) (CH138it) (CH150gr) (CH142nl) (CH91es)"
     },
     {
       "date": "24-02-2026",
@@ -632,7 +676,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T12:01:26.327867"
+      "extracted_at": "2026-02-24T13:43:15.031056"
     },
     "hoca": {
       "name": "hoca",
@@ -641,7 +685,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T12:01:28.924357"
+      "extracted_at": "2026-02-24T13:43:17.143351"
     },
     "Caster": {
       "name": "Caster",
@@ -650,7 +694,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T12:01:31.797188"
+      "extracted_at": "2026-02-24T13:43:19.329338"
     },
     "WIGI": {
       "name": "WIGI",
@@ -659,7 +703,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-24T12:01:34.013787"
+      "extracted_at": "2026-02-24T13:43:21.149828"
     }
   },
   "player_urls": {

@@ -1,76 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-25T20:54:55.859310",
-  "total_events": 49,
+  "last_updated": "2026-02-25T21:31:09.696400",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "25-02-2026",
-      "time": "19:00",
-      "datetime": "25-02-2026 19:00",
-      "league": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Olympiacos",
-      "channels": [
-        {
-          "id": "64",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-02-2026 (19:00) EuroLeague : Zalgiris Kaunas - Olympiacos  (CH64es)"
-    },
-    {
-      "date": "25-02-2026",
-      "time": "19:00",
-      "datetime": "25-02-2026 19:00",
-      "league": "Laliga 2",
-      "teams": "Ceuta - Cordoba",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-02-2026 (19:00) Laliga 2 : Ceuta - Cordoba  (CH53es)"
-    },
-    {
-      "date": "25-02-2026",
-      "time": "20:00",
-      "datetime": "25-02-2026 20:00",
-      "league": "Saudi Pro League",
-      "teams": "Al Fayha - Neom SC",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "sa"
-        }
-      ],
-      "raw_line": "25-02-2026 (20:00) Saudi Pro League : Al Fayha - Neom SC  (CH181sa)"
-    },
-    {
-      "date": "25-02-2026",
-      "time": "20:00",
-      "datetime": "25-02-2026 20:00",
-      "league": "Saudi Pro League",
-      "teams": "Al Najma - Al Nassr",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "sa"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        },
-        {
-          "id": "166",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-02-2026 (20:00) Saudi Pro League : Al Najma - Al Nassr  (CH180sa) (CH125de) (CH166es)"
-    },
     {
       "date": "25-02-2026",
       "time": "20:30",
@@ -350,48 +286,6 @@
         }
       ],
       "raw_line": "25-02-2026 (21:00) Torneo LPF : Gimnasia L.P. - Rosario Central  (CH75es) (CH167es)"
-    },
-    {
-      "date": "25-02-2026",
-      "time": "22:00",
-      "datetime": "25-02-2026 22:00",
-      "league": "Serie A Bresil",
-      "teams": "Bahia - Chapecoense-SC",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "25-02-2026 (22:00) Serie A Bresil : Bahia - Chapecoense-SC  (CH170pt)"
-    },
-    {
-      "date": "25-02-2026",
-      "time": "22:00",
-      "datetime": "25-02-2026 22:00",
-      "league": "Serie A Bresil",
-      "teams": "Botafogo RJ - Vitoria",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "25-02-2026 (22:00) Serie A Bresil : Botafogo RJ - Vitoria  (CH171pt)"
-    },
-    {
-      "date": "25-02-2026",
-      "time": "22:00",
-      "datetime": "25-02-2026 22:00",
-      "league": "Serie A Bresil",
-      "teams": "Flamengo RJ - Mirassol",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "25-02-2026 (22:00) Serie A Bresil : Flamengo RJ - Mirassol  (CH172pt)"
     },
     {
       "date": "25-02-2026",
@@ -862,7 +756,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-25T20:54:48.937065"
+      "extracted_at": "2026-02-25T21:31:03.381164"
     },
     "hoca": {
       "name": "hoca",
@@ -871,7 +765,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-25T20:54:50.359329"
+      "extracted_at": "2026-02-25T21:31:05.276267"
     },
     "Caster": {
       "name": "Caster",
@@ -880,7 +774,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-25T20:54:52.453643"
+      "extracted_at": "2026-02-25T21:31:06.892933"
     },
     "WIGI": {
       "name": "WIGI",
@@ -889,7 +783,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-25T20:54:54.859162"
+      "extracted_at": "2026-02-25T21:31:08.696267"
     }
   },
   "player_urls": {

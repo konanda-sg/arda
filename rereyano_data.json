@@ -1,128 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-27T21:51:06.068911",
-  "total_events": 52,
+  "last_updated": "2026-02-27T22:18:45.080450",
+  "total_events": 45,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Eredivisie",
-      "teams": "Telstar - NAC Breda",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Eredivisie : Telstar - NAC Breda  (CH142nl)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Ligue 2",
-      "teams": "Multiplex Ligue 2 -",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Ligue 2 : Multiplex Ligue 2 -   (CH2fr)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Ligue 2",
-      "teams": "Bastia - Annecy",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Ligue 2 : Bastia - Annecy  (CH8fr)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Ligue 2",
-      "teams": "Clermont - Dunkerque",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Ligue 2 : Clermont - Dunkerque  (CH5fr)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Ligue 2",
-      "teams": "Grenoble - Boulogne",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Ligue 2 : Grenoble - Boulogne  (CH6fr)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Ligue 2",
-      "teams": "Laval - Nancy",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Ligue 2 : Laval - Nancy  (CH7fr)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Ligue 2",
-      "teams": "Montpellier - Reims",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Ligue 2 : Montpellier - Reims  (CH4fr)"
-    },
-    {
-      "date": "27-02-2026",
-      "time": "20:00",
-      "datetime": "27-02-2026 20:00",
-      "league": "Saudi Pro League",
-      "teams": "Al Shabab - Al Hilal",
-      "channels": [
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "27-02-2026 (20:00) Saudi Pro League : Al Shabab - Al Hilal  (CH61es) (CH70es)"
-    },
     {
       "date": "27-02-2026",
       "time": "20:30",
@@ -511,6 +395,20 @@
       "date": "28-02-2026",
       "time": "02:00",
       "datetime": "28-02-2026 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Mineros Zacatecas - Venados",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-02-2026 (02:00) Liga De Expansion Mx : Mineros Zacatecas - Venados  (CH105es)"
+    },
+    {
+      "date": "28-02-2026",
+      "time": "02:00",
+      "datetime": "28-02-2026 02:00",
       "league": "Liga Mx",
       "teams": "Mazatlan FC - Pachuca",
       "channels": [
@@ -884,7 +782,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-27T21:50:59.035878"
+      "extracted_at": "2026-02-27T22:18:36.722944"
     },
     "hoca": {
       "name": "hoca",
@@ -893,7 +791,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-27T21:51:00.821833"
+      "extracted_at": "2026-02-27T22:18:38.447204"
     },
     "Caster": {
       "name": "Caster",
@@ -902,7 +800,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-27T21:51:03.198094"
+      "extracted_at": "2026-02-27T22:18:41.729346"
     },
     "WIGI": {
       "name": "WIGI",
@@ -911,7 +809,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-27T21:51:05.068756"
+      "extracted_at": "2026-02-27T22:18:44.080307"
     }
   },
   "player_urls": {

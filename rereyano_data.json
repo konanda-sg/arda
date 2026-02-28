@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-02-28T10:46:40.000502",
-  "total_events": 127,
+  "last_updated": "2026-02-28T11:15:46.796556",
+  "total_events": 125,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-02-2026",
-      "time": "09:00",
-      "datetime": "28-02-2026 09:00",
-      "league": "Moto2",
-      "teams": "Grand Prix de Thaïlande\tLa course Sprint des Moto GP -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-02-2026 (09:00) Moto2 : Grand Prix de Thaïlande\tLa course Sprint des Moto GP -   (CH14fr) (CH60es)"
-    },
-    {
-      "date": "28-02-2026",
-      "time": "09:00",
-      "datetime": "28-02-2026 09:00",
-      "league": "MotoGP",
-      "teams": "Grand Prix de Thaïlande\tLa course des Moto GP -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-02-2026 (09:00) MotoGP : Grand Prix de Thaïlande\tLa course des Moto GP -   (CH14fr) (CH60es)"
-    },
     {
       "date": "28-02-2026",
       "time": "11:30",
@@ -965,10 +929,6 @@
           "lang": "gb"
         },
         {
-          "id": "150",
-          "lang": "gr"
-        },
-        {
           "id": "71",
           "lang": "es"
         },
@@ -977,7 +937,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "28-02-2026 (18:30) Bundesliga : Dortmund - Bayern Munich  (CH2fr) (CH111de) (CH128gb) (CH150gr) (CH71es) (CH87es)"
+      "raw_line": "28-02-2026 (18:30) Bundesliga : Dortmund - Bayern Munich  (CH2fr) (CH111de) (CH128gb) (CH71es) (CH87es)"
     },
     {
       "date": "28-02-2026",
@@ -2186,7 +2146,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-28T10:46:32.449373"
+      "extracted_at": "2026-02-28T11:15:38.745556"
     },
     "hoca": {
       "name": "hoca",
@@ -2195,7 +2155,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-28T10:46:34.488697"
+      "extracted_at": "2026-02-28T11:15:40.188844"
     },
     "Caster": {
       "name": "Caster",
@@ -2204,7 +2164,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-28T10:46:36.998495"
+      "extracted_at": "2026-02-28T11:15:42.816682"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2213,7 +2173,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-02-28T10:46:39.000350"
+      "extracted_at": "2026-02-28T11:15:45.796417"
     }
   },
   "player_urls": {

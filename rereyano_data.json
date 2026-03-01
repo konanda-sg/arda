@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-01T16:28:15.223777",
-  "total_events": 82,
+  "last_updated": "2026-03-01T16:52:15.744882",
+  "total_events": 80,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-03-2026",
-      "time": "14:30",
-      "datetime": "01-03-2026 14:30",
-      "league": "Eredivisie",
-      "teams": "FC Volendam - Groningen",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "01-03-2026 (14:30) Eredivisie : FC Volendam - Groningen  (CH142nl)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "14:30",
-      "datetime": "01-03-2026 14:30",
-      "league": "Eredivisie",
-      "teams": "Twente - Feyenoord",
-      "channels": [
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-03-2026 (14:30) Eredivisie : Twente - Feyenoord  (CH141nl) (CH98es) (CH125de)"
-    },
     {
       "date": "01-03-2026",
       "time": "15:00",
@@ -1416,7 +1380,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T16:28:07.426761"
+      "extracted_at": "2026-03-01T16:52:08.239310"
     },
     "hoca": {
       "name": "hoca",
@@ -1425,7 +1389,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T16:28:09.773196"
+      "extracted_at": "2026-03-01T16:52:10.593516"
     },
     "Caster": {
       "name": "Caster",
@@ -1434,7 +1398,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T16:28:11.939950"
+      "extracted_at": "2026-03-01T16:52:12.434676"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1443,7 +1407,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T16:28:14.223632"
+      "extracted_at": "2026-03-01T16:52:14.744730"
     }
   },
   "player_urls": {

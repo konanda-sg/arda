@@ -1,88 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-01T22:48:20.104929",
-  "total_events": 37,
+  "last_updated": "2026-03-01T23:19:00.011949",
+  "total_events": 33,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-03-2026",
-      "time": "21:00",
-      "datetime": "01-03-2026 21:00",
-      "league": "Laliga",
-      "teams": "Girona - Celta Vigo",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (21:00) Laliga : Girona - Celta Vigo  (CH1fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "21:00",
-      "datetime": "01-03-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Eibar - Cadiz CF",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (21:00) Laliga 2 : Eibar - Cadiz CF  (CH53es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "21:00",
-      "datetime": "01-03-2026 21:00",
-      "league": "Torneo LPF",
-      "teams": "Newells Old Boys - Rosario Central",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (21:00) Torneo LPF : Newells Old Boys - Rosario Central  (CH55es) (CH61es) (CH76es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "21:05",
-      "datetime": "01-03-2026 21:05",
-      "league": "Top 14",
-      "teams": "Section Paloise - Bordeaux Begles",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "01-03-2026 (21:05) Top 14 : Section Paloise - Bordeaux Begles  (CH11fr)"
-    },
     {
       "date": "01-03-2026",
       "time": "21:30",
@@ -566,7 +490,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T22:48:11.582302"
+      "extracted_at": "2026-03-01T23:18:51.612933"
     },
     "hoca": {
       "name": "hoca",
@@ -575,7 +499,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T22:48:13.892472"
+      "extracted_at": "2026-03-01T23:18:53.851276"
     },
     "Caster": {
       "name": "Caster",
@@ -584,7 +508,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T22:48:16.453028"
+      "extracted_at": "2026-03-01T23:18:56.787516"
     },
     "WIGI": {
       "name": "WIGI",
@@ -593,7 +517,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T22:48:19.104777"
+      "extracted_at": "2026-03-01T23:18:59.011806"
     }
   },
   "player_urls": {

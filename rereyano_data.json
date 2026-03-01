@@ -1,62 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-01T18:28:02.239801",
-  "total_events": 68,
+  "last_updated": "2026-03-01T18:56:39.115450",
+  "total_events": 65,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-03-2026",
-      "time": "16:30",
-      "datetime": "01-03-2026 16:30",
-      "league": "Betfred Super League",
-      "teams": "Volos - AEK Athens",
-      "channels": [
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "01-03-2026 (16:30) Betfred Super League : Volos - AEK Athens  (CH149gr)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "16:30",
-      "datetime": "01-03-2026 16:30",
-      "league": "Liga Portugal",
-      "teams": "Tondela - Santa Clara",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "01-03-2026 (16:30) Liga Portugal : Tondela - Santa Clara  (CH144pt)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "16:45",
-      "datetime": "01-03-2026 16:45",
-      "league": "Eredivisie",
-      "teams": "Utrecht - AZ Alkmaar",
-      "channels": [
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-03-2026 (16:45) Eredivisie : Utrecht - AZ Alkmaar  (CH141nl) (CH98es) (CH125de)"
-    },
     {
       "date": "01-03-2026",
       "time": "17:15",
@@ -1128,7 +1078,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T18:27:54.500175"
+      "extracted_at": "2026-03-01T18:56:32.069396"
     },
     "hoca": {
       "name": "hoca",
@@ -1137,7 +1087,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T18:27:56.568295"
+      "extracted_at": "2026-03-01T18:56:33.956344"
     },
     "Caster": {
       "name": "Caster",
@@ -1146,7 +1096,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T18:27:59.443583"
+      "extracted_at": "2026-03-01T18:56:36.396744"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1155,7 +1105,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T18:28:01.239658"
+      "extracted_at": "2026-03-01T18:56:38.115334"
     }
   },
   "player_urls": {

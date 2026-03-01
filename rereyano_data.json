@@ -1,48 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-01T05:35:33.121646",
-  "total_events": 101,
+  "last_updated": "2026-03-01T06:27:47.248086",
+  "total_events": 99,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-03-2026",
-      "time": "04:00",
-      "datetime": "01-03-2026 04:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Vancouver Canucks",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-03-2026 (04:00) NHL : Seattle Kraken - Vancouver Canucks  (CH197us)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "04:10",
-      "datetime": "01-03-2026 04:10",
-      "league": "Liga Mx",
-      "teams": "Club America - Tigres UANL",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (04:10) Liga Mx : Club America - Tigres UANL  (CH68es) (CH106es) (CH107es)"
-    },
     {
       "date": "01-03-2026",
       "time": "04:30",
@@ -1794,7 +1758,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T05:35:24.168044"
+      "extracted_at": "2026-03-01T06:27:34.238847"
     },
     "hoca": {
       "name": "hoca",
@@ -1803,7 +1767,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T05:35:26.650345"
+      "extracted_at": "2026-03-01T06:27:37.442045"
     },
     "Caster": {
       "name": "Caster",
@@ -1812,7 +1776,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T05:35:29.340046"
+      "extracted_at": "2026-03-01T06:27:40.548495"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1821,7 +1785,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T05:35:32.121387"
+      "extracted_at": "2026-03-01T06:27:46.247939"
     }
   },
   "player_urls": {

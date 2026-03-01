@@ -1,220 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-01T19:20:40.262238",
-  "total_events": 61,
+  "last_updated": "2026-03-01T19:42:22.005593",
+  "total_events": 51,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-03-2026",
-      "time": "17:30",
-      "datetime": "01-03-2026 17:30",
-      "league": "Bundesliga",
-      "teams": "Eintracht Frankfurt - Freiburg",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (17:30) Bundesliga : Eintracht Frankfurt - Freiburg  (CH4fr) (CH124de) (CH116es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "17:30",
-      "datetime": "01-03-2026 17:30",
-      "league": "Premier League",
-      "teams": "Arsenal - Chelsea",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "01-03-2026 (17:30) Premier League : Arsenal - Chelsea  (CH11fr) (CH127gb) (CH56es) (CH61es) (CH73es) (CH87es) (CH120de)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:00",
-      "datetime": "01-03-2026 18:00",
-      "league": "Betfred Super League",
-      "teams": "PAOK - Asteras Tripolis",
-      "channels": [
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:00) Betfred Super League : PAOK - Asteras Tripolis  (CH150gr)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:00",
-      "datetime": "01-03-2026 18:00",
-      "league": "Ecuador Ligapro",
-      "teams": "LDU Quito - Macara",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:00) Ecuador Ligapro : LDU Quito - Macara  (CH86es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:00",
-      "datetime": "01-03-2026 18:00",
-      "league": "Serie A",
-      "teams": "Torino - Lazio",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:00) Serie A : Torino - Lazio  (CH138it) (CH145pt) (CH70es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:00",
-      "datetime": "01-03-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Antalyaspor - Fenerbahce",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:00) Super Lig : Antalyaspor - Fenerbahce  (CH5fr) (CH151tr) (CH78es) (CH91es) (CH99es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:00",
-      "datetime": "01-03-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Samsunspor - Gaziantep",
-      "channels": [
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:00) Super Lig : Samsunspor - Gaziantep  (CH152tr)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:30",
-      "datetime": "01-03-2026 18:30",
-      "league": "Laliga",
-      "teams": "Betis - Sevilla",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:30) Laliga : Betis - Sevilla  (CH2fr) (CH51es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:30",
-      "datetime": "01-03-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Cultural Leonesa - Las Palmas",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:30) Laliga 2 : Cultural Leonesa - Las Palmas  (CH53es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "18:30",
-      "datetime": "01-03-2026 18:30",
-      "league": "Pro League",
-      "teams": "Charleroi - Club Brugge KV",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "01-03-2026 (18:30) Pro League : Charleroi - Club Brugge KV  (CH153nl)"
-    },
     {
       "date": "01-03-2026",
       "time": "19:00",
@@ -1018,7 +810,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T19:20:32.104372"
+      "extracted_at": "2026-03-01T19:42:14.272188"
     },
     "hoca": {
       "name": "hoca",
@@ -1027,7 +819,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T19:20:34.173658"
+      "extracted_at": "2026-03-01T19:42:16.675062"
     },
     "Caster": {
       "name": "Caster",
@@ -1036,7 +828,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T19:20:37.088186"
+      "extracted_at": "2026-03-01T19:42:18.694233"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1045,7 +837,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T19:20:39.262094"
+      "extracted_at": "2026-03-01T19:42:21.005446"
     }
   },
   "player_urls": {

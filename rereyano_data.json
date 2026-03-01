@@ -1,78 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-01T15:57:37.406942",
-  "total_events": 85,
+  "last_updated": "2026-03-01T16:28:15.223777",
+  "total_events": 82,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-03-2026",
-      "time": "14:00",
-      "datetime": "01-03-2026 14:00",
-      "league": "Laliga",
-      "teams": "Elche - Espanyol",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (14:00) Laliga : Elche - Espanyol  (CH2fr) (CH49es) (CH124de) (CH71es) (CH88es) (CH107es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "14:00",
-      "datetime": "01-03-2026 14:00",
-      "league": "Laliga 2",
-      "teams": "Real Sociedad B - Dep. La Coruna",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-03-2026 (14:00) Laliga 2 : Real Sociedad B - Dep. La Coruna  (CH5fr) (CH53es)"
-    },
-    {
-      "date": "01-03-2026",
-      "time": "14:00",
-      "datetime": "01-03-2026 14:00",
-      "league": "Super Lig",
-      "teams": "Genclerbirligi - Kayserispor",
-      "channels": [
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "01-03-2026 (14:00) Super Lig : Genclerbirligi - Kayserispor  (CH151tr)"
-    },
     {
       "date": "01-03-2026",
       "time": "14:30",
@@ -1482,7 +1416,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T15:57:29.858582"
+      "extracted_at": "2026-03-01T16:28:07.426761"
     },
     "hoca": {
       "name": "hoca",
@@ -1491,7 +1425,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T15:57:31.245114"
+      "extracted_at": "2026-03-01T16:28:09.773196"
     },
     "Caster": {
       "name": "Caster",
@@ -1500,7 +1434,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T15:57:34.153963"
+      "extracted_at": "2026-03-01T16:28:11.939950"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1509,7 +1443,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-01T15:57:36.406805"
+      "extracted_at": "2026-03-01T16:28:14.223632"
     }
   },
   "player_urls": {

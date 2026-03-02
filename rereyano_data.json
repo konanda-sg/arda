@@ -1,66 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-02T22:22:43.727515",
-  "total_events": 64,
+  "last_updated": "2026-03-02T22:54:03.421715",
+  "total_events": 61,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-03-2026",
-      "time": "20:30",
-      "datetime": "02-03-2026 20:30",
-      "league": "Laliga 2",
-      "teams": "Cordoba - Andorra",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-03-2026 (20:30) Laliga 2 : Cordoba - Andorra  (CH53es)"
-    },
-    {
-      "date": "02-03-2026",
-      "time": "20:45",
-      "datetime": "02-03-2026 20:45",
-      "league": "Ligue 2",
-      "teams": "Amiens - Troyes",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "02-03-2026 (20:45) Ligue 2 : Amiens - Troyes  (CH1fr)"
-    },
-    {
-      "date": "02-03-2026",
-      "time": "20:45",
-      "datetime": "02-03-2026 20:45",
-      "league": "Serie A",
-      "teams": "Udinese - Fiorentina",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-03-2026 (20:45) Serie A : Udinese - Fiorentina  (CH138it) (CH124de) (CH145pt) (CH70es)"
-    },
     {
       "date": "02-03-2026",
       "time": "21:00",
@@ -1132,7 +1078,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-02T22:22:36.443037"
+      "extracted_at": "2026-03-02T22:53:55.196720"
     },
     "hoca": {
       "name": "hoca",
@@ -1141,7 +1087,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-02T22:22:38.428159"
+      "extracted_at": "2026-03-02T22:53:57.549072"
     },
     "Caster": {
       "name": "Caster",
@@ -1150,7 +1096,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-02T22:22:40.815695"
+      "extracted_at": "2026-03-02T22:54:00.160941"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1159,7 +1105,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-02T22:22:42.727372"
+      "extracted_at": "2026-03-02T22:54:02.421554"
     }
   },
   "player_urls": {

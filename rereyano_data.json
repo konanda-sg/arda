@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-03T17:46:21.383418",
-  "total_events": 41,
+  "last_updated": "2026-03-03T18:29:04.874229",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -58,10 +58,24 @@
       "time": "20:30",
       "datetime": "03-03-2026 20:30",
       "league": "Premier League",
+      "teams": "Multiplex Premier League -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "03-03-2026 (20:30) Premier League : Multiplex Premier League -   (CH14fr)"
+    },
+    {
+      "date": "03-03-2026",
+      "time": "20:30",
+      "datetime": "03-03-2026 20:30",
+      "league": "Premier League",
       "teams": "Bournemouth - Brentford",
       "channels": [
         {
-          "id": "32",
+          "id": "34",
           "lang": "fr"
         },
         {
@@ -73,7 +87,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "03-03-2026 (20:30) Premier League : Bournemouth - Brentford  (CH32fr) (CH132gb) (CH58es)"
+      "raw_line": "03-03-2026 (20:30) Premier League : Bournemouth - Brentford  (CH34fr) (CH132gb) (CH58es)"
     },
     {
       "date": "03-03-2026",
@@ -83,7 +97,7 @@
       "teams": "Everton - Burnley",
       "channels": [
         {
-          "id": "33",
+          "id": "35",
           "lang": "fr"
         },
         {
@@ -95,7 +109,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "03-03-2026 (20:30) Premier League : Everton - Burnley  (CH33fr) (CH131gb) (CH88es)"
+      "raw_line": "03-03-2026 (20:30) Premier League : Everton - Burnley  (CH35fr) (CH131gb) (CH88es)"
     },
     {
       "date": "03-03-2026",
@@ -105,7 +119,7 @@
       "teams": "Leeds - Sunderland",
       "channels": [
         {
-          "id": "34",
+          "id": "13",
           "lang": "fr"
         },
         {
@@ -117,7 +131,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "03-03-2026 (20:30) Premier League : Leeds - Sunderland  (CH34fr) (CH130gb) (CH59es)"
+      "raw_line": "03-03-2026 (20:30) Premier League : Leeds - Sunderland  (CH13fr) (CH130gb) (CH59es)"
     },
     {
       "date": "03-03-2026",
@@ -730,7 +744,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T17:46:13.442919"
+      "extracted_at": "2026-03-03T18:28:52.211775"
     },
     "hoca": {
       "name": "hoca",
@@ -739,7 +753,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T17:46:15.538432"
+      "extracted_at": "2026-03-03T18:28:54.981003"
     },
     "Caster": {
       "name": "Caster",
@@ -748,7 +762,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T17:46:17.728518"
+      "extracted_at": "2026-03-03T18:28:58.870075"
     },
     "WIGI": {
       "name": "WIGI",
@@ -757,7 +771,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T17:46:20.383285"
+      "extracted_at": "2026-03-03T18:29:03.873952"
     }
   },
   "player_urls": {

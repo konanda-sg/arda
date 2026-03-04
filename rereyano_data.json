@@ -1,148 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-04T03:54:23.257916",
-  "total_events": 52,
+  "last_updated": "2026-03-04T05:06:30.421070",
+  "total_events": 44,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "04-03-2026",
-      "time": "02:00",
-      "datetime": "04-03-2026 02:00",
-      "league": "Liga Mx",
-      "teams": "Pachuca - Necaxa",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-03-2026 (02:00) Liga Mx : Pachuca - Necaxa  (CH158es)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "02:00",
-      "datetime": "04-03-2026 02:00",
-      "league": "Liga Mx",
-      "teams": "Santos Laguna - Cruz Azul",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-03-2026 (02:00) Liga Mx : Santos Laguna - Cruz Azul  (CH68es) (CH97es) (CH106es) (CH107es)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "02:00",
-      "datetime": "04-03-2026 02:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-03-2026 (02:00) NBA : Chicago Bulls - Oklahoma City Thunder  (CH190us)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "02:00",
-      "datetime": "04-03-2026 02:00",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        },
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-03-2026 (02:00) NBA : Minnesota Timberwolves - Memphis Grizzlies  (CH156es) (CH191us)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "02:00",
-      "datetime": "04-03-2026 02:00",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        },
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-03-2026 (02:00) NBA : Philadelphia 76ers - San Antonio Spurs  (CH1fr) (CH155es) (CH192us)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "02:00",
-      "datetime": "04-03-2026 02:00",
-      "league": "NHL",
-      "teams": "Winnipeg Jets - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-03-2026 (02:00) NHL : Winnipeg Jets - Chicago Blackhawks  (CH193us)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "03:00",
-      "datetime": "04-03-2026 03:00",
-      "league": "NHL",
-      "teams": "Calgary Flames - Dallas Stars",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-03-2026 (03:00) NHL : Calgary Flames - Dallas Stars  (CH194us)"
-    },
-    {
-      "date": "04-03-2026",
-      "time": "03:00",
-      "datetime": "04-03-2026 03:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Ottawa Senators",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-03-2026 (03:00) NHL : Edmonton Oilers - Ottawa Senators  (CH195us)"
-    },
     {
       "date": "04-03-2026",
       "time": "03:30",
@@ -948,7 +812,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-04T03:54:16.009482"
+      "extracted_at": "2026-03-04T05:06:17.179446"
     },
     "hoca": {
       "name": "hoca",
@@ -957,7 +821,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-04T03:54:17.386001"
+      "extracted_at": "2026-03-04T05:06:22.392531"
     },
     "Caster": {
       "name": "Caster",
@@ -966,7 +830,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-04T03:54:20.302347"
+      "extracted_at": "2026-03-04T05:06:25.118109"
     },
     "WIGI": {
       "name": "WIGI",
@@ -975,7 +839,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-04T03:54:22.257786"
+      "extracted_at": "2026-03-04T05:06:29.420902"
     }
   },
   "player_urls": {

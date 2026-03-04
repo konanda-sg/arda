@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-03T23:49:01.106467",
-  "total_events": 28,
+  "last_updated": "2026-03-04T01:42:15.343110",
+  "total_events": 63,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "03-03-2026",
-      "time": "23:00",
-      "datetime": "03-03-2026 23:00",
-      "league": "Torneo LPF",
-      "teams": "Sarmiento Junin - Estudiantes Rio Cuarto",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-03-2026 (23:00) Torneo LPF : Sarmiento Junin - Estudiantes Rio Cuarto  (CH75es)"
-    },
-    {
-      "date": "03-03-2026",
-      "time": "23:15",
-      "datetime": "03-03-2026 23:15",
-      "league": "Torneo LPF",
-      "teams": "Huracan - Belgrano",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "03-03-2026 (23:15) Torneo LPF : Huracan - Belgrano  (CH76es)"
-    },
     {
       "date": "04-03-2026",
       "time": "01:00",
@@ -442,6 +414,688 @@
         }
       ],
       "raw_line": "04-03-2026 (05:00) NBA : Sacramento Kings - Phoenix Suns  (CH1fr) (CH200us)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "12:30",
+      "datetime": "04-03-2026 12:30",
+      "league": "Coupe De Turquie",
+      "teams": "Erzurumspor - Keciorengucu",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "04-03-2026 (12:30) Coupe De Turquie : Erzurumspor - Keciorengucu  (CH151tr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "17:00",
+      "datetime": "04-03-2026 17:00",
+      "league": "Betfred Super League",
+      "teams": "Panathinaikos - OFI Crete",
+      "channels": [
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "04-03-2026 (17:00) Betfred Super League : Panathinaikos - OFI Crete  (CH149gr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "18:30",
+      "datetime": "04-03-2026 18:30",
+      "league": "Coupe De Turquie",
+      "teams": "Besiktas - Rizespor",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "04-03-2026 (18:30) Coupe De Turquie : Besiktas - Rizespor  (CH165tr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "18:30",
+      "datetime": "04-03-2026 18:30",
+      "league": "Coupe De Turquie",
+      "teams": "Beyoglu Yeni Carsi - Kocaelispor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "04-03-2026 (18:30) Coupe De Turquie : Beyoglu Yeni Carsi - Kocaelispor  (CH151tr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "18:30",
+      "datetime": "04-03-2026 18:30",
+      "league": "Coupe De Turquie",
+      "teams": "Gaziantep - Fenerbahce",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "04-03-2026 (18:30) Coupe De Turquie : Gaziantep - Fenerbahce  (CH152tr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "19:00",
+      "datetime": "04-03-2026 19:00",
+      "league": "Betfred Super League",
+      "teams": "Kifisia - PAOK",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "04-03-2026 (19:00) Betfred Super League : Kifisia - PAOK  (CH148gr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "19:00",
+      "datetime": "04-03-2026 19:00",
+      "league": "Laliga",
+      "teams": "Rayo Vallecano - Oviedo",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (19:00) Laliga : Rayo Vallecano - Oviedo  (CH5fr) (CH51es) (CH124de) (CH150gr) (CH89es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:00",
+      "datetime": "04-03-2026 20:00",
+      "league": "Knvb Beker",
+      "teams": "AZ Alkmaar - Telstar",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:00) Knvb Beker : AZ Alkmaar - Telstar  (CH141nl) (CH125de) (CH95es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:30",
+      "datetime": "04-03-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "Hamburger SV - Bayer Leverkusen",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "116",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:30) Bundesliga : Hamburger SV - Bayer Leverkusen  (CH4fr) (CH111de) (CH116es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:30",
+      "datetime": "04-03-2026 20:30",
+      "league": "Coupe De France",
+      "teams": "Lorient - Nice",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:30) Coupe De France : Lorient - Nice  (CH2fr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:30",
+      "datetime": "04-03-2026 20:30",
+      "league": "Premier League",
+      "teams": "Aston Villa - Chelsea",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "58",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:30) Premier League : Aston Villa - Chelsea  (CH14fr) (CH131gb) (CH58es) (CH91es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:30",
+      "datetime": "04-03-2026 20:30",
+      "league": "Premier League",
+      "teams": "Brighton - Arsenal",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:30) Premier League : Brighton - Arsenal  (CH13fr) (CH130gb) (CH56es) (CH88es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:30",
+      "datetime": "04-03-2026 20:30",
+      "league": "Premier League",
+      "teams": "Fulham - West Ham",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "133",
+          "lang": "gb"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:30) Premier League : Fulham - West Ham  (CH35fr) (CH133gb) (CH167es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "20:30",
+      "datetime": "04-03-2026 20:30",
+      "league": "Premier League",
+      "teams": "Manchester City - Nottingham",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (20:30) Premier League : Manchester City - Nottingham  (CH34fr) (CH132gb) (CH55es) (CH57es) (CH61es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "21:00",
+      "datetime": "04-03-2026 21:00",
+      "league": "Coppa Italia",
+      "teams": "Lazio - Atalanta",
+      "channels": [
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (21:00) Coppa Italia : Lazio - Atalanta  (CH140it) (CH123de) (CH145pt) (CH94es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "21:00",
+      "datetime": "04-03-2026 21:00",
+      "league": "Coupe De France",
+      "teams": "Marseille - Toulouse",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "04-03-2026 (21:00) Coupe De France : Marseille - Toulouse  (CH1fr)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "21:00",
+      "datetime": "04-03-2026 21:00",
+      "league": "Coupe Du Roi",
+      "teams": "Real Sociedad - Ath Bilbao",
+      "channels": [
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-03-2026 (21:00) Coupe Du Roi : Real Sociedad - Ath Bilbao  (CH49es) (CH60es) (CH124de) (CH144pt) (CH82es)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "21:00",
+      "datetime": "04-03-2026 21:00",
+      "league": "Premiership",
+      "teams": "Aberdeen - Celtic",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "135",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "04-03-2026 (21:00) Premiership : Aberdeen - Celtic  (CH127gb) (CH135gb)"
+    },
+    {
+      "date": "04-03-2026",
+      "time": "21:15",
+      "datetime": "04-03-2026 21:15",
+      "league": "Premier League",
+      "teams": "Newcastle - Manchester Utd",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "04-03-2026 (21:15) Premier League : Newcastle - Manchester Utd  (CH12fr) (CH126gb) (CH59es) (CH150gr)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "01:00",
+      "datetime": "05-03-2026 01:00",
+      "league": "NBA",
+      "teams": "New York Knicks - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (01:00) NBA : New York Knicks - Oklahoma City Thunder  (CH1fr) (CH180us) (CH155es) (CH90es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "01:00",
+      "datetime": "05-03-2026 01:00",
+      "league": "NHL",
+      "teams": "Detroit Red Wings - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (01:00) NHL : Detroit Red Wings - Vegas Golden Knights  (CH4fr) (CH181us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "01:00",
+      "datetime": "05-03-2026 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Toronto Maple Leafs",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (01:00) NHL : New Jersey Devils - Toronto Maple Leafs  (CH182us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "01:00",
+      "datetime": "05-03-2026 01:00",
+      "league": "Torneo LPF",
+      "teams": "Lanus - Boca Juniors",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "05-03-2026 (01:00) Torneo LPF : Lanus - Boca Juniors  (CH76es) (CH144pt)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "01:30",
+      "datetime": "05-03-2026 01:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (01:30) NBA : Boston Celtics - Charlotte Hornets  (CH2fr) (CH183us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "01:30",
+      "datetime": "05-03-2026 01:30",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Utah Jazz",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (01:30) NBA : Philadelphia 76ers - Utah Jazz  (CH184us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "02:00",
+      "datetime": "05-03-2026 02:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Fortaleza - Jaguares de Cordoba",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (02:00) Liga Betplay Dimayor : Fortaleza - Jaguares de Cordoba  (CH81es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "02:00",
+      "datetime": "05-03-2026 02:00",
+      "league": "Liga Mx",
+      "teams": "Monterrey - Queretaro",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (02:00) Liga Mx : Monterrey - Queretaro  (CH68es) (CH106es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "02:00",
+      "datetime": "05-03-2026 02:00",
+      "league": "Liga Mx",
+      "teams": "Puebla - Tigres UANL",
+      "channels": [
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (02:00) Liga Mx : Puebla - Tigres UANL  (CH108es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "02:00",
+      "datetime": "05-03-2026 02:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (02:00) NBA : Memphis Grizzlies - Portland Trail Blazers  (CH185us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "03:30",
+      "datetime": "05-03-2026 03:30",
+      "league": "NBA",
+      "teams": "Milwaukee Bucks - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (03:30) NBA : Milwaukee Bucks - Atlanta Hawks  (CH186us) (CH156es) (CH90es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:00",
+      "datetime": "05-03-2026 04:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Atletico La Paz - Leones Negros",
+      "channels": [
+        {
+          "id": "166",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:00) Liga De Expansion Mx : Atletico La Paz - Leones Negros  (CH166es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:00",
+      "datetime": "05-03-2026 04:00",
+      "league": "Liga Mx",
+      "teams": "Atlas - Club Tijuana",
+      "channels": [
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:00) Liga Mx : Atlas - Club Tijuana  (CH158es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:00",
+      "datetime": "05-03-2026 04:00",
+      "league": "Liga Mx",
+      "teams": "Club America - Juarez",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:00) Liga Mx : Club America - Juarez  (CH68es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:00",
+      "datetime": "05-03-2026 04:00",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - New York Islanders",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:00) NHL : Anaheim Ducks - New York Islanders  (CH187us) (CH89es)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:00",
+      "datetime": "05-03-2026 04:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - St. Louis Blues",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:00) NHL : Seattle Kraken - St. Louis Blues  (CH188us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:00",
+      "datetime": "05-03-2026 04:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - Carolina Hurricanes",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:00) NHL : Vancouver Canucks - Carolina Hurricanes  (CH189us)"
+    },
+    {
+      "date": "05-03-2026",
+      "time": "04:30",
+      "datetime": "05-03-2026 04:30",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - Indiana Pacers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "05-03-2026 (04:30) NBA : Los Angeles Clippers - Indiana Pacers  (CH190us)"
     }
   ],
   "player_streams": {
@@ -452,7 +1106,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T23:48:54.106477"
+      "extracted_at": "2026-03-04T01:42:08.453664"
     },
     "hoca": {
       "name": "hoca",
@@ -461,7 +1115,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T23:48:56.040982"
+      "extracted_at": "2026-03-04T01:42:10.417841"
     },
     "Caster": {
       "name": "Caster",
@@ -470,7 +1124,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T23:48:58.398954"
+      "extracted_at": "2026-03-04T01:42:12.732563"
     },
     "WIGI": {
       "name": "WIGI",
@@ -479,7 +1133,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-03T23:49:00.106321"
+      "extracted_at": "2026-03-04T01:42:14.342964"
     }
   },
   "player_urls": {

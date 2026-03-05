@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-05T06:09:35.965140",
-  "total_events": 1,
+  "last_updated": "2026-03-05T07:10:32.371027",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "05-03-2026",
-      "time": "04:30",
-      "datetime": "05-03-2026 04:30",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Indiana Pacers",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-03-2026 (04:30) NBA : Los Angeles Clippers - Indiana Pacers  (CH190us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -30,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-05T06:09:28.816133"
+      "extracted_at": "2026-03-05T07:10:23.339527"
     },
     "hoca": {
       "name": "hoca",
@@ -39,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-05T06:09:30.786857"
+      "extracted_at": "2026-03-05T07:10:25.719037"
     },
     "Caster": {
       "name": "Caster",
@@ -48,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-05T06:09:33.292483"
+      "extracted_at": "2026-03-05T07:10:28.736061"
     },
     "WIGI": {
       "name": "WIGI",
@@ -57,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-05T06:09:34.965018"
+      "extracted_at": "2026-03-05T07:10:31.370865"
     }
   },
   "player_urls": {

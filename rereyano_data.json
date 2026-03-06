@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-06T00:03:18.680445",
-  "total_events": 19,
+  "last_updated": "2026-03-06T02:52:03.030314",
+  "total_events": 20,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-03-2026",
-      "time": "00:10",
-      "datetime": "06-03-2026 00:10",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Llaneros - Inter Bogotá",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (00:10) Liga Betplay Dimayor : Llaneros - Inter Bogotá  (CH81es)"
-    },
     {
       "date": "06-03-2026",
       "time": "01:00",
@@ -191,6 +177,24 @@
     },
     {
       "date": "06-03-2026",
+      "time": "02:15",
+      "datetime": "06-03-2026 02:15",
+      "league": "formula 1",
+      "teams": "GP d’Australie Essais libres 1 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-03-2026 (02:15) formula 1 : GP d’Australie Essais libres 1 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "06-03-2026",
       "time": "02:20",
       "datetime": "06-03-2026 02:20",
       "league": "Liga Betplay Dimayor",
@@ -272,6 +276,24 @@
         }
       ],
       "raw_line": "06-03-2026 (04:00) NBA : Sacramento Kings - New Orleans Pelicans  (CH196us)"
+    },
+    {
+      "date": "06-03-2026",
+      "time": "06:00",
+      "datetime": "06-03-2026 06:00",
+      "league": "formula 1",
+      "teams": "Grand Prix d’Australie Essais libres 2 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-03-2026 (06:00) formula 1 : Grand Prix d’Australie Essais libres 2 -   (CH13fr) (CH60es)"
     }
   ],
   "player_streams": {
@@ -282,7 +304,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T00:03:11.676034"
+      "extracted_at": "2026-03-06T02:51:55.321533"
     },
     "hoca": {
       "name": "hoca",
@@ -291,7 +313,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T00:03:13.244628"
+      "extracted_at": "2026-03-06T02:51:57.314789"
     },
     "Caster": {
       "name": "Caster",
@@ -300,7 +322,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T00:03:15.627543"
+      "extracted_at": "2026-03-06T02:51:59.850829"
     },
     "WIGI": {
       "name": "WIGI",
@@ -309,7 +331,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T00:03:17.680277"
+      "extracted_at": "2026-03-06T02:52:02.030166"
     }
   },
   "player_urls": {

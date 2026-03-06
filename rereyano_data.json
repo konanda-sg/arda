@@ -1,31 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-06T07:56:49.577407",
-  "total_events": 1,
+  "last_updated": "2026-03-06T08:35:36.874430",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "06-03-2026",
-      "time": "06:00",
-      "datetime": "06-03-2026 06:00",
-      "league": "formula 1",
-      "teams": "Grand Prix d’Australie Essais libres 2 -",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (06:00) formula 1 : Grand Prix d’Australie Essais libres 2 -   (CH13fr) (CH60es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -34,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T07:56:42.190889"
+      "extracted_at": "2026-03-06T08:35:29.796565"
     },
     "hoca": {
       "name": "hoca",
@@ -43,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T07:56:44.133051"
+      "extracted_at": "2026-03-06T08:35:31.588457"
     },
     "Caster": {
       "name": "Caster",
@@ -52,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T07:56:46.510045"
+      "extracted_at": "2026-03-06T08:35:33.976763"
     },
     "WIGI": {
       "name": "WIGI",
@@ -61,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T07:56:48.577263"
+      "extracted_at": "2026-03-06T08:35:35.874258"
     }
   },
   "player_urls": {

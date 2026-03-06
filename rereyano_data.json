@@ -1,124 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-06T22:22:36.809976",
-  "total_events": 36,
+  "last_updated": "2026-03-06T22:54:30.723092",
+  "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-03-2026",
-      "time": "20:30",
-      "datetime": "06-03-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "Bayern Munich - B. Monchengladbach",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (20:30) Bundesliga : Bayern Munich - B. Monchengladbach  (CH9fr) (CH111de) (CH116es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "20:30",
-      "datetime": "06-03-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Baskonia - Paris",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (20:30) EuroLeague : Baskonia - Paris  (CH62es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "20:30",
-      "datetime": "06-03-2026 20:30",
-      "league": "Laliga 2",
-      "teams": "Cadiz CF - Zaragoza",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (20:30) Laliga 2 : Cadiz CF - Zaragoza  (CH53es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "20:45",
-      "datetime": "06-03-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "PSG - Monaco",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (20:45) Ligue 1 : PSG - Monaco  (CH1fr) (CH20fr) (CH69es) (CH91es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "20:45",
-      "datetime": "06-03-2026 20:45",
-      "league": "Pro League",
-      "teams": "RAAL La Louviere - Antwerp",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-03-2026 (20:45) Pro League : RAAL La Louviere - Antwerp  (CH153fr)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "20:45",
-      "datetime": "06-03-2026 20:45",
-      "league": "Serie A",
-      "teams": "Napoli - Torino",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "164",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (20:45) Serie A : Napoli - Torino  (CH137it) (CH149gr) (CH164es)"
-    },
     {
       "date": "06-03-2026",
       "time": "21:00",
@@ -612,7 +500,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:22:29.542304"
+      "extracted_at": "2026-03-06T22:54:24.127910"
     },
     "hoca": {
       "name": "hoca",
@@ -621,7 +509,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:22:32.075500"
+      "extracted_at": "2026-03-06T22:54:26.045315"
     },
     "Caster": {
       "name": "Caster",
@@ -630,7 +518,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:22:34.091289"
+      "extracted_at": "2026-03-06T22:54:28.043742"
     },
     "WIGI": {
       "name": "WIGI",
@@ -639,7 +527,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:22:35.809774"
+      "extracted_at": "2026-03-06T22:54:29.722947"
     }
   },
   "player_urls": {

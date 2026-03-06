@@ -1,132 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-06T22:54:30.723092",
-  "total_events": 30,
+  "last_updated": "2026-03-06T23:23:52.489663",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-03-2026",
-      "time": "21:00",
-      "datetime": "06-03-2026 21:00",
-      "league": "Championship",
-      "teams": "Preston - Oxford Utd",
-      "channels": [
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "93",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (21:00) Championship : Preston - Oxford Utd  (CH127gb) (CH93es) (CH99es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "21:00",
-      "datetime": "06-03-2026 21:00",
-      "league": "Fa Cup",
-      "teams": "Wolves - Liverpool",
-      "channels": [
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "163",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (21:00) Fa Cup : Wolves - Liverpool  (CH126gb) (CH124de) (CH145pt) (CH163es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "21:00",
-      "datetime": "06-03-2026 21:00",
-      "league": "Laliga",
-      "teams": "Celta Vigo - Real Madrid",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (21:00) Laliga : Celta Vigo - Real Madrid  (CH3fr) (CH49es) (CH71es) (CH87es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "21:00",
-      "datetime": "06-03-2026 21:00",
-      "league": "Pro D2",
-      "teams": "Valence Romans - Vannes",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-03-2026 (21:00) Pro D2 : Valence Romans - Vannes  (CH13fr)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "21:10",
-      "datetime": "06-03-2026 21:10",
-      "league": "Tournoi des Six Nations",
-      "teams": "Ireland - Wales",
-      "channels": [
-        {
-          "id": "29",
-          "lang": "fr"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-03-2026 (21:10) Tournoi des Six Nations : Ireland - Wales  (CH29fr) (CH55es)"
-    },
-    {
-      "date": "06-03-2026",
-      "time": "21:15",
-      "datetime": "06-03-2026 21:15",
-      "league": "Liga Portugal",
-      "teams": "Famalicao - Arouca",
-      "channels": [
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "06-03-2026 (21:15) Liga Portugal : Famalicao - Arouca  (CH144pt)"
-    },
     {
       "date": "06-03-2026",
       "time": "21:30",
@@ -500,7 +380,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:54:24.127910"
+      "extracted_at": "2026-03-06T23:23:44.223716"
     },
     "hoca": {
       "name": "hoca",
@@ -509,7 +389,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:54:26.045315"
+      "extracted_at": "2026-03-06T23:23:46.568379"
     },
     "Caster": {
       "name": "Caster",
@@ -518,7 +398,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:54:28.043742"
+      "extracted_at": "2026-03-06T23:23:49.163244"
     },
     "WIGI": {
       "name": "WIGI",
@@ -527,7 +407,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-06T22:54:29.722947"
+      "extracted_at": "2026-03-06T23:23:51.489495"
     }
   },
   "player_urls": {

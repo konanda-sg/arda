@@ -1,118 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-07T20:20:09.452490",
-  "total_events": 69,
+  "last_updated": "2026-03-07T20:47:06.508092",
+  "total_events": 64,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-03-2026",
-      "time": "18:30",
-      "datetime": "07-03-2026 18:30",
-      "league": "Bundesliga",
-      "teams": "FC Koln - Dortmund",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:30) Bundesliga : FC Koln - Dortmund  (CH5fr) (CH111de) (CH55es) (CH88es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:30",
-      "datetime": "07-03-2026 18:30",
-      "league": "Laliga",
-      "teams": "Atl. Madrid - Real Sociedad",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:30) Laliga : Atl. Madrid - Real Sociedad  (CH2fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:30",
-      "datetime": "07-03-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Burgos CF - Mirandes",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:30) Laliga 2 : Burgos CF - Mirandes  (CH53es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:30",
-      "datetime": "07-03-2026 18:30",
-      "league": "NHL",
-      "teams": "Boston Bruins - Washington Capitals",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:30) NHL : Boston Bruins - Washington Capitals  (CH180us)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:45",
-      "datetime": "07-03-2026 18:45",
-      "league": "Fa Cup",
-      "teams": "Wrexham - Chelsea",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:45) Fa Cup : Wrexham - Chelsea  (CH6fr) (CH130gb) (CH124de) (CH87es)"
-    },
     {
       "date": "07-03-2026",
       "time": "19:00",
@@ -1142,7 +1036,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T20:20:02.777177"
+      "extracted_at": "2026-03-07T20:46:58.116806"
     },
     "hoca": {
       "name": "hoca",
@@ -1151,7 +1045,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T20:20:04.289636"
+      "extracted_at": "2026-03-07T20:47:00.540169"
     },
     "Caster": {
       "name": "Caster",
@@ -1160,7 +1054,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T20:20:06.323956"
+      "extracted_at": "2026-03-07T20:47:03.614493"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1169,7 +1063,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T20:20:08.452348"
+      "extracted_at": "2026-03-07T20:47:05.507948"
     }
   },
   "player_urls": {

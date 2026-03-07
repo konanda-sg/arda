@@ -1,170 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-07T22:47:20.711496",
-  "total_events": 52,
+  "last_updated": "2026-03-07T23:18:15.459111",
+  "total_events": 43,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "Eredivisie",
-      "teams": "Excelsior - Heerenveen",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) Eredivisie : Excelsior - Heerenveen  (CH142nl)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "Fa Cup",
-      "teams": "Newcastle - Manchester City",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "148",
-          "lang": "gr"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) Fa Cup : Newcastle - Manchester City  (CH5fr) (CH126gb) (CH124de) (CH148gr) (CH87es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "Laliga",
-      "teams": "Ath Bilbao - Barcelona",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) Laliga : Ath Bilbao - Barcelona  (CH2fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Malaga - Valladolid",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) Laliga 2 : Malaga - Valladolid  (CH53es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Progreso - Albion",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) Liga AUF Uruguaya : Progreso - Albion  (CH109es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "Liga Endesa",
-      "teams": "San Pablo Burgos - Bilbao",
-      "channels": [
-        {
-          "id": "157",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) Liga Endesa : San Pablo Burgos - Bilbao  (CH157es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Orlando Magic",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) NBA : Minnesota Timberwolves - Orlando Magic  (CH181us)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:00",
-      "datetime": "07-03-2026 21:00",
-      "league": "NHL",
-      "teams": "New Jersey Devils - New York Rangers",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:00) NHL : New Jersey Devils - New York Rangers  (CH182us)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "21:05",
-      "datetime": "07-03-2026 21:05",
-      "league": "Ligue 1",
-      "teams": "Toulouse - Marseille",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (21:05) Ligue 1 : Toulouse - Marseille  (CH20fr) (CH69es)"
-    },
     {
       "date": "07-03-2026",
       "time": "21:30",
@@ -836,7 +678,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T22:47:13.231927"
+      "extracted_at": "2026-03-07T23:18:08.371354"
     },
     "hoca": {
       "name": "hoca",
@@ -845,7 +687,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T22:47:15.639660"
+      "extracted_at": "2026-03-07T23:18:10.242704"
     },
     "Caster": {
       "name": "Caster",
@@ -854,7 +696,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T22:47:17.459509"
+      "extracted_at": "2026-03-07T23:18:12.822209"
     },
     "WIGI": {
       "name": "WIGI",
@@ -863,7 +705,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T22:47:19.711355"
+      "extracted_at": "2026-03-07T23:18:14.458989"
     }
   },
   "player_urls": {

@@ -1,84 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://rereyano.ru",
-  "last_updated": "2026-03-07T19:53:36.738500",
-  "total_events": 73,
+  "last_updated": "2026-03-07T20:20:09.452490",
+  "total_events": 69,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-03-2026",
-      "time": "18:00",
-      "datetime": "07-03-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Manresa - Tenerife",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:00) Liga Endesa : Manresa - Tenerife  (CH155es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:00",
-      "datetime": "07-03-2026 18:00",
-      "league": "Serie A",
-      "teams": "Atalanta - Udinese",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:00) Serie A : Atalanta - Udinese  (CH137it) (CH149gr) (CH99es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:00",
-      "datetime": "07-03-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Besiktas - Galatasaray",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:00) Super Lig : Besiktas - Galatasaray  (CH8fr) (CH151tr) (CH69es)"
-    },
-    {
-      "date": "07-03-2026",
-      "time": "18:15",
-      "datetime": "07-03-2026 18:15",
-      "league": "Pro League",
-      "teams": "Dender - Charleroi",
-      "channels": [
-        {
-          "id": "154",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "07-03-2026 (18:15) Pro League : Dender - Charleroi  (CH154fr)"
-    },
     {
       "date": "07-03-2026",
       "time": "18:30",
@@ -1214,7 +1142,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T19:53:29.373839"
+      "extracted_at": "2026-03-07T20:20:02.777177"
     },
     "hoca": {
       "name": "hoca",
@@ -1223,7 +1151,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T19:53:31.404674"
+      "extracted_at": "2026-03-07T20:20:04.289636"
     },
     "Caster": {
       "name": "Caster",
@@ -1232,7 +1160,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T19:53:34.068016"
+      "extracted_at": "2026-03-07T20:20:06.323956"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1241,7 +1169,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-07T19:53:35.738342"
+      "extracted_at": "2026-03-07T20:20:08.452348"
     }
   },
   "player_urls": {

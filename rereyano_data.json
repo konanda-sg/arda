@@ -1,94 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-08T22:20:58.632719",
-  "total_events": 31,
+  "last_updated": "2026-03-08T22:48:02.797461",
+  "total_events": 28,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-03-2026",
-      "time": "20:30",
-      "datetime": "08-03-2026 20:30",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - New York Knicks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-03-2026 (20:30) NBA : Los Angeles Lakers - New York Knicks  (CH182us)"
-    },
-    {
-      "date": "08-03-2026",
-      "time": "20:45",
-      "datetime": "08-03-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Lyon - Paris FC",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-03-2026 (20:45) Ligue 1 : Lyon - Paris FC  (CH20fr) (CH123de) (CH69es) (CH159es)"
-    },
-    {
-      "date": "08-03-2026",
-      "time": "20:45",
-      "datetime": "08-03-2026 20:45",
-      "league": "Serie A",
-      "teams": "AC Milan - Inter",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-03-2026 (20:45) Serie A : AC Milan - Inter  (CH137it) (CH126gb) (CH124de) (CH145pt) (CH149gr) (CH70es) (CH89es) (CH99es)"
-    },
     {
       "date": "08-03-2026",
       "time": "21:00",
@@ -518,7 +436,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T22:20:51.349351"
+      "extracted_at": "2026-03-08T22:47:55.476427"
     },
     "hoca": {
       "name": "hoca",
@@ -527,7 +445,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T22:20:53.370426"
+      "extracted_at": "2026-03-08T22:47:57.437608"
     },
     "Caster": {
       "name": "Caster",
@@ -536,7 +454,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T22:20:55.981228"
+      "extracted_at": "2026-03-08T22:47:59.376573"
     },
     "WIGI": {
       "name": "WIGI",
@@ -545,7 +463,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T22:20:57.632576"
+      "extracted_at": "2026-03-08T22:48:01.797306"
     }
   },
   "player_urls": {

@@ -1,78 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-08T19:23:41.776980",
-  "total_events": 51,
+  "last_updated": "2026-03-08T19:43:32.387947",
+  "total_events": 48,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "08-03-2026",
-      "time": "17:30",
-      "datetime": "08-03-2026 17:30",
-      "league": "Bundesliga",
-      "teams": "Union Berlin - Werder Bremen",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-03-2026 (17:30) Bundesliga : Union Berlin - Werder Bremen  (CH7fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "08-03-2026",
-      "time": "17:30",
-      "datetime": "08-03-2026 17:30",
-      "league": "Championship",
-      "teams": "QPR - Middlesbrough",
-      "channels": [
-        {
-          "id": "10",
-          "lang": "fr"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "08-03-2026 (17:30) Championship : QPR - Middlesbrough  (CH10fr) (CH128gb) (CH120de)"
-    },
-    {
-      "date": "08-03-2026",
-      "time": "17:30",
-      "datetime": "08-03-2026 17:30",
-      "league": "Fa Cup",
-      "teams": "Leeds - Norwich",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-03-2026 (17:30) Fa Cup : Leeds - Norwich  (CH6fr) (CH126gb) (CH159es)"
-    },
     {
       "date": "08-03-2026",
       "time": "18:00",
@@ -874,7 +808,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T19:23:34.658693"
+      "extracted_at": "2026-03-08T19:43:25.791294"
     },
     "hoca": {
       "name": "hoca",
@@ -883,7 +817,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T19:23:36.647007"
+      "extracted_at": "2026-03-08T19:43:27.391276"
     },
     "Caster": {
       "name": "Caster",
@@ -892,7 +826,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T19:23:38.377481"
+      "extracted_at": "2026-03-08T19:43:29.597424"
     },
     "WIGI": {
       "name": "WIGI",
@@ -901,7 +835,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-08T19:23:40.776823"
+      "extracted_at": "2026-03-08T19:43:31.387809"
     }
   },
   "player_urls": {

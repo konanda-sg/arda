@@ -1,27 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-09T05:42:03.198904",
-  "total_events": 1,
+  "last_updated": "2026-03-09T06:41:27.996280",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "09-03-2026",
-      "time": "04:06",
-      "datetime": "09-03-2026 04:06",
-      "league": "Liga Mx",
-      "teams": "Club Tijuana - Santos Laguna",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-03-2026 (04:06) Liga Mx : Club Tijuana - Santos Laguna  (CH68es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -30,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T05:41:55.159074"
+      "extracted_at": "2026-03-09T06:41:20.730264"
     },
     "hoca": {
       "name": "hoca",
@@ -39,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T05:41:57.335416"
+      "extracted_at": "2026-03-09T06:41:22.811733"
     },
     "Caster": {
       "name": "Caster",
@@ -48,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T05:42:00.294090"
+      "extracted_at": "2026-03-09T06:41:25.343627"
     },
     "WIGI": {
       "name": "WIGI",
@@ -57,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T05:42:02.198751"
+      "extracted_at": "2026-03-09T06:41:26.996103"
     }
   },
   "player_urls": {

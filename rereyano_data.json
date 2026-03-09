@@ -1,12 +1,495 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-09T11:03:04.618803",
-  "total_events": 0,
+  "last_updated": "2026-03-09T11:49:18.055191",
+  "total_events": 29,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "09-03-2026",
+      "time": "14:00",
+      "datetime": "09-03-2026 14:00",
+      "league": "Super Lig",
+      "teams": "Eyupspor - Kocaelispor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "09-03-2026 (14:00) Super Lig : Eyupspor - Kocaelispor  (CH151tr)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "17:00",
+      "datetime": "09-03-2026 17:00",
+      "league": "Betfred Super League",
+      "teams": "Panetolikos - Kifisia",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "09-03-2026 (17:00) Betfred Super League : Panetolikos - Kifisia  (CH148gr)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "18:00",
+      "datetime": "09-03-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Alanyaspor - Genclerbirligi",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "09-03-2026 (18:00) Super Lig : Alanyaspor - Genclerbirligi  (CH152tr)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "18:00",
+      "datetime": "09-03-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Kayserispor - Trabzonspor",
+      "channels": [
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "09-03-2026 (18:00) Super Lig : Kayserispor - Trabzonspor  (CH79es) (CH144pt) (CH151tr)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "20:30",
+      "datetime": "09-03-2026 20:30",
+      "league": "Fa Cup",
+      "teams": "West Ham - Brentford",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-03-2026 (20:30) Fa Cup : West Ham - Brentford  (CH2fr) (CH126gb) (CH124de) (CH158es)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "20:30",
+      "datetime": "09-03-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Almeria - Cultural Leonesa",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-03-2026 (20:30) Laliga 2 : Almeria - Cultural Leonesa  (CH53es)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "20:45",
+      "datetime": "09-03-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Dunkerque - Reims",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "09-03-2026 (20:45) Ligue 2 : Dunkerque - Reims  (CH1fr)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "20:45",
+      "datetime": "09-03-2026 20:45",
+      "league": "Serie A",
+      "teams": "Lazio - Sassuolo",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-03-2026 (20:45) Serie A : Lazio - Sassuolo  (CH138it) (CH145pt) (CH149gr) (CH70es) (CH89es) (CH99es)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "21:00",
+      "datetime": "09-03-2026 21:00",
+      "league": "Laliga",
+      "teams": "Espanyol - Oviedo",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-03-2026 (21:00) Laliga : Espanyol - Oviedo  (CH5fr) (CH49es) (CH150gr) (CH71es) (CH94es)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "21:00",
+      "datetime": "09-03-2026 21:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-03-2026 (21:00) NHL : Columbus Blue Jackets - Los Angeles Kings  (CH185us)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "21:15",
+      "datetime": "09-03-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "Tondela - Rio Ave",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "09-03-2026 (21:15) Liga Portugal : Tondela - Rio Ave  (CH144pt)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "22:30",
+      "datetime": "09-03-2026 22:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Cerro Largo - Montevideo City",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-03-2026 (22:30) Liga AUF Uruguaya : Cerro Largo - Montevideo City  (CH109es)"
+    },
+    {
+      "date": "09-03-2026",
+      "time": "23:30",
+      "datetime": "09-03-2026 23:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cienciano - Sport Boys",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-03-2026 (23:30) Liga 1 Te Apuesto : Cienciano - Sport Boys  (CH84es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:00",
+      "datetime": "10-03-2026 00:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. De Chile - U. De Concepcion",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:00) Campeonato Itaú Chile : U. De Chile - U. De Concepcion  (CH83es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:00",
+      "datetime": "10-03-2026 00:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Llaneros - Jaguares de Cordoba",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:00) Liga Betplay Dimayor : Llaneros - Jaguares de Cordoba  (CH81es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:00",
+      "datetime": "10-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:00) NBA : Cleveland Cavaliers - Philadelphia 76ers  (CH180us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:00",
+      "datetime": "10-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Philadelphia Flyers - New York Rangers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:00) NHL : Philadelphia Flyers - New York Rangers  (CH186us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:00",
+      "datetime": "10-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Washington Capitals - Calgary Flames",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:00) NHL : Washington Capitals - Calgary Flames  (CH187us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:20",
+      "datetime": "10-03-2026 00:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Millonarios - Cucuta",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:20) Liga Betplay Dimayor : Millonarios - Cucuta  (CH81es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:30",
+      "datetime": "10-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:30) NBA : Brooklyn Nets - Memphis Grizzlies  (CH181us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "00:30",
+      "datetime": "10-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Denver Nuggets",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (00:30) NBA : Oklahoma City Thunder - Denver Nuggets  (CH182us) (CH98es) (CH75es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "01:30",
+      "datetime": "10-03-2026 01:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Orense - Manta",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (01:30) Ecuador Ligapro : Orense - Manta  (CH86es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "01:30",
+      "datetime": "10-03-2026 01:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Boston River - Liverpool M.",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (01:30) Liga AUF Uruguaya : Boston River - Liverpool M.  (CH109es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "01:30",
+      "datetime": "10-03-2026 01:30",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - Utah Mammoth",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (01:30) NHL : Chicago Blackhawks - Utah Mammoth  (CH188us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "02:00",
+      "datetime": "10-03-2026 02:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Golden State Warriors",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (02:00) NBA : Utah Jazz - Golden State Warriors  (CH183us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "02:00",
+      "datetime": "10-03-2026 02:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - Ottawa Senators",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-03-2026 (02:00) NHL : Vancouver Canucks - Ottawa Senators  (CH189us)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "02:30",
+      "datetime": "10-03-2026 02:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Alianza Lima - FBC Melgar",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (02:30) Liga 1 Te Apuesto : Alianza Lima - FBC Melgar  (CH84es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "02:30",
+      "datetime": "10-03-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Pasto - America De Cali",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (02:30) Liga Betplay Dimayor : Dep. Pasto - America De Cali  (CH81es)"
+    },
+    {
+      "date": "10-03-2026",
+      "time": "03:00",
+      "datetime": "10-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - New York Knicks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "184",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-03-2026 (03:00) NBA : Los Angeles Clippers - New York Knicks  (CH1fr) (CH184us) (CH98es) (CH75es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -15,7 +498,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T11:02:56.960574"
+      "extracted_at": "2026-03-09T11:49:11.028548"
     },
     "hoca": {
       "name": "hoca",
@@ -24,7 +507,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T11:02:59.349525"
+      "extracted_at": "2026-03-09T11:49:13.020287"
     },
     "Caster": {
       "name": "Caster",
@@ -33,7 +516,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T11:03:01.774611"
+      "extracted_at": "2026-03-09T11:49:15.401460"
     },
     "WIGI": {
       "name": "WIGI",
@@ -42,7 +525,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T11:03:03.618662"
+      "extracted_at": "2026-03-09T11:49:17.055037"
     }
   },
   "player_urls": {

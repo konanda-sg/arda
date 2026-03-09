@@ -1,60 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-09T22:36:38.374785",
-  "total_events": 23,
+  "last_updated": "2026-03-09T23:01:17.496712",
+  "total_events": 21,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-03-2026",
-      "time": "20:45",
-      "datetime": "09-03-2026 20:45",
-      "league": "Ligue 2",
-      "teams": "Dunkerque - Reims",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "09-03-2026 (20:45) Ligue 2 : Dunkerque - Reims  (CH1fr)"
-    },
-    {
-      "date": "09-03-2026",
-      "time": "20:45",
-      "datetime": "09-03-2026 20:45",
-      "league": "Serie A",
-      "teams": "Lazio - Sassuolo",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-03-2026 (20:45) Serie A : Lazio - Sassuolo  (CH138it) (CH145pt) (CH149gr) (CH70es) (CH89es) (CH99es)"
-    },
     {
       "date": "09-03-2026",
       "time": "21:00",
@@ -394,7 +346,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T22:36:29.536652"
+      "extracted_at": "2026-03-09T23:01:08.710291"
     },
     "hoca": {
       "name": "hoca",
@@ -403,7 +355,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T22:36:31.947938"
+      "extracted_at": "2026-03-09T23:01:11.145262"
     },
     "Caster": {
       "name": "Caster",
@@ -412,7 +364,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T22:36:35.082064"
+      "extracted_at": "2026-03-09T23:01:14.135196"
     },
     "WIGI": {
       "name": "WIGI",
@@ -421,7 +373,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-09T22:36:37.374637"
+      "extracted_at": "2026-03-09T23:01:16.496568"
     }
   },
   "player_urls": {

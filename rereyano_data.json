@@ -1,202 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-10T01:54:36.524875",
-  "total_events": 16,
+  "last_updated": "2026-03-10T04:05:20.641942",
+  "total_events": 3,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "10-03-2026",
-      "time": "00:00",
-      "datetime": "10-03-2026 00:00",
-      "league": "Campeonato Itaú Chile",
-      "teams": "U. De Chile - U. De Concepcion",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:00) Campeonato Itaú Chile : U. De Chile - U. De Concepcion  (CH83es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:00",
-      "datetime": "10-03-2026 00:00",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Llaneros - Jaguares de Cordoba",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:00) Liga Betplay Dimayor : Llaneros - Jaguares de Cordoba  (CH81es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:00",
-      "datetime": "10-03-2026 00:00",
-      "league": "NBA",
-      "teams": "Cleveland Cavaliers - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:00) NBA : Cleveland Cavaliers - Philadelphia 76ers  (CH180us)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:00",
-      "datetime": "10-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Philadelphia Flyers - New York Rangers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:00) NHL : Philadelphia Flyers - New York Rangers  (CH186us)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:00",
-      "datetime": "10-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Washington Capitals - Calgary Flames",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:00) NHL : Washington Capitals - Calgary Flames  (CH187us)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:20",
-      "datetime": "10-03-2026 00:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Millonarios - Cucuta",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:20) Liga Betplay Dimayor : Millonarios - Cucuta  (CH81es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:30",
-      "datetime": "10-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:30) NBA : Brooklyn Nets - Memphis Grizzlies  (CH181us)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "00:30",
-      "datetime": "10-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Oklahoma City Thunder - Denver Nuggets",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (00:30) NBA : Oklahoma City Thunder - Denver Nuggets  (CH182us) (CH98es) (CH75es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "01:30",
-      "datetime": "10-03-2026 01:30",
-      "league": "Ecuador Ligapro",
-      "teams": "Orense - Manta",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (01:30) Ecuador Ligapro : Orense - Manta  (CH86es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "01:30",
-      "datetime": "10-03-2026 01:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Boston River - Liverpool M.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (01:30) Liga AUF Uruguaya : Boston River - Liverpool M.  (CH109es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "01:30",
-      "datetime": "10-03-2026 01:30",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - Utah Mammoth",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (01:30) NHL : Chicago Blackhawks - Utah Mammoth  (CH188us)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "02:00",
-      "datetime": "10-03-2026 02:00",
-      "league": "NBA",
-      "teams": "Utah Jazz - Golden State Warriors",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (02:00) NBA : Utah Jazz - Golden State Warriors  (CH183us)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "02:00",
-      "datetime": "10-03-2026 02:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - Ottawa Senators",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-03-2026 (02:00) NHL : Vancouver Canucks - Ottawa Senators  (CH189us)"
-    },
     {
       "date": "10-03-2026",
       "time": "02:30",
@@ -260,7 +70,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T01:54:29.516271"
+      "extracted_at": "2026-03-10T04:05:13.322111"
     },
     "hoca": {
       "name": "hoca",
@@ -269,7 +79,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T01:54:31.058021"
+      "extracted_at": "2026-03-10T04:05:15.170995"
     },
     "Caster": {
       "name": "Caster",
@@ -278,7 +88,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T01:54:33.092672"
+      "extracted_at": "2026-03-10T04:05:17.493016"
     },
     "WIGI": {
       "name": "WIGI",
@@ -287,7 +97,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T01:54:35.524735"
+      "extracted_at": "2026-03-10T04:05:19.641822"
     }
   },
   "player_urls": {

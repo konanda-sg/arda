@@ -1,67 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-10T04:05:20.641942",
-  "total_events": 3,
+  "last_updated": "2026-03-10T05:15:29.176510",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-03-2026",
-      "time": "02:30",
-      "datetime": "10-03-2026 02:30",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Alianza Lima - FBC Melgar",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (02:30) Liga 1 Te Apuesto : Alianza Lima - FBC Melgar  (CH84es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "02:30",
-      "datetime": "10-03-2026 02:30",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Dep. Pasto - America De Cali",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (02:30) Liga Betplay Dimayor : Dep. Pasto - America De Cali  (CH81es)"
-    },
-    {
-      "date": "10-03-2026",
-      "time": "03:00",
-      "datetime": "10-03-2026 03:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - New York Knicks",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "184",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (03:00) NBA : Los Angeles Clippers - New York Knicks  (CH1fr) (CH184us) (CH98es) (CH75es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -70,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T04:05:13.322111"
+      "extracted_at": "2026-03-10T05:15:21.475816"
     },
     "hoca": {
       "name": "hoca",
@@ -79,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T04:05:15.170995"
+      "extracted_at": "2026-03-10T05:15:23.488026"
     },
     "Caster": {
       "name": "Caster",
@@ -88,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T04:05:17.493016"
+      "extracted_at": "2026-03-10T05:15:25.803034"
     },
     "WIGI": {
       "name": "WIGI",
@@ -97,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T04:05:19.641822"
+      "extracted_at": "2026-03-10T05:15:28.176351"
     }
   },
   "player_urls": {

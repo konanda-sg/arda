@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-10T20:08:56.966610",
-  "total_events": 46,
+  "last_updated": "2026-03-10T20:53:05.873873",
+  "total_events": 45,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "10-03-2026",
-      "time": "18:45",
-      "datetime": "10-03-2026 18:45",
-      "league": "Ligue Des Champions",
-      "teams": "Galatasaray - Liverpool",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "78",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-03-2026 (18:45) Ligue Des Champions : Galatasaray - Liverpool  (CH12fr) (CH162es) (CH126gb) (CH139it) (CH111de) (CH149gr) (CH68es) (CH78es) (CH87es)"
-    },
     {
       "date": "10-03-2026",
       "time": "20:45",
@@ -804,10 +758,11 @@
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://bolaloca.my/player/1/1",
-      "iframe_url": null,
+      "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-03-10T20:05:26.189443"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-03-10T20:53:00.046463"
     },
     "hoca": {
       "name": "hoca",
@@ -816,23 +771,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-10T20:06:42.679530"
+      "extracted_at": "2026-03-10T20:53:01.702713"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://bolaloca.my/player/3/1",
-      "iframe_url": null,
+      "iframe_url": "https://increasecattle.net/embed/zj52139k3",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-03-10T20:08:12.248097"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-03-10T20:53:03.300887"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://bolaloca.my/player/4/1",
-      "iframe_url": null,
+      "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
       "m3u8_url": null,
-      "status": "no_iframe",
-      "extracted_at": "2026-03-10T20:08:55.966469"
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-03-10T20:53:04.873716"
     }
   },
   "player_urls": {

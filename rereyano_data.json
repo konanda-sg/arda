@@ -1,11 +1,11 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-11T14:31:12.965782",
+  "last_updated": "2026-03-11T15:34:45.502216",
   "total_events": 32,
   "total_players": 4,
-  "m3u8_extracted": 0,
-  "accessible_streams": 0,
+  "m3u8_extracted": 2,
+  "accessible_streams": 2,
   "events": [
     {
       "date": "11-03-2026",
@@ -617,10 +617,10 @@
       "name": "Cartel",
       "player_url": "https://bolaloca.my/player/1/1",
       "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-11T14:31:03.878245"
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=-z-iTSv6Q_LdYfCfHgW_pA&e=1773264875",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-11T15:34:36.041419"
     },
     "hoca": {
       "name": "hoca",
@@ -629,7 +629,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T14:31:06.362195"
+      "extracted_at": "2026-03-11T15:34:38.483235"
     },
     "Caster": {
       "name": "Caster",
@@ -638,16 +638,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T14:31:09.298171"
+      "extracted_at": "2026-03-11T15:34:41.389859"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://bolaloca.my/player/4/1",
       "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-11T14:31:11.965636"
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=yQKvLNgUQvxl-Fjt9T4BpQ&e=1773264883",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-11T15:34:44.502070"
     }
   },
   "player_urls": {

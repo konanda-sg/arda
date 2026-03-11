@@ -1,12 +1,617 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-11T08:35:19.864595",
-  "total_events": 0,
+  "last_updated": "2026-03-11T09:27:08.597213",
+  "total_events": 32,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "11-03-2026",
+      "time": "16:15",
+      "datetime": "11-03-2026 16:15",
+      "league": "D1 Féminin",
+      "teams": "PSG W - Marseille W",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "11-03-2026 (16:15) D1 Féminin : PSG W - Marseille W  (CH12fr)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "16:15",
+      "datetime": "11-03-2026 16:15",
+      "league": "D1 Féminin",
+      "teams": "Paris FC W - Strasbourg W",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "11-03-2026 (16:15) D1 Féminin : Paris FC W - Strasbourg W  (CH14fr)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "18:45",
+      "datetime": "11-03-2026 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Bayer Leverkusen - Arsenal",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "11-03-2026 (18:45) Ligue Des Champions : Bayer Leverkusen - Arsenal  (CH12fr) (CH162es) (CH131gb) (CH111de) (CH140it) (CH68es) (CH87es) (CH149gr)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "19:00",
+      "datetime": "11-03-2026 19:00",
+      "league": "Copa De La Reina",
+      "teams": "Atl. Madrid W - Costa Adeje Tenerife W",
+      "channels": [
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-03-2026 (19:00) Copa De La Reina : Atl. Madrid W - Costa Adeje Tenerife W  (CH71es) (CH100es)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "20:45",
+      "datetime": "11-03-2026 20:45",
+      "league": "Championship",
+      "teams": "Birmingham - QPR",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-03-2026 (20:45) Championship : Birmingham - QPR  (CH195us)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "20:45",
+      "datetime": "11-03-2026 20:45",
+      "league": "Championship",
+      "teams": "Middlesbrough - Charlton",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-03-2026 (20:45) Championship : Middlesbrough - Charlton  (CH196us)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "20:45",
+      "datetime": "11-03-2026 20:45",
+      "league": "Championship",
+      "teams": "Norwich - Sheffield Utd",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-03-2026 (20:45) Championship : Norwich - Sheffield Utd  (CH197us)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "20:45",
+      "datetime": "11-03-2026 20:45",
+      "league": "Championship",
+      "teams": "Oxford Utd - Blackburn",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-03-2026 (20:45) Championship : Oxford Utd - Blackburn  (CH198us)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "20:45",
+      "datetime": "11-03-2026 20:45",
+      "league": "Championship",
+      "teams": "West Brom - Southampton",
+      "channels": [
+        {
+          "id": "199",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "11-03-2026 (20:45) Championship : West Brom - Southampton  (CH199us)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "20:45",
+      "datetime": "11-03-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Virtus Bologna - Partizan Mozzart Bet",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-03-2026 (20:45) EuroLeague : Virtus Bologna - Partizan Mozzart Bet  (CH62es)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "21:00",
+      "datetime": "11-03-2026 21:00",
+      "league": "Championship",
+      "teams": "Coventry - Preston",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-03-2026 (21:00) Championship : Coventry - Preston  (CH8fr) (CH127gb) (CH145pt) (CH100es)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "21:00",
+      "datetime": "11-03-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Bodo/Glimt - Sporting CP",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "147",
+          "lang": "pt"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "11-03-2026 (21:00) Ligue Des Champions : Bodo/Glimt - Sporting CP  (CH13fr) (CH163es) (CH132gb) (CH139it) (CH113de) (CH147pt) (CH79es) (CH91es) (CH124de)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "21:00",
+      "datetime": "11-03-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "PSG - Chelsea",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "11-03-2026 (21:00) Ligue Des Champions : PSG - Chelsea  (CH11fr) (CH162es) (CH130gb) (CH138it) (CH68es) (CH88es) (CH112de) (CH150gr)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "21:00",
+      "datetime": "11-03-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Real Madrid - Manchester City",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "11-03-2026 (21:00) Ligue Des Champions : Real Madrid - Manchester City  (CH12fr) (CH161es) (CH126gb) (CH137it) (CH123de) (CH78es) (CH87es) (CH149gr)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "21:30",
+      "datetime": "11-03-2026 21:30",
+      "league": "Torneo LPF",
+      "teams": "Argentinos Jrs - Rosario Central",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-03-2026 (21:30) Torneo LPF : Argentinos Jrs - Rosario Central  (CH75es)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "21:30",
+      "datetime": "11-03-2026 21:30",
+      "league": "Torneo LPF",
+      "teams": "Banfield - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-03-2026 (21:30) Torneo LPF : Banfield - Gimnasia L.P.  (CH76es)"
+    },
+    {
+      "date": "11-03-2026",
+      "time": "23:45",
+      "datetime": "11-03-2026 23:45",
+      "league": "Torneo LPF",
+      "teams": "Boca Juniors - San Lorenzo",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "11-03-2026 (23:45) Torneo LPF : Boca Juniors - San Lorenzo  (CH162es) (CH76es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "00:30",
+      "datetime": "12-03-2026 00:30",
+      "league": "Concacaf Champions Cup",
+      "teams": "Nashville SC - Inter Miami",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (00:30) Concacaf Champions Cup : Nashville SC - Inter Miami  (CH55es) (CH161es) (CH68es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "00:30",
+      "datetime": "12-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Orlando Magic - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (00:30) NBA : Orlando Magic - Cleveland Cavaliers  (CH1fr) (CH180us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "00:30",
+      "datetime": "12-03-2026 00:30",
+      "league": "NHL",
+      "teams": "Ottawa Senators - Montreal Canadiens",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        },
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (00:30) NHL : Ottawa Senators - Montreal Canadiens  (CH7fr) (CH181us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "00:30",
+      "datetime": "12-03-2026 00:30",
+      "league": "NHL",
+      "teams": "Philadelphia Flyers - Washington Capitals",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (00:30) NHL : Philadelphia Flyers - Washington Capitals  (CH182us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "01:00",
+      "datetime": "12-03-2026 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Toronto Raptors",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (01:00) NBA : New Orleans Pelicans - Toronto Raptors  (CH183us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "01:30",
+      "datetime": "12-03-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Corinthians - Coritiba",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (01:30) Serie A Bresil : Corinthians - Coritiba  (CH84es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "02:00",
+      "datetime": "12-03-2026 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Atl. San Luis W - Puebla W",
+      "channels": [
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (02:00) Liga Mx Women : Atl. San Luis W - Puebla W  (CH100es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "02:00",
+      "datetime": "12-03-2026 02:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - New York Knicks",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (02:00) NBA : Utah Jazz - New York Knicks  (CH184us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "02:00",
+      "datetime": "12-03-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Atl. Tucuman - Aldosivi",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (02:00) Torneo LPF : Atl. Tucuman - Aldosivi  (CH76es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "02:00",
+      "datetime": "12-03-2026 02:00",
+      "league": "Torneo LPF",
+      "teams": "Ind. Rivadavia - Barracas Central",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (02:00) Torneo LPF : Ind. Rivadavia - Barracas Central  (CH75es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "02:30",
+      "datetime": "12-03-2026 02:30",
+      "league": "Concacaf Champions Cup",
+      "teams": "Los Angeles Galaxy - Mount Pleasant",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (02:30) Concacaf Champions Cup : Los Angeles Galaxy - Mount Pleasant  (CH68es)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "03:00",
+      "datetime": "12-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Houston Rockets",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (03:00) NBA : Denver Nuggets - Houston Rockets  (CH1fr) (CH185us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "03:00",
+      "datetime": "12-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Sacramento Kings - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (03:00) NBA : Sacramento Kings - Charlotte Hornets  (CH186us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "03:30",
+      "datetime": "12-03-2026 03:30",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - Minnesota Timberwolves",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-03-2026 (03:30) NBA : Los Angeles Clippers - Minnesota Timberwolves  (CH187us)"
+    },
+    {
+      "date": "12-03-2026",
+      "time": "04:30",
+      "datetime": "12-03-2026 04:30",
+      "league": "Concacaf Champions Cup",
+      "teams": "San Diego FC - Toluca",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-03-2026 (04:30) Concacaf Champions Cup : San Diego FC - Toluca  (CH68es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -15,7 +620,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T08:35:12.376068"
+      "extracted_at": "2026-03-11T09:26:59.678657"
     },
     "hoca": {
       "name": "hoca",
@@ -24,7 +629,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T08:35:14.760389"
+      "extracted_at": "2026-03-11T09:27:02.117606"
     },
     "Caster": {
       "name": "Caster",
@@ -33,7 +638,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T08:35:17.016962"
+      "extracted_at": "2026-03-11T09:27:05.213053"
     },
     "WIGI": {
       "name": "WIGI",
@@ -42,7 +647,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T08:35:18.864449"
+      "extracted_at": "2026-03-11T09:27:07.597028"
     }
   },
   "player_urls": {

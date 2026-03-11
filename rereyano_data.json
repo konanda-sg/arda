@@ -1,53 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-11T05:04:32.503064",
-  "total_events": 2,
+  "last_updated": "2026-03-11T06:03:11.823695",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "11-03-2026",
-      "time": "04:00",
-      "datetime": "11-03-2026 04:00",
-      "league": "Concacaf Champions Cup",
-      "teams": "Los Angeles FC - Alajuelense",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-03-2026 (04:00) Concacaf Champions Cup : Los Angeles FC - Alajuelense  (CH68es)"
-    },
-    {
-      "date": "11-03-2026",
-      "time": "04:00",
-      "datetime": "11-03-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Minnesota Timberwolves",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "198",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        },
-        {
-          "id": "85",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-03-2026 (04:00) NBA : Los Angeles Lakers - Minnesota Timberwolves  (CH1fr) (CH198us) (CH75es) (CH85es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -56,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T05:04:25.272427"
+      "extracted_at": "2026-03-11T06:03:04.113516"
     },
     "hoca": {
       "name": "hoca",
@@ -65,7 +24,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T05:04:27.420506"
+      "extracted_at": "2026-03-11T06:03:06.400625"
     },
     "Caster": {
       "name": "Caster",
@@ -74,7 +33,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T05:04:29.692976"
+      "extracted_at": "2026-03-11T06:03:08.989431"
     },
     "WIGI": {
       "name": "WIGI",
@@ -83,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-11T05:04:31.502924"
+      "extracted_at": "2026-03-11T06:03:10.823551"
     }
   },
   "player_urls": {

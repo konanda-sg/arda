@@ -1,36 +1,21 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-12T06:07:09.093754",
-  "total_events": 1,
+  "last_updated": "2026-03-12T07:13:50.567580",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
-  "events": [
-    {
-      "date": "12-03-2026",
-      "time": "04:30",
-      "datetime": "12-03-2026 04:30",
-      "league": "Concacaf Champions Cup",
-      "teams": "San Diego FC - Toluca",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-03-2026 (04:30) Concacaf Champions Cup : San Diego FC - Toluca  (CH68es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://bolaloca.my/player/1/1",
       "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=5COteR9at-7ljhR7BIVlSQ&e=1773317220",
+      "m3u8_url": "https://vmre6nax.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=8PTvisUjT0MUW2oOLRAaXg&e=1773321220",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-12T06:07:00.734078"
+      "extracted_at": "2026-03-12T07:13:41.137717"
     },
     "hoca": {
       "name": "hoca",
@@ -39,25 +24,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-12T06:07:02.799531"
+      "extracted_at": "2026-03-12T07:13:43.346660"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://bolaloca.my/player/3/1",
       "iframe_url": "https://increasecattle.net/embed/zj52139k3",
-      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/zj52139k3.m3u8?s=WmtUMoCOJSVbCdV8IeMawQ&e=1773317224",
+      "m3u8_url": "https://vmre6nax.12703830.net:8443/hls/zj52139k3.m3u8?s=B0B6v40ePHuiajplnNjS7A&e=1773321225",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-12T06:07:05.244307"
+      "extracted_at": "2026-03-12T07:13:46.413119"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://bolaloca.my/player/4/1",
       "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=RzXYxADS_5RmRNfhxQSh3Q&e=1773317227",
+      "m3u8_url": "https://vmre6nax.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=aMpSacmF4fnd5je_qeb2lw&e=1773321228",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-12T06:07:08.093599"
+      "extracted_at": "2026-03-12T07:13:49.567408"
     }
   },
   "player_urls": {

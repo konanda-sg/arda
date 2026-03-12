@@ -1,130 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-12T01:28:34.013467",
-  "total_events": 16,
+  "last_updated": "2026-03-12T03:56:43.708656",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "11-03-2026",
-      "time": "23:45",
-      "datetime": "11-03-2026 23:45",
-      "league": "Torneo LPF",
-      "teams": "Boca Juniors - San Lorenzo",
-      "channels": [
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-03-2026 (23:45) Torneo LPF : Boca Juniors - San Lorenzo  (CH162es) (CH76es)"
-    },
-    {
-      "date": "12-03-2026",
-      "time": "00:30",
-      "datetime": "12-03-2026 00:30",
-      "league": "Concacaf Champions Cup",
-      "teams": "Nashville SC - Inter Miami",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "161",
-          "lang": "es"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-03-2026 (00:30) Concacaf Champions Cup : Nashville SC - Inter Miami  (CH55es) (CH161es) (CH68es)"
-    },
-    {
-      "date": "12-03-2026",
-      "time": "00:30",
-      "datetime": "12-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Orlando Magic - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-03-2026 (00:30) NBA : Orlando Magic - Cleveland Cavaliers  (CH1fr) (CH180us)"
-    },
-    {
-      "date": "12-03-2026",
-      "time": "00:30",
-      "datetime": "12-03-2026 00:30",
-      "league": "NHL",
-      "teams": "Ottawa Senators - Montreal Canadiens",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-03-2026 (00:30) NHL : Ottawa Senators - Montreal Canadiens  (CH7fr) (CH181us)"
-    },
-    {
-      "date": "12-03-2026",
-      "time": "00:30",
-      "datetime": "12-03-2026 00:30",
-      "league": "NHL",
-      "teams": "Philadelphia Flyers - Washington Capitals",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-03-2026 (00:30) NHL : Philadelphia Flyers - Washington Capitals  (CH182us)"
-    },
-    {
-      "date": "12-03-2026",
-      "time": "01:00",
-      "datetime": "12-03-2026 01:00",
-      "league": "NBA",
-      "teams": "New Orleans Pelicans - Toronto Raptors",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-03-2026 (01:00) NBA : New Orleans Pelicans - Toronto Raptors  (CH183us)"
-    },
-    {
-      "date": "12-03-2026",
-      "time": "01:30",
-      "datetime": "12-03-2026 01:30",
-      "league": "Serie A Bresil",
-      "teams": "Corinthians - Coritiba",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-03-2026 (01:30) Serie A Bresil : Corinthians - Coritiba  (CH84es)"
-    },
     {
       "date": "12-03-2026",
       "time": "02:00",
@@ -261,10 +143,10 @@
       "name": "Cartel",
       "player_url": "https://bolaloca.my/player/1/1",
       "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://py3hsjj2.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=XvUW517mdGOKjzkH_4Op4A&e=1773300502",
+      "m3u8_url": "https://k7h2hupk.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=biBONXnKg-XcvWCZuEjXdg&e=1773309393",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-12T01:28:23.482337"
+      "extracted_at": "2026-03-12T03:56:33.862864"
     },
     "hoca": {
       "name": "hoca",
@@ -273,25 +155,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-12T01:28:25.990999"
+      "extracted_at": "2026-03-12T03:56:36.209429"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://bolaloca.my/player/3/1",
       "iframe_url": "https://increasecattle.net/embed/zj52139k3",
-      "m3u8_url": "https://py3hsjj2.04334746.net:8443/hls/zj52139k3.m3u8?s=yGNlfspdjlyQyUK0MeVRHQ&e=1773300508",
+      "m3u8_url": "https://k7h2hupk.58103793.net:8443/hls/zj52139k3.m3u8?s=-lr6ySLHXQvbNNnDS9zpQQ&e=1773309398",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-12T01:28:29.363923"
+      "extracted_at": "2026-03-12T03:56:39.274319"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://bolaloca.my/player/4/1",
       "iframe_url": "https://closethreaten.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://py3hsjj2.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=HByxl5VKB6c7M2tHwHx7aA&e=1773300512",
+      "m3u8_url": "https://k7h2hupk.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=SHOxhJR4UmvoZKxs2SkXHg&e=1773309402",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-12T01:28:33.013286"
+      "extracted_at": "2026-03-12T03:56:42.708510"
     }
   },
   "player_urls": {

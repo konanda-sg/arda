@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my",
-  "last_updated": "2026-03-13T13:57:27.917381",
+  "last_updated": "2026-03-13T14:41:08.080965",
   "total_events": 51,
   "total_players": 4,
   "m3u8_extracted": 3,
@@ -343,12 +343,12 @@
       "teams": "Torino - Parma",
       "channels": [
         {
-          "id": "87",
-          "lang": "es"
-        },
-        {
           "id": "138",
           "lang": "it"
+        },
+        {
+          "id": "158",
+          "lang": "es"
         },
         {
           "id": "145",
@@ -359,7 +359,7 @@
           "lang": "gr"
         }
       ],
-      "raw_line": "13-03-2026 (20:45) Serie A : Torino - Parma  (CH87es) (CH138it) (CH145pt) (CH149gr)"
+      "raw_line": "13-03-2026 (20:45) Serie A : Torino - Parma  (CH138it) (CH158es) (CH145pt) (CH149gr)"
     },
     {
       "date": "13-03-2026",
@@ -863,10 +863,10 @@
       "name": "Cartel",
       "player_url": "https://bolaloca.my/player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=MY3dG34m3dgueI8schwGSQ&e=1773431838",
+      "m3u8_url": "https://rtruc7yb.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=qzz-7H7m3D38FnYTYQlZ0g&e=1773434458",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T13:57:18.669812"
+      "extracted_at": "2026-03-13T14:40:58.970997"
     },
     "hoca": {
       "name": "hoca",
@@ -875,25 +875,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T13:57:21.117082"
+      "extracted_at": "2026-03-13T14:41:01.080065"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://bolaloca.my/player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/zj52139k3.m3u8?s=aToSqlRBpOlla62HdM1D_w&e=1773431843",
+      "m3u8_url": "https://rtruc7yb.12703830.net:8443/hls/zj52139k3.m3u8?s=dGVx7qvLsiXZWJMXd8Ot_g&e=1773434463",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T13:57:24.193888"
+      "extracted_at": "2026-03-13T14:41:04.077031"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://bolaloca.my/player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=VDX-zyApWyZ48-v3ZL8SsQ&e=1773431846",
+      "m3u8_url": "https://rtruc7yb.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=n1Nu-9izeufKYMTvgnwxzQ&e=1773434466",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T13:57:26.917200"
+      "extracted_at": "2026-03-13T14:41:07.080855"
     }
   },
   "player_urls": {

@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T23:23:42.495603",
-  "total_events": 291,
+  "last_updated": "2026-03-13T23:51:06.066956",
+  "total_events": 294,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
@@ -4908,6 +4908,48 @@
         }
       ],
       "raw_line": "17-03-2026 (00:00) Torneo LPF : Racing Club - Estudiantes Rio Cuarto  (CH76es)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:30",
+      "datetime": "17-03-2026 00:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Colo Colo - Huachipato",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:30) Campeonato Itaú Chile : Colo Colo - Huachipato  (CH83es)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:30",
+      "datetime": "17-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Phoenix Suns",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:30) NBA : Boston Celtics - Phoenix Suns  (CH186us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:30",
+      "datetime": "17-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:30) NBA : Brooklyn Nets - Portland Trail Blazers  (CH187us)"
     }
   ],
   "player_streams": {
@@ -4915,10 +4957,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=LTQV5vIgi7oajPDgX1rInQ&e=1773465812",
+      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=71Mq3UArtQ2eUpM5LxOXOA&e=1773467455",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T23:23:32.994534"
+      "extracted_at": "2026-03-13T23:50:55.747628"
     },
     "hoca": {
       "name": "hoca",
@@ -4927,25 +4969,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T23:23:35.154952"
+      "extracted_at": "2026-03-13T23:50:58.121770"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/zj52139k3.m3u8?s=Eh8oQ7Zz2MfY9qOQeEDinA&e=1773465817",
+      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/zj52139k3.m3u8?s=d8CO_xVIt4cO4JADDhjpxA&e=1773467461",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T23:23:38.494145"
+      "extracted_at": "2026-03-13T23:51:01.748520"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=pVkxGy-BdN3fNt9HU7tohQ&e=1773465820",
+      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=ZbfXjgbEhd-WiIwaZLJfAA&e=1773467464",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T23:23:41.495458"
+      "extracted_at": "2026-03-13T23:51:05.066817"
     }
   },
   "player_urls": {

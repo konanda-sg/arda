@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T18:04:58.912066",
-  "total_events": 296,
+  "last_updated": "2026-03-13T19:00:58.968298",
+  "total_events": 298,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
@@ -5010,6 +5010,34 @@
         }
       ],
       "raw_line": "16-03-2026 (03:00) NBA : Sacramento Kings - Utah Jazz  (CH180us)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "19:30",
+      "datetime": "16-03-2026 19:30",
+      "league": "Torneo LPF",
+      "teams": "Aldosivi - Huracan",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-03-2026 (19:30) Torneo LPF : Aldosivi - Huracan  (CH76es)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "19:30",
+      "datetime": "16-03-2026 19:30",
+      "league": "Torneo LPF",
+      "teams": "Barracas Central - Atl. Tucuman",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-03-2026 (19:30) Torneo LPF : Barracas Central - Atl. Tucuman  (CH75es)"
     }
   ],
   "player_streams": {
@@ -5017,10 +5045,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://5n7r9jbt.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=CZ0IaikTKQkRvlDqaCotgA&e=1773446687",
+      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=H2gjSEX2NxIbSrX7rfjvTQ&e=1773450047",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T18:04:48.320190"
+      "extracted_at": "2026-03-13T19:00:48.528061"
     },
     "hoca": {
       "name": "hoca",
@@ -5029,25 +5057,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T18:04:50.800384"
+      "extracted_at": "2026-03-13T19:00:50.830902"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://5n7r9jbt.83870203.net:8443/hls/zj52139k3.m3u8?s=QXhW7rU1o7U8UfRBlCv3lA&e=1773446693",
+      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/zj52139k3.m3u8?s=g5-phO7rXCgHct1nvRC6wA&e=1773450053",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T18:04:54.398232"
+      "extracted_at": "2026-03-13T19:00:54.667088"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://5n7r9jbt.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=JeaJrCgjSCqIJYonfA4hKg&e=1773446697",
+      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=qxk6htaR3dN7nUlFT6FfUg&e=1773450057",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T18:04:57.911938"
+      "extracted_at": "2026-03-13T19:00:57.968171"
     }
   },
   "player_urls": {

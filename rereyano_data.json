@@ -1,82 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T22:51:41.510587",
-  "total_events": 286,
+  "last_updated": "2026-03-13T23:23:42.495603",
+  "total_events": 291,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "13-03-2026",
-      "time": "21:00",
-      "datetime": "13-03-2026 21:00",
-      "league": "Championship",
-      "teams": "Wrexham - Swansea",
-      "channels": [
-        {
-          "id": "10",
-          "lang": "fr"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "13-03-2026 (21:00) Championship : Wrexham - Swansea  (CH10fr) (CH99es) (CH120de) (CH127gb) (CH128gb)"
-    },
-    {
-      "date": "13-03-2026",
-      "time": "21:00",
-      "datetime": "13-03-2026 21:00",
-      "league": "Laliga",
-      "teams": "Alaves - Villarreal",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-03-2026 (21:00) Laliga : Alaves - Villarreal  (CH9fr) (CH51es) (CH71es) (CH90es)"
-    },
-    {
-      "date": "13-03-2026",
-      "time": "21:00",
-      "datetime": "13-03-2026 21:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "FC Cajamarca - Comerciantes Unidos",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-03-2026 (21:00) Liga 1 Te Apuesto : FC Cajamarca - Comerciantes Unidos  (CH84es)"
-    },
     {
       "date": "13-03-2026",
       "time": "22:30",
@@ -4866,6 +4796,118 @@
         }
       ],
       "raw_line": "16-03-2026 (22:30) Torneo LPF : San Lorenzo - Defensa y Justicia  (CH75es)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Liverpool M. - Montevideo City",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) Liga AUF Uruguaya : Liverpool M. - Montevideo City  (CH109es)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - Orlando Magic",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) NBA : Atlanta Hawks - Orlando Magic  (CH181us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Golden State Warriors",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) NBA : Washington Wizards - Golden State Warriors  (CH182us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Detroit Red Wings - Calgary Flames",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) NHL : Detroit Red Wings - Calgary Flames  (CH183us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Boston Bruins",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) NHL : New Jersey Devils - Boston Bruins  (CH184us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "NHL",
+      "teams": "New York Rangers - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) NHL : New York Rangers - Los Angeles Kings  (CH185us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "Serie A Bresil",
+      "teams": "Chapecoense-SC - Gremio",
+      "channels": [
+        {
+          "id": "117",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) Serie A Bresil : Chapecoense-SC - Gremio  (CH117pt)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "00:00",
+      "datetime": "17-03-2026 00:00",
+      "league": "Torneo LPF",
+      "teams": "Racing Club - Estudiantes Rio Cuarto",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-03-2026 (00:00) Torneo LPF : Racing Club - Estudiantes Rio Cuarto  (CH76es)"
     }
   ],
   "player_streams": {
@@ -4873,10 +4915,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=nTZUgsMg45UdacNhb3blfw&e=1773463892",
+      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=LTQV5vIgi7oajPDgX1rInQ&e=1773465812",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T22:51:33.006668"
+      "extracted_at": "2026-03-13T23:23:32.994534"
     },
     "hoca": {
       "name": "hoca",
@@ -4885,25 +4927,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T22:51:35.048786"
+      "extracted_at": "2026-03-13T23:23:35.154952"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/zj52139k3.m3u8?s=1Vb2hmHEdLxmkGDm1EJo_w&e=1773463897",
+      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/zj52139k3.m3u8?s=Eh8oQ7Zz2MfY9qOQeEDinA&e=1773465817",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T22:51:37.730744"
+      "extracted_at": "2026-03-13T23:23:38.494145"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=HQeW7E6Fl2j_lZecva-lGw&e=1773463900",
+      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=pVkxGy-BdN3fNt9HU7tohQ&e=1773465820",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T22:51:40.510437"
+      "extracted_at": "2026-03-13T23:23:41.495458"
     }
   },
   "player_urls": {

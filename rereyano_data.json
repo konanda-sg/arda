@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T20:29:22.458798",
-  "total_events": 303,
+  "last_updated": "2026-03-13T21:01:46.248021",
+  "total_events": 301,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "13-03-2026",
-      "time": "18:30",
-      "datetime": "13-03-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-03-2026 (18:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
-    },
-    {
-      "date": "13-03-2026",
-      "time": "18:30",
-      "datetime": "13-03-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "Greuther Furth - Elversberg",
-      "channels": [
-        {
-          "id": "114",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-03-2026 (18:30) Bundesliga 2 : Greuther Furth - Elversberg  (CH114de)"
-    },
-    {
-      "date": "13-03-2026",
-      "time": "18:30",
-      "datetime": "13-03-2026 18:30",
-      "league": "Bundesliga 2",
-      "teams": "Magdeburg - Darmstadt",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "113",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "13-03-2026 (18:30) Bundesliga 2 : Magdeburg - Darmstadt  (CH9fr) (CH113de)"
-    },
     {
       "date": "13-03-2026",
       "time": "20:00",
@@ -5144,6 +5098,20 @@
         }
       ],
       "raw_line": "16-03-2026 (21:00) Premier League : Brentford - Wolves  (CH12fr) (CH127gb) (CH120de) (CH56es) (CH87es)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "22:00",
+      "datetime": "16-03-2026 22:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Union La Calera - O'Higgins",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-03-2026 (22:00) Campeonato Itaú Chile : Union La Calera - O'Higgins  (CH83es)"
     }
   ],
   "player_streams": {
@@ -5151,10 +5119,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://92vhjue8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=MSYTWfBBqi3Xi-eGIoibqw&e=1773455351",
+      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=khJ8nq-J3T4tUQNnCmbcJQ&e=1773457297",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T20:29:12.555478"
+      "extracted_at": "2026-03-13T21:01:37.773195"
     },
     "hoca": {
       "name": "hoca",
@@ -5163,25 +5131,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T20:29:14.801752"
+      "extracted_at": "2026-03-13T21:01:39.855758"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://92vhjue8.39564828.net:8443/hls/zj52139k3.m3u8?s=o4N9enfyb9V6oVBRHBc73g&e=1773455357",
+      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/zj52139k3.m3u8?s=FzMLGLAnlFx1eE5yT4nvhw&e=1773457302",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T20:29:18.077963"
+      "extracted_at": "2026-03-13T21:01:42.500967"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://92vhjue8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=dLzCX4HNGT53pEhYIdRyQw&e=1773455360",
+      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=ZpkZWo2eDbvHorI8IKI-tw&e=1773457304",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T20:29:21.458649"
+      "extracted_at": "2026-03-13T21:01:45.247895"
     }
   },
   "player_urls": {

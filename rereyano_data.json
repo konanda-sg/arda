@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T19:00:58.968298",
-  "total_events": 298,
+  "last_updated": "2026-03-13T19:46:11.416154",
+  "total_events": 301,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
@@ -5038,6 +5038,64 @@
         }
       ],
       "raw_line": "16-03-2026 (19:30) Torneo LPF : Barracas Central - Atl. Tucuman  (CH75es)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "20:30",
+      "datetime": "16-03-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Albacete - Las Palmas",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-03-2026 (20:30) Laliga 2 : Albacete - Las Palmas  (CH53es)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "20:45",
+      "datetime": "16-03-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Annecy - Troyes",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-03-2026 (20:45) Ligue 2 : Annecy - Troyes  (CH1fr)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "20:45",
+      "datetime": "16-03-2026 20:45",
+      "league": "Serie A",
+      "teams": "Cremonese - Fiorentina",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-03-2026 (20:45) Serie A : Cremonese - Fiorentina  (CH137it) (CH124de) (CH145pt) (CH149gr) (CH70es)"
     }
   ],
   "player_streams": {
@@ -5045,10 +5103,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=H2gjSEX2NxIbSrX7rfjvTQ&e=1773450047",
+      "m3u8_url": "https://cqr2aqt6.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=i2bJEpb1-j8UCQuD2BelkQ&e=1773452761",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T19:00:48.528061"
+      "extracted_at": "2026-03-13T19:46:02.350770"
     },
     "hoca": {
       "name": "hoca",
@@ -5057,25 +5115,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T19:00:50.830902"
+      "extracted_at": "2026-03-13T19:46:04.455387"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/zj52139k3.m3u8?s=g5-phO7rXCgHct1nvRC6wA&e=1773450053",
+      "m3u8_url": "https://cqr2aqt6.58103793.net:8443/hls/zj52139k3.m3u8?s=4KMTva2ho4mwkPvBjWznNw&e=1773452766",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T19:00:54.667088"
+      "extracted_at": "2026-03-13T19:46:07.433094"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=qxk6htaR3dN7nUlFT6FfUg&e=1773450057",
+      "m3u8_url": "https://cqr2aqt6.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=BxvEY7pHmZ17R6DfAbUoUA&e=1773452769",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T19:00:57.968171"
+      "extracted_at": "2026-03-13T19:46:10.415983"
     }
   },
   "player_urls": {

@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T21:01:46.248021",
-  "total_events": 301,
+  "last_updated": "2026-03-13T21:47:52.969056",
+  "total_events": 302,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
@@ -5112,6 +5112,20 @@
         }
       ],
       "raw_line": "16-03-2026 (22:00) Campeonato Itaú Chile : Union La Calera - O'Higgins  (CH83es)"
+    },
+    {
+      "date": "16-03-2026",
+      "time": "22:30",
+      "datetime": "16-03-2026 22:30",
+      "league": "Torneo LPF",
+      "teams": "San Lorenzo - Defensa y Justicia",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-03-2026 (22:30) Torneo LPF : San Lorenzo - Defensa y Justicia  (CH75es)"
     }
   ],
   "player_streams": {
@@ -5119,10 +5133,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=khJ8nq-J3T4tUQNnCmbcJQ&e=1773457297",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=Yq7oTKRThQZp0QdsnNBJeQ&e=1773460063",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T21:01:37.773195"
+      "extracted_at": "2026-03-13T21:47:44.262783"
     },
     "hoca": {
       "name": "hoca",
@@ -5131,25 +5145,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T21:01:39.855758"
+      "extracted_at": "2026-03-13T21:47:46.349188"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/zj52139k3.m3u8?s=FzMLGLAnlFx1eE5yT4nvhw&e=1773457302",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=HmdqgVfledUt4jDAnzw-OA&e=1773460068",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T21:01:42.500967"
+      "extracted_at": "2026-03-13T21:47:49.125597"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=ZpkZWo2eDbvHorI8IKI-tw&e=1773457304",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=NmhQqDT6aBv8lrGhJ6weYw&e=1773460071",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T21:01:45.247895"
+      "extracted_at": "2026-03-13T21:47:51.968910"
     }
   },
   "player_urls": {

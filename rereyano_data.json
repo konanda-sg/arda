@@ -1,212 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-14T01:41:34.755587",
-  "total_events": 299,
+  "last_updated": "2026-03-14T03:56:40.690342",
+  "total_events": 287,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "14-03-2026",
-      "time": "00:00",
-      "datetime": "14-03-2026 00:00",
-      "league": "Campeonato Itaú Chile",
-      "teams": "A. Italiano - D. Concepcion",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:00) Campeonato Itaú Chile : A. Italiano - D. Concepcion  (CH83es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:00",
-      "datetime": "14-03-2026 00:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Nacional - Wanderers",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:00) Liga AUF Uruguaya : Nacional - Wanderers  (CH109es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:00",
-      "datetime": "14-03-2026 00:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Alebrijes Oaxaca - Tapatio",
-      "channels": [
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "74",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:00) Liga De Expansion Mx : Alebrijes Oaxaca - Tapatio  (CH98es) (CH74es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:00",
-      "datetime": "14-03-2026 00:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:00) NHL : New York Islanders - Los Angeles Kings  (CH180us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:00",
-      "datetime": "14-03-2026 00:00",
-      "league": "Torneo LPF",
-      "teams": "Estudiantes L.P. - Lanus",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:00) Torneo LPF : Estudiantes L.P. - Lanus  (CH76es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:00",
-      "datetime": "14-03-2026 00:00",
-      "league": "WTA Indian Wells",
-      "teams": "A. Sabalenka - L. Noskova",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:00) WTA Indian Wells : A. Sabalenka - L. Noskova  (CH3fr)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:20",
-      "datetime": "14-03-2026 00:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Once Caldas - Dep. Pasto",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:20) Liga Betplay Dimayor : Once Caldas - Dep. Pasto  (CH81es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:30",
-      "datetime": "14-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Dallas Mavericks - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:30) NBA : Dallas Mavericks - Cleveland Cavaliers  (CH181us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:30",
-      "datetime": "14-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:30) NBA : Detroit Pistons - Memphis Grizzlies  (CH182us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:30",
-      "datetime": "14-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Indiana Pacers - New York Knicks",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:30) NBA : Indiana Pacers - New York Knicks  (CH183us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "00:30",
-      "datetime": "14-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Toronto Raptors - Phoenix Suns",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (00:30) NBA : Toronto Raptors - Phoenix Suns  (CH184us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "01:00",
-      "datetime": "14-03-2026 01:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Leones del Norte",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (01:00) Ecuador Ligapro : Dep. Cuenca - Leones del Norte  (CH86es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "01:00",
-      "datetime": "14-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Houston Rockets - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (01:00) NBA : Houston Rockets - New Orleans Pelicans  (CH185us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "01:00",
-      "datetime": "14-03-2026 01:00",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Edmonton Oilers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (01:00) NHL : St. Louis Blues - Edmonton Oilers  (CH186us)"
-    },
     {
       "date": "14-03-2026",
       "time": "02:00",
@@ -5016,6 +4816,34 @@
         }
       ],
       "raw_line": "17-03-2026 (02:30) NHL : Colorado Avalanche - Pittsburgh Penguins  (CH192us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "03:00",
+      "datetime": "17-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (03:00) NBA : Los Angeles Clippers - San Antonio Spurs  (CH193us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "04:00",
+      "datetime": "17-03-2026 04:00",
+      "league": "Liga Mx Women",
+      "teams": "Club Leon W - Mazatlan FC W",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-03-2026 (04:00) Liga Mx Women : Club Leon W - Mazatlan FC W  (CH160es)"
     }
   ],
   "player_streams": {
@@ -5023,10 +4851,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=RVtF2F0Io28M6J6AtcvTYA&e=1773474084",
+      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=f1ssa3WJ40fpYP3EAc94Mg&e=1773482191",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-14T01:41:25.434299"
+      "extracted_at": "2026-03-14T03:56:31.521882"
     },
     "hoca": {
       "name": "hoca",
@@ -5035,25 +4863,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-14T01:41:27.641833"
+      "extracted_at": "2026-03-14T03:56:33.847515"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=Ied0wenEMPEchl4-8_AUqA&e=1773474090",
+      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/zj52139k3.m3u8?s=_5_E0KNDjGtM3WnKlHIJtQ&e=1773482196",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-14T01:41:30.678568"
+      "extracted_at": "2026-03-14T03:56:36.666764"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=orYfOJ1BdwEG9pTuZSnxjg&e=1773474093",
+      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=Aec3bcZ_oS5Xx_10CUIEuA&e=1773482199",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-14T01:41:33.755412"
+      "extracted_at": "2026-03-14T03:56:39.690199"
     }
   },
   "player_urls": {

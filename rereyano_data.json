@@ -1,44 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-13T23:51:06.066956",
-  "total_events": 294,
+  "last_updated": "2026-03-14T01:41:34.755587",
+  "total_events": 299,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "13-03-2026",
-      "time": "22:30",
-      "datetime": "13-03-2026 22:30",
-      "league": "Ecuador Ligapro",
-      "teams": "Tecnico U. - Libertad",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-03-2026 (22:30) Ecuador Ligapro : Tecnico U. - Libertad  (CH86es)"
-    },
-    {
-      "date": "13-03-2026",
-      "time": "23:00",
-      "datetime": "13-03-2026 23:00",
-      "league": "Caf Ligue Des Champions",
-      "teams": "FAR Rabat - Pyramids",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "13-03-2026 (23:00) Caf Ligue Des Champions : FAR Rabat - Pyramids  (CH6fr) (CH69es)"
-    },
     {
       "date": "14-03-2026",
       "time": "00:00",
@@ -4950,6 +4918,104 @@
         }
       ],
       "raw_line": "17-03-2026 (00:30) NBA : Brooklyn Nets - Portland Trail Blazers  (CH187us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "01:00",
+      "datetime": "17-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (01:00) NBA : Chicago Bulls - Memphis Grizzlies  (CH188us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "01:00",
+      "datetime": "17-03-2026 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (01:00) NBA : New Orleans Pelicans - Dallas Mavericks  (CH189us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "01:00",
+      "datetime": "17-03-2026 01:00",
+      "league": "NHL",
+      "teams": "Dallas Stars - Utah Mammoth",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (01:00) NHL : Dallas Stars - Utah Mammoth  (CH190us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "02:00",
+      "datetime": "17-03-2026 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Atlas W - Monterrey W",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-03-2026 (02:00) Liga Mx Women : Atlas W - Monterrey W  (CH160es)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "02:15",
+      "datetime": "17-03-2026 02:15",
+      "league": "Torneo LPF",
+      "teams": "Instituto - Independiente",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-03-2026 (02:15) Torneo LPF : Instituto - Independiente  (CH75es)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "02:30",
+      "datetime": "17-03-2026 02:30",
+      "league": "NBA",
+      "teams": "Houston Rockets - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (02:30) NBA : Houston Rockets - Los Angeles Lakers  (CH191us)"
+    },
+    {
+      "date": "17-03-2026",
+      "time": "02:30",
+      "datetime": "17-03-2026 02:30",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - Pittsburgh Penguins",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-03-2026 (02:30) NHL : Colorado Avalanche - Pittsburgh Penguins  (CH192us)"
     }
   ],
   "player_streams": {
@@ -4957,10 +5023,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=71Mq3UArtQ2eUpM5LxOXOA&e=1773467455",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=RVtF2F0Io28M6J6AtcvTYA&e=1773474084",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T23:50:55.747628"
+      "extracted_at": "2026-03-14T01:41:25.434299"
     },
     "hoca": {
       "name": "hoca",
@@ -4969,25 +5035,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-13T23:50:58.121770"
+      "extracted_at": "2026-03-14T01:41:27.641833"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/zj52139k3.m3u8?s=d8CO_xVIt4cO4JADDhjpxA&e=1773467461",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=Ied0wenEMPEchl4-8_AUqA&e=1773474090",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T23:51:01.748520"
+      "extracted_at": "2026-03-14T01:41:30.678568"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=ZbfXjgbEhd-WiIwaZLJfAA&e=1773467464",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=orYfOJ1BdwEG9pTuZSnxjg&e=1773474093",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-13T23:51:05.066817"
+      "extracted_at": "2026-03-14T01:41:33.755412"
     }
   },
   "player_urls": {

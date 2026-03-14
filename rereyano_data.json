@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-14T19:40:40.451963",
-  "total_events": 238,
+  "last_updated": "2026-03-14T19:56:28.733693",
+  "total_events": 222,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "14-03-2026",
-      "time": "17:40",
-      "datetime": "14-03-2026 17:40",
-      "league": "Tournoi des Six Nations",
-      "teams": "Wales - Italy",
-      "channels": [
-        {
-          "id": "28",
-          "lang": "fr"
-        },
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (17:40) Tournoi des Six Nations : Wales - Italy  (CH28fr) (CH55es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:00",
-      "datetime": "14-03-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Unicaja - Basket Zaragoza",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:00) Liga Endesa : Unicaja - Basket Zaragoza  (CH155es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:00",
-      "datetime": "14-03-2026 18:00",
-      "league": "MLS",
-      "teams": "Toronto FC - New York Red Bulls",
-      "channels": [
-        {
-          "id": "161",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:00) MLS : Toronto FC - New York Red Bulls  (CH161us)"
-    },
     {
       "date": "14-03-2026",
       "time": "18:00",
@@ -84,292 +38,6 @@
         }
       ],
       "raw_line": "14-03-2026 (18:00) NHL : Ottawa Senators - Anaheim Ducks  (CH5fr) (CH181us)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:00",
-      "datetime": "14-03-2026 18:00",
-      "league": "Serie A",
-      "teams": "Napoli - Lecce",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:00) Serie A : Napoli - Lecce  (CH137it) (CH145pt) (CH70es) (CH99es) (CH90es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:00",
-      "datetime": "14-03-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Galatasaray - Basaksehir",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:00) Super Lig : Galatasaray - Basaksehir  (CH6fr) (CH151tr)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:00",
-      "datetime": "14-03-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Goztepe - Alanyaspor",
-      "channels": [
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:00) Super Lig : Goztepe - Alanyaspor  (CH152tr)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:00",
-      "datetime": "14-03-2026 18:00",
-      "league": "Super Lig",
-      "teams": "Trabzonspor - Rizespor",
-      "channels": [
-        {
-          "id": "80",
-          "lang": "es"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
-        },
-        {
-          "id": "152",
-          "lang": "tr"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:00) Super Lig : Trabzonspor - Rizespor  (CH80es) (CH151tr) (CH152tr)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:15",
-      "datetime": "14-03-2026 18:15",
-      "league": "Pro League",
-      "teams": "Royale Union SG - Dender",
-      "channels": [
-        {
-          "id": "154",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:15) Pro League : Royale Union SG - Dender  (CH154nl)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Betfred Super League",
-      "teams": "Panserraikos - Aris",
-      "channels": [
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Betfred Super League : Panserraikos - Aris  (CH150gr)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Bundesliga",
-      "teams": "Hamburger SV - FC Koln",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Bundesliga : Hamburger SV - FC Koln  (CH2fr) (CH111de) (CH128gb) (CH116es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Laliga",
-      "teams": "Oviedo - Valencia",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Laliga : Oviedo - Valencia  (CH7fr) (CH51es) (CH71es) (CH94es) (CH124de)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Valladolid - Leganes",
-      "channels": [
-        {
-          "id": "54",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Laliga 2 : Valladolid - Leganes  (CH54es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Zaragoza - Almeria",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Laliga 2 : Zaragoza - Almeria  (CH8fr) (CH53es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Premier League",
-      "teams": "Arsenal - Everton",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Premier League : Arsenal - Everton  (CH14fr) (CH127gb) (CH120de) (CH138it) (CH56es) (CH61es) (CH72es) (CH73es) (CH87es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:30",
-      "datetime": "14-03-2026 18:30",
-      "league": "Premier League",
-      "teams": "Chelsea - Newcastle",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "129",
-          "lang": "gb"
-        },
-        {
-          "id": "58",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:30) Premier League : Chelsea - Newcastle  (CH12fr) (CH129gb) (CH58es)"
-    },
-    {
-      "date": "14-03-2026",
-      "time": "18:45",
-      "datetime": "14-03-2026 18:45",
-      "league": "Eredivisie",
-      "teams": "PSV - Nijmegen",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "14-03-2026 (18:45) Eredivisie : PSV - Nijmegen  (CH142nl) (CH125de)"
     },
     {
       "date": "14-03-2026",
@@ -3993,10 +3661,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=4jNd6DcQXOnAxPBJDWEhiw&e=1773538829",
+      "m3u8_url": "https://vmre6nax.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=p6pMWa3-yJiFwn0URJrlPg&e=1773539777",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-14T19:40:30.500508"
+      "extracted_at": "2026-03-14T19:56:18.469438"
     },
     "hoca": {
       "name": "hoca",
@@ -4005,25 +3673,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-14T19:40:32.806897"
+      "extracted_at": "2026-03-14T19:56:20.900265"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/zj52139k3.m3u8?s=PXDxlHE6A1--tgKqwHhXWg&e=1773538835",
+      "m3u8_url": "https://vmre6nax.12703830.net:8443/hls/zj52139k3.m3u8?s=oM7jdBm32E7S-bdIFVx3rw&e=1773539783",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-14T19:40:36.110319"
+      "extracted_at": "2026-03-14T19:56:24.317916"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=yCHWHED7ean07wyUEygUCw&e=1773538838",
+      "m3u8_url": "https://vmre6nax.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=lw7_gUNYBYfUDLcABiSZVw&e=1773539787",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-14T19:40:39.451845"
+      "extracted_at": "2026-03-14T19:56:27.733549"
     }
   },
   "player_urls": {

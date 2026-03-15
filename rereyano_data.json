@@ -1,74 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-15T22:54:09.356910",
-  "total_events": 68,
+  "last_updated": "2026-03-15T23:25:02.552463",
+  "total_events": 65,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "15-03-2026",
-      "time": "21:00",
-      "datetime": "15-03-2026 21:00",
-      "league": "Laliga",
-      "teams": "Real Sociedad - Osasuna",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "15-03-2026 (21:00) Laliga : Real Sociedad - Osasuna  (CH1fr) (CH51es) (CH71es) (CH94es) (CH124de)"
-    },
-    {
-      "date": "15-03-2026",
-      "time": "21:00",
-      "datetime": "15-03-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Gijon - Castellon",
-      "channels": [
-        {
-          "id": "10",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-03-2026 (21:00) Laliga 2 : Gijon - Castellon  (CH10fr) (CH53es)"
-    },
-    {
-      "date": "15-03-2026",
-      "time": "21:00",
-      "datetime": "15-03-2026 21:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Maldonado - Defensor Sp.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "15-03-2026 (21:00) Liga AUF Uruguaya : Maldonado - Defensor Sp.  (CH109es)"
-    },
     {
       "date": "15-03-2026",
       "time": "21:30",
@@ -1093,10 +1031,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=jv0zjgN_fzmkL4hzkBqfWw&e=1773636839",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=541AGMkdw7vKC8WPbv6GxA&e=1773638692",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-15T22:54:00.471297"
+      "extracted_at": "2026-03-15T23:24:52.878227"
     },
     "hoca": {
       "name": "hoca",
@@ -1105,25 +1043,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-15T22:54:02.610897"
+      "extracted_at": "2026-03-15T23:24:55.070986"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/zj52139k3.m3u8?s=fYOYX76wv6ClxCc_cQYxwg&e=1773636845",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/zj52139k3.m3u8?s=CM7xpj9pxcD2lDM4J6U8LA&e=1773638697",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-15T22:54:05.675234"
+      "extracted_at": "2026-03-15T23:24:58.365980"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=JXbrhgHw7XuZ5dbQPsNbjg&e=1773636847",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=qh2brXfU7jQFPQELMhM6vw&e=1773638701",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-15T22:54:08.356760"
+      "extracted_at": "2026-03-15T23:25:01.552300"
     }
   },
   "player_urls": {

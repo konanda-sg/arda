@@ -1,112 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-16T22:51:19.667021",
-  "total_events": 26,
+  "last_updated": "2026-03-16T23:27:23.357548",
+  "total_events": 22,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "16-03-2026",
-      "time": "21:00",
-      "datetime": "16-03-2026 21:00",
-      "league": "Championship",
-      "teams": "Portsmouth - Derby",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (21:00) Championship : Portsmouth - Derby  (CH4fr) (CH128gb) (CH91es) (CH98es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "21:00",
-      "datetime": "16-03-2026 21:00",
-      "league": "Laliga",
-      "teams": "Rayo Vallecano - Levante",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "16-03-2026 (21:00) Laliga : Rayo Vallecano - Levante  (CH2fr) (CH49es) (CH71es) (CH89es) (CH123de)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "21:00",
-      "datetime": "16-03-2026 21:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Danubio - Juventud",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (21:00) Liga AUF Uruguaya : Danubio - Juventud  (CH109es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "21:00",
-      "datetime": "16-03-2026 21:00",
-      "league": "Premier League",
-      "teams": "Brentford - Wolves",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (21:00) Premier League : Brentford - Wolves  (CH12fr) (CH127gb) (CH120de) (CH56es) (CH87es)"
-    },
     {
       "date": "16-03-2026",
       "time": "22:00",
@@ -453,10 +353,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=NNHsoRYU9tunjqFWFa1MLg&e=1773723071",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=WqocFbRUTaG3_qUg-AtK-Q&e=1773725234",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T22:51:11.630552"
+      "extracted_at": "2026-03-16T23:27:14.721224"
     },
     "hoca": {
       "name": "hoca",
@@ -465,25 +365,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-16T22:51:13.565756"
+      "extracted_at": "2026-03-16T23:27:16.936962"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=j0n9QxkIU95hL-MtHMkzqw&e=1773723075",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=MxRB5I4QspSjDg4DskXEpA&e=1773725239",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T22:51:15.977531"
+      "extracted_at": "2026-03-16T23:27:19.533147"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=yJG98jGjrWXmzzfL1VOC1Q&e=1773723078",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=Tb6xICalLfyM96yd9fb9bA&e=1773725241",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T22:51:18.666840"
+      "extracted_at": "2026-03-16T23:27:22.357424"
     }
   },
   "player_urls": {

@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-16T15:44:59.805712",
+  "last_updated": "2026-03-16T16:44:25.658137",
   "total_events": 31,
   "total_players": 4,
   "m3u8_extracted": 3,
@@ -101,6 +101,10 @@
       "teams": "Portsmouth - Derby",
       "channels": [
         {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
           "id": "128",
           "lang": "gb"
         },
@@ -113,7 +117,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "16-03-2026 (21:00) Championship : Portsmouth - Derby  (CH128gb) (CH91es) (CH98es)"
+      "raw_line": "16-03-2026 (21:00) Championship : Portsmouth - Derby  (CH4fr) (CH128gb) (CH91es) (CH98es)"
     },
     {
       "date": "16-03-2026",
@@ -123,7 +127,7 @@
       "teams": "Rayo Vallecano - Levante",
       "channels": [
         {
-          "id": "4",
+          "id": "2",
           "lang": "fr"
         },
         {
@@ -143,7 +147,7 @@
           "lang": "de"
         }
       ],
-      "raw_line": "16-03-2026 (21:00) Laliga : Rayo Vallecano - Levante  (CH4fr) (CH49es) (CH71es) (CH89es) (CH123de)"
+      "raw_line": "16-03-2026 (21:00) Laliga : Rayo Vallecano - Levante  (CH2fr) (CH49es) (CH71es) (CH89es) (CH123de)"
     },
     {
       "date": "16-03-2026",
@@ -241,9 +245,13 @@
         {
           "id": "181",
           "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "17-03-2026 (00:00) NBA : Atlanta Hawks - Orlando Magic  (CH181us)"
+      "raw_line": "17-03-2026 (00:00) NBA : Atlanta Hawks - Orlando Magic  (CH181us) (CH98es)"
     },
     {
       "date": "17-03-2026",
@@ -283,9 +291,17 @@
         {
           "id": "184",
           "lang": "us"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "17-03-2026 (00:00) NHL : New Jersey Devils - Boston Bruins  (CH184us)"
+      "raw_line": "17-03-2026 (00:00) NHL : New Jersey Devils - Boston Bruins  (CH184us) (CH99es) (CH89es)"
     },
     {
       "date": "17-03-2026",
@@ -449,11 +465,23 @@
       "teams": "Houston Rockets - Los Angeles Lakers",
       "channels": [
         {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
           "id": "191",
           "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "17-03-2026 (02:30) NBA : Houston Rockets - Los Angeles Lakers  (CH191us)"
+      "raw_line": "17-03-2026 (02:30) NBA : Houston Rockets - Los Angeles Lakers  (CH1fr) (CH191us) (CH155es) (CH98es)"
     },
     {
       "date": "17-03-2026",
@@ -465,9 +493,17 @@
         {
           "id": "192",
           "lang": "us"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "17-03-2026 (02:30) NHL : Colorado Avalanche - Pittsburgh Penguins  (CH192us)"
+      "raw_line": "17-03-2026 (02:30) NHL : Colorado Avalanche - Pittsburgh Penguins  (CH192us) (CH99es) (CH89es)"
     },
     {
       "date": "17-03-2026",
@@ -503,10 +539,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=Z6KeNS8clZ31ZII4RmQ83w&e=1773697489",
+      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=BKHfvk8f8Aa7vXFlDA86yg&e=1773701056",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T15:44:49.831324"
+      "extracted_at": "2026-03-16T16:44:16.715527"
     },
     "hoca": {
       "name": "hoca",
@@ -515,25 +551,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-16T15:44:52.369807"
+      "extracted_at": "2026-03-16T16:44:19.209726"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/zj52139k3.m3u8?s=jDTiJajPZ7rHtzNmDy2i-A&e=1773697494",
+      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=fFl_Cn5vRT2PwpotTBOH-w&e=1773701061",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T15:44:55.294353"
+      "extracted_at": "2026-03-16T16:44:22.154052"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=R9pnqhytTqMIe3pz2DiSVg&e=1773697498",
+      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=MWp6GVHYfYqilJtypFm96w&e=1773701064",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T15:44:58.805561"
+      "extracted_at": "2026-03-16T16:44:24.657996"
     }
   },
   "player_urls": {

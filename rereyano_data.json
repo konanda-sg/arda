@@ -1,274 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-16T01:58:37.450224",
-  "total_events": 50,
+  "last_updated": "2026-03-16T04:42:24.771968",
+  "total_events": 33,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "16-03-2026",
-      "time": "00:00",
-      "datetime": "16-03-2026 00:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Cusco - Cienciano",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:00) Liga 1 Te Apuesto : Cusco - Cienciano  (CH84es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:00",
-      "datetime": "16-03-2026 00:00",
-      "league": "Liga Mx",
-      "teams": "Tigres UANL - Queretaro",
-      "channels": [
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:00) Liga Mx : Tigres UANL - Queretaro  (CH72es) (CH70es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:00",
-      "datetime": "16-03-2026 00:00",
-      "league": "MLS",
-      "teams": "San Jose Earthquakes - Seattle Sounders",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:00) MLS : San Jose Earthquakes - Seattle Sounders  (CH175us)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:00",
-      "datetime": "16-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Montreal Canadiens - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:00) NHL : Montreal Canadiens - Anaheim Ducks  (CH187us)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:15",
-      "datetime": "16-03-2026 00:15",
-      "league": "Ecuador Ligapro",
-      "teams": "Guayaquil City - Barcelona SC",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:15) Ecuador Ligapro : Guayaquil City - Barcelona SC  (CH86es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:20",
-      "datetime": "16-03-2026 00:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Jaguares de Cordoba - Ind. Medellin",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:20) Liga Betplay Dimayor : Jaguares de Cordoba - Ind. Medellin  (CH81es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:30",
-      "datetime": "16-03-2026 00:30",
-      "league": "Campeonato Itaú Chile",
-      "teams": "Nublense - La Serena",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:30) Campeonato Itaú Chile : Nublense - La Serena  (CH83es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:30",
-      "datetime": "16-03-2026 00:30",
-      "league": "NHL",
-      "teams": "Minnesota Wild - Toronto Maple Leafs",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:30) NHL : Minnesota Wild - Toronto Maple Leafs  (CH188us)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:30",
-      "datetime": "16-03-2026 00:30",
-      "league": "Serie A Bresil",
-      "teams": "Bragantino - Sao Paulo",
-      "channels": [
-        {
-          "id": "117",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:30) Serie A Bresil : Bragantino - Sao Paulo  (CH117pt)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "00:30",
-      "datetime": "16-03-2026 00:30",
-      "league": "Serie A Bresil",
-      "teams": "Cruzeiro - Vasco",
-      "channels": [
-        {
-          "id": "146",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "16-03-2026 (00:30) Serie A Bresil : Cruzeiro - Vasco  (CH146pt)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "01:00",
-      "datetime": "16-03-2026 01:00",
-      "league": "NBA",
-      "teams": "New York Knicks - Golden State Warriors",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-03-2026 (01:00) NBA : New York Knicks - Golden State Warriors  (CH1fr) (CH189us)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "01:00",
-      "datetime": "16-03-2026 01:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Nashville Predators",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-03-2026 (01:00) NHL : Edmonton Oilers - Nashville Predators  (CH190us)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "01:00",
-      "datetime": "16-03-2026 01:00",
-      "league": "NHL",
-      "teams": "Seattle Kraken - Florida Panthers",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-03-2026 (01:00) NHL : Seattle Kraken - Florida Panthers  (CH191us)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "02:00",
-      "datetime": "16-03-2026 02:00",
-      "league": "Liga Mx",
-      "teams": "Club America - Mazatlan FC",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (02:00) Liga Mx : Club America - Mazatlan FC  (CH68es) (CH106es) (CH107es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "02:00",
-      "datetime": "16-03-2026 02:00",
-      "league": "Torneo LPF",
-      "teams": "Tigre - Argentinos Jrs",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (02:00) Torneo LPF : Tigre - Argentinos Jrs  (CH76es)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "02:00",
-      "datetime": "16-03-2026 02:00",
-      "league": "Torneo LPF",
-      "teams": "Union de Santa Fe - Boca Juniors",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "16-03-2026 (02:00) Torneo LPF : Union de Santa Fe - Boca Juniors  (CH75es) (CH87es) (CH145pt)"
-    },
-    {
-      "date": "16-03-2026",
-      "time": "02:30",
-      "datetime": "16-03-2026 02:30",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Junior - Fortaleza",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-03-2026 (02:30) Liga Betplay Dimayor : Junior - Fortaleza  (CH81es)"
-    },
     {
       "date": "16-03-2026",
       "time": "03:00",
@@ -793,10 +531,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=HWhc-gVSm9h4jDOgPYZuPg&e=1773647907",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=kJ6OaHjzXsZ1LJcC70aOow&e=1773657735",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T01:58:28.569723"
+      "extracted_at": "2026-03-16T04:42:15.812161"
     },
     "hoca": {
       "name": "hoca",
@@ -805,25 +543,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-16T01:58:30.409959"
+      "extracted_at": "2026-03-16T04:42:18.330283"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/zj52139k3.m3u8?s=HWzHOx2KNkvwBnwYtdwI7Q&e=1773647913",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=pFQx0vL88k8v2480kuxYJw&e=1773657740",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T01:58:33.758399"
+      "extracted_at": "2026-03-16T04:42:21.164589"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=YkLjZ2B6WRbMVM2ewaraGA&e=1773647915",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=1rHu6MTYCewLdSd7Z8UVGQ&e=1773657743",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-16T01:58:36.450085"
+      "extracted_at": "2026-03-16T04:42:23.771823"
     }
   },
   "player_urls": {

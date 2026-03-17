@@ -1,52 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-17T17:13:04.061449",
-  "total_events": 42,
+  "last_updated": "2026-03-17T18:08:31.384420",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "17-03-2026",
-      "time": "16:00",
-      "datetime": "17-03-2026 16:00",
-      "league": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Paris",
-      "channels": [
-        {
-          "id": "65",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (16:00) EuroLeague : Hapoel Tel-Aviv - Paris  (CH65es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "16:00",
-      "datetime": "17-03-2026 16:00",
-      "league": "Youth League",
-      "teams": "Villarreal U19 - PSG U19",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "161",
-          "lang": "es"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (16:00) Youth League : Villarreal U19 - PSG U19  (CH12fr) (CH112de) (CH161es) (CH162es)"
-    },
     {
       "date": "17-03-2026",
       "time": "18:00",
@@ -59,23 +19,19 @@
           "lang": "fr"
         },
         {
-          "id": "69",
-          "lang": "es"
+          "id": "151",
+          "lang": "tr"
         },
         {
-          "id": "97",
+          "id": "69",
           "lang": "es"
         },
         {
           "id": "100",
           "lang": "es"
-        },
-        {
-          "id": "151",
-          "lang": "tr"
         }
       ],
-      "raw_line": "17-03-2026 (18:00) Super Lig : Fenerbahce - Gaziantep  (CH2fr) (CH69es) (CH97es) (CH100es) (CH151tr)"
+      "raw_line": "17-03-2026 (18:00) Super Lig : Fenerbahce - Gaziantep  (CH2fr) (CH151tr) (CH69es) (CH100es)"
     },
     {
       "date": "17-03-2026",
@@ -267,6 +223,10 @@
           "lang": "de"
         },
         {
+          "id": "140",
+          "lang": "it"
+        },
+        {
           "id": "142",
           "lang": "nl"
         },
@@ -287,7 +247,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "17-03-2026 (21:00) Ligue Des Champions : Chelsea - PSG  (CH12fr) (CH130gb) (CH163es) (CH114de) (CH142nl) (CH149gr) (CH68es) (CH78es) (CH88es)"
+      "raw_line": "17-03-2026 (21:00) Ligue Des Champions : Chelsea - PSG  (CH12fr) (CH130gb) (CH163es) (CH114de) (CH140it) (CH142nl) (CH149gr) (CH68es) (CH78es) (CH88es)"
     },
     {
       "date": "17-03-2026",
@@ -309,6 +269,10 @@
           "lang": "es"
         },
         {
+          "id": "137",
+          "lang": "it"
+        },
+        {
           "id": "113",
           "lang": "de"
         },
@@ -325,7 +289,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "17-03-2026 (21:00) Ligue Des Champions : Manchester City - Real Madrid  (CH13fr) (CH132us) (CH161es) (CH113de) (CH123de) (CH87es) (CH158es)"
+      "raw_line": "17-03-2026 (21:00) Ligue Des Champions : Manchester City - Real Madrid  (CH13fr) (CH132us) (CH161es) (CH137it) (CH113de) (CH123de) (CH87es) (CH158es)"
     },
     {
       "date": "17-03-2026",
@@ -769,10 +733,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=bL7CQZG5RXUt9xeS6yw2_w&e=1773789173",
+      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=JLh90EH7siJFHb2F05gDXA&e=1773792503",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T17:12:54.038037"
+      "extracted_at": "2026-03-17T18:08:23.668899"
     },
     "hoca": {
       "name": "hoca",
@@ -781,25 +745,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-17T17:12:56.686907"
+      "extracted_at": "2026-03-17T18:08:25.103211"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/zj52139k3.m3u8?s=ftMV7xxquL93pjdc5PKhOQ&e=1773789179",
+      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/zj52139k3.m3u8?s=KC6Lagxnd1MFa-rjx-HO9A&e=1773792507",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T17:13:00.498888"
+      "extracted_at": "2026-03-17T18:08:28.395062"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=QKLZZyPo0y4iOOiN9tsATA&e=1773789182",
+      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=TT93erJzRM1NxK7FBovm_A&e=1773792509",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T17:13:03.061295"
+      "extracted_at": "2026-03-17T18:08:30.384278"
     }
   },
   "player_urls": {

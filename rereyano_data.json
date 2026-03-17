@@ -1,88 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-17T04:13:56.815800",
-  "total_events": 5,
+  "last_updated": "2026-03-17T05:38:21.144783",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "17-03-2026",
-      "time": "02:15",
-      "datetime": "17-03-2026 02:15",
-      "league": "Torneo LPF",
-      "teams": "Instituto - Independiente",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (02:15) Torneo LPF : Instituto - Independiente  (CH75es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "02:30",
-      "datetime": "17-03-2026 02:30",
-      "league": "NBA",
-      "teams": "Houston Rockets - Los Angeles Lakers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "191",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (02:30) NBA : Houston Rockets - Los Angeles Lakers  (CH1fr) (CH191us) (CH155es) (CH98es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "02:30",
-      "datetime": "17-03-2026 02:30",
-      "league": "NHL",
-      "teams": "Colorado Avalanche - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (02:30) NHL : Colorado Avalanche - Pittsburgh Penguins  (CH192us) (CH99es) (CH89es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "03:00",
-      "datetime": "17-03-2026 03:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (03:00) NBA : Los Angeles Clippers - San Antonio Spurs  (CH193us)"
-    },
     {
       "date": "17-03-2026",
       "time": "04:00",
@@ -103,10 +27,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=t5o2OQOEfYS8ZAh0zdwl-Q&e=1773742427",
+      "m3u8_url": "https://96px249x.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=fHjVtQp41TXZ4syWpFveTg&e=1773747490",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T04:13:47.929325"
+      "extracted_at": "2026-03-17T05:38:10.964878"
     },
     "hoca": {
       "name": "hoca",
@@ -115,25 +39,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-17T04:13:50.284367"
+      "extracted_at": "2026-03-17T05:38:13.645595"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/zj52139k3.m3u8?s=cNuRqw7aYy-7zsRqZokyQg&e=1773742432",
+      "m3u8_url": "https://96px249x.58103793.net:8443/hls/zj52139k3.m3u8?s=BCCHb0GOk_Xn6LXqvysO7w&e=1773747496",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T04:13:53.292375"
+      "extracted_at": "2026-03-17T05:38:17.575380"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=ZOhPGJunAYUbi3beo2NJ-w&e=1773742435",
+      "m3u8_url": "https://96px249x.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=8O_4ebaSk_zaE_Jygt8Rtw&e=1773747499",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T04:13:55.815673"
+      "extracted_at": "2026-03-17T05:38:20.144653"
     }
   },
   "player_urls": {

@@ -1,234 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-17T01:46:14.316342",
-  "total_events": 20,
+  "last_updated": "2026-03-17T04:13:56.815800",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Liverpool M. - Montevideo City",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) Liga AUF Uruguaya : Liverpool M. - Montevideo City  (CH109es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "NBA",
-      "teams": "Atlanta Hawks - Orlando Magic",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) NBA : Atlanta Hawks - Orlando Magic  (CH181us) (CH98es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "NBA",
-      "teams": "Washington Wizards - Golden State Warriors",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) NBA : Washington Wizards - Golden State Warriors  (CH182us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Detroit Red Wings - Calgary Flames",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) NHL : Detroit Red Wings - Calgary Flames  (CH183us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "NHL",
-      "teams": "New Jersey Devils - Boston Bruins",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) NHL : New Jersey Devils - Boston Bruins  (CH184us) (CH99es) (CH89es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "NHL",
-      "teams": "New York Rangers - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) NHL : New York Rangers - Los Angeles Kings  (CH185us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "Serie A Bresil",
-      "teams": "Chapecoense-SC - Gremio",
-      "channels": [
-        {
-          "id": "117",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) Serie A Bresil : Chapecoense-SC - Gremio  (CH117pt)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:00",
-      "datetime": "17-03-2026 00:00",
-      "league": "Torneo LPF",
-      "teams": "Racing Club - Estudiantes Rio Cuarto",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:00) Torneo LPF : Racing Club - Estudiantes Rio Cuarto  (CH76es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:30",
-      "datetime": "17-03-2026 00:30",
-      "league": "Campeonato Itaú Chile",
-      "teams": "Colo Colo - Huachipato",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:30) Campeonato Itaú Chile : Colo Colo - Huachipato  (CH83es)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:30",
-      "datetime": "17-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Boston Celtics - Phoenix Suns",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:30) NBA : Boston Celtics - Phoenix Suns  (CH186us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "00:30",
-      "datetime": "17-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (00:30) NBA : Brooklyn Nets - Portland Trail Blazers  (CH187us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "01:00",
-      "datetime": "17-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Chicago Bulls - Memphis Grizzlies",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (01:00) NBA : Chicago Bulls - Memphis Grizzlies  (CH188us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "01:00",
-      "datetime": "17-03-2026 01:00",
-      "league": "NBA",
-      "teams": "New Orleans Pelicans - Dallas Mavericks",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (01:00) NBA : New Orleans Pelicans - Dallas Mavericks  (CH189us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "01:00",
-      "datetime": "17-03-2026 01:00",
-      "league": "NHL",
-      "teams": "Dallas Stars - Utah Mammoth",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-03-2026 (01:00) NHL : Dallas Stars - Utah Mammoth  (CH190us)"
-    },
-    {
-      "date": "17-03-2026",
-      "time": "02:00",
-      "datetime": "17-03-2026 02:00",
-      "league": "Liga Mx Women",
-      "teams": "Atlas W - Monterrey W",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-03-2026 (02:00) Liga Mx Women : Atlas W - Monterrey W  (CH160es)"
-    },
     {
       "date": "17-03-2026",
       "time": "02:15",
@@ -325,10 +103,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=tFkAxctgN2H_YGA-hd8asg&e=1773733565",
+      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=t5o2OQOEfYS8ZAh0zdwl-Q&e=1773742427",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T01:46:05.788550"
+      "extracted_at": "2026-03-17T04:13:47.929325"
     },
     "hoca": {
       "name": "hoca",
@@ -337,25 +115,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-17T01:46:07.998963"
+      "extracted_at": "2026-03-17T04:13:50.284367"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/zj52139k3.m3u8?s=tkJ3E2wHqItLKG15KzdFDA&e=1773733570",
+      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/zj52139k3.m3u8?s=cNuRqw7aYy-7zsRqZokyQg&e=1773742432",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T01:46:10.864060"
+      "extracted_at": "2026-03-17T04:13:53.292375"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=4byGDaNXfV2JmniGyw9QTQ&e=1773733572",
+      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=ZOhPGJunAYUbi3beo2NJ-w&e=1773742435",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-17T01:46:13.316161"
+      "extracted_at": "2026-03-17T04:13:55.815673"
     }
   },
   "player_urls": {

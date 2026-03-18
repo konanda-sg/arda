@@ -1,21 +1,954 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-18T12:04:28.880023",
-  "total_events": 0,
+  "last_updated": "2026-03-18T13:53:16.606880",
+  "total_events": 50,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
-  "events": [],
+  "events": [
+    {
+      "date": "18-03-2026",
+      "time": "14:00",
+      "datetime": "18-03-2026 14:00",
+      "league": "Super Lig",
+      "teams": "Alanyaspor - Kocaelispor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "18-03-2026 (14:00) Super Lig : Alanyaspor - Kocaelispor  (CH151tr)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "14:00",
+      "datetime": "18-03-2026 14:00",
+      "league": "Youth League",
+      "teams": "Real Madrid U19 - Sporting CP U19",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (14:00) Youth League : Real Madrid U19 - Sporting CP U19  (CH12fr) (CH55es) (CH141nl) (CH161es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "16:00",
+      "datetime": "18-03-2026 16:00",
+      "league": "Youth League",
+      "teams": "Inter U19 - Benfica U19",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (16:00) Youth League : Inter U19 - Benfica U19  (CH139it) (CH163es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "16:30",
+      "datetime": "18-03-2026 16:30",
+      "league": "Ligue Europa",
+      "teams": "Braga - Ferencvaros",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "142",
+          "lang": "nl"
+        },
+        {
+          "id": "146",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (16:30) Ligue Europa : Braga - Ferencvaros  (CH12fr) (CH162es) (CH126gb) (CH112de) (CH138it) (CH142nl) (CH146pt) (CH149gr) (CH89es) (CH97es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "18:00",
+      "datetime": "18-03-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Basaksehir - Antalyaspor",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "18-03-2026 (18:00) Super Lig : Basaksehir - Antalyaspor  (CH152tr)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "18:00",
+      "datetime": "18-03-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Eyupspor - Trabzonspor",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (18:00) Super Lig : Eyupspor - Trabzonspor  (CH4fr) (CH151tr) (CH69es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "18:45",
+      "datetime": "18-03-2026 18:45",
+      "league": "Ligue Des Champions",
+      "teams": "Barcelona - Newcastle",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (18:45) Ligue Des Champions : Barcelona - Newcastle  (CH12fr) (CH161es) (CH130gb) (CH139it) (CH123de) (CH141nl) (CH68es) (CH78es) (CH87es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "20:00",
+      "datetime": "18-03-2026 20:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Macara - Delfin",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (20:00) Ecuador Ligapro : Macara - Delfin  (CH86es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "20:00",
+      "datetime": "18-03-2026 20:00",
+      "league": "Saudi King Cup",
+      "teams": "Al Ahli SC - Al Hilal",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (20:00) Saudi King Cup : Al Ahli SC - Al Hilal  (CH55es) (CH70es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "20:00",
+      "datetime": "18-03-2026 20:00",
+      "league": "Saudi King Cup",
+      "teams": "Al Kholood - Al Ittihad",
+      "channels": [
+        {
+          "id": "50",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (20:00) Saudi King Cup : Al Kholood - Al Ittihad  (CH50es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "20:45",
+      "datetime": "18-03-2026 20:45",
+      "league": "Championship",
+      "teams": "Southampton - Norwich",
+      "channels": [
+        {
+          "id": "199",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (20:45) Championship : Southampton - Norwich  (CH199es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "21:00",
+      "datetime": "18-03-2026 21:00",
+      "league": "Copa De La Reina",
+      "teams": "Barcelona W - Badalona W",
+      "channels": [
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (21:00) Copa De La Reina : Barcelona W - Badalona W  (CH71es) (CH100es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "21:00",
+      "datetime": "18-03-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Bayern Munich - Atalanta",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "142",
+          "lang": "nl"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (21:00) Ligue Des Champions : Bayern Munich - Atalanta  (CH13fr) (CH165es) (CH132gb) (CH137it) (CH112de) (CH123de) (CH142nl) (CH149gr) (CH79es) (CH87es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "21:00",
+      "datetime": "18-03-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Liverpool - Galatasaray",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (21:00) Ligue Des Champions : Liverpool - Galatasaray  (CH11fr) (CH163es) (CH126gb) (CH138it) (CH141nl) (CH144pt) (CH68es) (CH88es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "21:00",
+      "datetime": "18-03-2026 21:00",
+      "league": "Ligue Des Champions",
+      "teams": "Tottenham - Atl. Madrid",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "143",
+          "lang": "nl"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (21:00) Ligue Des Champions : Tottenham - Atl. Madrid  (CH12fr) (CH161es) (CH131gb) (CH113de) (CH140it) (CH143nl) (CH91es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "22:10",
+      "datetime": "18-03-2026 22:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Pasto - Chico",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (22:10) Liga Betplay Dimayor : Dep. Pasto - Chico  (CH81es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "22:30",
+      "datetime": "18-03-2026 22:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Manta - Guayaquil City",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-03-2026 (22:30) Ecuador Ligapro : Manta - Guayaquil City  (CH86es)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "23:00",
+      "datetime": "18-03-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Bahia - Bragantino",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "18-03-2026 (23:00) Serie A Bresil : Bahia - Bragantino  (CH170pt)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "23:00",
+      "datetime": "18-03-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Palmeiras - Botafogo RJ",
+      "channels": [
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "18-03-2026 (23:00) Serie A Bresil : Palmeiras - Botafogo RJ  (CH50es) (CH162es) (CH125de)"
+    },
+    {
+      "date": "18-03-2026",
+      "time": "23:30",
+      "datetime": "18-03-2026 23:30",
+      "league": "Serie A Bresil",
+      "teams": "Athletico-PR - Cruzeiro",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "18-03-2026 (23:30) Serie A Bresil : Athletico-PR - Cruzeiro  (CH171pt)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:00",
+      "datetime": "19-03-2026 00:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Inter Miami - Nashville SC",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:00) Concacaf Champions Cup : Inter Miami - Nashville SC  (CH163es) (CH55es) (CH68es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:00",
+      "datetime": "19-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Boston Celtics - Golden State Warriors",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:00) NBA : Boston Celtics - Golden State Warriors  (CH1fr) (CH89es) (CH180us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:00",
+      "datetime": "19-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Carolina Hurricanes - Pittsburgh Penguins",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:00) NHL : Carolina Hurricanes - Pittsburgh Penguins  (CH181us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:00",
+      "datetime": "19-03-2026 00:00",
+      "league": "NHL",
+      "teams": "New York Rangers - New Jersey Devils",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:00) NHL : New York Rangers - New Jersey Devils  (CH182us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:00",
+      "datetime": "19-03-2026 00:00",
+      "league": "Serie A Bresil",
+      "teams": "Atletico-MG - Sao Paulo",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:00) Serie A Bresil : Atletico-MG - Sao Paulo  (CH172pt)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:00",
+      "datetime": "19-03-2026 00:00",
+      "league": "Serie A Bresil",
+      "teams": "Mirassol - Coritiba",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:00) Serie A Bresil : Mirassol - Coritiba  (CH173pt)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:20",
+      "datetime": "19-03-2026 00:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Inter Bogotá - Pereira",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:20) Liga Betplay Dimayor : Inter Bogotá - Pereira  (CH81es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:30",
+      "datetime": "19-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:30) NBA : Brooklyn Nets - Oklahoma City Thunder  (CH183us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:30",
+      "datetime": "19-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:30) NBA : Indiana Pacers - Portland Trail Blazers  (CH184us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "00:30",
+      "datetime": "19-03-2026 00:30",
+      "league": "NHL",
+      "teams": "Washington Capitals - Ottawa Senators",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (00:30) NHL : Washington Capitals - Ottawa Senators  (CH185us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:00",
+      "datetime": "19-03-2026 01:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Libertad - Barcelona SC",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:00) Ecuador Ligapro : Libertad - Barcelona SC  (CH86es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:00",
+      "datetime": "19-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Toronto Raptors",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:00) NBA : Chicago Bulls - Toronto Raptors  (CH186us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:00",
+      "datetime": "19-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Utah Jazz",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:00) NBA : Minnesota Timberwolves - Utah Jazz  (CH187us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:00",
+      "datetime": "19-03-2026 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:00) NBA : New Orleans Pelicans - Los Angeles Clippers  (CH188us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:30",
+      "datetime": "19-03-2026 01:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Bucaramanga - Once Caldas",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:30) Liga Betplay Dimayor : Bucaramanga - Once Caldas  (CH81es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:30",
+      "datetime": "19-03-2026 01:30",
+      "league": "NBA",
+      "teams": "Dallas Mavericks - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:30) NBA : Dallas Mavericks - Atlanta Hawks  (CH189us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:30",
+      "datetime": "19-03-2026 01:30",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Denver Nuggets",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:30) NBA : Memphis Grizzlies - Denver Nuggets  (CH190us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:30",
+      "datetime": "19-03-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Santos - Internacional",
+      "channels": [
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:30) Serie A Bresil : Santos - Internacional  (CH50es) (CH161es) (CH125de)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "01:30",
+      "datetime": "19-03-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Vasco - Fluminense",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "19-03-2026 (01:30) Serie A Bresil : Vasco - Fluminense  (CH174pt)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "02:00",
+      "datetime": "19-03-2026 02:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Club America - Philadelphia Union",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (02:00) Concacaf Champions Cup : Club America - Philadelphia Union  (CH68es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "02:00",
+      "datetime": "19-03-2026 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Tlaxcala - Atlante",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (02:00) Liga De Expansion Mx : Tlaxcala - Atlante  (CH98es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "02:30",
+      "datetime": "19-03-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Cali - Santa Fe",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (02:30) Liga Betplay Dimayor : Dep. Cali - Santa Fe  (CH81es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "02:30",
+      "datetime": "19-03-2026 02:30",
+      "league": "NBA",
+      "teams": "Houston Rockets - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (02:30) NBA : Houston Rockets - Los Angeles Lakers  (CH1fr) (CH89es) (CH191us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "02:30",
+      "datetime": "19-03-2026 02:30",
+      "league": "NHL",
+      "teams": "Calgary Flames - St. Louis Blues",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (02:30) NHL : Calgary Flames - St. Louis Blues  (CH192us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "02:30",
+      "datetime": "19-03-2026 02:30",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - Dallas Stars",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (02:30) NHL : Colorado Avalanche - Dallas Stars  (CH4fr) (CH193us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "03:00",
+      "datetime": "19-03-2026 03:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Jaiba Brava - Correcaminos",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (03:00) Liga De Expansion Mx : Jaiba Brava - Correcaminos  (CH198es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "03:00",
+      "datetime": "19-03-2026 03:00",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (03:00) NHL : Anaheim Ducks - Philadelphia Flyers  (CH194us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "03:07",
+      "datetime": "19-03-2026 03:07",
+      "league": "Liga Mx",
+      "teams": "Guadalajara Chivas - Club Leon",
+      "channels": [
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (03:07) Liga Mx : Guadalajara Chivas - Club Leon  (CH73es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "04:00",
+      "datetime": "19-03-2026 04:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Seattle Sounders - Vancouver Whitecaps",
+      "channels": [
+        {
+          "id": "159",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-03-2026 (04:00) Concacaf Champions Cup : Seattle Sounders - Vancouver Whitecaps  (CH159us)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "04:00",
+      "datetime": "19-03-2026 04:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Toluca - San Diego FC",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (04:00) Concacaf Champions Cup : Toluca - San Diego FC  (CH68es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=okuga4aNxd56yJO-lSbUUg&e=1773857059",
+      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=-ikZd5vv06NeZGXjxifpjA&e=1773863587",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-18T12:04:19.996468"
+      "extracted_at": "2026-03-18T13:53:08.161903"
     },
     "hoca": {
       "name": "hoca",
@@ -24,25 +957,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-18T12:04:22.248694"
+      "extracted_at": "2026-03-18T13:53:10.623221"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=y5DrGKWui4m0s1PYm3ZlqQ&e=1773857064",
+      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/zj52139k3.m3u8?s=wRHMZpJvg4ABBn3zfi3t8w&e=1773863592",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-18T12:04:25.129788"
+      "extracted_at": "2026-03-18T13:53:13.111959"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=5AuX_wYeLJM_VXyZ9X_M-g&e=1773857067",
+      "m3u8_url": "https://y44kn4nu.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=wDrFYcEd7w5f-tljTeBU4Q&e=1773863595",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-18T12:04:27.879867"
+      "extracted_at": "2026-03-18T13:53:15.606746"
     }
   },
   "player_urls": {

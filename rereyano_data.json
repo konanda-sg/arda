@@ -1,21 +1,1076 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-19T12:03:15.298881",
-  "total_events": 0,
+  "last_updated": "2026-03-19T13:42:27.542919",
+  "total_events": 55,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
-  "events": [],
+  "events": [
+    {
+      "date": "19-03-2026",
+      "time": "18:00",
+      "datetime": "19-03-2026 18:00",
+      "league": "EuroLeague",
+      "teams": "Valencia - Barcelona",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:00) EuroLeague : Valencia - Barcelona  (CH55es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:00",
+      "datetime": "19-03-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Besiktas - Kasimpasa",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "92",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:00) Super Lig : Besiktas - Kasimpasa  (CH4fr) (CH151tr) (CH69es) (CH79es) (CH92es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:00",
+      "datetime": "19-03-2026 18:00",
+      "league": "Super Lig",
+      "teams": "Konyaspor - Genclerbirligi",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:00) Super Lig : Konyaspor - Genclerbirligi  (CH152tr)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:30",
+      "datetime": "19-03-2026 18:30",
+      "league": "EuroLeague",
+      "teams": "Anadolu Efes - Monaco",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:30) EuroLeague : Anadolu Efes - Monaco  (CH65es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Conference League",
+      "teams": "AEK Athens - Celje",
+      "channels": [
+        {
+          "id": "44",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "169",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Conference League : AEK Athens - Celje  (CH44fr) (CH126gb) (CH149gr) (CH169es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Conference League",
+      "teams": "AEK Larnaca - Crystal Palace",
+      "channels": [
+        {
+          "id": "43",
+          "lang": "fr"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "168",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Conference League : AEK Larnaca - Crystal Palace  (CH43fr) (CH113de) (CH131gb) (CH168es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Conference League",
+      "teams": "Mainz - Sigma Olomouc",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "170",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Conference League : Mainz - Sigma Olomouc  (CH45fr) (CH114de) (CH170es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Conference League",
+      "teams": "Rakow - Fiorentina",
+      "channels": [
+        {
+          "id": "42",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Conference League : Rakow - Fiorentina  (CH42fr) (CH138it) (CH167es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH164es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH164es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Ligue Europa",
+      "teams": "Freiburg - Genk",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Ligue Europa : Freiburg - Genk  (CH41fr) (CH112de) (CH166es) (CH89es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Ligue Europa",
+      "teams": "Lyon - Celta Vigo",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "133",
+          "lang": "gb"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Ligue Europa : Lyon - Celta Vigo  (CH12fr) (CH161es) (CH115de) (CH132gb) (CH133gb) (CH88es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "18:45",
+      "datetime": "19-03-2026 18:45",
+      "league": "Ligue Europa",
+      "teams": "Midtjylland - Nottingham",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (18:45) Ligue Europa : Midtjylland - Nottingham  (CH13fr) (CH111de) (CH130gb) (CH165es) (CH68es) (CH87es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "20:00",
+      "datetime": "19-03-2026 20:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Aucas - Tecnico U.",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (20:00) Ecuador Ligapro : Aucas - Tecnico U.  (CH86es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "20:05",
+      "datetime": "19-03-2026 20:05",
+      "league": "EuroLeague",
+      "teams": "Hapoel Tel-Aviv - Virtus Bologna",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (20:05) EuroLeague : Hapoel Tel-Aviv - Virtus Bologna  (CH160es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "20:15",
+      "datetime": "19-03-2026 20:15",
+      "league": "EuroLeague",
+      "teams": "Olympiacos - Baskonia",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (20:15) EuroLeague : Olympiacos - Baskonia  (CH62es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "20:30",
+      "datetime": "19-03-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Bayern - Dubai",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (20:30) EuroLeague : Bayern - Dubai  (CH161es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "20:45",
+      "datetime": "19-03-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Paris - Partizan Mozzart Bet",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (20:45) EuroLeague : Paris - Partizan Mozzart Bet  (CH65es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Conference League",
+      "teams": "Rayo Vallecano - Samsunspor",
+      "channels": [
+        {
+          "id": "39",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Conference League : Rayo Vallecano - Samsunspor  (CH39fr) (CH162es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Conference League",
+      "teams": "Shakhtar Donetsk - Lech Poznan",
+      "channels": [
+        {
+          "id": "38",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "170",
+          "lang": "es"
+        },
+        {
+          "id": "176",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Conference League : Shakhtar Donetsk - Lech Poznan  (CH38fr) (CH126gb) (CH170es) (CH176es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Conference League",
+      "teams": "Sparta Prague - AZ Alkmaar",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "115",
+          "lang": "de"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "168",
+          "lang": "es"
+        },
+        {
+          "id": "174",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Conference League : Sparta Prague - AZ Alkmaar  (CH37fr) (CH115de) (CH141nl) (CH168es) (CH174es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Conference League",
+      "teams": "Strasbourg - Rijeka",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "169",
+          "lang": "es"
+        },
+        {
+          "id": "175",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Conference League : Strasbourg - Rijeka  (CH12fr) (CH169es) (CH175es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "AS Roma - Bologna",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "133",
+          "lang": "gb"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        },
+        {
+          "id": "172",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Ligue Europa : AS Roma - Bologna  (CH13fr) (CH112de) (CH130gb) (CH133gb) (CH138it) (CH149gr) (CH166es) (CH172es) (CH68es) (CH89es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Aston Villa - Lille",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        },
+        {
+          "id": "173",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Ligue Europa : Aston Villa - Lille  (CH11fr) (CH113de) (CH126gb) (CH139it) (CH167es) (CH173es) (CH88es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Betis - Panathinaikos",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Ligue Europa : Betis - Panathinaikos  (CH45fr) (CH111de) (CH132gb) (CH137it) (CH150gr) (CH161es) (CH163es) (CH87es) (CH98es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "21:00",
+      "datetime": "19-03-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "FC Porto - Stuttgart",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "116",
+          "lang": "de"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "171",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (21:00) Ligue Europa : FC Porto - Stuttgart  (CH36fr) (CH116de) (CH131gb) (CH140it) (CH144pt) (CH165es) (CH171es) (CH90es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "22:10",
+      "datetime": "19-03-2026 22:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Alianza - Jaguares de Cordoba",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (22:10) Liga Betplay Dimayor : Alianza - Jaguares de Cordoba  (CH81es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "22:30",
+      "datetime": "19-03-2026 22:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Orense - Mushuc Runa",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (22:30) Ecuador Ligapro : Orense - Mushuc Runa  (CH86es)"
+    },
+    {
+      "date": "19-03-2026",
+      "time": "23:00",
+      "datetime": "19-03-2026 23:00",
+      "league": "Serie A Bresil",
+      "teams": "Gremio - Vitoria",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-03-2026 (23:00) Serie A Bresil : Gremio - Vitoria  (CH84es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Mount Pleasant - Los Angeles Galaxy",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) Concacaf Champions Cup : Mount Pleasant - Los Angeles Galaxy  (CH68es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Orlando Magic",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) NBA : Charlotte Hornets - Orlando Magic  (CH180us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Detroit Pistons",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) NBA : Washington Wizards - Detroit Pistons  (CH181us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Boston Bruins - Winnipeg Jets",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) NHL : Boston Bruins - Winnipeg Jets  (CH182us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - New York Rangers",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) NHL : Columbus Blue Jackets - New York Rangers  (CH183us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Detroit Red Wings - Montreal Canadiens",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) NHL : Detroit Red Wings - Montreal Canadiens  (CH4fr) (CH184us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Ottawa Senators - New York Islanders",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) NHL : Ottawa Senators - New York Islanders  (CH185us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:00",
+      "datetime": "20-03-2026 00:00",
+      "league": "Serie A Bresil",
+      "teams": "Flamengo RJ - Remo",
+      "channels": [
+        {
+          "id": "158",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:00) Serie A Bresil : Flamengo RJ - Remo  (CH158pt)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:20",
+      "datetime": "20-03-2026 00:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Deportes Tolima - Fortaleza",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:20) Liga Betplay Dimayor : Deportes Tolima - Fortaleza  (CH81es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "00:30",
+      "datetime": "20-03-2026 00:30",
+      "league": "NHL",
+      "teams": "Minnesota Wild - Chicago Blackhawks",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (00:30) NHL : Minnesota Wild - Chicago Blackhawks  (CH186us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:00",
+      "datetime": "20-03-2026 01:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Emelec - Ind. del Valle",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:00) Ecuador Ligapro : Emelec - Ind. del Valle  (CH86es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:00",
+      "datetime": "20-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:00) NBA : Chicago Bulls - Cleveland Cavaliers  (CH187us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:00",
+      "datetime": "20-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Miami Heat - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:00) NBA : Miami Heat - Los Angeles Lakers  (CH1fr) (CH188us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:00",
+      "datetime": "20-03-2026 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:00) NBA : New Orleans Pelicans - Los Angeles Clippers  (CH189us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:00",
+      "datetime": "20-03-2026 01:00",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Phoenix Suns",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:00) NBA : San Antonio Spurs - Phoenix Suns  (CH190us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:00",
+      "datetime": "20-03-2026 01:00",
+      "league": "NHL",
+      "teams": "Nashville Predators - Seattle Kraken",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:00) NHL : Nashville Predators - Seattle Kraken  (CH191us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "01:30",
+      "datetime": "20-03-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Chapecoense-SC - Corinthians",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (01:30) Serie A Bresil : Chapecoense-SC - Corinthians  (CH84es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "02:00",
+      "datetime": "20-03-2026 02:00",
+      "league": "Concacaf Champions Cup",
+      "teams": "Tigres UANL - FC Cincinnati",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (02:00) Concacaf Champions Cup : Tigres UANL - FC Cincinnati  (CH68es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "02:00",
+      "datetime": "20-03-2026 02:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (02:00) NBA : Utah Jazz - Milwaukee Bucks  (CH192us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "02:00",
+      "datetime": "20-03-2026 02:00",
+      "league": "NHL",
+      "teams": "Edmonton Oilers - Florida Panthers",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (02:00) NHL : Edmonton Oilers - Florida Panthers  (CH193us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "02:30",
+      "datetime": "20-03-2026 02:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Ind. Medellin - Junior",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (02:30) Liga Betplay Dimayor : Ind. Medellin - Junior  (CH81es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "03:00",
+      "datetime": "20-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Sacramento Kings - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (03:00) NBA : Sacramento Kings - Philadelphia 76ers  (CH194us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "03:00",
+      "datetime": "20-03-2026 03:00",
+      "league": "NHL",
+      "teams": "San Jose Sharks - Buffalo Sabres",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (03:00) NHL : San Jose Sharks - Buffalo Sabres  (CH195us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "03:00",
+      "datetime": "20-03-2026 03:00",
+      "league": "NHL",
+      "teams": "Vancouver Canucks - Tampa Bay Lightning",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (03:00) NHL : Vancouver Canucks - Tampa Bay Lightning  (CH196us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "03:00",
+      "datetime": "20-03-2026 03:00",
+      "league": "NHL",
+      "teams": "Vegas Golden Knights - Utah Mammoth",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (03:00) NHL : Vegas Golden Knights - Utah Mammoth  (CH197us)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "03:30",
+      "datetime": "20-03-2026 03:30",
+      "league": "NHL",
+      "teams": "Los Angeles Kings - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-03-2026 (03:30) NHL : Los Angeles Kings - Philadelphia Flyers  (CH198us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=qj-RuMtzy7fbiWmLyG-9EQ&e=1773943386",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=35Genfvdm3TxZHTEoAEsaA&e=1773949338",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T12:03:06.834649"
+      "extracted_at": "2026-03-19T13:42:19.127380"
     },
     "hoca": {
       "name": "hoca",
@@ -24,25 +1079,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-19T12:03:09.063134"
+      "extracted_at": "2026-03-19T13:42:20.815978"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=8VcBrpOTpRn9IR9TEGWzSA&e=1773943391",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=G73b48snNB2uxOg1ymkLJg&e=1773949343",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T12:03:11.941221"
+      "extracted_at": "2026-03-19T13:42:23.649605"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=t2gLKZmmDgdS-4-blh9jkw&e=1773943393",
+      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=bKoxqQTdyuhkbLlEC5yOEg&e=1773949346",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T12:03:14.298738"
+      "extracted_at": "2026-03-19T13:42:26.542812"
     }
   },
   "player_urls": {

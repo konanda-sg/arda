@@ -1,50 +1,21 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-19T05:46:19.914465",
-  "total_events": 2,
+  "last_updated": "2026-03-19T06:53:03.069792",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
-  "events": [
-    {
-      "date": "19-03-2026",
-      "time": "04:00",
-      "datetime": "19-03-2026 04:00",
-      "league": "Concacaf Champions Cup",
-      "teams": "Seattle Sounders - Vancouver Whitecaps",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-03-2026 (04:00) Concacaf Champions Cup : Seattle Sounders - Vancouver Whitecaps  (CH159us)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "04:00",
-      "datetime": "19-03-2026 04:00",
-      "league": "Concacaf Champions Cup",
-      "teams": "Toluca - San Diego FC",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (04:00) Concacaf Champions Cup : Toluca - San Diego FC  (CH68es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://5n7r9jbt.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=txf4WdAKwpkU3y8pHuZmog&e=1773920771",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=KY6Ly8nVkl_A-QsJ89Tynw&e=1773924771",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T05:46:11.909457"
+      "extracted_at": "2026-03-19T06:52:52.574631"
     },
     "hoca": {
       "name": "hoca",
@@ -53,25 +24,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-19T05:46:14.102975"
+      "extracted_at": "2026-03-19T06:52:55.307516"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://5n7r9jbt.83870203.net:8443/hls/zj52139k3.m3u8?s=R3a45pypxD3pzRv5ptEpfA&e=1773920776",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/zj52139k3.m3u8?s=niJDOOLNrykNuyf7mf0f-A&e=1773924778",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T05:46:17.097749"
+      "extracted_at": "2026-03-19T06:52:59.106164"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://5n7r9jbt.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=hDY7mGX3E3zK2dvLiiJPbw&e=1773920778",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=ATq1-KuuICpi56zK8NpVAA&e=1773924781",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T05:46:18.914276"
+      "extracted_at": "2026-03-19T06:53:02.069659"
     }
   },
   "player_urls": {

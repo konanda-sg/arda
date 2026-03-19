@@ -1,316 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-19T22:38:06.538044",
-  "total_events": 39,
+  "last_updated": "2026-03-19T23:02:39.695451",
+  "total_events": 29,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "19-03-2026",
-      "time": "20:45",
-      "datetime": "19-03-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Paris - Partizan Mozzart Bet",
-      "channels": [
-        {
-          "id": "65",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (20:45) EuroLeague : Paris - Partizan Mozzart Bet  (CH65es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Conference League",
-      "teams": "Rayo Vallecano - Samsunspor",
-      "channels": [
-        {
-          "id": "39",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Conference League : Rayo Vallecano - Samsunspor  (CH39fr) (CH162es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Conference League",
-      "teams": "Shakhtar Donetsk - Lech Poznan",
-      "channels": [
-        {
-          "id": "38",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "170",
-          "lang": "es"
-        },
-        {
-          "id": "176",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Conference League : Shakhtar Donetsk - Lech Poznan  (CH38fr) (CH126gb) (CH170es) (CH176es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Conference League",
-      "teams": "Sparta Prague - AZ Alkmaar",
-      "channels": [
-        {
-          "id": "37",
-          "lang": "fr"
-        },
-        {
-          "id": "115",
-          "lang": "de"
-        },
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "168",
-          "lang": "es"
-        },
-        {
-          "id": "174",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Conference League : Sparta Prague - AZ Alkmaar  (CH37fr) (CH115de) (CH141nl) (CH168es) (CH174es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Conference League",
-      "teams": "Strasbourg - Rijeka",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "169",
-          "lang": "es"
-        },
-        {
-          "id": "175",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Conference League : Strasbourg - Rijeka  (CH12fr) (CH169es) (CH175es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Multiplex Ligue Europa/Ligue Conference -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "164",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH164es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "AS Roma - Bologna",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "133",
-          "lang": "gb"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "166",
-          "lang": "es"
-        },
-        {
-          "id": "172",
-          "lang": "es"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Ligue Europa : AS Roma - Bologna  (CH13fr) (CH112de) (CH130gb) (CH133gb) (CH138it) (CH149gr) (CH166es) (CH172es) (CH68es) (CH89es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Aston Villa - Lille",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "113",
-          "lang": "de"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "167",
-          "lang": "es"
-        },
-        {
-          "id": "173",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Ligue Europa : Aston Villa - Lille  (CH11fr) (CH113de) (CH126gb) (CH139it) (CH167es) (CH173es) (CH88es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Betis - Panathinaikos",
-      "channels": [
-        {
-          "id": "45",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "132",
-          "lang": "gb"
-        },
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        },
-        {
-          "id": "161",
-          "lang": "es"
-        },
-        {
-          "id": "163",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Ligue Europa : Betis - Panathinaikos  (CH45fr) (CH111de) (CH132gb) (CH137it) (CH150gr) (CH161es) (CH163es) (CH87es) (CH98es)"
-    },
-    {
-      "date": "19-03-2026",
-      "time": "21:00",
-      "datetime": "19-03-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "FC Porto - Stuttgart",
-      "channels": [
-        {
-          "id": "36",
-          "lang": "fr"
-        },
-        {
-          "id": "116",
-          "lang": "de"
-        },
-        {
-          "id": "131",
-          "lang": "gb"
-        },
-        {
-          "id": "140",
-          "lang": "it"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "165",
-          "lang": "es"
-        },
-        {
-          "id": "171",
-          "lang": "es"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-03-2026 (21:00) Ligue Europa : FC Porto - Stuttgart  (CH36fr) (CH116de) (CH131gb) (CH140it) (CH144pt) (CH165es) (CH171es) (CH90es)"
-    },
     {
       "date": "19-03-2026",
       "time": "22:10",
@@ -731,10 +427,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=bRf4qO24Er5LHQrXFIwfOg&e=1773981475",
+      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=P7ye-gcYbxWwfdBMH76QEQ&e=1773982949",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T22:37:55.770678"
+      "extracted_at": "2026-03-19T23:02:30.490994"
     },
     "hoca": {
       "name": "hoca",
@@ -743,25 +439,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-19T22:37:58.512117"
+      "extracted_at": "2026-03-19T23:02:32.773097"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/zj52139k3.m3u8?s=qEQTCKfEhSurQZCOIHgTqw&e=1773981481",
+      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/zj52139k3.m3u8?s=8c5oZcursydo98oI8U6o_w&e=1773982955",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T22:38:02.224511"
+      "extracted_at": "2026-03-19T23:02:35.796945"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=d1CKkDFx8adDYWvY4GlaWQ&e=1773981484",
+      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/ysagetp2j4x.m3u8?s=PbDjzRL-V6uy0SsYV5nFAA&e=1773982958",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-19T22:38:05.537897"
+      "extracted_at": "2026-03-19T23:02:38.695304"
     }
   },
   "player_urls": {

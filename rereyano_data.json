@@ -1,122 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-20T22:23:37.846762",
-  "total_events": 34,
+  "last_updated": "2026-03-20T22:55:11.009623",
+  "total_events": 29,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "20-03-2026",
-      "time": "20:30",
-      "datetime": "20-03-2026 20:30",
-      "league": "Bundesliga",
-      "teams": "RB Leipzig - Hoffenheim",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "50",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (20:30) Bundesliga : RB Leipzig - Hoffenheim  (CH2fr) (CH111de) (CH61es) (CH50es)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "20:30",
-      "datetime": "20-03-2026 20:30",
-      "league": "Laliga 2",
-      "teams": "Huesca - Almeria",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (20:30) Laliga 2 : Huesca - Almeria  (CH53es)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "20:45",
-      "datetime": "20-03-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Lyon-Villeurbanne - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (20:45) EuroLeague : Lyon-Villeurbanne - Maccabi Tel Aviv  (CH159es)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "20:45",
-      "datetime": "20-03-2026 20:45",
-      "league": "Ligue 1",
-      "teams": "Lens - Angers",
-      "channels": [
-        {
-          "id": "20",
-          "lang": "fr"
-        },
-        {
-          "id": "69",
-          "lang": "es"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (20:45) Ligue 1 : Lens - Angers  (CH20fr) (CH69es) (CH123de) (CH91es)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "20:45",
-      "datetime": "20-03-2026 20:45",
-      "league": "Serie A",
-      "teams": "Genoa - Udinese",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "100",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (20:45) Serie A : Genoa - Udinese  (CH138it) (CH145pt) (CH149gr) (CH70es) (CH100es)"
-    },
     {
       "date": "20-03-2026",
       "time": "21:00",
@@ -581,10 +471,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y4mpwzd7.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=Af-trB0FAYJpTLEJup-S9Q&e=1774067007",
+      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=atm74YgsW-svFT1UJRJnMQ&e=1774068900",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T22:23:28.485138"
+      "extracted_at": "2026-03-20T22:55:01.497358"
     },
     "hoca": {
       "name": "hoca",
@@ -593,25 +483,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T22:23:31.198927"
+      "extracted_at": "2026-03-20T22:55:04.063400"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://y4mpwzd7.12703830.net:8443/hls/zj52139k3.m3u8?s=AmVCCE-D6gpMHJiJ_UTgrQ&e=1774067013",
+      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/zj52139k3.m3u8?s=V_jCTW_8CG6TrrZTdtVgOg&e=1774068906",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T22:23:34.080355"
+      "extracted_at": "2026-03-20T22:55:07.322167"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y4mpwzd7.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=OEBrF7HQ6CyYEpTzqWkblw&e=1774067016",
+      "m3u8_url": "https://gt7gapsu.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=Cl-evAFb50uoDnks7j5DUw&e=1774068909",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T22:23:36.846590"
+      "extracted_at": "2026-03-20T22:55:10.009477"
     }
   },
   "player_urls": {

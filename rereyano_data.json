@@ -1,30 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-20T14:45:04.188677",
-  "total_events": 6,
+  "last_updated": "2026-03-20T15:28:47.126854",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 1,
   "accessible_streams": 1,
   "events": [
-    {
-      "date": "20-03-2026",
-      "time": "12:55",
-      "datetime": "20-03-2026 12:55",
-      "league": "Moto3",
-      "teams": "GP du Brésil Moto3. Essais libres 1 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (12:55) Moto3 : GP du Brésil Moto3. Essais libres 1 -   (CH14fr) (CH60es)"
-    },
     {
       "date": "20-03-2026",
       "time": "13:55",
@@ -124,7 +106,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T14:44:55.495186"
+      "extracted_at": "2026-03-20T15:28:39.093830"
     },
     "hoca": {
       "name": "hoca",
@@ -133,16 +115,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T14:44:57.655274"
+      "extracted_at": "2026-03-20T15:28:41.372833"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/zj52139k3.m3u8?s=QmASKOfxLcZb-EWc38KMxw&e=1774039500",
+      "m3u8_url": "https://k7h2hupk.58103793.net:8443/hls/zj52139k3.m3u8?s=zXhppRmUjwnlzx5k8pfKyA&e=1774042123",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T14:45:00.939434"
+      "extracted_at": "2026-03-20T15:28:44.491822"
     },
     "WIGI": {
       "name": "WIGI",
@@ -151,7 +133,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T14:45:03.188507"
+      "extracted_at": "2026-03-20T15:28:46.126690"
     }
   },
   "player_urls": {

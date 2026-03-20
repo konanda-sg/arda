@@ -1,83 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-20T04:57:20.094875",
-  "total_events": 5,
+  "last_updated": "2026-03-20T05:51:54.082893",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 1,
   "accessible_streams": 1,
-  "events": [
-    {
-      "date": "20-03-2026",
-      "time": "03:00",
-      "datetime": "20-03-2026 03:00",
-      "league": "NBA",
-      "teams": "Sacramento Kings - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-03-2026 (03:00) NBA : Sacramento Kings - Philadelphia 76ers  (CH194us)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "03:00",
-      "datetime": "20-03-2026 03:00",
-      "league": "NHL",
-      "teams": "San Jose Sharks - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-03-2026 (03:00) NHL : San Jose Sharks - Buffalo Sabres  (CH195us)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "03:00",
-      "datetime": "20-03-2026 03:00",
-      "league": "NHL",
-      "teams": "Vancouver Canucks - Tampa Bay Lightning",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-03-2026 (03:00) NHL : Vancouver Canucks - Tampa Bay Lightning  (CH196us)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "03:00",
-      "datetime": "20-03-2026 03:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Utah Mammoth",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-03-2026 (03:00) NHL : Vegas Golden Knights - Utah Mammoth  (CH197us)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "03:30",
-      "datetime": "20-03-2026 03:30",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Philadelphia Flyers",
-      "channels": [
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-03-2026 (03:30) NHL : Los Angeles Kings - Philadelphia Flyers  (CH198us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -86,7 +15,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T04:57:12.134198"
+      "extracted_at": "2026-03-20T05:51:45.915238"
     },
     "hoca": {
       "name": "hoca",
@@ -95,16 +24,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T04:57:14.257227"
+      "extracted_at": "2026-03-20T05:51:48.014273"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://htq43xdc.12703830.net:8443/hls/zj52139k3.m3u8?s=Uei_DU3pT50naa1v6FJhUw&e=1774004236",
+      "m3u8_url": "https://htq43xdc.12703830.net:8443/hls/zj52139k3.m3u8?s=PeO5x-ILXxUheZE6hNSmhA&e=1774007510",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T04:57:17.120182"
+      "extracted_at": "2026-03-20T05:51:50.998510"
     },
     "WIGI": {
       "name": "WIGI",
@@ -113,7 +42,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T04:57:19.094720"
+      "extracted_at": "2026-03-20T05:51:53.082746"
     }
   },
   "player_urls": {

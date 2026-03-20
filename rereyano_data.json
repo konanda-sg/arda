@@ -1,44 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-20T20:57:31.125283",
-  "total_events": 45,
+  "last_updated": "2026-03-20T21:30:03.204756",
+  "total_events": 43,
   "total_players": 4,
-  "m3u8_extracted": 2,
-  "accessible_streams": 2,
+  "m3u8_extracted": 3,
+  "accessible_streams": 3,
   "events": [
-    {
-      "date": "20-03-2026",
-      "time": "19:00",
-      "datetime": "20-03-2026 19:00",
-      "league": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Real Madrid",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (19:00) EuroLeague : Zalgiris Kaunas - Real Madrid  (CH62es)"
-    },
-    {
-      "date": "20-03-2026",
-      "time": "19:10",
-      "datetime": "20-03-2026 19:10",
-      "league": "MotoGP",
-      "teams": "GP du Brésil MotoGP. Essais -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (19:10) MotoGP : GP du Brésil MotoGP. Essais -   (CH14fr) (CH60es)"
-    },
     {
       "date": "20-03-2026",
       "time": "20:00",
@@ -743,10 +711,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-20T20:57:20.578329"
+      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=eCKBL1L3hJ6oA1qdlKk81w&e=1774063794",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-20T21:29:54.731985"
     },
     "hoca": {
       "name": "hoca",
@@ -755,25 +723,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T20:57:22.852061"
+      "extracted_at": "2026-03-20T21:29:56.962395"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://y4mpwzd7.12703830.net:8443/hls/zj52139k3.m3u8?s=cGATgsG0S76MxUc8v8WDCg&e=1774061845",
+      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/zj52139k3.m3u8?s=J8IWLkIrD_G2-OdxwrVBvg&e=1774063799",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T20:57:26.429575"
+      "extracted_at": "2026-03-20T21:29:59.923674"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://y4mpwzd7.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=_Jl5LazVXTP1jeCAXlqKJQ&e=1774061849",
+      "m3u8_url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=iwOL_I1IUqnPTx2WE-IRDw&e=1774063801",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T20:57:30.125143"
+      "extracted_at": "2026-03-20T21:30:02.204609"
     }
   },
   "player_urls": {

@@ -1,30 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-20T15:28:47.126854",
-  "total_events": 5,
+  "last_updated": "2026-03-20T16:06:40.885913",
+  "total_events": 53,
   "total_players": 4,
-  "m3u8_extracted": 1,
-  "accessible_streams": 1,
+  "m3u8_extracted": 3,
+  "accessible_streams": 3,
   "events": [
-    {
-      "date": "20-03-2026",
-      "time": "13:55",
-      "datetime": "20-03-2026 13:55",
-      "league": "Moto2",
-      "teams": "GP du Brésil Moto2. Essais libres 1 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-03-2026 (13:55) Moto2 : GP du Brésil Moto2. Essais libres 1 -   (CH14fr) (CH60es)"
-    },
     {
       "date": "20-03-2026",
       "time": "14:55",
@@ -81,6 +63,122 @@
     },
     {
       "date": "20-03-2026",
+      "time": "18:30",
+      "datetime": "20-03-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "20-03-2026 (18:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "18:30",
+      "datetime": "20-03-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Hannover - Braunschweig",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        }
+      ],
+      "raw_line": "20-03-2026 (18:30) Bundesliga 2 : Hannover - Braunschweig  (CH113de) (CH139it)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "18:30",
+      "datetime": "20-03-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Karlsruher SC - Greuther Furth",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "20-03-2026 (18:30) Bundesliga 2 : Karlsruher SC - Greuther Furth  (CH114de)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "18:30",
+      "datetime": "20-03-2026 18:30",
+      "league": "Serie A",
+      "teams": "Cagliari - Napoli",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (18:30) Serie A : Cagliari - Napoli  (CH137it) (CH145pt) (CH123de) (CH148gr) (CH70es) (CH87es) (CH91es) (CH100es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "18:45",
+      "datetime": "20-03-2026 18:45",
+      "league": "EuroLeague",
+      "teams": "Fenerbahce - Olimpia Milano",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (18:45) EuroLeague : Fenerbahce - Olimpia Milano  (CH65es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "19:00",
+      "datetime": "20-03-2026 19:00",
+      "league": "EuroLeague",
+      "teams": "Zalgiris Kaunas - Real Madrid",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (19:00) EuroLeague : Zalgiris Kaunas - Real Madrid  (CH62es)"
+    },
+    {
+      "date": "20-03-2026",
       "time": "19:10",
       "datetime": "20-03-2026 19:10",
       "league": "MotoGP",
@@ -96,6 +194,708 @@
         }
       ],
       "raw_line": "20-03-2026 (19:10) MotoGP : GP du Brésil MotoGP. Essais -   (CH14fr) (CH60es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Eredivisie",
+      "teams": "Heracles - Excelsior",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Eredivisie : Heracles - Excelsior  (CH142nl)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Multiplex Ligue 2 -",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Multiplex Ligue 2 -   (CH2fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Amiens - Le Mans",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Amiens - Le Mans  (CH9fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Boulogne - Nancy",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Boulogne - Nancy  (CH6fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Clermont - Red Star",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Clermont - Red Star  (CH7fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Laval - Grenoble",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Laval - Grenoble  (CH4fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Pau FC - Montpellier",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Pau FC - Montpellier  (CH8fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:00",
+      "datetime": "20-03-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Rodez - Bastia",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:00) Ligue 2 : Rodez - Bastia  (CH5fr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:15",
+      "datetime": "20-03-2026 20:15",
+      "league": "EuroLeague",
+      "teams": "Panathinaikos - Crvena Zvezda Meridianbet",
+      "channels": [
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:15) EuroLeague : Panathinaikos - Crvena Zvezda Meridianbet  (CH158es) (CH150gr)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:30",
+      "datetime": "20-03-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "RB Leipzig - Hoffenheim",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "50",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:30) Bundesliga : RB Leipzig - Hoffenheim  (CH2fr) (CH111de) (CH61es) (CH50es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:30",
+      "datetime": "20-03-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Huesca - Almeria",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:30) Laliga 2 : Huesca - Almeria  (CH53es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:45",
+      "datetime": "20-03-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Lyon-Villeurbanne - Maccabi Tel Aviv",
+      "channels": [
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:45) EuroLeague : Lyon-Villeurbanne - Maccabi Tel Aviv  (CH159es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:45",
+      "datetime": "20-03-2026 20:45",
+      "league": "Ligue 1",
+      "teams": "Lens - Angers",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:45) Ligue 1 : Lens - Angers  (CH20fr) (CH69es) (CH123de) (CH91es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "20:45",
+      "datetime": "20-03-2026 20:45",
+      "league": "Serie A",
+      "teams": "Genoa - Udinese",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (20:45) Serie A : Genoa - Udinese  (CH138it) (CH145pt) (CH149gr) (CH70es) (CH87es) (CH100es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "21:00",
+      "datetime": "20-03-2026 21:00",
+      "league": "Championship",
+      "teams": "Preston - Stoke",
+      "channels": [
+        {
+          "id": "128",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "20-03-2026 (21:00) Championship : Preston - Stoke  (CH128gb)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "21:00",
+      "datetime": "20-03-2026 21:00",
+      "league": "Laliga",
+      "teams": "Villarreal - Real Sociedad",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "96",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (21:00) Laliga : Villarreal - Real Sociedad  (CH10fr) (CH49es) (CH71es) (CH124de) (CH96es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "21:00",
+      "datetime": "20-03-2026 21:00",
+      "league": "Premier League",
+      "teams": "Bournemouth - Manchester Utd",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (21:00) Premier League : Bournemouth - Manchester Utd  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH72es) (CH73es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "21:15",
+      "datetime": "20-03-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "Estrela - Casa Pia",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "20-03-2026 (21:15) Liga Portugal : Estrela - Casa Pia  (CH144pt)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "21:30",
+      "datetime": "20-03-2026 21:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "AD Tarma - FBC Melgar",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (21:30) Liga 1 Te Apuesto : AD Tarma - FBC Melgar  (CH84es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "22:00",
+      "datetime": "20-03-2026 22:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Cerro Largo - Maldonado",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (22:00) Liga AUF Uruguaya : Cerro Largo - Maldonado  (CH109es)"
+    },
+    {
+      "date": "20-03-2026",
+      "time": "22:00",
+      "datetime": "20-03-2026 22:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Aguilas - America De Cali",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-03-2026 (22:00) Liga Betplay Dimayor : Aguilas - America De Cali  (CH81es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "00:00",
+      "datetime": "21-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Toronto Maple Leafs - Carolina Hurricanes",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (00:00) NHL : Toronto Maple Leafs - Carolina Hurricanes  (CH4fr) (CH180us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "00:00",
+      "datetime": "21-03-2026 00:00",
+      "league": "NHL",
+      "teams": "Washington Capitals - New Jersey Devils",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (00:00) NHL : Washington Capitals - New Jersey Devils  (CH181us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "00:30",
+      "datetime": "21-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - New York Knicks",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (00:30) NBA : Brooklyn Nets - New York Knicks  (CH182us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "00:30",
+      "datetime": "21-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Golden State Warriors",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (00:30) NBA : Detroit Pistons - Golden State Warriors  (CH183us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:00",
+      "datetime": "21-03-2026 01:00",
+      "league": "Liga Mx Women",
+      "teams": "Toluca W - Necaxa W",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:00) Liga Mx Women : Toluca W - Necaxa W  (CH160es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:00",
+      "datetime": "21-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:00) NBA : Houston Rockets - Atlanta Hawks  (CH1fr) (CH184us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:00",
+      "datetime": "21-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - Boston Celtics",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:00) NBA : Memphis Grizzlies - Boston Celtics  (CH185us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:00",
+      "datetime": "21-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:00) NBA : Minnesota Timberwolves - Portland Trail Blazers  (CH186us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:00",
+      "datetime": "21-03-2026 01:00",
+      "league": "Torneo LPF",
+      "teams": "Atl. Tucuman - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:00) Torneo LPF : Atl. Tucuman - Gimnasia L.P.  (CH76es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:00",
+      "datetime": "21-03-2026 01:00",
+      "league": "Torneo LPF",
+      "teams": "Banfield - Tigre",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:00) Torneo LPF : Banfield - Tigre  (CH75es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:15",
+      "datetime": "21-03-2026 01:15",
+      "league": "Copa Argentina",
+      "teams": "San Lorenzo - Deportivo Rincon",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:15) Copa Argentina : San Lorenzo - Deportivo Rincon  (CH77es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:30",
+      "datetime": "21-03-2026 01:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cienciano - FC Cajamarca",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:30) Liga 1 Te Apuesto : Cienciano - FC Cajamarca  (CH84es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:30",
+      "datetime": "21-03-2026 01:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Defensor Sp. - Nacional",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:30) Liga AUF Uruguaya : Defensor Sp. - Nacional  (CH109es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "01:30",
+      "datetime": "21-03-2026 01:30",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - Colorado Avalanche",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (01:30) NHL : Chicago Blackhawks - Colorado Avalanche  (CH187us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "02:00",
+      "datetime": "21-03-2026 02:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Tepatitlan de Morelos - Venados",
+      "channels": [
+        {
+          "id": "100",
+          "lang": "es"
+        },
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (02:00) Liga De Expansion Mx : Tepatitlan de Morelos - Venados  (CH100es) (CH74es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "02:00",
+      "datetime": "21-03-2026 02:00",
+      "league": "Liga Mx",
+      "teams": "Necaxa - Club Tijuana",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (02:00) Liga Mx : Necaxa - Club Tijuana  (CH68es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "02:00",
+      "datetime": "21-03-2026 02:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Toronto Raptors",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (02:00) NBA : Denver Nuggets - Toronto Raptors  (CH188us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "02:00",
+      "datetime": "21-03-2026 02:00",
+      "league": "NHL",
+      "teams": "Calgary Flames - Florida Panthers",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (02:00) NHL : Calgary Flames - Florida Panthers  (CH189us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "03:00",
+      "datetime": "21-03-2026 03:00",
+      "league": "Liga Mx Women",
+      "teams": "Monterrey W - Guadalajara Chivas W",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (03:00) Liga Mx Women : Monterrey W - Guadalajara Chivas W  (CH161es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "03:00",
+      "datetime": "21-03-2026 03:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Anaheim Ducks",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "21-03-2026 (03:00) NHL : Utah Mammoth - Anaheim Ducks  (CH190us)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "04:00",
+      "datetime": "21-03-2026 04:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Atletico La Paz - Alebrijes Oaxaca",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (04:00) Liga De Expansion Mx : Atletico La Paz - Alebrijes Oaxaca  (CH98es)"
+    },
+    {
+      "date": "21-03-2026",
+      "time": "04:06",
+      "datetime": "21-03-2026 04:06",
+      "league": "Liga Mx",
+      "teams": "Mazatlan FC - Cruz Azul",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "21-03-2026 (04:06) Liga Mx : Mazatlan FC - Cruz Azul  (CH68es) (CH108es)"
     }
   ],
   "player_streams": {
@@ -103,10 +903,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-20T15:28:39.093830"
+      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=-Cc8LHu0kmaNZg6yk3CofQ&e=1774044391",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-20T16:06:32.011195"
     },
     "hoca": {
       "name": "hoca",
@@ -115,25 +915,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-20T15:28:41.372833"
+      "extracted_at": "2026-03-20T16:06:34.140338"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://k7h2hupk.58103793.net:8443/hls/zj52139k3.m3u8?s=zXhppRmUjwnlzx5k8pfKyA&e=1774042123",
+      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/zj52139k3.m3u8?s=SLQWfHW_C4ib74nz43TNqA&e=1774044396",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-20T15:28:44.491822"
+      "extracted_at": "2026-03-20T16:06:37.005095"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-20T15:28:46.126690"
+      "m3u8_url": "https://8nwwqrar.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=IU8Ni3PSGR3zSfVihFgjmw&e=1774044399",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-20T16:06:39.885768"
     }
   },
   "player_urls": {

@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-21T03:38:28.505159",
-  "total_events": 8,
+  "last_updated": "2026-03-21T04:57:42.418208",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "21-03-2026",
-      "time": "02:00",
-      "datetime": "21-03-2026 02:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Tepatitlan de Morelos - Venados",
-      "channels": [
-        {
-          "id": "100",
-          "lang": "es"
-        },
-        {
-          "id": "74",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (02:00) Liga De Expansion Mx : Tepatitlan de Morelos - Venados  (CH100es) (CH74es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "02:00",
-      "datetime": "21-03-2026 02:00",
-      "league": "Liga Mx",
-      "teams": "Necaxa - Club Tijuana",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (02:00) Liga Mx : Necaxa - Club Tijuana  (CH68es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "02:00",
-      "datetime": "21-03-2026 02:00",
-      "league": "NBA",
-      "teams": "Denver Nuggets - Toronto Raptors",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (02:00) NBA : Denver Nuggets - Toronto Raptors  (CH188us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "02:00",
-      "datetime": "21-03-2026 02:00",
-      "league": "NHL",
-      "teams": "Calgary Flames - Florida Panthers",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (02:00) NHL : Calgary Flames - Florida Panthers  (CH189us)"
-    },
     {
       "date": "21-03-2026",
       "time": "03:00",
@@ -133,10 +73,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=H91wbkqwrcU2DjvI8Jn_xg&e=1774085899",
+      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=C4EOjw0RP0WP8avwGk-SFA&e=1774090652",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T03:38:20.361676"
+      "extracted_at": "2026-03-21T04:57:32.950854"
     },
     "hoca": {
       "name": "hoca",
@@ -145,25 +85,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T03:38:22.518792"
+      "extracted_at": "2026-03-21T04:57:35.691286"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/zj52139k3.m3u8?s=bDN74rtZV7eZm55-xSkUsQ&e=1774085904",
+      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=JpahvGwFCy9pHxbbeg2BNg&e=1774090657",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T03:38:25.259924"
+      "extracted_at": "2026-03-21T04:57:38.610998"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=Vphp78aeOc3vrGSNm0NwqA&e=1774085907",
+      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=5TXVt3o6ktVtxuZnzw7HDQ&e=1774090660",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T03:38:27.505002"
+      "extracted_at": "2026-03-21T04:57:41.418036"
     }
   },
   "player_urls": {

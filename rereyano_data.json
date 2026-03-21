@@ -1,216 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-21T01:28:46.270080",
-  "total_events": 22,
+  "last_updated": "2026-03-21T03:38:28.505159",
+  "total_events": 8,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "21-03-2026",
-      "time": "00:00",
-      "datetime": "21-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Toronto Maple Leafs - Carolina Hurricanes",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (00:00) NHL : Toronto Maple Leafs - Carolina Hurricanes  (CH4fr) (CH180us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "00:00",
-      "datetime": "21-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Washington Capitals - New Jersey Devils",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (00:00) NHL : Washington Capitals - New Jersey Devils  (CH181us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "00:30",
-      "datetime": "21-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Brooklyn Nets - New York Knicks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (00:30) NBA : Brooklyn Nets - New York Knicks  (CH182us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "00:30",
-      "datetime": "21-03-2026 00:30",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Golden State Warriors",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (00:30) NBA : Detroit Pistons - Golden State Warriors  (CH183us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:00",
-      "datetime": "21-03-2026 01:00",
-      "league": "Liga Mx Women",
-      "teams": "Toluca W - Necaxa W",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:00) Liga Mx Women : Toluca W - Necaxa W  (CH160es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:00",
-      "datetime": "21-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Houston Rockets - Atlanta Hawks",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:00) NBA : Houston Rockets - Atlanta Hawks  (CH1fr) (CH184us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:00",
-      "datetime": "21-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Boston Celtics",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:00) NBA : Memphis Grizzlies - Boston Celtics  (CH185us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:00",
-      "datetime": "21-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Minnesota Timberwolves - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:00) NBA : Minnesota Timberwolves - Portland Trail Blazers  (CH186us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:00",
-      "datetime": "21-03-2026 01:00",
-      "league": "Torneo LPF",
-      "teams": "Atl. Tucuman - Gimnasia L.P.",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:00) Torneo LPF : Atl. Tucuman - Gimnasia L.P.  (CH76es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:00",
-      "datetime": "21-03-2026 01:00",
-      "league": "Torneo LPF",
-      "teams": "Banfield - Tigre",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:00) Torneo LPF : Banfield - Tigre  (CH75es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:15",
-      "datetime": "21-03-2026 01:15",
-      "league": "Copa Argentina",
-      "teams": "San Lorenzo - Deportivo Rincon",
-      "channels": [
-        {
-          "id": "77",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:15) Copa Argentina : San Lorenzo - Deportivo Rincon  (CH77es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:30",
-      "datetime": "21-03-2026 01:30",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Cienciano - FC Cajamarca",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:30) Liga 1 Te Apuesto : Cienciano - FC Cajamarca  (CH84es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:30",
-      "datetime": "21-03-2026 01:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Defensor Sp. - Nacional",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:30) Liga AUF Uruguaya : Defensor Sp. - Nacional  (CH109es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "01:30",
-      "datetime": "21-03-2026 01:30",
-      "league": "NHL",
-      "teams": "Chicago Blackhawks - Colorado Avalanche",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (01:30) NHL : Chicago Blackhawks - Colorado Avalanche  (CH187us)"
-    },
     {
       "date": "21-03-2026",
       "time": "02:00",
@@ -337,10 +133,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=jsYCsa-KHi738AcWoHQHbw&e=1774078117",
+      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=H91wbkqwrcU2DjvI8Jn_xg&e=1774085899",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T01:28:37.801598"
+      "extracted_at": "2026-03-21T03:38:20.361676"
     },
     "hoca": {
       "name": "hoca",
@@ -349,25 +145,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T01:28:39.894893"
+      "extracted_at": "2026-03-21T03:38:22.518792"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=rSrBgqvlF8tny1ya9qHMFw&e=1774078122",
+      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/zj52139k3.m3u8?s=bDN74rtZV7eZm55-xSkUsQ&e=1774085904",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T01:28:42.645602"
+      "extracted_at": "2026-03-21T03:38:25.259924"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=1vCtAnsqGBa9IZ0V6RMZxw&e=1774078124",
+      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=Vphp78aeOc3vrGSNm0NwqA&e=1774085907",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T01:28:45.269948"
+      "extracted_at": "2026-03-21T03:38:27.505002"
     }
   },
   "player_urls": {

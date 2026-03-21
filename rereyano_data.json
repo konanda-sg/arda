@@ -1,118 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-21T19:54:17.908109",
-  "total_events": 85,
+  "last_updated": "2026-03-21T20:20:57.467248",
+  "total_events": 80,
   "total_players": 4,
   "m3u8_extracted": 1,
   "accessible_streams": 1,
   "events": [
-    {
-      "date": "21-03-2026",
-      "time": "18:00",
-      "datetime": "21-03-2026 18:00",
-      "league": "Liga Endesa",
-      "teams": "Manresa - Murcia",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:00) Liga Endesa : Manresa - Murcia  (CH155es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:00",
-      "datetime": "21-03-2026 18:00",
-      "league": "MLS",
-      "teams": "Toronto FC - Columbus Crew",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:00) MLS : Toronto FC - Columbus Crew  (CH160us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:00",
-      "datetime": "21-03-2026 18:00",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - Winnipeg Jets",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:00) NHL : Pittsburgh Penguins - Winnipeg Jets  (CH4fr) (CH180us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:00",
-      "datetime": "21-03-2026 18:00",
-      "league": "Serie A",
-      "teams": "AC Milan - Torino",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "148",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:00) Serie A : AC Milan - Torino  (CH137it) (CH61es) (CH70es) (CH124de) (CH97es) (CH145pt) (CH148gr)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:15",
-      "datetime": "21-03-2026 18:15",
-      "league": "Championship",
-      "teams": "Swansea - Coventry",
-      "channels": [
-        {
-          "id": "78",
-          "lang": "es"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:15) Championship : Swansea - Coventry  (CH78es) (CH128gb) (CH149gr)"
-    },
     {
       "date": "21-03-2026",
       "time": "18:30",
@@ -1430,7 +1324,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T19:54:10.319508"
+      "extracted_at": "2026-03-21T20:20:51.123741"
     },
     "hoca": {
       "name": "hoca",
@@ -1439,16 +1333,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T19:54:12.472571"
+      "extracted_at": "2026-03-21T20:20:52.582289"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://ff2srpr7.04334746.net:8443/hls/zj52139k3.m3u8?s=lt6-X1yYUng9aiV_ZI6lug&e=1774144454",
+      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/zj52139k3.m3u8?s=599rFOwMYR11cGQoThPTYg&e=1774146054",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T19:54:15.258011"
+      "extracted_at": "2026-03-21T20:20:55.083718"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1457,7 +1351,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T19:54:16.907969"
+      "extracted_at": "2026-03-21T20:20:56.467097"
     }
   },
   "player_urls": {

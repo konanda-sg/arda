@@ -1,178 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-21T15:00:32.192763",
-  "total_events": 132,
+  "last_updated": "2026-03-21T15:34:07.248898",
+  "total_events": 123,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "21-03-2026",
-      "time": "13:00",
-      "datetime": "21-03-2026 13:00",
-      "league": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:00) Bundesliga 2 : bundesliga 2 konferenz -   (CH112de)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:00",
-      "datetime": "21-03-2026 13:00",
-      "league": "Bundesliga 2",
-      "teams": "Elversberg - Arminia Bielefeld",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "115",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:00) Bundesliga 2 : Elversberg - Arminia Bielefeld  (CH5fr) (CH115de)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:00",
-      "datetime": "21-03-2026 13:00",
-      "league": "Bundesliga 2",
-      "teams": "Nurnberg - Kaiserslautern",
-      "channels": [
-        {
-          "id": "114",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:00) Bundesliga 2 : Nurnberg - Kaiserslautern  (CH114de)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:00",
-      "datetime": "21-03-2026 13:00",
-      "league": "Bundesliga 2",
-      "teams": "Paderborn - SG Dynamo Dresden",
-      "channels": [
-        {
-          "id": "113",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:00) Bundesliga 2 : Paderborn - SG Dynamo Dresden  (CH113de)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:25",
-      "datetime": "21-03-2026 13:25",
-      "league": "Moto2",
-      "teams": "Grand Prix du Brésil Essais libres 2 Moto 2 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:25) Moto2 : Grand Prix du Brésil Essais libres 2 Moto 2 -   (CH14fr) (CH60es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:30",
-      "datetime": "21-03-2026 13:30",
-      "league": "Championship",
-      "teams": "Blackburn - Middlesbrough",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:30) Championship : Blackburn - Middlesbrough  (CH180us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:30",
-      "datetime": "21-03-2026 13:30",
-      "league": "Championship",
-      "teams": "Derby - Birmingham",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:30) Championship : Derby - Birmingham  (CH181us)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:30",
-      "datetime": "21-03-2026 13:30",
-      "league": "Championship",
-      "teams": "Ipswich - Millwall",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:30) Championship : Ipswich - Millwall  (CH8fr) (CH127gb) (CH149gr)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "13:30",
-      "datetime": "21-03-2026 13:30",
-      "league": "Premier League",
-      "teams": "Brighton - Liverpool",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (13:30) Premier League : Brighton - Liverpool  (CH11fr) (CH126gb) (CH56es) (CH120de) (CH138it) (CH72es) (CH87es)"
-    },
     {
       "date": "21-03-2026",
       "time": "14:00",
@@ -2241,10 +2075,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=cl8MV3jU0TUyG3Eml0NzXw&e=1774126823",
+      "m3u8_url": "https://py3hsjj2.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=4FGM9uzF8p53Y-7oC101Aw&e=1774128838",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T15:00:23.836382"
+      "extracted_at": "2026-03-21T15:33:58.585110"
     },
     "hoca": {
       "name": "hoca",
@@ -2253,25 +2087,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T15:00:25.968536"
+      "extracted_at": "2026-03-21T15:34:00.823147"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/zj52139k3.m3u8?s=NXmVzGmNNmQu8JciIUrmEg&e=1774126828",
+      "m3u8_url": "https://py3hsjj2.04334746.net:8443/hls/zj52139k3.m3u8?s=tHiXPmYBY3BV_o5LWt5rQQ&e=1774128842",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T15:00:28.696492"
+      "extracted_at": "2026-03-21T15:34:03.314190"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://b84gdva8.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=qIXCvjui43nZVUey8cvyGg&e=1774126830",
+      "m3u8_url": "https://py3hsjj2.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=AI0AhFDqznabJqdvEzf13Q&e=1774128845",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T15:00:31.192596"
+      "extracted_at": "2026-03-21T15:34:06.248721"
     }
   },
   "player_urls": {

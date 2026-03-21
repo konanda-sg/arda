@@ -1,174 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-21T20:20:57.467248",
-  "total_events": 80,
+  "last_updated": "2026-03-21T20:49:53.540799",
+  "total_events": 73,
   "total_players": 4,
   "m3u8_extracted": 1,
   "accessible_streams": 1,
   "events": [
-    {
-      "date": "21-03-2026",
-      "time": "18:30",
-      "datetime": "21-03-2026 18:30",
-      "league": "Bundesliga",
-      "teams": "Dortmund - Hamburger SV",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:30) Bundesliga : Dortmund - Hamburger SV  (CH2fr) (CH111de) (CH128gb) (CH150gr) (CH116es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:30",
-      "datetime": "21-03-2026 18:30",
-      "league": "Laliga",
-      "teams": "Levante - Oviedo",
-      "channels": [
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:30) Laliga : Levante - Oviedo  (CH51es) (CH88es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:30",
-      "datetime": "21-03-2026 18:30",
-      "league": "Laliga",
-      "teams": "Osasuna - Girona",
-      "channels": [
-        {
-          "id": "8",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:30) Laliga : Osasuna - Girona  (CH8fr) (CH49es) (CH71es) (CH94es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:30",
-      "datetime": "21-03-2026 18:30",
-      "league": "Laliga 2",
-      "teams": "Cadiz CF - Malaga",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:30) Laliga 2 : Cadiz CF - Malaga  (CH7fr) (CH53es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:30",
-      "datetime": "21-03-2026 18:30",
-      "league": "Premier League",
-      "teams": "Everton - Chelsea",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:30) Premier League : Everton - Chelsea  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH138it) (CH72es) (CH73es) (CH87es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:45",
-      "datetime": "21-03-2026 18:45",
-      "league": "Eredivisie",
-      "teams": "Sparta Rotterdam - FC Volendam",
-      "channels": [
-        {
-          "id": "141",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:45) Eredivisie : Sparta Rotterdam - FC Volendam  (CH141nl)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "18:45",
-      "datetime": "21-03-2026 18:45",
-      "league": "Premiership",
-      "teams": "Rangers - Aberdeen",
-      "channels": [
-        {
-          "id": "136",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "21-03-2026 (18:45) Premiership : Rangers - Aberdeen  (CH136gb)"
-    },
     {
       "date": "21-03-2026",
       "time": "19:00",
@@ -1324,7 +1162,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T20:20:51.123741"
+      "extracted_at": "2026-03-21T20:49:45.572707"
     },
     "hoca": {
       "name": "hoca",
@@ -1333,16 +1171,16 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T20:20:52.582289"
+      "extracted_at": "2026-03-21T20:49:47.598300"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://eyk4pqe8.04334746.net:8443/hls/zj52139k3.m3u8?s=599rFOwMYR11cGQoThPTYg&e=1774146054",
+      "m3u8_url": "https://2smh3wve.58103793.net:8443/hls/zj52139k3.m3u8?s=e6XWQVFtutag3F9INlrpLQ&e=1774147789",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T20:20:55.083718"
+      "extracted_at": "2026-03-21T20:49:50.473747"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1351,7 +1189,7 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T20:20:56.467097"
+      "extracted_at": "2026-03-21T20:49:52.540661"
     }
   },
   "player_urls": {

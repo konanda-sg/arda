@@ -1,112 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-21T15:56:49.766102",
-  "total_events": 123,
+  "last_updated": "2026-03-21T16:27:34.793492",
+  "total_events": 117,
   "total_players": 4,
-  "m3u8_extracted": 3,
-  "accessible_streams": 3,
+  "m3u8_extracted": 1,
+  "accessible_streams": 1,
   "events": [
-    {
-      "date": "21-03-2026",
-      "time": "14:00",
-      "datetime": "21-03-2026 14:00",
-      "league": "Laliga",
-      "teams": "Elche - Mallorca",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (14:00) Laliga : Elche - Mallorca  (CH9fr) (CH51es) (CH71es) (CH88es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "14:00",
-      "datetime": "21-03-2026 14:00",
-      "league": "Laliga 2",
-      "teams": "Leganes - Ceuta",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (14:00) Laliga 2 : Leganes - Ceuta  (CH53es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "14:00",
-      "datetime": "21-03-2026 14:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Racing Montevideo - Liverpool M.",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (14:00) Liga AUF Uruguaya : Racing Montevideo - Liverpool M.  (CH109es)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "14:00",
-      "datetime": "21-03-2026 14:00",
-      "league": "Ligue 2",
-      "teams": "Guingamp - Reims",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "21-03-2026 (14:00) Ligue 2 : Guingamp - Reims  (CH3fr)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "14:00",
-      "datetime": "21-03-2026 14:00",
-      "league": "Ligue 2",
-      "teams": "Troyes - Dunkerque",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "21-03-2026 (14:00) Ligue 2 : Troyes - Dunkerque  (CH1fr)"
-    },
-    {
-      "date": "21-03-2026",
-      "time": "14:10",
-      "datetime": "21-03-2026 14:10",
-      "league": "MotoGP",
-      "teams": "Grand Prix du Brésil Essais libres 2 Moto GP -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-03-2026 (14:10) MotoGP : Grand Prix du Brésil Essais libres 2 Moto GP -   (CH14fr) (CH60es)"
-    },
     {
       "date": "21-03-2026",
       "time": "14:30",
@@ -2075,10 +1975,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=GfzHM8j6-6guvaauKaJBog&e=1774130200",
-      "is_accessible": true,
-      "status": "success",
-      "extracted_at": "2026-03-21T15:56:41.327391"
+      "m3u8_url": null,
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-03-21T16:27:26.374999"
     },
     "hoca": {
       "name": "hoca",
@@ -2087,25 +1987,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-21T15:56:43.406718"
+      "extracted_at": "2026-03-21T16:27:28.855153"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/zj52139k3.m3u8?s=SRiL8rnkvA4RUfhmS7bd4Q&e=1774130205",
+      "m3u8_url": "https://s25examj.58103793.net:8443/hls/zj52139k3.m3u8?s=7pJT_2_qn54LrSs4Do9g7A&e=1774132050",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-21T15:56:46.140130"
+      "extracted_at": "2026-03-21T16:27:31.362765"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://h4kuqqzp.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=__hfITHoqkMg6RxvLR2d-A&e=1774130208",
-      "is_accessible": true,
-      "status": "success",
-      "extracted_at": "2026-03-21T15:56:48.765991"
+      "m3u8_url": null,
+      "is_accessible": false,
+      "status": "no_m3u8",
+      "extracted_at": "2026-03-21T16:27:33.793337"
     }
   },
   "player_urls": {

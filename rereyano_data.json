@@ -1,62 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-22T21:21:59.055732",
-  "total_events": 60,
+  "last_updated": "2026-03-22T21:48:17.897846",
+  "total_events": 57,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "22-03-2026",
-      "time": "19:30",
-      "datetime": "22-03-2026 19:30",
-      "league": "Bundesliga",
-      "teams": "Augsburg - Stuttgart",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-03-2026 (19:30) Bundesliga : Augsburg - Stuttgart  (CH6fr) (CH123de) (CH116es)"
-    },
-    {
-      "date": "22-03-2026",
-      "time": "19:30",
-      "datetime": "22-03-2026 19:30",
-      "league": "MLS",
-      "teams": "Minnesota United - Seattle Sounders",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-03-2026 (19:30) MLS : Minnesota United - Seattle Sounders  (CH70es)"
-    },
-    {
-      "date": "22-03-2026",
-      "time": "19:30",
-      "datetime": "22-03-2026 19:30",
-      "league": "Torneo LPF",
-      "teams": "Sarmiento Junin - Aldosivi",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-03-2026 (19:30) Torneo LPF : Sarmiento Junin - Aldosivi  (CH76es)"
-    },
     {
       "date": "22-03-2026",
       "time": "20:00",
@@ -945,10 +895,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://htq43xdc.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=T7GYeV7oMrYcQW0UQOhZnA&e=1774236102",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=CD8BaHlBbFvrUFQLRb_1JQ&e=1774237686",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-22T21:21:46.384350"
+      "extracted_at": "2026-03-22T21:48:07.193740"
     },
     "hoca": {
       "name": "hoca",
@@ -957,25 +907,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-22T21:21:47.957843"
+      "extracted_at": "2026-03-22T21:48:09.734458"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://goalwagon.net/embed/zj52139k3",
-      "m3u8_url": "https://htq43xdc.12703830.net:8443/hls/zj52139k3.m3u8?s=ehIQNryOL1bl7AHYOSB-Xg&e=1774236110",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/zj52139k3.m3u8?s=mwtRZ9O0rcmwx3liCYXztQ&e=1774237692",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-22T21:21:53.365193"
+      "extracted_at": "2026-03-22T21:48:13.221449"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://maturehit.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://htq43xdc.12703830.net:8443/hls/ysagetp2j4x.m3u8?s=lOwk2nALplzbKkSebgkIcQ&e=1774236116",
+      "m3u8_url": "https://9pcjk5cj.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=NIZjbML6nbrPXeeX8SJ9ZA&e=1774237696",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-22T21:21:58.055534"
+      "extracted_at": "2026-03-22T21:48:16.897684"
     }
   },
   "player_urls": {

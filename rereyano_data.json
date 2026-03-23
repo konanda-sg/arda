@@ -1,11 +1,11 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-23T08:08:33.616924",
+  "last_updated": "2026-03-23T09:13:13.118556",
   "total_events": 19,
   "total_players": 4,
-  "m3u8_extracted": 0,
-  "accessible_streams": 0,
+  "m3u8_extracted": 3,
+  "accessible_streams": 3,
   "events": [
     {
       "date": "23-03-2026",
@@ -287,10 +287,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://reversesow.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-23T08:08:26.060448"
+      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=T7cmLTxaW5p8Q3gCfjnNBg&e=1774278784",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-23T09:13:04.820880"
     },
     "hoca": {
       "name": "hoca",
@@ -299,25 +299,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-23T08:08:28.605722"
+      "extracted_at": "2026-03-23T09:13:07.111386"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://extinctdeprive.net/embed/zj52139k3",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-23T08:08:30.808514"
+      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/zj52139k3.m3u8?s=3JG9cviP68uDSi_r9O8Zbw&e=1774278789",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-23T09:13:09.877468"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://reversesow.net/embed/ysagetp2j4x",
-      "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-23T08:08:32.616772"
+      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=xBizhWv3gGmhnfCdc2HvXQ&e=1774278791",
+      "is_accessible": true,
+      "status": "success",
+      "extracted_at": "2026-03-23T09:13:12.118425"
     }
   },
   "player_urls": {

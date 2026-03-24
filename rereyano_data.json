@@ -1,50 +1,21 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-24T04:50:50.504096",
-  "total_events": 2,
+  "last_updated": "2026-03-24T05:56:53.435005",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
-  "events": [
-    {
-      "date": "24-03-2026",
-      "time": "03:00",
-      "datetime": "24-03-2026 03:00",
-      "league": "NBA",
-      "teams": "Portland Trail Blazers - Brooklyn Nets",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-03-2026 (03:00) NBA : Portland Trail Blazers - Brooklyn Nets  (CH182us)"
-    },
-    {
-      "date": "24-03-2026",
-      "time": "03:30",
-      "datetime": "24-03-2026 03:30",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Milwaukee Bucks",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-03-2026 (03:30) NBA : Los Angeles Clippers - Milwaukee Bucks  (CH183us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://voterole.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=La2m4Atzt_xvbOv_B2XlVw&e=1774349442",
+      "m3u8_url": "https://sea3mr6j.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=j3UINFFZMyp3bV3nO3BsWQ&e=1774353404",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-24T04:50:43.332631"
+      "extracted_at": "2026-03-24T05:56:45.076666"
     },
     "hoca": {
       "name": "hoca",
@@ -53,25 +24,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-24T04:50:44.951078"
+      "extracted_at": "2026-03-24T05:56:47.310843"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://hutweed.net/embed/zj52139k3",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/zj52139k3.m3u8?s=Km_4M4S4sraLT-r6STojVw&e=1774349446",
+      "m3u8_url": "https://sea3mr6j.83870203.net:8443/hls/zj52139k3.m3u8?s=av1gmsrEJQBke6fuBJFt0A&e=1774353409",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-24T04:50:47.239081"
+      "extracted_at": "2026-03-24T05:56:50.319184"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://voterole.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://jp4zhfst.04334746.net:8443/hls/ysagetp2j4x.m3u8?s=H5YYkzV-VaO3kWwJEzeQqQ&e=1774349449",
+      "m3u8_url": "https://sea3mr6j.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=XiBYHo-BXLjAJZpMEJbCKA&e=1774353412",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-24T04:50:49.503951"
+      "extracted_at": "2026-03-24T05:56:52.434858"
     }
   },
   "player_urls": {

@@ -1,238 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/",
-  "last_updated": "2026-03-25T00:01:13.193785",
-  "total_events": 19,
+  "last_updated": "2026-03-25T03:18:22.368095",
+  "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 3,
   "accessible_streams": 3,
   "events": [
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NBA",
-      "teams": "Charlotte Hornets - Sacramento Kings",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NBA : Charlotte Hornets - Sacramento Kings  (CH170us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Boston Bruins - Toronto Maple Leafs",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : Boston Bruins - Toronto Maple Leafs  (CH171us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Detroit Red Wings - Ottawa Senators",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : Detroit Red Wings - Ottawa Senators  (CH172us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Florida Panthers - Seattle Kraken",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : Florida Panthers - Seattle Kraken  (CH173us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Montreal Canadiens - Carolina Hurricanes",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "174",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : Montreal Canadiens - Carolina Hurricanes  (CH4fr) (CH174us) (CH89es)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Chicago Blackhawks",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : New York Islanders - Chicago Blackhawks  (CH175us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Philadelphia Flyers - Columbus Blue Jackets",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : Philadelphia Flyers - Columbus Blue Jackets  (CH176us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:00",
-      "datetime": "25-03-2026 00:00",
-      "league": "NHL",
-      "teams": "Pittsburgh Penguins - Colorado Avalanche",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:00) NHL : Pittsburgh Penguins - Colorado Avalanche  (CH177us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:30",
-      "datetime": "25-03-2026 00:30",
-      "league": "NBA",
-      "teams": "New York Knicks - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:30) NBA : New York Knicks - New Orleans Pelicans  (CH178us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "00:30",
-      "datetime": "25-03-2026 00:30",
-      "league": "NHL",
-      "teams": "Tampa Bay Lightning - Minnesota Wild",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (00:30) NHL : Tampa Bay Lightning - Minnesota Wild  (CH179us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "01:00",
-      "datetime": "25-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Cleveland Cavaliers - Orlando Magic",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "180",
-          "lang": "us"
-        },
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-03-2026 (01:00) NBA : Cleveland Cavaliers - Orlando Magic  (CH1fr) (CH180us) (CH155es)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "01:00",
-      "datetime": "25-03-2026 01:00",
-      "league": "NHL",
-      "teams": "Dallas Stars - New Jersey Devils",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (01:00) NHL : Dallas Stars - New Jersey Devils  (CH181us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "01:00",
-      "datetime": "25-03-2026 01:00",
-      "league": "NHL",
-      "teams": "Nashville Predators - San Jose Sharks",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (01:00) NHL : Nashville Predators - San Jose Sharks  (CH182us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "01:00",
-      "datetime": "25-03-2026 01:00",
-      "league": "NHL",
-      "teams": "St. Louis Blues - Washington Capitals",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (01:00) NHL : St. Louis Blues - Washington Capitals  (CH183us)"
-    },
-    {
-      "date": "25-03-2026",
-      "time": "01:00",
-      "datetime": "25-03-2026 01:00",
-      "league": "NHL",
-      "teams": "Winnipeg Jets - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-03-2026 (01:00) NHL : Winnipeg Jets - Vegas Golden Knights  (CH184us)"
-    },
     {
       "date": "25-03-2026",
       "time": "02:00",
@@ -296,6 +70,406 @@
         }
       ],
       "raw_line": "25-03-2026 (04:00) NBA : Phoenix Suns - Denver Nuggets  (CH1fr) (CH188us) (CH156es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "18:00",
+      "datetime": "25-03-2026 18:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Albion - Wanderers",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (18:00) Liga AUF Uruguaya : Albion - Wanderers  (CH109es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "18:45",
+      "datetime": "25-03-2026 18:45",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Real Madrid W - Barcelona W",
+      "channels": [
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (18:45) Ligue Des Champions Femmes : Real Madrid W - Barcelona W  (CH71es) (CH87es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "20:30",
+      "datetime": "25-03-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Baskonia - Crvena Zvezda Meridianbet",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (20:30) EuroLeague : Baskonia - Crvena Zvezda Meridianbet  (CH55es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "21:00",
+      "datetime": "25-03-2026 21:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "CA Cerro - Juventud",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (21:00) Liga AUF Uruguaya : CA Cerro - Juventud  (CH109es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "21:00",
+      "datetime": "25-03-2026 21:00",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Manchester Utd W - Bayern Munich W",
+      "channels": [
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (21:00) Ligue Des Champions Femmes : Manchester Utd W - Bayern Munich W  (CH71es) (CH87es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "23:00",
+      "datetime": "25-03-2026 23:00",
+      "league": "Copa Argentina",
+      "teams": "Atl. Tucuman - Sportivo Barracas",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (23:00) Copa Argentina : Atl. Tucuman - Sportivo Barracas  (CH77es)"
+    },
+    {
+      "date": "25-03-2026",
+      "time": "23:00",
+      "datetime": "25-03-2026 23:00",
+      "league": "Torneo LPF",
+      "teams": "Dep. Riestra - San Lorenzo",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-03-2026 (23:00) Torneo LPF : Dep. Riestra - San Lorenzo  (CH76es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:00",
+      "datetime": "26-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Atlanta Hawks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:00) NBA : Detroit Pistons - Atlanta Hawks  (CH1fr) (CH170us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:00",
+      "datetime": "26-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:00) NBA : Indiana Pacers - Los Angeles Lakers  (CH171us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:00",
+      "datetime": "26-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Chicago Bulls",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:00) NBA : Philadelphia 76ers - Chicago Bulls  (CH172us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:30",
+      "datetime": "26-03-2026 00:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Boston River - Penarol",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:30) Liga AUF Uruguaya : Boston River - Penarol  (CH109es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:30",
+      "datetime": "26-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Boston Celtics - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        },
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:30) NBA : Boston Celtics - Oklahoma City Thunder  (CH173us) (CH155es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:30",
+      "datetime": "26-03-2026 00:30",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - Miami Heat",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:30) NBA : Cleveland Cavaliers - Miami Heat  (CH174us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:30",
+      "datetime": "26-03-2026 00:30",
+      "league": "NHL",
+      "teams": "Buffalo Sabres - Boston Bruins",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:30) NHL : Buffalo Sabres - Boston Bruins  (CH4fr) (CH175us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "00:30",
+      "datetime": "26-03-2026 00:30",
+      "league": "NHL",
+      "teams": "Toronto Maple Leafs - New York Rangers",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (00:30) NHL : Toronto Maple Leafs - New York Rangers  (CH176us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "01:00",
+      "datetime": "26-03-2026 01:00",
+      "league": "NBA",
+      "teams": "Memphis Grizzlies - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (01:00) NBA : Memphis Grizzlies - San Antonio Spurs  (CH177us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "01:05",
+      "datetime": "26-03-2026 01:05",
+      "league": "MLB",
+      "teams": "San Francisco Giants - New York Yankees",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (01:05) MLB : San Francisco Giants - New York Yankees  (CH5fr) (CH126gb) (CH178us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "01:15",
+      "datetime": "26-03-2026 01:15",
+      "league": "Copa Argentina",
+      "teams": "Banfield - Real Pilar",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-03-2026 (01:15) Copa Argentina : Banfield - Real Pilar  (CH77es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "02:00",
+      "datetime": "26-03-2026 02:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "America De Cali - Llaneros",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-03-2026 (02:00) Liga Betplay Dimayor : America De Cali - Llaneros  (CH81es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "02:00",
+      "datetime": "26-03-2026 02:00",
+      "league": "Liga Mx Women",
+      "teams": "Tigres UANL W - Club America W",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-03-2026 (02:00) Liga Mx Women : Tigres UANL W - Club America W  (CH70es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "02:00",
+      "datetime": "26-03-2026 02:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Washington Wizards",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (02:00) NBA : Utah Jazz - Washington Wizards  (CH179us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "02:30",
+      "datetime": "26-03-2026 02:30",
+      "league": "NBA",
+      "teams": "Minnesota Timberwolves - Houston Rockets",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "180",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-03-2026 (02:30) NBA : Minnesota Timberwolves - Houston Rockets  (CH1fr) (CH180us) (CH156es)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "03:00",
+      "datetime": "26-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (03:00) NBA : Denver Nuggets - Dallas Mavericks  (CH181us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "03:00",
+      "datetime": "26-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (03:00) NBA : Golden State Warriors - Brooklyn Nets  (CH182us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "03:00",
+      "datetime": "26-03-2026 03:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Milwaukee Bucks",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (03:00) NBA : Portland Trail Blazers - Milwaukee Bucks  (CH183us)"
+    },
+    {
+      "date": "26-03-2026",
+      "time": "03:30",
+      "datetime": "26-03-2026 03:30",
+      "league": "NBA",
+      "teams": "Los Angeles Clippers - Toronto Raptors",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-03-2026 (03:30) NBA : Los Angeles Clippers - Toronto Raptors  (CH184us)"
     }
   ],
   "player_streams": {
@@ -303,10 +477,10 @@
       "name": "Cartel",
       "player_url": "https://cartelive.club//player/1/1",
       "iframe_url": "https://voterole.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=wPBvv241ajj7SCFNGiFvdQ&e=1774418462",
+      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=FsLbESIZi8Y4zq4B4v-DmQ&e=1774430292",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-25T00:01:03.313086"
+      "extracted_at": "2026-03-25T03:18:13.723010"
     },
     "hoca": {
       "name": "hoca",
@@ -315,25 +489,25 @@
       "m3u8_url": null,
       "is_accessible": false,
       "status": "no_m3u8",
-      "extracted_at": "2026-03-25T00:01:05.835175"
+      "extracted_at": "2026-03-25T03:18:15.233607"
     },
     "Caster": {
       "name": "Caster",
       "player_url": "https://cartelive.club//player/3/1",
       "iframe_url": "https://hutweed.net/embed/zj52139k3",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/zj52139k3.m3u8?s=iOAyU9w0r8hkinLV5WX1Mg&e=1774418468",
+      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/zj52139k3.m3u8?s=FpvBjAEpUO47Rm0a7rF_mA&e=1774430297",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-25T00:01:09.036405"
+      "extracted_at": "2026-03-25T03:18:18.730066"
     },
     "WIGI": {
       "name": "WIGI",
       "player_url": "https://cartelive.club//player/4/1",
       "iframe_url": "https://voterole.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=dRdz_hpwPHN4bQZ8MXqzyQ&e=1774418471",
+      "m3u8_url": "https://tx5nushj.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=lciZglzxQHe-1HH--0FrlA&e=1774430300",
       "is_accessible": true,
       "status": "success",
-      "extracted_at": "2026-03-25T00:01:12.193640"
+      "extracted_at": "2026-03-25T03:18:21.367949"
     }
   },
   "player_urls": {

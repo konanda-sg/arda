@@ -1,54 +1,69 @@
 {
   "extractor": "RereYano",
-  "website": "https://cartelive.club/",
-  "last_updated": "2026-03-27T08:29:12.285706",
-  "total_events": 0,
+  "website": "https://cartelive.club/vip3.php",
+  "last_updated": "2026-03-27T09:02:27.032780",
+  "total_events": 1,
   "total_players": 4,
-  "m3u8_extracted": 3,
-  "accessible_streams": 3,
-  "events": [],
+  "m3u8_extracted": 0,
+  "accessible_streams": 0,
+  "events": [
+    {
+      "date": "27-03-2026",
+      "time": "07:45",
+      "datetime": "27-03-2026 07:45",
+      "league": "formula 1",
+      "teams": "Grand Prix du Japon Essais libres 2 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-03-2026 (07:45) formula 1 : Grand Prix du Japon Essais libres 2 -   (CH13fr) (CH60es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
-      "player_url": "https://cartelive.club//player/1/1",
-      "iframe_url": "https://voterole.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=4cEbhfCHUkaGCMY1l0P_9A&e=1774621740",
-      "is_accessible": true,
-      "status": "success",
-      "extracted_at": "2026-03-27T08:29:01.517893"
+      "player_url": "https://cartelive.club/vip3.php/player/1/1",
+      "iframe_url": null,
+      "m3u8_url": null,
+      "status": "no_iframe",
+      "extracted_at": "2026-03-27T09:02:21.867080"
     },
     "hoca": {
       "name": "hoca",
-      "player_url": "https://cartelive.club//player/2/1",
-      "iframe_url": "https://hoca6.com/footy.php?player=desktop&live=ufeed01",
+      "player_url": "https://cartelive.club/vip3.php/player/2/1",
+      "iframe_url": null,
       "m3u8_url": null,
-      "is_accessible": false,
-      "status": "no_m3u8",
-      "extracted_at": "2026-03-27T08:29:04.125237"
+      "status": "no_iframe",
+      "extracted_at": "2026-03-27T09:02:23.305493"
     },
     "Caster": {
       "name": "Caster",
-      "player_url": "https://cartelive.club//player/3/1",
-      "iframe_url": "https://hutweed.net/embed/zj52139k3",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/zj52139k3.m3u8?s=Dps0DCjDrJXQq0KB8wnA5A&e=1774621747",
-      "is_accessible": true,
-      "status": "success",
-      "extracted_at": "2026-03-27T08:29:08.193296"
+      "player_url": "https://cartelive.club/vip3.php/player/3/1",
+      "iframe_url": null,
+      "m3u8_url": null,
+      "status": "no_iframe",
+      "extracted_at": "2026-03-27T09:02:24.742134"
     },
     "WIGI": {
       "name": "WIGI",
-      "player_url": "https://cartelive.club//player/4/1",
-      "iframe_url": "https://voterole.net/embed/ysagetp2j4x",
-      "m3u8_url": "https://mqf5dt2g.83870203.net:8443/hls/ysagetp2j4x.m3u8?s=FZ3kLFDc1CVekhulGynayA&e=1774621750",
-      "is_accessible": true,
-      "status": "success",
-      "extracted_at": "2026-03-27T08:29:11.285571"
+      "player_url": "https://cartelive.club/vip3.php/player/4/1",
+      "iframe_url": null,
+      "m3u8_url": null,
+      "status": "no_iframe",
+      "extracted_at": "2026-03-27T09:02:26.032649"
     }
   },
   "player_urls": {
-    "Cartel": "https://cartelive.club//player/1/1",
-    "hoca": "https://cartelive.club//player/2/1",
-    "Caster": "https://cartelive.club//player/3/1",
-    "WIGI": "https://cartelive.club//player/4/1"
+    "Cartel": "https://cartelive.club/vip3.php/player/1/1",
+    "hoca": "https://cartelive.club/vip3.php/player/2/1",
+    "Caster": "https://cartelive.club/vip3.php/player/3/1",
+    "WIGI": "https://cartelive.club/vip3.php/player/4/1"
   }
 }

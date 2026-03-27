@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-03-27T15:08:54.529296",
-  "total_events": 69,
+  "last_updated": "2026-03-27T16:05:32.424698",
+  "total_events": 71,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -320,6 +320,24 @@
         }
       ],
       "raw_line": "27-03-2026 (20:00) National : Rouen - Caen  (CH48fr)"
+    },
+    {
+      "date": "27-03-2026",
+      "time": "20:00",
+      "datetime": "27-03-2026 20:00",
+      "league": "Tennis",
+      "teams": "Masters 1000 de Miami Demi-finale -",
+      "channels": [
+        {
+          "id": "15",
+          "lang": "fr"
+        },
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-03-2026 (20:00) Tennis : Masters 1000 de Miami Demi-finale -   (CH15fr) (CH63es)"
     },
     {
       "date": "27-03-2026",
@@ -664,6 +682,24 @@
         }
       ],
       "raw_line": "28-03-2026 (00:00) NHL : New York Rangers - Chicago Blackhawks  (CH183us)"
+    },
+    {
+      "date": "28-03-2026",
+      "time": "00:00",
+      "datetime": "28-03-2026 00:00",
+      "league": "Tennis",
+      "teams": "Masters 1000 de Miami Demi-finale -",
+      "channels": [
+        {
+          "id": "15",
+          "lang": "fr"
+        },
+        {
+          "id": "63",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-03-2026 (00:00) Tennis : Masters 1000 de Miami Demi-finale -   (CH15fr) (CH63es)"
     },
     {
       "date": "28-03-2026",
@@ -1097,7 +1133,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-27T15:08:48.954030"
+      "extracted_at": "2026-03-27T16:05:27.350303"
     },
     "hoca": {
       "name": "hoca",
@@ -1105,7 +1141,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-27T15:08:50.470760"
+      "extracted_at": "2026-03-27T16:05:28.594725"
     },
     "Caster": {
       "name": "Caster",
@@ -1113,7 +1149,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-27T15:08:52.156284"
+      "extracted_at": "2026-03-27T16:05:29.943468"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1121,7 +1157,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-27T15:08:53.529143"
+      "extracted_at": "2026-03-27T16:05:31.424558"
     }
   },
   "player_urls": {

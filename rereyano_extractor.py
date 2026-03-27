@@ -10,7 +10,7 @@ import time
 
 class RereYanoExtractor:
     def __init__(self):
-        self.base_url = "https://cartelive.club/"
+        self.base_url = "https://cartelive.club/vip3.php"
         self.name = "RereYano"
         self.timeout = 30
         self.user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"

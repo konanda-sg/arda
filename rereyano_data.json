@@ -1,39 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-03-29T07:20:24.379504",
-  "total_events": 1,
+  "last_updated": "2026-03-29T08:02:08.938511",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "29-03-2026",
-      "time": "07:00",
-      "datetime": "29-03-2026 07:00",
-      "league": "formula 1",
-      "teams": "Grand Prix du Japon -",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "134",
-          "lang": "gb"
-        },
-        {
-          "id": "121",
-          "lang": "de"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "29-03-2026 (07:00) formula 1 : Grand Prix du Japon -   (CH11fr) (CH134gb) (CH121de) (CH60es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -41,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T07:20:19.332646"
+      "extracted_at": "2026-03-29T08:02:04.107179"
     },
     "hoca": {
       "name": "hoca",
@@ -49,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T07:20:20.632817"
+      "extracted_at": "2026-03-29T08:02:05.477367"
     },
     "Caster": {
       "name": "Caster",
@@ -57,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T07:20:22.079815"
+      "extracted_at": "2026-03-29T08:02:06.708060"
     },
     "WIGI": {
       "name": "WIGI",
@@ -65,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T07:20:23.379352"
+      "extracted_at": "2026-03-29T08:02:07.938349"
     }
   },
   "player_urls": {

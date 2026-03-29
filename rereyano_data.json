@@ -1,12 +1,919 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-03-29T11:24:51.634121",
-  "total_events": 0,
+  "last_updated": "2026-03-29T11:50:46.219538",
+  "total_events": 57,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "29-03-2026",
+      "time": "13:00",
+      "datetime": "29-03-2026 13:00",
+      "league": "Liga Endesa",
+      "teams": "Tenerife - Basket Zaragoza",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (13:00) Liga Endesa : Tenerife - Basket Zaragoza  (CH156es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "14:00",
+      "datetime": "29-03-2026 14:00",
+      "league": "Laliga 2",
+      "teams": "Eibar - Las Palmas",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (14:00) Laliga 2 : Eibar - Las Palmas  (CH53es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "15:00",
+      "datetime": "29-03-2026 15:00",
+      "league": "Amical International",
+      "teams": "Lithuania - Georgia",
+      "channels": [
+        {
+          "id": "130",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (15:00) Amical International : Lithuania - Georgia  (CH130us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "15:00",
+      "datetime": "29-03-2026 15:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Progreso - Liverpool M.",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (15:00) Liga AUF Uruguaya : Progreso - Liverpool M.  (CH109es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "16:00",
+      "datetime": "29-03-2026 16:00",
+      "league": "Amical International",
+      "teams": "Armenia - Belarus",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "cz"
+        }
+      ],
+      "raw_line": "29-03-2026 (16:00) Amical International : Armenia - Belarus  (CH114cz)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "16:15",
+      "datetime": "29-03-2026 16:15",
+      "league": "Laliga 2",
+      "teams": "Cultural Leonesa - Andorra",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (16:15) Laliga 2 : Cultural Leonesa - Andorra  (CH53es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "17:00",
+      "datetime": "29-03-2026 17:00",
+      "league": "Liga Endesa",
+      "teams": "MoraBanc Andorra - Baskonia",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (17:00) Liga Endesa : MoraBanc Andorra - Baskonia  (CH157es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "17:40",
+      "datetime": "29-03-2026 17:40",
+      "league": "MotoGP",
+      "teams": "GP des Amériques Warm Up des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (17:40) MotoGP : GP des Amériques Warm Up des Moto GP -   (CH14fr) (CH59es) (CH97es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "18:00",
+      "datetime": "29-03-2026 18:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Juventud - Boston River",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (18:00) Liga AUF Uruguaya : Juventud - Boston River  (CH109es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "18:00",
+      "datetime": "29-03-2026 18:00",
+      "league": "Liga Endesa",
+      "teams": "San Pablo Burgos - Valencia",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (18:00) Liga Endesa : San Pablo Burgos - Valencia  (CH155es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "18:00",
+      "datetime": "29-03-2026 18:00",
+      "league": "MotoGP",
+      "teams": "GP des Amériques La parade des pilotes -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (18:00) MotoGP : GP des Amériques La parade des pilotes -   (CH14fr) (CH59es) (CH97es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "18:30",
+      "datetime": "29-03-2026 18:30",
+      "league": "Laliga 2",
+      "teams": "Zaragoza - Racing Santander",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "53",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (18:30) Laliga 2 : Zaragoza - Racing Santander  (CH4fr) (CH53es) (CH71es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:00",
+      "datetime": "29-03-2026 19:00",
+      "league": "Liga Endesa",
+      "teams": "Barcelona - Unicaja",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:00) Liga Endesa : Barcelona - Unicaja  (CH156es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:00",
+      "datetime": "29-03-2026 19:00",
+      "league": "Moto3",
+      "teams": "GP des Amériques La course des Moto 3 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:00) Moto3 : GP des Amériques La course des Moto 3 -   (CH14fr) (CH59es) (CH97es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:00",
+      "datetime": "29-03-2026 19:00",
+      "league": "NHL",
+      "teams": "New York Rangers - Florida Panthers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:00) NHL : New York Rangers - Florida Panthers  (CH1fr) (CH170us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:35",
+      "datetime": "29-03-2026 19:35",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Kansas City Royals",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:35) MLB : Atlanta Braves - Kansas City Royals  (CH171us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:35",
+      "datetime": "29-03-2026 19:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Minnesota Twins",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:35) MLB : Baltimore Orioles - Minnesota Twins  (CH172us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:35",
+      "datetime": "29-03-2026 19:35",
+      "league": "MLB",
+      "teams": "Philadelphia Phillies - Texas Rangers",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:35) MLB : Philadelphia Phillies - Texas Rangers  (CH173us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:37",
+      "datetime": "29-03-2026 19:37",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Athletics",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:37) MLB : Toronto Blue Jays - Athletics  (CH174us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:40",
+      "datetime": "29-03-2026 19:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - Boston Red Sox",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:40) MLB : Cincinnati Reds - Boston Red Sox  (CH175us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:40",
+      "datetime": "29-03-2026 19:40",
+      "league": "MLB",
+      "teams": "Miami Marlins - Colorado Rockies",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:40) MLB : Miami Marlins - Colorado Rockies  (CH176us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "19:40",
+      "datetime": "29-03-2026 19:40",
+      "league": "MLB",
+      "teams": "New York Mets - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (19:40) MLB : New York Mets - Pittsburgh Pirates  (CH177us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "20:10",
+      "datetime": "29-03-2026 20:10",
+      "league": "MLB",
+      "teams": "Houston Astros - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (20:10) MLB : Houston Astros - Los Angeles Angels  (CH178us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "20:10",
+      "datetime": "29-03-2026 20:10",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Chicago White Sox",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (20:10) MLB : Milwaukee Brewers - Chicago White Sox  (CH179us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "20:15",
+      "datetime": "29-03-2026 20:15",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (20:15) MLB : St.Louis Cardinals - Tampa Bay Rays  (CH180us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "20:15",
+      "datetime": "29-03-2026 20:15",
+      "league": "Moto2",
+      "teams": "GP des Amériques La course des Moto 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (20:15) Moto2 : GP des Amériques La course des Moto 2 -   (CH14fr) (CH59es) (CH97es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "20:20",
+      "datetime": "29-03-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - Washington Nationals",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (20:20) MLB : Chicago Cubs - Washington Nationals  (CH181us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "21:00",
+      "datetime": "29-03-2026 21:00",
+      "league": "Amical International",
+      "teams": "Colombia - France",
+      "channels": [
+        {
+          "id": "24",
+          "lang": "fr"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (21:00) Amical International : Colombia - France  (CH24fr) (CH72es) (CH73es) (CH94es) (CH125de) (CH144pt) (CH158es) (CH159es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "21:00",
+      "datetime": "29-03-2026 21:00",
+      "league": "Laliga",
+      "teams": "Real Madrid - Barcelone Fém",
+      "channels": [
+        {
+          "id": "56",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (21:00) Laliga : Real Madrid - Barcelone Fém  (CH56es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "21:00",
+      "datetime": "29-03-2026 21:00",
+      "league": "Laliga 2",
+      "teams": "Almeria - Real Sociedad B",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (21:00) Laliga 2 : Almeria - Real Sociedad B  (CH53es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "21:00",
+      "datetime": "29-03-2026 21:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Defensor Sp. - Albion",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (21:00) Liga AUF Uruguaya : Defensor Sp. - Albion  (CH109es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "21:05",
+      "datetime": "29-03-2026 21:05",
+      "league": "Top 14",
+      "teams": "Stade Francais Paris - Clermont",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "29-03-2026 (21:05) Top 14 : Stade Francais Paris - Clermont  (CH11fr)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "21:30",
+      "datetime": "29-03-2026 21:30",
+      "league": "NBA",
+      "teams": "Milwaukee Bucks - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (21:30) NBA : Milwaukee Bucks - Los Angeles Clippers  (CH182us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "22:00",
+      "datetime": "29-03-2026 22:00",
+      "league": "MotoGP",
+      "teams": "GP des Amériques La course des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "59",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (22:00) MotoGP : GP des Amériques La course des Moto GP -   (CH14fr) (CH59es) (CH97es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "23:00",
+      "datetime": "29-03-2026 23:00",
+      "league": "Copa Argentina",
+      "teams": "Huracan - Olimpo Bahia Blanca",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (23:00) Copa Argentina : Huracan - Olimpo Bahia Blanca  (CH77es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "23:00",
+      "datetime": "29-03-2026 23:00",
+      "league": "NBA",
+      "teams": "Indiana Pacers - Miami Heat",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (23:00) NBA : Indiana Pacers - Miami Heat  (CH183us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "23:00",
+      "datetime": "29-03-2026 23:00",
+      "league": "NHL",
+      "teams": "Carolina Hurricanes - Montreal Canadiens",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (23:00) NHL : Carolina Hurricanes - Montreal Canadiens  (CH184us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "23:00",
+      "datetime": "29-03-2026 23:00",
+      "league": "NHL",
+      "teams": "Columbus Blue Jackets - Boston Bruins",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (23:00) NHL : Columbus Blue Jackets - Boston Bruins  (CH185us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "23:00",
+      "datetime": "29-03-2026 23:00",
+      "league": "NHL",
+      "teams": "Tampa Bay Lightning - Nashville Predators",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (23:00) NHL : Tampa Bay Lightning - Nashville Predators  (CH186us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "23:10",
+      "datetime": "29-03-2026 23:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Inter Bogotá - Junior",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-03-2026 (23:10) Liga Betplay Dimayor : Inter Bogotá - Junior  (CH81es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "00:00",
+      "datetime": "30-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Sacramento Kings",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (00:00) NBA : Brooklyn Nets - Sacramento Kings  (CH187us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "00:00",
+      "datetime": "30-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Charlotte Hornets - Boston Celtics",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (00:00) NBA : Charlotte Hornets - Boston Celtics  (CH188us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "00:00",
+      "datetime": "30-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Washington Wizards",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (00:00) NBA : Portland Trail Blazers - Washington Wizards  (CH189us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "00:00",
+      "datetime": "30-03-2026 00:00",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Orlando Magic",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (00:00) NBA : Toronto Raptors - Orlando Magic  (CH190us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "00:30",
+      "datetime": "30-03-2026 00:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Penarol - Racing Montevideo",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-03-2026 (00:30) Liga AUF Uruguaya : Penarol - Racing Montevideo  (CH109es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "00:30",
+      "datetime": "30-03-2026 00:30",
+      "league": "Serie A Bresil",
+      "teams": "Athletico-PR - Botafogo RJ",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "30-03-2026 (00:30) Serie A Bresil : Athletico-PR - Botafogo RJ  (CH125de)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:00",
+      "datetime": "30-03-2026 01:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Zacatecas Mineros - Tapatio",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:00) Liga De Expansion Mx : Zacatecas Mineros - Tapatio  (CH105es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:00",
+      "datetime": "30-03-2026 01:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Houston Rockets",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:00) NBA : New Orleans Pelicans - Houston Rockets  (CH191us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:00",
+      "datetime": "30-03-2026 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Chicago Blackhawks",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:00) NHL : New Jersey Devils - Chicago Blackhawks  (CH192us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:00",
+      "datetime": "30-03-2026 01:00",
+      "league": "NHL",
+      "teams": "Philadelphia Flyers - Dallas Stars",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:00) NHL : Philadelphia Flyers - Dallas Stars  (CH193us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:15",
+      "datetime": "30-03-2026 01:15",
+      "league": "Copa Argentina",
+      "teams": "Newells Old Boys - Acassuso",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:15) Copa Argentina : Newells Old Boys - Acassuso  (CH77es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:20",
+      "datetime": "30-03-2026 01:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Dep. Pasto - Atl. Nacional",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:20) Liga Betplay Dimayor : Dep. Pasto - Atl. Nacional  (CH81es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:20",
+      "datetime": "30-03-2026 01:20",
+      "league": "MLB",
+      "teams": "Seattle Mariners - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:20) MLB : Seattle Mariners - Cleveland Guardians  (CH4fr) (CH88es) (CH194us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "01:30",
+      "datetime": "30-03-2026 01:30",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - New York Knicks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "157",
+          "lang": "es"
+        },
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (01:30) NBA : Oklahoma City Thunder - New York Knicks  (CH1fr) (CH157es) (CH195us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "02:00",
+      "datetime": "30-03-2026 02:00",
+      "league": "Amical Club",
+      "teams": "Atlas - Chivas guadalajara",
+      "channels": [
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (02:00) Amical Club : Atlas - Chivas guadalajara  (CH106es) (CH196us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "03:30",
+      "datetime": "30-03-2026 03:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Llaneros - Once Caldas",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-03-2026 (03:30) Liga Betplay Dimayor : Llaneros - Once Caldas  (CH81es) (CH82es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "04:00",
+      "datetime": "30-03-2026 04:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Golden State Warriors",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (04:00) NBA : Denver Nuggets - Golden State Warriors  (CH1fr) (CH197us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +921,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:24:46.506110"
+      "extracted_at": "2026-03-29T11:50:41.375994"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +929,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:24:47.878736"
+      "extracted_at": "2026-03-29T11:50:42.746991"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +937,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:24:49.246802"
+      "extracted_at": "2026-03-29T11:50:43.982807"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +945,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:24:50.633986"
+      "extracted_at": "2026-03-29T11:50:45.219393"
     }
   },
   "player_urls": {

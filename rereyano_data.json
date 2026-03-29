@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-03-29T11:50:46.219538",
-  "total_events": 57,
+  "last_updated": "2026-03-29T12:43:24.114475",
+  "total_events": 60,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -48,6 +48,20 @@
         }
       ],
       "raw_line": "29-03-2026 (15:00) Amical International : Lithuania - Georgia  (CH130us)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "15:00",
+      "datetime": "29-03-2026 15:00",
+      "league": "FIFA Series",
+      "teams": "Macau - Tanzania",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (15:00) FIFA Series : Macau - Tanzania  (CH111us)"
     },
     {
       "date": "29-03-2026",
@@ -126,6 +140,20 @@
         }
       ],
       "raw_line": "29-03-2026 (17:40) MotoGP : GP des Amériques Warm Up des Moto GP -   (CH14fr) (CH59es) (CH97es)"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "18:00",
+      "datetime": "29-03-2026 18:00",
+      "league": "FIFA Series",
+      "teams": "Aruba - Liechtenstein",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-03-2026 (18:00) FIFA Series : Aruba - Liechtenstein  (CH112us)"
     },
     {
       "date": "29-03-2026",
@@ -912,6 +940,20 @@
         }
       ],
       "raw_line": "30-03-2026 (04:00) NBA : Denver Nuggets - Golden State Warriors  (CH1fr) (CH197us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "05:00",
+      "datetime": "30-03-2026 05:00",
+      "league": "FIFA Series",
+      "teams": "Cape Verde - Finland",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (05:00) FIFA Series : Cape Verde - Finland  (CH113us)"
     }
   ],
   "player_streams": {
@@ -921,7 +963,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:50:41.375994"
+      "extracted_at": "2026-03-29T12:43:19.112571"
     },
     "hoca": {
       "name": "hoca",
@@ -929,7 +971,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:50:42.746991"
+      "extracted_at": "2026-03-29T12:43:20.450595"
     },
     "Caster": {
       "name": "Caster",
@@ -937,7 +979,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:50:43.982807"
+      "extracted_at": "2026-03-29T12:43:21.786371"
     },
     "WIGI": {
       "name": "WIGI",
@@ -945,7 +987,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-29T11:50:45.219393"
+      "extracted_at": "2026-03-29T12:43:23.114315"
     }
   },
   "player_urls": {

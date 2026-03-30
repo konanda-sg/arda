@@ -1,12 +1,68 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-03-30T14:44:20.049137",
-  "total_events": 36,
+  "last_updated": "2026-03-30T15:55:01.915249",
+  "total_events": 41,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
+    {
+      "date": "30-03-2026",
+      "time": "15:00",
+      "datetime": "30-03-2026 15:00",
+      "league": "FIFA Series",
+      "teams": "Indonesia - Bulgaria",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (15:00) FIFA Series : Indonesia - Bulgaria  (CH160us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "16:00",
+      "datetime": "30-03-2026 16:00",
+      "league": "FIFA Series",
+      "teams": "Grenada - Kenya",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (16:00) FIFA Series : Grenada - Kenya  (CH161us)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "16:00",
+      "datetime": "30-03-2026 16:00",
+      "league": "FIFA Series",
+      "teams": "Uzbekistan - Venezuela",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-03-2026 (16:00) FIFA Series : Uzbekistan - Venezuela  (CH162es)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "17:00",
+      "datetime": "30-03-2026 17:00",
+      "league": "FIFA Series",
+      "teams": "Azerbaijan - Sierra Leone",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (17:00) FIFA Series : Azerbaijan - Sierra Leone  (CH163us)"
+    },
     {
       "date": "30-03-2026",
       "time": "18:00",
@@ -24,6 +80,20 @@
         }
       ],
       "raw_line": "30-03-2026 (18:00) Amical International : Cyprus - Moldova  (CH138it) (CH145pt)"
+    },
+    {
+      "date": "30-03-2026",
+      "time": "19:30",
+      "datetime": "30-03-2026 19:30",
+      "league": "FIFA Series",
+      "teams": "Rwanda - Estonia",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-03-2026 (19:30) FIFA Series : Rwanda - Estonia  (CH164us)"
     },
     {
       "date": "30-03-2026",
@@ -591,7 +661,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-30T14:44:13.753154"
+      "extracted_at": "2026-03-30T15:54:57.030110"
     },
     "hoca": {
       "name": "hoca",
@@ -599,7 +669,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-30T14:44:16.247732"
+      "extracted_at": "2026-03-30T15:54:58.318184"
     },
     "Caster": {
       "name": "Caster",
@@ -607,7 +677,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-30T14:44:17.552681"
+      "extracted_at": "2026-03-30T15:54:59.616181"
     },
     "WIGI": {
       "name": "WIGI",
@@ -615,7 +685,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-30T14:44:19.048873"
+      "extracted_at": "2026-03-30T15:55:00.915092"
     }
   },
   "player_urls": {

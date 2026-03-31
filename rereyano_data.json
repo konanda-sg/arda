@@ -1,292 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-03-31T00:04:29.024895",
-  "total_events": 31,
+  "last_updated": "2026-03-31T03:28:55.085389",
+  "total_events": 13,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "31-03-2026",
-      "time": "00:35",
-      "datetime": "31-03-2026 00:35",
-      "league": "MLB",
-      "teams": "Baltimore Orioles - Texas Rangers",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (00:35) MLB : Baltimore Orioles - Texas Rangers  (CH171us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "00:40",
-      "datetime": "31-03-2026 00:40",
-      "league": "MLB",
-      "teams": "Cincinnati Reds - Pittsburgh Pirates",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (00:40) MLB : Cincinnati Reds - Pittsburgh Pirates  (CH172us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "00:40",
-      "datetime": "31-03-2026 00:40",
-      "league": "MLB",
-      "teams": "Miami Marlins - Chicago White Sox",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (00:40) MLB : Miami Marlins - Chicago White Sox  (CH173us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "00:40",
-      "datetime": "31-03-2026 00:40",
-      "league": "MLB",
-      "teams": "Philadelphia Phillies - Washington Nationals",
-      "channels": [
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (00:40) MLB : Philadelphia Phillies - Washington Nationals  (CH174us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:00",
-      "datetime": "31-03-2026 01:00",
-      "league": "NBA",
-      "teams": "Miami Heat - Philadelphia 76ers",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:00) NBA : Miami Heat - Philadelphia 76ers  (CH175us) (CH97es)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:00",
-      "datetime": "31-03-2026 01:00",
-      "league": "NHL",
-      "teams": "New York Islanders - Pittsburgh Penguins",
-      "channels": [
-        {
-          "id": "3",
-          "lang": "fr"
-        },
-        {
-          "id": "176",
-          "lang": "us"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:00) NHL : New York Islanders - Pittsburgh Penguins  (CH3fr) (CH176us) (CH90es)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:07",
-      "datetime": "31-03-2026 01:07",
-      "league": "MLB",
-      "teams": "Toronto Blue Jays - Colorado Rockies",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:07) MLB : Toronto Blue Jays - Colorado Rockies  (CH177us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:10",
-      "datetime": "31-03-2026 01:10",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Ind. Medellin - America De Cali",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:10) Liga Betplay Dimayor : Ind. Medellin - America De Cali  (CH81es)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:15",
-      "datetime": "31-03-2026 01:15",
-      "league": "MLB",
-      "teams": "Atlanta Braves - Athletics",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:15) MLB : Atlanta Braves - Athletics  (CH178us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:30",
-      "datetime": "31-03-2026 01:30",
-      "league": "NBA",
-      "teams": "Atlanta Hawks - Boston Celtics",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:30) NBA : Atlanta Hawks - Boston Celtics  (CH1fr) (CH179us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:40",
-      "datetime": "31-03-2026 01:40",
-      "league": "MLB",
-      "teams": "Chicago Cubs - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:40) MLB : Chicago Cubs - Los Angeles Angels  (CH180us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:40",
-      "datetime": "31-03-2026 01:40",
-      "league": "MLB",
-      "teams": "Milwaukee Brewers - Tampa Bay Rays",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:40) MLB : Milwaukee Brewers - Tampa Bay Rays  (CH181us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "01:45",
-      "datetime": "31-03-2026 01:45",
-      "league": "MLB",
-      "teams": "St.Louis Cardinals - New York Mets",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (01:45) MLB : St.Louis Cardinals - New York Mets  (CH182us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "02:00",
-      "datetime": "31-03-2026 02:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Central Esp. - Maldonado",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (02:00) Liga AUF Uruguaya : Central Esp. - Maldonado  (CH109es)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "02:00",
-      "datetime": "31-03-2026 02:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Phoenix Suns",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-03-2026 (02:00) NBA : Memphis Grizzlies - Phoenix Suns  (CH183us)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "02:00",
-      "datetime": "31-03-2026 02:00",
-      "league": "NBA",
-      "teams": "San Antonio Spurs - Chicago Bulls",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (02:00) NBA : San Antonio Spurs - Chicago Bulls  (CH184us) (CH98es)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "02:10",
-      "datetime": "31-03-2026 02:10",
-      "league": "MLB",
-      "teams": "Houston Astros - Boston Red Sox",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        },
-        {
-          "id": "100",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (02:10) MLB : Houston Astros - Boston Red Sox  (CH185us) (CH88es) (CH100es)"
-    },
-    {
-      "date": "31-03-2026",
-      "time": "02:15",
-      "datetime": "31-03-2026 02:15",
-      "league": "Copa Argentina",
-      "teams": "Union de Santa Fe - Agropecuario",
-      "channels": [
-        {
-          "id": "77",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "31-03-2026 (02:15) Copa Argentina : Union de Santa Fe - Agropecuario  (CH77es)"
-    },
     {
       "date": "31-03-2026",
       "time": "02:30",
@@ -497,7 +217,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-31T00:04:24.175806"
+      "extracted_at": "2026-03-31T03:28:50.188423"
     },
     "hoca": {
       "name": "hoca",
@@ -505,7 +225,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-31T00:04:25.458532"
+      "extracted_at": "2026-03-31T03:28:51.527084"
     },
     "Caster": {
       "name": "Caster",
@@ -513,7 +233,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-31T00:04:26.740251"
+      "extracted_at": "2026-03-31T03:28:52.864039"
     },
     "WIGI": {
       "name": "WIGI",
@@ -521,7 +241,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-03-31T00:04:28.024758"
+      "extracted_at": "2026-03-31T03:28:54.085225"
     }
   },
   "player_urls": {

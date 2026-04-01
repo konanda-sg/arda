@@ -1,93 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-04-01T05:07:24.512605",
-  "total_events": 4,
+  "last_updated": "2026-04-01T06:54:53.861518",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "01-04-2026",
-      "time": "04:10",
-      "datetime": "01-04-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Cleveland Guardians",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-04-2026 (04:10) MLB : Los Angeles Dodgers - Cleveland Guardians  (CH5fr) (CH198us)"
-    },
-    {
-      "date": "01-04-2026",
-      "time": "04:30",
-      "datetime": "01-04-2026 04:30",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "199",
-          "lang": "us"
-        },
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-04-2026 (04:30) NBA : Los Angeles Lakers - Cleveland Cavaliers  (CH199us) (CH156es)"
-    },
-    {
-      "date": "01-04-2026",
-      "time": "05:00",
-      "datetime": "01-04-2026 05:00",
-      "league": "NBA",
-      "teams": "Los Angeles Clippers - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "200",
-          "lang": "us"
-        },
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-04-2026 (05:00) NBA : Los Angeles Clippers - Portland Trail Blazers  (CH1fr) (CH200us) (CH75es)"
-    },
-    {
-      "date": "01-04-2026",
-      "time": "05:00",
-      "datetime": "01-04-2026 05:00",
-      "league": "Qualif. Cm Barrages",
-      "teams": "Iraq - Bolivia",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-04-2026 (05:00) Qualif. Cm Barrages : Iraq - Bolivia  (CH2fr) (CH94es) (CH82es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -95,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-01T05:07:19.508367"
+      "extracted_at": "2026-04-01T06:54:48.897050"
     },
     "hoca": {
       "name": "hoca",
@@ -103,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-01T05:07:20.953466"
+      "extracted_at": "2026-04-01T06:54:50.262651"
     },
     "Caster": {
       "name": "Caster",
@@ -111,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-01T05:07:22.222787"
+      "extracted_at": "2026-04-01T06:54:51.631883"
     },
     "WIGI": {
       "name": "WIGI",
@@ -119,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-01T05:07:23.512466"
+      "extracted_at": "2026-04-01T06:54:52.861349"
     }
   },
   "player_urls": {

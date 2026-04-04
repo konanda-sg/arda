@@ -1,7 +1,7 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-04-04T11:00:31.401420",
+  "last_updated": "2026-04-04T11:34:58.165263",
   "total_events": 295,
   "total_players": 4,
   "m3u8_extracted": 0,
@@ -775,13 +775,9 @@
         {
           "id": "94",
           "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
         }
       ],
-      "raw_line": "04-04-2026 (18:30) Laliga : Betis - Espanyol  (CH49es) (CH71es) (CH94es) (CH124de)"
+      "raw_line": "04-04-2026 (18:30) Laliga : Betis - Espanyol  (CH49es) (CH71es) (CH94es)"
     },
     {
       "date": "04-04-2026",
@@ -2451,6 +2447,10 @@
           "lang": "es"
         },
         {
+          "id": "123",
+          "lang": "de"
+        },
+        {
           "id": "71",
           "lang": "es"
         },
@@ -2463,7 +2463,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "05-04-2026 (14:00) Laliga : Getafe - Ath Bilbao  (CH2fr) (CH49es) (CH71es) (CH87es) (CH107es)"
+      "raw_line": "05-04-2026 (14:00) Laliga : Getafe - Ath Bilbao  (CH2fr) (CH49es) (CH123de) (CH71es) (CH87es) (CH107es)"
     },
     {
       "date": "05-04-2026",
@@ -3361,6 +3361,10 @@
           "lang": "gb"
         },
         {
+          "id": "123",
+          "lang": "de"
+        },
+        {
           "id": "144",
           "lang": "pt"
         },
@@ -3373,7 +3377,7 @@
           "lang": "gr"
         }
       ],
-      "raw_line": "05-04-2026 (20:45) Serie A : Inter - AS Roma  (CH48fr) (CH137it) (CH70es) (CH87es) (CH97es) (CH126gb) (CH144pt) (CH145pt) (CH149gr)"
+      "raw_line": "05-04-2026 (20:45) Serie A : Inter - AS Roma  (CH48fr) (CH137it) (CH70es) (CH87es) (CH97es) (CH126gb) (CH123de) (CH144pt) (CH145pt) (CH149gr)"
     },
     {
       "date": "05-04-2026",
@@ -4003,9 +4007,13 @@
         {
           "id": "144",
           "lang": "pt"
+        },
+        {
+          "id": "123",
+          "lang": "de"
         }
       ],
-      "raw_line": "06-04-2026 (12:30) Serie A : Udinese - Como  (CH137it) (CH144pt)"
+      "raw_line": "06-04-2026 (12:30) Serie A : Udinese - Como  (CH137it) (CH144pt) (CH123de)"
     },
     {
       "date": "06-04-2026",
@@ -4079,9 +4087,13 @@
         {
           "id": "148",
           "lang": "gr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
         }
       ],
-      "raw_line": "06-04-2026 (15:00) Serie A : Lecce - Atalanta  (CH137it) (CH99es) (CH144pt) (CH148gr)"
+      "raw_line": "06-04-2026 (15:00) Serie A : Lecce - Atalanta  (CH137it) (CH99es) (CH144pt) (CH148gr) (CH123de)"
     },
     {
       "date": "06-04-2026",
@@ -4233,9 +4245,13 @@
         {
           "id": "148",
           "lang": "gr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
         }
       ],
-      "raw_line": "06-04-2026 (18:00) Serie A : Juventus - Genoa  (CH48fr) (CH138it) (CH118es) (CH144pt) (CH148gr)"
+      "raw_line": "06-04-2026 (18:00) Serie A : Juventus - Genoa  (CH48fr) (CH138it) (CH118es) (CH144pt) (CH148gr) (CH123de)"
     },
     {
       "date": "06-04-2026",
@@ -4881,7 +4897,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T11:00:26.333165"
+      "extracted_at": "2026-04-04T11:34:53.068801"
     },
     "hoca": {
       "name": "hoca",
@@ -4889,7 +4905,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T11:00:27.691272"
+      "extracted_at": "2026-04-04T11:34:54.357460"
     },
     "Caster": {
       "name": "Caster",
@@ -4897,7 +4913,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T11:00:29.050894"
+      "extracted_at": "2026-04-04T11:34:55.764421"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4905,7 +4921,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T11:00:30.401270"
+      "extracted_at": "2026-04-04T11:34:57.165139"
     }
   },
   "player_urls": {

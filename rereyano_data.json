@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-04-04T05:35:57.983505",
-  "total_events": 2,
+  "last_updated": "2026-04-04T06:40:08.076618",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "04-04-2026",
-      "time": "05:00",
-      "datetime": "04-04-2026 05:00",
-      "league": "Liga Mx",
-      "teams": "Necaxa - Mazatlan FC",
-      "channels": [
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-04-2026 (05:00) Liga Mx : Necaxa - Mazatlan FC  (CH108es)"
-    },
-    {
-      "date": "04-04-2026",
-      "time": "05:06",
-      "datetime": "04-04-2026 05:06",
-      "league": "Liga Mx",
-      "teams": "Club Tijuana - Tigres UANL",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "04-04-2026 (05:06) Liga Mx : Club Tijuana - Tigres UANL  (CH68es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T05:35:53.019187"
+      "extracted_at": "2026-04-04T06:40:02.958755"
     },
     "hoca": {
       "name": "hoca",
@@ -51,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T05:35:54.379461"
+      "extracted_at": "2026-04-04T06:40:04.444168"
     },
     "Caster": {
       "name": "Caster",
@@ -59,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T05:35:55.745932"
+      "extracted_at": "2026-04-04T06:40:05.766382"
     },
     "WIGI": {
       "name": "WIGI",
@@ -67,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-04T05:35:56.983351"
+      "extracted_at": "2026-04-04T06:40:07.076448"
     }
   },
   "player_urls": {

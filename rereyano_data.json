@@ -1,208 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-04-09T21:33:36.733291",
-  "total_events": 32,
+  "last_updated": "2026-04-09T22:24:59.222946",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "09-04-2026",
-      "time": "20:45",
-      "datetime": "09-04-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Valencia - Panathinaikos",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "09-04-2026 (20:45) EuroLeague : Valencia - Panathinaikos  (CH55es) (CH150gr)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "Conference League",
-      "teams": "Crystal Palace - Fiorentina",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        },
-        {
-          "id": "165",
-          "lang": "es"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "140",
-          "lang": "it"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) Conference League : Crystal Palace - Fiorentina  (CH13fr) (CH165es) (CH130gb) (CH140it)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "Conference League",
-      "teams": "Mainz - Strasbourg",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "166",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) Conference League : Mainz - Strasbourg  (CH11fr) (CH112de) (CH166es)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "Conference League",
-      "teams": "Shakhtar Donetsk - AZ Alkmaar",
-      "channels": [
-        {
-          "id": "36",
-          "lang": "fr"
-        },
-        {
-          "id": "141",
-          "lang": "nl"
-        },
-        {
-          "id": "167",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) Conference League : Shakhtar Donetsk - AZ Alkmaar  (CH36fr) (CH141nl) (CH167es)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "EuroLeague",
-      "teams": "Paris - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "id": "66",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) EuroLeague : Paris - Maccabi Tel Aviv  (CH66es)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Bologna - Aston Villa",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "164",
-          "lang": "es"
-        },
-        {
-          "id": "129",
-          "lang": "gb"
-        },
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "100",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) Ligue Europa : Bologna - Aston Villa  (CH12fr) (CH164es) (CH129gb) (CH139it) (CH68es) (CH87es) (CH100es)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "FC Porto - Nottingham",
-      "channels": [
-        {
-          "id": "35",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) Ligue Europa : FC Porto - Nottingham  (CH35fr) (CH162es) (CH89es) (CH126gb) (CH138it)"
-    },
-    {
-      "date": "09-04-2026",
-      "time": "21:00",
-      "datetime": "09-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Freiburg - Celta Vigo",
-      "channels": [
-        {
-          "id": "34",
-          "lang": "fr"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "161",
-          "lang": "es"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-04-2026 (21:00) Ligue Europa : Freiburg - Celta Vigo  (CH34fr) (CH111de) (CH161es) (CH90es)"
-    },
     {
       "date": "10-04-2026",
       "time": "00:45",
@@ -555,7 +359,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T21:33:31.249406"
+      "extracted_at": "2026-04-09T22:24:53.918141"
     },
     "hoca": {
       "name": "hoca",
@@ -563,7 +367,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T21:33:32.759170"
+      "extracted_at": "2026-04-09T22:24:55.356182"
     },
     "Caster": {
       "name": "Caster",
@@ -571,7 +375,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T21:33:34.261919"
+      "extracted_at": "2026-04-09T22:24:56.776153"
     },
     "WIGI": {
       "name": "WIGI",
@@ -579,7 +383,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T21:33:35.733153"
+      "extracted_at": "2026-04-09T22:24:58.222799"
     }
   },
   "player_urls": {

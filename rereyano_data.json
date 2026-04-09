@@ -1,12 +1,717 @@
 {
   "extractor": "RereYano",
   "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-04-09T09:46:46.315260",
-  "total_events": 0,
+  "last_updated": "2026-04-09T10:54:54.636646",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "09-04-2026",
+      "time": "18:00",
+      "datetime": "09-04-2026 18:00",
+      "league": "Saudi Pro League",
+      "teams": "Damac - Al Qadsiah",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (18:00) Saudi Pro League : Damac - Al Qadsiah  (CH55es) (CH70es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "18:10",
+      "datetime": "09-04-2026 18:10",
+      "league": "MLB",
+      "teams": "Miami Marlins - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-04-2026 (18:10) MLB : Miami Marlins - Cincinnati Reds  (CH170us)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "18:30",
+      "datetime": "09-04-2026 18:30",
+      "league": "EuroLeague",
+      "teams": "Hapoel Tel-Aviv - Olympiacos",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (18:30) EuroLeague : Hapoel Tel-Aviv - Olympiacos  (CH65es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "18:45",
+      "datetime": "09-04-2026 18:45",
+      "league": "Conference League",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (18:45) Conference League : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH163es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "18:45",
+      "datetime": "09-04-2026 18:45",
+      "league": "Conference League",
+      "teams": "Rayo Vallecano - AEK Athens",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "09-04-2026 (18:45) Conference League : Rayo Vallecano - AEK Athens  (CH12fr) (CH161es) (CH131gb) (CH97es) (CH138it) (CH149gr)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "19:00",
+      "datetime": "09-04-2026 19:00",
+      "league": "Super Lig",
+      "teams": "Rizespor - Samsunspor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "09-04-2026 (19:00) Super Lig : Rizespor - Samsunspor  (CH151tr)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "19:35",
+      "datetime": "09-04-2026 19:35",
+      "league": "MLB",
+      "teams": "New York Yankees - Athletics",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-04-2026 (19:35) MLB : New York Yankees - Athletics  (CH171us)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "19:40",
+      "datetime": "09-04-2026 19:40",
+      "league": "MLB",
+      "teams": "Minnesota Twins - Detroit Tigers",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "09-04-2026 (19:40) MLB : Minnesota Twins - Detroit Tigers  (CH172us)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "19:45",
+      "datetime": "09-04-2026 19:45",
+      "league": "EuroLeague",
+      "teams": "Fenerbahce - Real Madrid",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (19:45) EuroLeague : Fenerbahce - Real Madrid  (CH62es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "20:30",
+      "datetime": "09-04-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Olimpia Milano - Bayern",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (20:30) EuroLeague : Olimpia Milano - Bayern  (CH67es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "20:45",
+      "datetime": "09-04-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Valencia - Panathinaikos",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "09-04-2026 (20:45) EuroLeague : Valencia - Panathinaikos  (CH55es) (CH150gr)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "Conference League",
+      "teams": "Crystal Palace - Fiorentina",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) Conference League : Crystal Palace - Fiorentina  (CH13fr) (CH165es) (CH130gb) (CH140it)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "Conference League",
+      "teams": "Mainz - Strasbourg",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) Conference League : Mainz - Strasbourg  (CH11fr) (CH112de) (CH166es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "Conference League",
+      "teams": "Shakhtar Donetsk - AZ Alkmaar",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        },
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) Conference League : Shakhtar Donetsk - AZ Alkmaar  (CH36fr) (CH141nl) (CH167es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "EuroLeague",
+      "teams": "Paris - Maccabi Tel Aviv",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) EuroLeague : Paris - Maccabi Tel Aviv  (CH66es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Bologna - Aston Villa",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) Ligue Europa : Bologna - Aston Villa  (CH12fr) (CH164es) (CH129gb) (CH139it) (CH68es) (CH87es) (CH100es)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "FC Porto - Nottingham",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) Ligue Europa : FC Porto - Nottingham  (CH35fr) (CH162es) (CH87es) (CH126gb) (CH138it)"
+    },
+    {
+      "date": "09-04-2026",
+      "time": "21:00",
+      "datetime": "09-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Freiburg - Celta Vigo",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "09-04-2026 (21:00) Ligue Europa : Freiburg - Celta Vigo  (CH34fr) (CH111de) (CH161es)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "00:45",
+      "datetime": "10-04-2026 00:45",
+      "league": "NHL",
+      "teams": "New York Islanders - Toronto Maple Leafs",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (00:45) NHL : New York Islanders - Toronto Maple Leafs  (CH173us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Miami Heat",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NBA : Toronto Raptors - Miami Heat  (CH174us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Chicago Bulls",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NBA : Washington Wizards - Chicago Bulls  (CH175us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NHL",
+      "teams": "Buffalo Sabres - Columbus Blue Jackets",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NHL : Buffalo Sabres - Columbus Blue Jackets  (CH176us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NHL",
+      "teams": "Detroit Red Wings - Philadelphia Flyers",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NHL : Detroit Red Wings - Philadelphia Flyers  (CH177us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NHL",
+      "teams": "Montreal Canadiens - Tampa Bay Lightning",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NHL : Montreal Canadiens - Tampa Bay Lightning  (CH6fr) (CH178us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NHL",
+      "teams": "New Jersey Devils - Pittsburgh Penguins",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NHL : New Jersey Devils - Pittsburgh Penguins  (CH179us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:00",
+      "datetime": "10-04-2026 01:00",
+      "league": "NHL",
+      "teams": "Ottawa Senators - Florida Panthers",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:00) NHL : Ottawa Senators - Florida Panthers  (CH180us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:10",
+      "datetime": "10-04-2026 01:10",
+      "league": "MLB",
+      "teams": "New York Mets - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:10) MLB : New York Mets - Arizona Diamondbacks  (CH5fr) (CH181us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:30",
+      "datetime": "10-04-2026 01:30",
+      "league": "NBA",
+      "teams": "Brooklyn Nets - Indiana Pacers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:30) NBA : Brooklyn Nets - Indiana Pacers  (CH182us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:30",
+      "datetime": "10-04-2026 01:30",
+      "league": "NBA",
+      "teams": "New York Knicks - Boston Celtics",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:30) NBA : New York Knicks - Boston Celtics  (CH183us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "01:40",
+      "datetime": "10-04-2026 01:40",
+      "league": "MLB",
+      "teams": "Kansas City Royals - Chicago White Sox",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (01:40) MLB : Kansas City Royals - Chicago White Sox  (CH184us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "02:00",
+      "datetime": "10-04-2026 02:00",
+      "league": "Copa Argentina",
+      "teams": "Gimnasia L.P. - Deportivo Camioneros",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "10-04-2026 (02:00) Copa Argentina : Gimnasia L.P. - Deportivo Camioneros  (CH77es)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "02:00",
+      "datetime": "10-04-2026 02:00",
+      "league": "NBA",
+      "teams": "Houston Rockets - Philadelphia 76ers",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (02:00) NBA : Houston Rockets - Philadelphia 76ers  (CH185us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "02:00",
+      "datetime": "10-04-2026 02:00",
+      "league": "NHL",
+      "teams": "St. Louis Blues - Winnipeg Jets",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (02:00) NHL : St. Louis Blues - Winnipeg Jets  (CH186us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "02:30",
+      "datetime": "10-04-2026 02:30",
+      "league": "NHL",
+      "teams": "Chicago Blackhawks - Carolina Hurricanes",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (02:30) NHL : Chicago Blackhawks - Carolina Hurricanes  (CH187us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "03:00",
+      "datetime": "10-04-2026 03:00",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - Calgary Flames",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (03:00) NHL : Colorado Avalanche - Calgary Flames  (CH188us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "03:00",
+      "datetime": "10-04-2026 03:00",
+      "league": "NHL",
+      "teams": "Dallas Stars - Minnesota Wild",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (03:00) NHL : Dallas Stars - Minnesota Wild  (CH189us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "03:00",
+      "datetime": "10-04-2026 03:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Nashville Predators",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (03:00) NHL : Utah Mammoth - Nashville Predators  (CH190us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "03:40",
+      "datetime": "10-04-2026 03:40",
+      "league": "MLB",
+      "teams": "San Diego Padres - Colorado Rockies",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (03:40) MLB : San Diego Padres - Colorado Rockies  (CH191us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "04:00",
+      "datetime": "10-04-2026 04:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (04:00) NBA : Golden State Warriors - Los Angeles Lakers  (CH192us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "04:00",
+      "datetime": "10-04-2026 04:00",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - San Jose Sharks",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (04:00) NHL : Anaheim Ducks - San Jose Sharks  (CH193us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "04:00",
+      "datetime": "10-04-2026 04:00",
+      "league": "NHL",
+      "teams": "Seattle Kraken - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (04:00) NHL : Seattle Kraken - Vegas Golden Knights  (CH194us)"
+    },
+    {
+      "date": "10-04-2026",
+      "time": "04:30",
+      "datetime": "10-04-2026 04:30",
+      "league": "NHL",
+      "teams": "Los Angeles Kings - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-04-2026 (04:30) NHL : Los Angeles Kings - Vancouver Canucks  (CH195us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +719,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T09:46:42.198009"
+      "extracted_at": "2026-04-09T10:54:49.660315"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +727,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T09:46:43.239337"
+      "extracted_at": "2026-04-09T10:54:50.984469"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +735,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T09:46:44.278997"
+      "extracted_at": "2026-04-09T10:54:52.316873"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +743,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-09T09:46:45.315123"
+      "extracted_at": "2026-04-09T10:54:53.636497"
     }
   },
   "player_urls": {

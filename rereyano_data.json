@@ -1,65 +1,50 @@
 {
   "extractor": "RereYano",
-  "website": "https://cartelive.club/vip3.php",
-  "last_updated": "2026-04-10T05:07:51.745374",
-  "total_events": 1,
+  "website": "https://bolaloca.my/vip3.php",
+  "last_updated": "2026-04-10T06:02:57.997014",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-04-2026",
-      "time": "04:30",
-      "datetime": "10-04-2026 04:30",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Vancouver Canucks",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-04-2026 (04:30) NHL : Los Angeles Kings - Vancouver Canucks  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
-      "player_url": "https://cartelive.club/vip3.php/player/1/1",
+      "player_url": "https://bolaloca.my/vip3.php/player/1/1",
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-10T05:07:46.676136"
+      "extracted_at": "2026-04-10T06:02:52.447354"
     },
     "hoca": {
       "name": "hoca",
-      "player_url": "https://cartelive.club/vip3.php/player/2/1",
+      "player_url": "https://bolaloca.my/vip3.php/player/2/1",
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-10T05:07:48.114363"
+      "extracted_at": "2026-04-10T06:02:53.940406"
     },
     "Caster": {
       "name": "Caster",
-      "player_url": "https://cartelive.club/vip3.php/player/3/1",
+      "player_url": "https://bolaloca.my/vip3.php/player/3/1",
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-10T05:07:49.443580"
+      "extracted_at": "2026-04-10T06:02:55.484580"
     },
     "WIGI": {
       "name": "WIGI",
-      "player_url": "https://cartelive.club/vip3.php/player/4/1",
+      "player_url": "https://bolaloca.my/vip3.php/player/4/1",
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-10T05:07:50.745225"
+      "extracted_at": "2026-04-10T06:02:56.996869"
     }
   },
   "player_urls": {
-    "Cartel": "https://cartelive.club/vip3.php/player/1/1",
-    "hoca": "https://cartelive.club/vip3.php/player/2/1",
-    "Caster": "https://cartelive.club/vip3.php/player/3/1",
-    "WIGI": "https://cartelive.club/vip3.php/player/4/1"
+    "Cartel": "https://bolaloca.my/vip3.php/player/1/1",
+    "hoca": "https://bolaloca.my/vip3.php/player/2/1",
+    "Caster": "https://bolaloca.my/vip3.php/player/3/1",
+    "WIGI": "https://bolaloca.my/vip3.php/player/4/1"
   }
 }

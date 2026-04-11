@@ -1,82 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my/vip3.php",
-  "last_updated": "2026-04-11T22:51:47.216553",
-  "total_events": 201,
+  "last_updated": "2026-04-11T23:28:43.404253",
+  "total_events": 197,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "11-04-2026",
-      "time": "22:00",
-      "datetime": "11-04-2026 22:00",
-      "league": "NHL",
-      "teams": "Los Angeles Kings - Edmonton Oilers",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-04-2026 (22:00) NHL : Los Angeles Kings - Edmonton Oilers  (CH175us)"
-    },
-    {
-      "date": "11-04-2026",
-      "time": "22:10",
-      "datetime": "11-04-2026 22:10",
-      "league": "MLB",
-      "teams": "Cincinnati Reds - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "176",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-04-2026 (22:10) MLB : Cincinnati Reds - Los Angeles Angels  (CH176us)"
-    },
-    {
-      "date": "11-04-2026",
-      "time": "22:10",
-      "datetime": "11-04-2026 22:10",
-      "league": "MLB",
-      "teams": "Kansas City Royals - Chicago White Sox",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-04-2026 (22:10) MLB : Kansas City Royals - Chicago White Sox  (CH177us)"
-    },
-    {
-      "date": "11-04-2026",
-      "time": "22:10",
-      "datetime": "11-04-2026 22:10",
-      "league": "MLB",
-      "teams": "New York Mets - Athletics",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-04-2026 (22:10) MLB : New York Mets - Athletics  (CH178us)"
-    },
-    {
-      "date": "11-04-2026",
-      "time": "22:15",
-      "datetime": "11-04-2026 22:15",
-      "league": "Torneo LPF",
-      "teams": "Estudiantes L.P. - Union de Santa Fe",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "11-04-2026 (22:15) Torneo LPF : Estudiantes L.P. - Union de Santa Fe  (CH75es)"
-    },
     {
       "date": "11-04-2026",
       "time": "22:45",
@@ -187,11 +117,11 @@
       "teams": "A. Italiano - U. Catolica",
       "channels": [
         {
-          "id": "75",
+          "id": "83",
           "lang": "es"
         }
       ],
-      "raw_line": "11-04-2026 (23:30) Campeonato Itaú Chile : A. Italiano - U. Catolica  (CH75es)"
+      "raw_line": "11-04-2026 (23:30) Campeonato Itaú Chile : A. Italiano - U. Catolica  (CH83es)"
     },
     {
       "date": "12-04-2026",
@@ -437,9 +367,13 @@
         {
           "id": "160",
           "lang": "es"
+        },
+        {
+          "id": "195",
+          "lang": "us"
         }
       ],
-      "raw_line": "12-04-2026 (01:30) MLS : Inter Miami - New York Red Bulls  (CH160es) (CHus)"
+      "raw_line": "12-04-2026 (01:30) MLS : Inter Miami - New York Red Bulls  (CH160es) (CH195us)"
     },
     {
       "date": "12-04-2026",
@@ -482,6 +416,20 @@
         }
       ],
       "raw_line": "12-04-2026 (01:30) Serie A Bresil : Internacional - Gremio  (CH125de)"
+    },
+    {
+      "date": "12-04-2026",
+      "time": "02:00",
+      "datetime": "12-04-2026 02:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Palestino - Limache",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-04-2026 (02:00) Campeonato Itaú Chile : Palestino - Limache  (CH83es)"
     },
     {
       "date": "12-04-2026",
@@ -2289,11 +2237,11 @@
       "teams": "Nublense - U. De Chile",
       "channels": [
         {
-          "id": "75",
+          "id": "83",
           "lang": "es"
         }
       ],
-      "raw_line": "12-04-2026 (23:30) Campeonato Itaú Chile : Nublense - U. De Chile  (CH75es)"
+      "raw_line": "12-04-2026 (23:30) Campeonato Itaú Chile : Nublense - U. De Chile  (CH83es)"
     },
     {
       "date": "12-04-2026",
@@ -2579,11 +2527,11 @@
       "teams": "U. De Concepcion - Cobresal",
       "channels": [
         {
-          "id": "75",
+          "id": "83",
           "lang": "es"
         }
       ],
-      "raw_line": "13-04-2026 (02:00) Campeonato Itaú Chile : U. De Concepcion - Cobresal  (CH75es)"
+      "raw_line": "13-04-2026 (02:00) Campeonato Itaú Chile : U. De Concepcion - Cobresal  (CH83es)"
     },
     {
       "date": "13-04-2026",
@@ -3161,11 +3109,11 @@
       "teams": "Union La Calera - D. Concepcion",
       "channels": [
         {
-          "id": "75",
+          "id": "83",
           "lang": "es"
         }
       ],
-      "raw_line": "14-04-2026 (02:00) Campeonato Itaú Chile : Union La Calera - D. Concepcion  (CH75es)"
+      "raw_line": "14-04-2026 (02:00) Campeonato Itaú Chile : Union La Calera - D. Concepcion  (CH83es)"
     },
     {
       "date": "14-04-2026",
@@ -3305,7 +3253,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-11T22:51:41.692107"
+      "extracted_at": "2026-04-11T23:28:38.061242"
     },
     "hoca": {
       "name": "hoca",
@@ -3313,7 +3261,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-11T22:51:43.175102"
+      "extracted_at": "2026-04-11T23:28:39.527553"
     },
     "Caster": {
       "name": "Caster",
@@ -3321,7 +3269,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-11T22:51:44.733369"
+      "extracted_at": "2026-04-11T23:28:40.943232"
     },
     "WIGI": {
       "name": "WIGI",
@@ -3329,7 +3277,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-11T22:51:46.216378"
+      "extracted_at": "2026-04-11T23:28:42.404091"
     }
   },
   "player_urls": {

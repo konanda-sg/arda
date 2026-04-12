@@ -1,262 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://bolaloca.my/vip3.php",
-  "last_updated": "2026-04-12T03:19:47.874475",
-  "total_events": 167,
+  "last_updated": "2026-04-12T05:34:25.684445",
+  "total_events": 150,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "12-04-2026",
-      "time": "02:30",
-      "datetime": "12-04-2026 02:30",
-      "league": "MLS",
-      "teams": "Chicago Fire - Atlanta Utd",
-      "channels": [
-        {
-          "id": "199",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (02:30) MLS : Chicago Fire - Atlanta Utd  (CH199us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "02:30",
-      "datetime": "12-04-2026 02:30",
-      "league": "MLS",
-      "teams": "FC Dallas - St. Louis City",
-      "channels": [
-        {
-          "id": "200",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (02:30) MLS : FC Dallas - St. Louis City  (CH200us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "02:30",
-      "datetime": "12-04-2026 02:30",
-      "league": "MLS",
-      "teams": "Sporting Kansas City - San Jose Earthquakes",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (02:30) MLS : Sporting Kansas City - San Jose Earthquakes  (CH165us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "02:40",
-      "datetime": "12-04-2026 02:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Colorado Rockies",
-      "channels": [
-        {
-          "id": "166",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (02:40) MLB : San Diego Padres - Colorado Rockies  (CH166us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "02:45",
-      "datetime": "12-04-2026 02:45",
-      "league": "Torneo LPF",
-      "teams": "Estudiantes Rio Cuarto - Barracas Central",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (02:45) Torneo LPF : Estudiantes Rio Cuarto - Barracas Central  (CH76es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:00",
-      "datetime": "12-04-2026 03:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Atl. Morelia - Tlaxcala",
-      "channels": [
-        {
-          "id": "105",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:00) Liga De Expansion Mx : Atl. Morelia - Tlaxcala  (CH105es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:00",
-      "datetime": "12-04-2026 03:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Cancun - Atlante",
-      "channels": [
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:00) Liga De Expansion Mx : Cancun - Atlante  (CH116es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:00",
-      "datetime": "12-04-2026 03:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Venados - Leones Negros",
-      "channels": [
-        {
-          "id": "115",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:00) Liga De Expansion Mx : Venados - Leones Negros  (CH115es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:00",
-      "datetime": "12-04-2026 03:00",
-      "league": "Liga Mx",
-      "teams": "Atlas - Monterrey",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:00) Liga Mx : Atlas - Monterrey  (CH68es) (CH106es) (CH107es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:00",
-      "datetime": "12-04-2026 03:00",
-      "league": "Liga Mx",
-      "teams": "Pachuca - Santos Laguna",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:00) Liga Mx : Pachuca - Santos Laguna  (CH159es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:00",
-      "datetime": "12-04-2026 03:00",
-      "league": "UFC",
-      "teams": "Jiri Prochazka - Carlos Ulberg",
-      "channels": [
-        {
-          "id": "17",
-          "lang": "fr"
-        },
-        {
-          "id": "167",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:00) UFC : Jiri Prochazka - Carlos Ulberg  (CH17fr) (CH167us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:10",
-      "datetime": "12-04-2026 03:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Texas Rangers",
-      "channels": [
-        {
-          "id": "168",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:10) MLB : Los Angeles Dodgers - Texas Rangers  (CH168us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:20",
-      "datetime": "12-04-2026 03:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Ind. Medellin - Atl. Nacional",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:20) Liga Betplay Dimayor : Ind. Medellin - Atl. Nacional  (CH81es)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:30",
-      "datetime": "12-04-2026 03:30",
-      "league": "MLS",
-      "teams": "Colorado Rapids - Houston Dynamo",
-      "channels": [
-        {
-          "id": "169",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:30) MLS : Colorado Rapids - Houston Dynamo  (CH169us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "03:40",
-      "datetime": "12-04-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Houston Astros",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (03:40) MLB : Seattle Mariners - Houston Astros  (CH170us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "04:00",
-      "datetime": "12-04-2026 04:00",
-      "league": "NHL",
-      "teams": "San Jose Sharks - Vancouver Canucks",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (04:00) NHL : San Jose Sharks - Vancouver Canucks  (CH171us)"
-    },
-    {
-      "date": "12-04-2026",
-      "time": "04:30",
-      "datetime": "12-04-2026 04:30",
-      "league": "MLS",
-      "teams": "San Diego FC - Minnesota United",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-04-2026 (04:30) MLS : San Diego FC - Minnesota United  (CH172us)"
-    },
     {
       "date": "12-04-2026",
       "time": "05:05",
@@ -2801,7 +2551,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-12T03:19:42.900275"
+      "extracted_at": "2026-04-12T05:34:20.615663"
     },
     "hoca": {
       "name": "hoca",
@@ -2809,7 +2559,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-12T03:19:44.186501"
+      "extracted_at": "2026-04-12T05:34:21.976142"
     },
     "Caster": {
       "name": "Caster",
@@ -2817,7 +2567,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-12T03:19:45.533056"
+      "extracted_at": "2026-04-12T05:34:23.288842"
     },
     "WIGI": {
       "name": "WIGI",
@@ -2825,7 +2575,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-12T03:19:46.874284"
+      "extracted_at": "2026-04-12T05:34:24.684269"
     }
   },
   "player_urls": {

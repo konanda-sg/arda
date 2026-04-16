@@ -1,254 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-16T21:28:29.302244",
-  "total_events": 20,
+  "last_updated": "2026-04-16T23:01:55.574743",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-04-2026",
-      "time": "20:30",
-      "datetime": "16-04-2026 20:30",
-      "league": "EuroLeague",
-      "teams": "Partizan Mozzart Bet - Baskonia",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (20:30) EuroLeague : Partizan Mozzart Bet - Baskonia  (CH62es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "20:45",
-      "datetime": "16-04-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Real Madrid - Crvena Zvezda Meridianbet",
-      "channels": [
-        {
-          "id": "55",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (20:45) EuroLeague : Real Madrid - Crvena Zvezda Meridianbet  (CH55es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Conference League",
-      "teams": "AEK Athens - Rayo Vallecano",
-      "channels": [
-        {
-          "id": "38",
-          "lang": "fr"
-        },
-        {
-          "id": "163",
-          "lang": "es"
-        },
-        {
-          "id": "149",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Conference League : AEK Athens - Rayo Vallecano  (CH38fr) (CH163es) (CH149gr)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Conference League",
-      "teams": "Fiorentina - Crystal Palace",
-      "channels": [
-        {
-          "id": "37",
-          "lang": "fr"
-        },
-        {
-          "id": "168",
-          "lang": "es"
-        },
-        {
-          "id": "140",
-          "lang": "it"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Conference League : Fiorentina - Crystal Palace  (CH37fr) (CH168es) (CH140it) (CH130gb)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Conference League",
-      "teams": "Strasbourg - Mainz",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "169",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Conference League : Strasbourg - Mainz  (CH11fr) (CH112de) (CH169es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Multiplex Ligue Europa/Ligue Conference -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "164",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH164es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Aston Villa - Bologna",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "167",
-          "lang": "es"
-        },
-        {
-          "id": "139",
-          "lang": "it"
-        },
-        {
-          "id": "129",
-          "lang": "gb"
-        },
-        {
-          "id": "88",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Ligue Europa : Aston Villa - Bologna  (CH12fr) (CH167es) (CH139it) (CH129gb) (CH88es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Betis - Braga",
-      "channels": [
-        {
-          "id": "34",
-          "lang": "fr"
-        },
-        {
-          "id": "162",
-          "lang": "es"
-        },
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Ligue Europa : Betis - Braga  (CH34fr) (CH162es) (CH68es) (CH87es) (CH98es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Ligue Europa",
-      "teams": "Nottingham - FC Porto",
-      "channels": [
-        {
-          "id": "33",
-          "lang": "fr"
-        },
-        {
-          "id": "126",
-          "lang": "gb"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "165",
-          "lang": "es"
-        },
-        {
-          "id": "166",
-          "lang": "es"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "90",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Ligue Europa : Nottingham - FC Porto  (CH33fr) (CH126gb) (CH144pt) (CH165es) (CH166es) (CH138it) (CH90es)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:00",
-      "datetime": "16-04-2026 21:00",
-      "league": "Pro D2",
-      "teams": "Agen - Biarritz Olympique",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:00) Pro D2 : Agen - Biarritz Olympique  (CH13fr)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "21:05",
-      "datetime": "16-04-2026 21:05",
-      "league": "MLB",
-      "teams": "Athletics - Texas Rangers",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (21:05) MLB : Athletics - Texas Rangers  (CH186us)"
-    },
     {
       "date": "17-04-2026",
       "time": "00:10",
@@ -387,7 +145,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T21:28:24.267758"
+      "extracted_at": "2026-04-16T23:01:50.576948"
     },
     "hoca": {
       "name": "hoca",
@@ -395,7 +153,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T21:28:25.649117"
+      "extracted_at": "2026-04-16T23:01:51.816022"
     },
     "Caster": {
       "name": "Caster",
@@ -403,7 +161,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T21:28:27.052608"
+      "extracted_at": "2026-04-16T23:01:53.210919"
     },
     "WIGI": {
       "name": "WIGI",
@@ -411,7 +169,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T21:28:28.302152"
+      "extracted_at": "2026-04-16T23:01:54.574595"
     }
   },
   "player_urls": {

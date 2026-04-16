@@ -1,194 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-15T23:58:55.639955",
-  "total_events": 22,
+  "last_updated": "2026-04-16T02:57:43.140827",
+  "total_events": 9,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "16-04-2026",
-      "time": "00:40",
-      "datetime": "16-04-2026 00:40",
-      "league": "MLB",
-      "teams": "Cincinnati Reds - San Francisco Giants",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (00:40) MLB : Cincinnati Reds - San Francisco Giants  (CH186us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "00:40",
-      "datetime": "16-04-2026 00:40",
-      "league": "MLB",
-      "teams": "Detroit Tigers - Kansas City Royals",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (00:40) MLB : Detroit Tigers - Kansas City Royals  (CH187us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "00:40",
-      "datetime": "16-04-2026 00:40",
-      "league": "MLB",
-      "teams": "Philadelphia Phillies - Chicago Cubs",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (00:40) MLB : Philadelphia Phillies - Chicago Cubs  (CH188us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "00:40",
-      "datetime": "16-04-2026 00:40",
-      "league": "MLB",
-      "teams": "Pittsburgh Pirates - Washington Nationals",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (00:40) MLB : Pittsburgh Pirates - Washington Nationals  (CH189us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:00",
-      "datetime": "16-04-2026 01:00",
-      "league": "NHL",
-      "teams": "Buffalo Sabres - Dallas Stars",
-      "channels": [
-        {
-          "id": "177",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:00) NHL : Buffalo Sabres - Dallas Stars  (CH177us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:00",
-      "datetime": "16-04-2026 01:00",
-      "league": "NHL",
-      "teams": "Florida Panthers - Detroit Red Wings",
-      "channels": [
-        {
-          "id": "178",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:00) NHL : Florida Panthers - Detroit Red Wings  (CH178us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:00",
-      "datetime": "16-04-2026 01:00",
-      "league": "NHL",
-      "teams": "Tampa Bay Lightning - New York Rangers",
-      "channels": [
-        {
-          "id": "179",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:00) NHL : Tampa Bay Lightning - New York Rangers  (CH179us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:05",
-      "datetime": "16-04-2026 01:05",
-      "league": "MLB",
-      "teams": "New York Yankees - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:05) MLB : New York Yankees - Los Angeles Angels  (CH190us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:15",
-      "datetime": "16-04-2026 01:15",
-      "league": "MLB",
-      "teams": "Atlanta Braves - Miami Marlins",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:15) MLB : Atlanta Braves - Miami Marlins  (CH191us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:30",
-      "datetime": "16-04-2026 01:30",
-      "league": "NBA",
-      "teams": "Philadelphia 76ers - Orlando Magic",
-      "channels": [
-        {
-          "id": "175",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:30) NBA : Philadelphia 76ers - Orlando Magic  (CH175us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:30",
-      "datetime": "16-04-2026 01:30",
-      "league": "NHL",
-      "teams": "Ottawa Senators - Toronto Maple Leafs",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:30) NHL : Ottawa Senators - Toronto Maple Leafs  (CH180us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:40",
-      "datetime": "16-04-2026 01:40",
-      "league": "MLB",
-      "teams": "Chicago White Sox - Tampa Bay Rays",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:40) MLB : Chicago White Sox - Tampa Bay Rays  (CH192us)"
-    },
-    {
-      "date": "16-04-2026",
-      "time": "01:40",
-      "datetime": "16-04-2026 01:40",
-      "league": "MLB",
-      "teams": "Milwaukee Brewers - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-04-2026 (01:40) MLB : Milwaukee Brewers - Toronto Blue Jays  (CH193us)"
-    },
     {
       "date": "16-04-2026",
       "time": "02:10",
@@ -327,7 +145,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-15T23:58:50.784336"
+      "extracted_at": "2026-04-16T02:57:38.230532"
     },
     "hoca": {
       "name": "hoca",
@@ -335,7 +153,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-15T23:58:52.038269"
+      "extracted_at": "2026-04-16T02:57:39.536207"
     },
     "Caster": {
       "name": "Caster",
@@ -343,7 +161,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-15T23:58:53.399135"
+      "extracted_at": "2026-04-16T02:57:40.836223"
     },
     "WIGI": {
       "name": "WIGI",
@@ -351,7 +169,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-15T23:58:54.639811"
+      "extracted_at": "2026-04-16T02:57:42.140677"
     }
   },
   "player_urls": {

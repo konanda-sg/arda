@@ -1,12 +1,567 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-16T14:15:01.699424",
-  "total_events": 0,
+  "last_updated": "2026-04-16T15:56:56.364517",
+  "total_events": 31,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "16-04-2026",
+      "time": "18:35",
+      "datetime": "16-04-2026 18:35",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Washington Nationals",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (18:35) MLB : Pittsburgh Pirates - Washington Nationals  (CH180us)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "18:40",
+      "datetime": "16-04-2026 18:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - San Francisco Giants",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (18:40) MLB : Cincinnati Reds - San Francisco Giants  (CH181us)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "18:45",
+      "datetime": "16-04-2026 18:45",
+      "league": "Conference League",
+      "teams": "AZ Alkmaar - Shakhtar Donetsk",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (18:45) Conference League : AZ Alkmaar - Shakhtar Donetsk  (CH14fr) (CH140it) (CH165es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "18:45",
+      "datetime": "16-04-2026 18:45",
+      "league": "Ligue Europa",
+      "teams": "Celta Vigo - Freiburg",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (18:45) Ligue Europa : Celta Vigo - Freiburg  (CH12fr) (CH161es) (CH111de) (CH138it) (CH87es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "19:10",
+      "datetime": "16-04-2026 19:10",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Kansas City Royals",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (19:10) MLB : Detroit Tigers - Kansas City Royals  (CH182us)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "19:35",
+      "datetime": "16-04-2026 19:35",
+      "league": "MLB",
+      "teams": "New York Yankees - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (19:35) MLB : New York Yankees - Los Angeles Angels  (CH183us)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "19:40",
+      "datetime": "16-04-2026 19:40",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (19:40) MLB : Milwaukee Brewers - Toronto Blue Jays  (CH184us)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "20:00",
+      "datetime": "16-04-2026 20:00",
+      "league": "EuroLeague",
+      "teams": "Lyon-Villeurbanne - Fenerbahce",
+      "channels": [
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (20:00) EuroLeague : Lyon-Villeurbanne - Fenerbahce  (CH67es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "20:05",
+      "datetime": "16-04-2026 20:05",
+      "league": "EuroLeague",
+      "teams": "Maccabi Tel Aviv - Virtus Bologna",
+      "channels": [
+        {
+          "id": "66",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (20:05) EuroLeague : Maccabi Tel Aviv - Virtus Bologna  (CH66es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "20:10",
+      "datetime": "16-04-2026 20:10",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (20:10) MLB : Chicago White Sox - Tampa Bay Rays  (CH185us)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "20:15",
+      "datetime": "16-04-2026 20:15",
+      "league": "EuroLeague",
+      "teams": "Olympiacos - Olimpia Milano",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "16-04-2026 (20:15) EuroLeague : Olympiacos - Olimpia Milano  (CH65es) (CH150gr)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "20:30",
+      "datetime": "16-04-2026 20:30",
+      "league": "EuroLeague",
+      "teams": "Partizan Mozzart Bet - Baskonia",
+      "channels": [
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (20:30) EuroLeague : Partizan Mozzart Bet - Baskonia  (CH62es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "20:45",
+      "datetime": "16-04-2026 20:45",
+      "league": "EuroLeague",
+      "teams": "Real Madrid - Crvena Zvezda Meridianbet",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (20:45) EuroLeague : Real Madrid - Crvena Zvezda Meridianbet  (CH55es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Conference League",
+      "teams": "AEK Athens - Rayo Vallecano",
+      "channels": [
+        {
+          "id": "38",
+          "lang": "fr"
+        },
+        {
+          "id": "163",
+          "lang": "es"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Conference League : AEK Athens - Rayo Vallecano  (CH38fr) (CH163es) (CH149gr)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Conference League",
+      "teams": "Fiorentina - Crystal Palace",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        },
+        {
+          "id": "168",
+          "lang": "es"
+        },
+        {
+          "id": "140",
+          "lang": "it"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Conference League : Fiorentina - Crystal Palace  (CH37fr) (CH168es) (CH140it) (CH130gb)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Conference League",
+      "teams": "Strasbourg - Mainz",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        },
+        {
+          "id": "169",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Conference League : Strasbourg - Mainz  (CH11fr) (CH112de) (CH169es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Ligue Europa : Multiplex Ligue Europa/Ligue Conference -   (CH14fr) (CH164es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Aston Villa - Bologna",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "167",
+          "lang": "es"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "129",
+          "lang": "gb"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Ligue Europa : Aston Villa - Bologna  (CH12fr) (CH167es) (CH139it) (CH129gb) (CH88es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Betis - Braga",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        },
+        {
+          "id": "162",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Ligue Europa : Betis - Braga  (CH34fr) (CH162es) (CH68es) (CH87es) (CH98es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Ligue Europa",
+      "teams": "Nottingham - FC Porto",
+      "channels": [
+        {
+          "id": "33",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "165",
+          "lang": "es"
+        },
+        {
+          "id": "166",
+          "lang": "es"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Ligue Europa : Nottingham - FC Porto  (CH33fr) (CH126gb) (CH144pt) (CH165es) (CH166es) (CH138it) (CH90es)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:00",
+      "datetime": "16-04-2026 21:00",
+      "league": "Pro D2",
+      "teams": "Agen - Biarritz Olympique",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:00) Pro D2 : Agen - Biarritz Olympique  (CH13fr)"
+    },
+    {
+      "date": "16-04-2026",
+      "time": "21:05",
+      "datetime": "16-04-2026 21:05",
+      "league": "MLB",
+      "teams": "Athletics - Texas Rangers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-04-2026 (21:05) MLB : Athletics - Texas Rangers  (CH186us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "00:10",
+      "datetime": "17-04-2026 00:10",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (00:10) MLB : Cleveland Guardians - Baltimore Orioles  (CH187us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "01:30",
+      "datetime": "17-04-2026 01:30",
+      "league": "NHL",
+      "teams": "Utah Mammoth - St. Louis Blues",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (01:30) NHL : Utah Mammoth - St. Louis Blues  (CH188us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "02:00",
+      "datetime": "17-04-2026 02:00",
+      "league": "NHL",
+      "teams": "Nashville Predators - Anaheim Ducks",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (02:00) NHL : Nashville Predators - Anaheim Ducks  (CH189us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "02:00",
+      "datetime": "17-04-2026 02:00",
+      "league": "NHL",
+      "teams": "Winnipeg Jets - San Jose Sharks",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (02:00) NHL : Winnipeg Jets - San Jose Sharks  (CH5fr) (CH190us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "02:10",
+      "datetime": "17-04-2026 02:10",
+      "league": "MLB",
+      "teams": "Houston Astros - Colorado Rockies",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (02:10) MLB : Houston Astros - Colorado Rockies  (CH191us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "02:40",
+      "datetime": "17-04-2026 02:40",
+      "league": "MLB",
+      "teams": "San Diego Padres - Seattle Mariners",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (02:40) MLB : San Diego Padres - Seattle Mariners  (CH192us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "03:00",
+      "datetime": "17-04-2026 03:00",
+      "league": "NHL",
+      "teams": "Calgary Flames - Los Angeles Kings",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (03:00) NHL : Calgary Flames - Los Angeles Kings  (CH193us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "03:00",
+      "datetime": "17-04-2026 03:00",
+      "league": "NHL",
+      "teams": "Edmonton Oilers - Vancouver Canucks",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (03:00) NHL : Edmonton Oilers - Vancouver Canucks  (CH194us)"
+    },
+    {
+      "date": "17-04-2026",
+      "time": "04:00",
+      "datetime": "17-04-2026 04:00",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - Seattle Kraken",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-04-2026 (04:00) NHL : Colorado Avalanche - Seattle Kraken  (CH195us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +569,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T14:14:56.680453"
+      "extracted_at": "2026-04-16T15:56:51.077144"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +577,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T14:14:57.928800"
+      "extracted_at": "2026-04-16T15:56:52.366301"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +585,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T14:14:59.316534"
+      "extracted_at": "2026-04-16T15:56:53.860071"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +593,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-16T14:15:00.699270"
+      "extracted_at": "2026-04-16T15:56:55.364376"
     }
   },
   "player_urls": {

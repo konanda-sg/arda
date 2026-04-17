@@ -1,115 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-17T02:37:28.696722",
-  "total_events": 7,
+  "last_updated": "2026-04-17T05:16:57.705109",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "17-04-2026",
-      "time": "02:00",
-      "datetime": "17-04-2026 02:00",
-      "league": "NHL",
-      "teams": "Nashville Predators - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (02:00) NHL : Nashville Predators - Anaheim Ducks  (CH189us)"
-    },
-    {
-      "date": "17-04-2026",
-      "time": "02:00",
-      "datetime": "17-04-2026 02:00",
-      "league": "NHL",
-      "teams": "Winnipeg Jets - San Jose Sharks",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (02:00) NHL : Winnipeg Jets - San Jose Sharks  (CH5fr) (CH190us)"
-    },
-    {
-      "date": "17-04-2026",
-      "time": "02:10",
-      "datetime": "17-04-2026 02:10",
-      "league": "MLB",
-      "teams": "Houston Astros - Colorado Rockies",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (02:10) MLB : Houston Astros - Colorado Rockies  (CH191us)"
-    },
-    {
-      "date": "17-04-2026",
-      "time": "02:40",
-      "datetime": "17-04-2026 02:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Seattle Mariners",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (02:40) MLB : San Diego Padres - Seattle Mariners  (CH192us)"
-    },
-    {
-      "date": "17-04-2026",
-      "time": "03:00",
-      "datetime": "17-04-2026 03:00",
-      "league": "NHL",
-      "teams": "Calgary Flames - Los Angeles Kings",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (03:00) NHL : Calgary Flames - Los Angeles Kings  (CH193us)"
-    },
-    {
-      "date": "17-04-2026",
-      "time": "03:00",
-      "datetime": "17-04-2026 03:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Vancouver Canucks",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (03:00) NHL : Edmonton Oilers - Vancouver Canucks  (CH194us)"
-    },
-    {
-      "date": "17-04-2026",
-      "time": "04:00",
-      "datetime": "17-04-2026 04:00",
-      "league": "NHL",
-      "teams": "Colorado Avalanche - Seattle Kraken",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-04-2026 (04:00) NHL : Colorado Avalanche - Seattle Kraken  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -117,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-17T02:37:23.537464"
+      "extracted_at": "2026-04-17T05:16:52.733534"
     },
     "hoca": {
       "name": "hoca",
@@ -125,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-17T02:37:24.855626"
+      "extracted_at": "2026-04-17T05:16:54.118764"
     },
     "Caster": {
       "name": "Caster",
@@ -133,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-17T02:37:26.348546"
+      "extracted_at": "2026-04-17T05:16:55.348397"
     },
     "WIGI": {
       "name": "WIGI",
@@ -141,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-17T02:37:27.696545"
+      "extracted_at": "2026-04-17T05:16:56.704948"
     }
   },
   "player_urls": {

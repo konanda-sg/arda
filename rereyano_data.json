@@ -1,112 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-19T22:34:31.221275",
-  "total_events": 60,
+  "last_updated": "2026-04-19T23:20:51.266850",
+  "total_events": 55,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "19-04-2026",
-      "time": "22:00",
-      "datetime": "19-04-2026 22:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Alianza Atl. - Sport Boys",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "19-04-2026 (22:00) Liga 1 Te Apuesto : Alianza Atl. - Sport Boys  (CH84es)"
-    },
-    {
-      "date": "19-04-2026",
-      "time": "22:00",
-      "datetime": "19-04-2026 22:00",
-      "league": "Torneo LPF",
-      "teams": "River Plate - Boca Juniors",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "125",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "19-04-2026 (22:00) Torneo LPF : River Plate - Boca Juniors  (CH76es) (CH87es) (CH61es) (CH99es) (CH125de)"
-    },
-    {
-      "date": "19-04-2026",
-      "time": "22:05",
-      "datetime": "19-04-2026 22:05",
-      "league": "MLB",
-      "teams": "Athletics - Chicago White Sox",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-04-2026 (22:05) MLB : Athletics - Chicago White Sox  (CH182us)"
-    },
-    {
-      "date": "19-04-2026",
-      "time": "22:07",
-      "datetime": "19-04-2026 22:07",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - San Diego Padres",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-04-2026 (22:07) MLB : Los Angeles Angels - San Diego Padres  (CH183us)"
-    },
-    {
-      "date": "19-04-2026",
-      "time": "22:10",
-      "datetime": "19-04-2026 22:10",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-04-2026 (22:10) MLB : Arizona Diamondbacks - Toronto Blue Jays  (CH184us)"
-    },
-    {
-      "date": "19-04-2026",
-      "time": "22:10",
-      "datetime": "19-04-2026 22:10",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Texas Rangers",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "19-04-2026 (22:10) MLB : Seattle Mariners - Texas Rangers  (CH185us)"
-    },
     {
       "date": "19-04-2026",
       "time": "22:30",
@@ -194,6 +94,24 @@
         }
       ],
       "raw_line": "20-04-2026 (00:30) Liga AUF Uruguaya : Liverpool M. - Nacional  (CH109es)"
+    },
+    {
+      "date": "20-04-2026",
+      "time": "00:30",
+      "datetime": "20-04-2026 00:30",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Orlando Magic",
+      "channels": [
+        {
+          "id": "118",
+          "lang": "gb"
+        },
+        {
+          "id": "119",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-04-2026 (00:30) NBA : Detroit Pistons - Orlando Magic  (CH118gb) (CH119es)"
     },
     {
       "date": "20-04-2026",
@@ -967,7 +885,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-19T22:34:26.142318"
+      "extracted_at": "2026-04-19T23:20:46.335791"
     },
     "hoca": {
       "name": "hoca",
@@ -975,7 +893,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-19T22:34:27.604005"
+      "extracted_at": "2026-04-19T23:20:47.640966"
     },
     "Caster": {
       "name": "Caster",
@@ -983,7 +901,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-19T22:34:28.906048"
+      "extracted_at": "2026-04-19T23:20:48.948373"
     },
     "WIGI": {
       "name": "WIGI",
@@ -991,7 +909,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-19T22:34:30.221116"
+      "extracted_at": "2026-04-19T23:20:50.266693"
     }
   },
   "player_urls": {

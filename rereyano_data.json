@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-20T12:50:49.217410",
-  "total_events": 34,
+  "last_updated": "2026-04-20T14:47:31.959789",
+  "total_events": 35,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -24,6 +24,24 @@
         }
       ],
       "raw_line": "20-04-2026 (17:10) MLB : Boston Red Sox - Detroit Tigers  (CH4fr) (CH170us)"
+    },
+    {
+      "date": "20-04-2026",
+      "time": "18:45",
+      "datetime": "20-04-2026 18:45",
+      "league": "Youth League",
+      "teams": "Club Brugge - Real Madrid",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-04-2026 (18:45) Youth League : Club Brugge - Real Madrid  (CH12fr) (CH61es)"
     },
     {
       "date": "20-04-2026",
@@ -97,8 +115,8 @@
           "lang": "it"
         },
         {
-          "id": "98",
-          "lang": "es"
+          "id": "123",
+          "lang": "de"
         },
         {
           "id": "145",
@@ -107,9 +125,13 @@
         {
           "id": "149",
           "lang": "gr"
+        },
+        {
+          "id": "98",
+          "lang": "es"
         }
       ],
-      "raw_line": "20-04-2026 (20:45) Serie A : Lecce - Fiorentina  (CH137it) (CH98es) (CH145pt) (CH149gr)"
+      "raw_line": "20-04-2026 (20:45) Serie A : Lecce - Fiorentina  (CH137it) (CH123de) (CH145pt) (CH149gr) (CH98es)"
     },
     {
       "date": "20-04-2026",
@@ -363,9 +385,13 @@
         {
           "id": "178",
           "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
         }
       ],
-      "raw_line": "21-04-2026 (01:40) MLB : Chicago Cubs - Philadelphia Phillies  (CH178us)"
+      "raw_line": "21-04-2026 (01:40) MLB : Chicago Cubs - Philadelphia Phillies  (CH178us) (CH89es)"
     },
     {
       "date": "21-04-2026",
@@ -559,7 +585,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-20T12:50:43.480752"
+      "extracted_at": "2026-04-20T14:47:26.835054"
     },
     "hoca": {
       "name": "hoca",
@@ -567,7 +593,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-20T12:50:44.784941"
+      "extracted_at": "2026-04-20T14:47:28.145049"
     },
     "Caster": {
       "name": "Caster",
@@ -575,7 +601,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-20T12:50:46.749330"
+      "extracted_at": "2026-04-20T14:47:29.552446"
     },
     "WIGI": {
       "name": "WIGI",
@@ -583,7 +609,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-20T12:50:48.217260"
+      "extracted_at": "2026-04-20T14:47:30.959627"
     }
   },
   "player_urls": {

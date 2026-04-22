@@ -1,210 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-22T21:10:39.834082",
-  "total_events": 55,
+  "last_updated": "2026-04-22T22:03:58.197311",
+  "total_events": 46,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "22-04-2026",
-      "time": "20:10",
-      "datetime": "22-04-2026 20:10",
-      "league": "MLB",
-      "teams": "Kansas City Royals - Baltimore Orioles",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-04-2026 (20:10) MLB : Kansas City Royals - Baltimore Orioles  (CH183us)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "20:30",
-      "datetime": "22-04-2026 20:30",
-      "league": "Pro League",
-      "teams": "Club Brugge KV - KV Mechelen",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "22-04-2026 (20:30) Pro League : Club Brugge KV - KV Mechelen  (CH153fr)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "20:30",
-      "datetime": "22-04-2026 20:30",
-      "league": "Pro League",
-      "teams": "Royale Union SG - Gent",
-      "channels": [
-        {
-          "id": "154",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "22-04-2026 (20:30) Pro League : Royale Union SG - Gent  (CH154fr)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "20:45",
-      "datetime": "22-04-2026 20:45",
-      "league": "Championship",
-      "teams": "Charlton - Ipswich",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "79",
-          "lang": "es"
-        },
-        {
-          "id": "128",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "22-04-2026 (20:45) Championship : Charlton - Ipswich  (CH9fr) (CH79es) (CH128gb)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "20:45",
-      "datetime": "22-04-2026 20:45",
-      "league": "DFB Pokal",
-      "teams": "Bayer Leverkusen - Bayern Munich",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "98",
-          "lang": "es"
-        },
-        {
-          "id": "138",
-          "lang": "it"
-        }
-      ],
-      "raw_line": "22-04-2026 (20:45) DFB Pokal : Bayer Leverkusen - Bayern Munich  (CH2fr) (CH87es) (CH98es) (CH138it)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "21:00",
-      "datetime": "22-04-2026 21:00",
-      "league": "Coppa Italia",
-      "teams": "Atalanta - Lazio",
-      "channels": [
-        {
-          "id": "59",
-          "lang": "es"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "145",
-          "lang": "pt"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "22-04-2026 (21:00) Coppa Italia : Atalanta - Lazio  (CH59es) (CH94es) (CH124de) (CH145pt) (CH150gr)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "21:00",
-      "datetime": "22-04-2026 21:00",
-      "league": "Coupe De France",
-      "teams": "Strasbourg - Nice",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-04-2026 (21:00) Coupe De France : Strasbourg - Nice  (CH1fr) (CH70es)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "21:00",
-      "datetime": "22-04-2026 21:00",
-      "league": "Premier League",
-      "teams": "Bournemouth - Leeds",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "58",
-          "lang": "es"
-        },
-        {
-          "id": "139",
-          "lang": "it"
-        }
-      ],
-      "raw_line": "22-04-2026 (21:00) Premier League : Bournemouth - Leeds  (CH14fr) (CH130gb) (CH58es) (CH139it)"
-    },
-    {
-      "date": "22-04-2026",
-      "time": "21:00",
-      "datetime": "22-04-2026 21:00",
-      "league": "Premier League",
-      "teams": "Burnley - Manchester City",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "91",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-04-2026 (21:00) Premier League : Burnley - Manchester City  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH72es) (CH91es)"
-    },
     {
       "date": "22-04-2026",
       "time": "21:07",
@@ -921,7 +723,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-22T21:10:34.926993"
+      "extracted_at": "2026-04-22T22:03:52.917017"
     },
     "hoca": {
       "name": "hoca",
@@ -929,7 +731,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-22T21:10:36.236839"
+      "extracted_at": "2026-04-22T22:03:54.398271"
     },
     "Caster": {
       "name": "Caster",
@@ -937,7 +739,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-22T21:10:37.537352"
+      "extracted_at": "2026-04-22T22:03:55.883774"
     },
     "WIGI": {
       "name": "WIGI",
@@ -945,7 +747,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-22T21:10:38.833946"
+      "extracted_at": "2026-04-22T22:03:57.197162"
     }
   },
   "player_urls": {

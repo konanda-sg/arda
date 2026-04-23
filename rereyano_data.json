@@ -1,67 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-23T05:53:52.353683",
-  "total_events": 3,
+  "last_updated": "2026-04-23T07:29:30.434687",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "23-04-2026",
-      "time": "05:00",
-      "datetime": "23-04-2026 05:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Jaiba Brava - Atletico La Paz",
-      "channels": [
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-04-2026 (05:00) Liga De Expansion Mx : Jaiba Brava - Atletico La Paz  (CH99es)"
-    },
-    {
-      "date": "23-04-2026",
-      "time": "05:05",
-      "datetime": "23-04-2026 05:05",
-      "league": "Liga Mx",
-      "teams": "Necaxa - Guadalajara Chivas",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-04-2026 (05:05) Liga Mx : Necaxa - Guadalajara Chivas  (CH68es) (CH106es) (CH107es) (CH108es)"
-    },
-    {
-      "date": "23-04-2026",
-      "time": "05:06",
-      "datetime": "23-04-2026 05:06",
-      "league": "Liga Mx",
-      "teams": "Club Tijuana - Pachuca",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "23-04-2026 (05:06) Liga Mx : Club Tijuana - Pachuca  (CH158es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -69,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-23T05:53:47.146579"
+      "extracted_at": "2026-04-23T07:29:25.476354"
     },
     "hoca": {
       "name": "hoca",
@@ -77,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-23T05:53:48.586821"
+      "extracted_at": "2026-04-23T07:29:26.852208"
     },
     "Caster": {
       "name": "Caster",
@@ -85,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-23T05:53:49.903876"
+      "extracted_at": "2026-04-23T07:29:28.202340"
     },
     "WIGI": {
       "name": "WIGI",
@@ -93,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-23T05:53:51.353520"
+      "extracted_at": "2026-04-23T07:29:29.434531"
     }
   },
   "player_urls": {

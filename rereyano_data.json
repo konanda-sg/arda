@@ -1,222 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-24T00:02:23.599890",
-  "total_events": 19,
+  "last_updated": "2026-04-24T03:49:33.621156",
+  "total_events": 6,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "24-04-2026",
-      "time": "00:10",
-      "datetime": "24-04-2026 00:10",
-      "league": "MLB",
-      "teams": "Boston Red Sox - New York Yankees",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (00:10) MLB : Boston Red Sox - New York Yankees  (CH4fr) (CH186us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:00",
-      "datetime": "24-04-2026 01:00",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Dep. Pasto - Santa Fe",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:00) Liga Betplay Dimayor : Dep. Pasto - Santa Fe  (CH81es) (CH82es)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:00",
-      "datetime": "24-04-2026 01:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Atlante - Tepatitlan de Morelos",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:00) Liga De Expansion Mx : Atlante - Tepatitlan de Morelos  (CH158es)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:00",
-      "datetime": "24-04-2026 01:00",
-      "league": "NBA",
-      "teams": "Atlanta Hawks - New York Knicks",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:00) NBA : Atlanta Hawks - New York Knicks  (CH187us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:00",
-      "datetime": "24-04-2026 01:00",
-      "league": "NHL",
-      "teams": "Boston Bruins - Buffalo Sabres",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:00) NHL : Boston Bruins - Buffalo Sabres  (CH5fr) (CH188us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:00",
-      "datetime": "24-04-2026 01:00",
-      "league": "Torneo LPF",
-      "teams": "Defensa y Justicia - Boca Juniors",
-      "channels": [
-        {
-          "id": "61",
-          "lang": "fr"
-        },
-        {
-          "id": "76",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:00) Torneo LPF : Defensa y Justicia - Boca Juniors  (CH61fr) (CH76es) (CH87es) (CH144pt)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:10",
-      "datetime": "24-04-2026 01:10",
-      "league": "MLB",
-      "teams": "New York Mets - Minnesota Twins",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:10) MLB : New York Mets - Minnesota Twins  (CH189us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "01:30",
-      "datetime": "24-04-2026 01:30",
-      "league": "NHL",
-      "teams": "Ottawa Senators - Carolina Hurricanes",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (01:30) NHL : Ottawa Senators - Carolina Hurricanes  (CH6fr) (CH190us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "02:00",
-      "datetime": "24-04-2026 02:00",
-      "league": "Campeonato Itaú Chile",
-      "teams": "Palestino - D. Concepcion",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-04-2026 (02:00) Campeonato Itaú Chile : Palestino - D. Concepcion  (CH83es)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "02:00",
-      "datetime": "24-04-2026 02:00",
-      "league": "Ecuador Ligapro",
-      "teams": "U. Catolica - Macara",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-04-2026 (02:00) Ecuador Ligapro : U. Catolica - Macara  (CH86es)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "02:00",
-      "datetime": "24-04-2026 02:00",
-      "league": "NBA",
-      "teams": "Toronto Raptors - Cleveland Cavaliers",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (02:00) NBA : Toronto Raptors - Cleveland Cavaliers  (CH191us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "02:05",
-      "datetime": "24-04-2026 02:05",
-      "league": "MLB",
-      "teams": "Texas Rangers - Pittsburgh Pirates",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "24-04-2026 (02:05) MLB : Texas Rangers - Pittsburgh Pirates  (CH192us)"
-    },
-    {
-      "date": "24-04-2026",
-      "time": "02:30",
-      "datetime": "24-04-2026 02:30",
-      "league": "Coupe Du Bresil",
-      "teams": "Operário PR - Fluminense",
-      "channels": [
-        {
-          "id": "96",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-04-2026 (02:30) Coupe Du Bresil : Operário PR - Fluminense  (CH96es)"
-    },
     {
       "date": "24-04-2026",
       "time": "03:00",
@@ -325,7 +115,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-24T00:02:18.743854"
+      "extracted_at": "2026-04-24T03:49:28.678218"
     },
     "hoca": {
       "name": "hoca",
@@ -333,7 +123,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-24T00:02:19.993501"
+      "extracted_at": "2026-04-24T03:49:30.031034"
     },
     "Caster": {
       "name": "Caster",
@@ -341,7 +131,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-24T00:02:21.355134"
+      "extracted_at": "2026-04-24T03:49:31.379093"
     },
     "WIGI": {
       "name": "WIGI",
@@ -349,7 +139,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-24T00:02:22.599698"
+      "extracted_at": "2026-04-24T03:49:32.621001"
     }
   },
   "player_urls": {

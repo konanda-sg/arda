@@ -1,45 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-25T05:58:09.922216",
-  "total_events": 2,
+  "last_updated": "2026-04-25T07:19:58.928439",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "25-04-2026",
-      "time": "05:00",
-      "datetime": "25-04-2026 05:00",
-      "league": "Liga Mx",
-      "teams": "Puebla - Queretaro",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-04-2026 (05:00) Liga Mx : Puebla - Queretaro  (CH68es) (CH108es)"
-    },
-    {
-      "date": "25-04-2026",
-      "time": "05:06",
-      "datetime": "25-04-2026 05:06",
-      "league": "Liga Mx Women",
-      "teams": "Monterrey W - Tigres UANL W",
-      "channels": [
-        {
-          "id": "106",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-04-2026 (05:06) Liga Mx Women : Monterrey W - Tigres UANL W  (CH106es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -47,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T05:58:04.646549"
+      "extracted_at": "2026-04-25T07:19:53.934777"
     },
     "hoca": {
       "name": "hoca",
@@ -55,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T05:58:06.134375"
+      "extracted_at": "2026-04-25T07:19:55.317512"
     },
     "Caster": {
       "name": "Caster",
@@ -63,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T05:58:07.617386"
+      "extracted_at": "2026-04-25T07:19:56.688911"
     },
     "WIGI": {
       "name": "WIGI",
@@ -71,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T05:58:08.922060"
+      "extracted_at": "2026-04-25T07:19:57.928271"
     }
   },
   "player_urls": {

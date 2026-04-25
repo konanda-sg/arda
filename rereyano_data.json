@@ -1,12 +1,161 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-25T11:04:22.060773",
-  "total_events": 0,
+  "last_updated": "2026-04-25T11:53:48.608659",
+  "total_events": 8,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "25-04-2026",
+      "time": "13:30",
+      "datetime": "25-04-2026 13:30",
+      "league": "Championship",
+      "teams": "Charlton - Hull",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-04-2026 (13:30) Championship : Charlton - Hull  (CH190us)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "13:30",
+      "datetime": "25-04-2026 13:30",
+      "league": "Championship",
+      "teams": "Middlesbrough - Watford",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-04-2026 (13:30) Championship : Middlesbrough - Watford  (CH191us)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "13:30",
+      "datetime": "25-04-2026 13:30",
+      "league": "Championship",
+      "teams": "West Brom - Ipswich",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "25-04-2026 (13:30) Championship : West Brom - Ipswich  (CH10fr) (CH127gb)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "13:30",
+      "datetime": "25-04-2026 13:30",
+      "league": "Premier League",
+      "teams": "Fulham - Aston Villa",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-04-2026 (13:30) Premier League : Fulham - Aston Villa  (CH11fr) (CH126gb) (CH56es) (CH120de) (CH138it) (CH72es) (CH87es)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "13:30",
+      "datetime": "25-04-2026 13:30",
+      "league": "Super Lig",
+      "teams": "Eyupspor - Gaziantep",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "25-04-2026 (13:30) Super Lig : Eyupspor - Gaziantep  (CH151tr)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "14:00",
+      "datetime": "25-04-2026 14:00",
+      "league": "Laliga",
+      "teams": "Alaves - Mallorca",
+      "channels": [
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-04-2026 (14:00) Laliga : Alaves - Mallorca  (CH50es) (CH71es) (CH88es)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "14:00",
+      "datetime": "25-04-2026 14:00",
+      "league": "Ligue 2",
+      "teams": "Grenoble - Le Mans",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "25-04-2026 (14:00) Ligue 2 : Grenoble - Le Mans  (CH5fr)"
+    },
+    {
+      "date": "25-04-2026",
+      "time": "14:00",
+      "datetime": "25-04-2026 14:00",
+      "league": "Ligue 2",
+      "teams": "Reims - Nancy",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "25-04-2026 (14:00) Ligue 2 : Reims - Nancy  (CH2fr)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +163,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T11:04:16.988555"
+      "extracted_at": "2026-04-25T11:53:43.314868"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +171,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T11:04:18.338373"
+      "extracted_at": "2026-04-25T11:53:44.615356"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +179,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T11:04:19.712364"
+      "extracted_at": "2026-04-25T11:53:46.108404"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +187,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-25T11:04:21.060653"
+      "extracted_at": "2026-04-25T11:53:47.608405"
     }
   },
   "player_urls": {

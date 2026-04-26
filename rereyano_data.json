@@ -1,12 +1,1849 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-26T07:54:27.256321",
-  "total_events": 0,
+  "last_updated": "2026-04-26T08:54:59.291068",
+  "total_events": 106,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "26-04-2026",
+      "time": "11:00",
+      "datetime": "26-04-2026 11:00",
+      "league": "Moto3",
+      "teams": "Grand Prix d'Espagne La course des Moto 3 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (11:00) Moto3 : Grand Prix d'Espagne La course des Moto 3 -   (CH14fr) (CH60es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "12:00",
+      "datetime": "26-04-2026 12:00",
+      "league": "Liga Endesa",
+      "teams": "Breogan - Joventut Badalona",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (12:00) Liga Endesa : Breogan - Joventut Badalona  (CH155es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "12:15",
+      "datetime": "26-04-2026 12:15",
+      "league": "Eredivisie",
+      "teams": "Excelsior - Utrecht",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "26-04-2026 (12:15) Eredivisie : Excelsior - Utrecht  (CH142nl)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "12:15",
+      "datetime": "26-04-2026 12:15",
+      "league": "Liga Endesa",
+      "teams": "Baskonia - Barcelona",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (12:15) Liga Endesa : Baskonia - Barcelona  (CH156es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "12:15",
+      "datetime": "26-04-2026 12:15",
+      "league": "Moto2",
+      "teams": "Grand Prix d'Espagne La course des Moto 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (12:15) Moto2 : Grand Prix d'Espagne La course des Moto 2 -   (CH14fr) (CH60es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "12:30",
+      "datetime": "26-04-2026 12:30",
+      "league": "Liga Endesa",
+      "teams": "Granada - MoraBanc Andorra",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (12:30) Liga Endesa : Granada - MoraBanc Andorra  (CH157es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "12:30",
+      "datetime": "26-04-2026 12:30",
+      "league": "Serie A",
+      "teams": "Fiorentina - Sassuolo",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (12:30) Serie A : Fiorentina - Sassuolo  (CH137it) (CH124de) (CH149gr) (CH87es) (CH97es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:00",
+      "datetime": "26-04-2026 13:00",
+      "league": "Championship",
+      "teams": "Coventry - Wrexham",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:00) Championship : Coventry - Wrexham  (CH4fr) (CH120de) (CH127gb) (CH145pt) (CH91es) (CH100es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:30",
+      "datetime": "26-04-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:30) Bundesliga 2 : bundesliga 2 konferenz -   (CH111de)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:30",
+      "datetime": "26-04-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Bochum - Greuther Furth",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:30) Bundesliga 2 : Bochum - Greuther Furth  (CH114de)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:30",
+      "datetime": "26-04-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Nurnberg - Magdeburg",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:30) Bundesliga 2 : Nurnberg - Magdeburg  (CH113de)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:30",
+      "datetime": "26-04-2026 13:30",
+      "league": "Bundesliga 2",
+      "teams": "Paderborn - Schalke",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:30) Bundesliga 2 : Paderborn - Schalke  (CH5fr) (CH78es) (CH112de)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:30",
+      "datetime": "26-04-2026 13:30",
+      "league": "Pro League",
+      "teams": "Gent - Club Brugge KV",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:30) Pro League : Gent - Club Brugge KV  (CH153fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "13:30",
+      "datetime": "26-04-2026 13:30",
+      "league": "Super Lig",
+      "teams": "Genclerbirligi - Kocaelispor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "26-04-2026 (13:30) Super Lig : Genclerbirligi - Kocaelispor  (CH151tr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "14:00",
+      "datetime": "26-04-2026 14:00",
+      "league": "Laliga",
+      "teams": "Rayo Vallecano - Real Sociedad",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (14:00) Laliga : Rayo Vallecano - Real Sociedad  (CH2fr) (CH51es) (CH71es) (CH94es) (CH107es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "14:00",
+      "datetime": "26-04-2026 14:00",
+      "league": "Laliga 2",
+      "teams": "Cordoba - Gijon",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (14:00) Laliga 2 : Cordoba - Gijon  (CH53es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "14:00",
+      "datetime": "26-04-2026 14:00",
+      "league": "MotoGP",
+      "teams": "Grand Prix d'Espagne La course des MotoGP -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (14:00) MotoGP : Grand Prix d'Espagne La course des MotoGP -   (CH11fr) (CH60es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "14:30",
+      "datetime": "26-04-2026 14:30",
+      "league": "Eredivisie",
+      "teams": "Heracles - FC Volendam",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "26-04-2026 (14:30) Eredivisie : Heracles - FC Volendam  (CH141nl)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "15:00",
+      "datetime": "26-04-2026 15:00",
+      "league": "Betfred Super League",
+      "teams": "Kifisia - Panetolikos",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "26-04-2026 (15:00) Betfred Super League : Kifisia - Panetolikos  (CH148gr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "15:00",
+      "datetime": "26-04-2026 15:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Central Esp. - CA Cerro",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (15:00) Liga AUF Uruguaya : Central Esp. - CA Cerro  (CH109es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "15:00",
+      "datetime": "26-04-2026 15:00",
+      "league": "Ligue 1",
+      "teams": "Lorient - Strasbourg",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "118",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (15:00) Ligue 1 : Lorient - Strasbourg  (CH20fr) (CH69es) (CH118es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "15:00",
+      "datetime": "26-04-2026 15:00",
+      "league": "Premiership",
+      "teams": "Dundee Utd - Dundee FC",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-04-2026 (15:00) Premiership : Dundee Utd - Dundee FC  (CH125de)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "15:00",
+      "datetime": "26-04-2026 15:00",
+      "league": "Serie A",
+      "teams": "Genoa - Como",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (15:00) Serie A : Genoa - Como  (CH137it) (CH61es) (CH145pt) (CH149gr) (CH70es) (CH97es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "15:30",
+      "datetime": "26-04-2026 15:30",
+      "league": "Bundesliga",
+      "teams": "Stuttgart - Werder Bremen",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "117",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (15:30) Bundesliga : Stuttgart - Werder Bremen  (CH4fr) (CH88es) (CH124de) (CH117es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:00",
+      "datetime": "26-04-2026 16:00",
+      "league": "Fa Cup",
+      "teams": "Chelsea - Leeds",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:00) Fa Cup : Chelsea - Leeds  (CH1fr) (CH126gb) (CH144pt) (CH50es) (CH87es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:00",
+      "datetime": "26-04-2026 16:00",
+      "league": "Pro League",
+      "teams": "KV Mechelen - St. Truiden",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:00) Pro League : KV Mechelen - St. Truiden  (CH154fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:15",
+      "datetime": "26-04-2026 16:15",
+      "league": "Laliga",
+      "teams": "Oviedo - Elche",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "52",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:15) Laliga : Oviedo - Elche  (CH5fr) (CH52es) (CH94es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:15",
+      "datetime": "26-04-2026 16:15",
+      "league": "Laliga 2",
+      "teams": "Granada CF - Almeria",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:15) Laliga 2 : Granada CF - Almeria  (CH53es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:15",
+      "datetime": "26-04-2026 16:15",
+      "league": "Laliga 2",
+      "teams": "Mirandes - Cultural Leonesa",
+      "channels": [
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:15) Laliga 2 : Mirandes - Cultural Leonesa  (CH54es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:30",
+      "datetime": "26-04-2026 16:30",
+      "league": "Liga Portugal",
+      "teams": "Estoril - Famalicao",
+      "channels": [
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:30) Liga Portugal : Estoril - Famalicao  (CH145pt)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "16:30",
+      "datetime": "26-04-2026 16:30",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Arsenal W - Lyon W",
+      "channels": [
+        {
+          "id": "19",
+          "lang": "fr"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "143",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "26-04-2026 (16:30) Ligue Des Champions Femmes : Arsenal W - Lyon W  (CH19fr) (CH71es) (CH91es) (CH143nl)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:00",
+      "datetime": "26-04-2026 17:00",
+      "league": "Betfred Super League",
+      "teams": "Atromitos - Asteras Tripolis",
+      "channels": [
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:00) Betfred Super League : Atromitos - Asteras Tripolis  (CH150gr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:00",
+      "datetime": "26-04-2026 17:00",
+      "league": "Liga Endesa",
+      "teams": "Manresa - San Pablo Burgos",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:00) Liga Endesa : Manresa - San Pablo Burgos  (CH155es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:15",
+      "datetime": "26-04-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:15) Ligue 1 : Multiplex Ligue 1 -   (CH20fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:15",
+      "datetime": "26-04-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Le Havre - Metz",
+      "channels": [
+        {
+          "id": "18",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:15) Ligue 1 : Le Havre - Metz  (CH18fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:15",
+      "datetime": "26-04-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Paris FC - Lille",
+      "channels": [
+        {
+          "id": "21",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "118",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:15) Ligue 1 : Paris FC - Lille  (CH21fr) (CH69es) (CH118es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:15",
+      "datetime": "26-04-2026 17:15",
+      "league": "Ligue 1",
+      "teams": "Rennes - Nantes",
+      "channels": [
+        {
+          "id": "22",
+          "lang": "fr"
+        },
+        {
+          "id": "119",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:15) Ligue 1 : Rennes - Nantes  (CH22fr) (CH119es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:30",
+      "datetime": "26-04-2026 17:30",
+      "league": "Bundesliga",
+      "teams": "Dortmund - Freiburg",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "117",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:30) Bundesliga : Dortmund - Freiburg  (CH5fr) (CH123de) (CH117es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "17:30",
+      "datetime": "26-04-2026 17:30",
+      "league": "Premiership",
+      "teams": "Hibernian - Hearts",
+      "channels": [
+        {
+          "id": "128",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "26-04-2026 (17:30) Premiership : Hibernian - Hearts  (CH128gb)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:00",
+      "datetime": "26-04-2026 18:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cajamarca - Cienciano",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:00) Liga 1 Te Apuesto : Cajamarca - Cienciano  (CH84es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:00",
+      "datetime": "26-04-2026 18:00",
+      "league": "Serie A",
+      "teams": "Torino - Inter",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:00) Serie A : Torino - Inter  (CH45fr) (CH138it) (CH124de) (CH149gr) (CH98es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:30",
+      "datetime": "26-04-2026 18:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "La Serena - Huachipato",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:30) Campeonato Itaú Chile : La Serena - Huachipato  (CH83es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:30",
+      "datetime": "26-04-2026 18:30",
+      "league": "Laliga",
+      "teams": "Osasuna - Sevilla",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:30) Laliga : Osasuna - Sevilla  (CH6fr) (CH51es) (CH71es) (CH87es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:30",
+      "datetime": "26-04-2026 18:30",
+      "league": "Laliga 2",
+      "teams": "Huesca - Zaragoza",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:30) Laliga 2 : Huesca - Zaragoza  (CH53es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:30",
+      "datetime": "26-04-2026 18:30",
+      "league": "Laliga 2",
+      "teams": "Leganes - Andorra",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        },
+        {
+          "id": "54",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:30) Laliga 2 : Leganes - Andorra  (CH53es) (CH54es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "18:30",
+      "datetime": "26-04-2026 18:30",
+      "league": "Pro League",
+      "teams": "Anderlecht - Royale Union SG",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (18:30) Pro League : Anderlecht - Royale Union SG  (CH153fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:00",
+      "datetime": "26-04-2026 19:00",
+      "league": "Betfred Super League",
+      "teams": "AEL Larissa - Panserraikos",
+      "channels": [
+        {
+          "id": "148",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:00) Betfred Super League : AEL Larissa - Panserraikos  (CH148gr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:00",
+      "datetime": "26-04-2026 19:00",
+      "league": "Liga Portugal",
+      "teams": "Estrela - FC Porto",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:00) Liga Portugal : Estrela - FC Porto  (CH4fr) (CH125de) (CH144pt)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:00",
+      "datetime": "26-04-2026 19:00",
+      "league": "Liga Portugal",
+      "teams": "Santa Clara - Braga",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "146",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:00) Liga Portugal : Santa Clara - Braga  (CH10fr) (CH146pt)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:00",
+      "datetime": "26-04-2026 19:00",
+      "league": "NBA",
+      "teams": "Toronto Raptors - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        },
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:00) NBA : Toronto Raptors - Cleveland Cavaliers  (CH175us) (CH156es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:00",
+      "datetime": "26-04-2026 19:00",
+      "league": "Super Lig",
+      "teams": "Galatasaray - Fenerbahce",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:00) Super Lig : Galatasaray - Fenerbahce  (CH2fr) (CH69es) (CH145pt) (CH151tr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:15",
+      "datetime": "26-04-2026 19:15",
+      "league": "Pro League",
+      "teams": "Waregem - RAAL La Louviere",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:15) Pro League : Waregem - RAAL La Louviere  (CH154fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:35",
+      "datetime": "26-04-2026 19:35",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:35) MLB : Atlanta Braves - Philadelphia Phillies  (CH176us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:35",
+      "datetime": "26-04-2026 19:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Boston Red Sox",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:35) MLB : Baltimore Orioles - Boston Red Sox  (CH177us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:37",
+      "datetime": "26-04-2026 19:37",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:37) MLB : Toronto Blue Jays - Cleveland Guardians  (CH178us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:40",
+      "datetime": "26-04-2026 19:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - Detroit Tigers",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:40) MLB : Cincinnati Reds - Detroit Tigers  (CH179us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:40",
+      "datetime": "26-04-2026 19:40",
+      "league": "MLB",
+      "teams": "New York Mets - Colorado Rockies",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:40) MLB : New York Mets - Colorado Rockies  (CH180us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "19:40",
+      "datetime": "26-04-2026 19:40",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Minnesota Twins",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (19:40) MLB : Tampa Bay Rays - Minnesota Twins  (CH181us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:00",
+      "datetime": "26-04-2026 20:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Macara - Libertad",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:00) Ecuador Ligapro : Macara - Libertad  (CH86es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:00",
+      "datetime": "26-04-2026 20:00",
+      "league": "NHL",
+      "teams": "Boston Bruins - Buffalo Sabres",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:00) NHL : Boston Bruins - Buffalo Sabres  (CH5fr) (CH182us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:00",
+      "datetime": "26-04-2026 20:00",
+      "league": "Torneo LPF",
+      "teams": "Ind. Rivadavia - Gimnasia Mendoza",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:00) Torneo LPF : Ind. Rivadavia - Gimnasia Mendoza  (CH75es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:10",
+      "datetime": "26-04-2026 20:10",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Washington Nationals",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:10) MLB : Chicago White Sox - Washington Nationals  (CH183us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:10",
+      "datetime": "26-04-2026 20:10",
+      "league": "MLB",
+      "teams": "Houston Astros - New York Yankees",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:10) MLB : Houston Astros - New York Yankees  (CH184us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:10",
+      "datetime": "26-04-2026 20:10",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:10) MLB : Milwaukee Brewers - Pittsburgh Pirates  (CH185us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:15",
+      "datetime": "26-04-2026 20:15",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cusco - Sport Huancayo",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:15) Liga 1 Te Apuesto : Cusco - Sport Huancayo  (CH84es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:15",
+      "datetime": "26-04-2026 20:15",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Seattle Mariners",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:15) MLB : St.Louis Cardinals - Seattle Mariners  (CH186us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:30",
+      "datetime": "26-04-2026 20:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Cerro Largo - Racing Montevideo",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:30) Liga AUF Uruguaya : Cerro Largo - Racing Montevideo  (CH109es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:35",
+      "datetime": "26-04-2026 20:35",
+      "league": "MLB",
+      "teams": "Texas Rangers - Athletics",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:35) MLB : Texas Rangers - Athletics  (CH187us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:45",
+      "datetime": "26-04-2026 20:45",
+      "league": "Ligue 1",
+      "teams": "Marseille - Nice",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "118",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:45) Ligue 1 : Marseille - Nice  (CH20fr) (CH69es) (CH118es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "20:45",
+      "datetime": "26-04-2026 20:45",
+      "league": "Serie A",
+      "teams": "AC Milan - Juventus",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "124",
+          "lang": "de"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (20:45) Serie A : AC Milan - Juventus  (CH45fr) (CH137it) (CH124de) (CH126gb) (CH149gr) (CH70es) (CH87es) (CH98es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:00",
+      "datetime": "26-04-2026 21:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. De Concepcion - Colo Colo",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:00) Campeonato Itaú Chile : U. De Concepcion - Colo Colo  (CH83es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:00",
+      "datetime": "26-04-2026 21:00",
+      "league": "Laliga",
+      "teams": "Villarreal - Celta Vigo",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:00) Laliga : Villarreal - Celta Vigo  (CH1fr) (CH49es) (CH71es) (CH90es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:00",
+      "datetime": "26-04-2026 21:00",
+      "league": "Laliga 2",
+      "teams": "Ceuta - Racing Santander",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:00) Laliga 2 : Ceuta - Racing Santander  (CH53es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:00",
+      "datetime": "26-04-2026 21:00",
+      "league": "Serie A Bresil",
+      "teams": "Corinthians - Vasco",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:00) Serie A Bresil : Corinthians - Vasco  (CH61es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:05",
+      "datetime": "26-04-2026 21:05",
+      "league": "Top 14",
+      "teams": "Stade Toulousain - Clermont",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:05) Top 14 : Stade Toulousain - Clermont  (CH11fr)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:30",
+      "datetime": "26-04-2026 21:30",
+      "league": "Liga Portugal",
+      "teams": "AFS - Sporting CP",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:30) Liga Portugal : AFS - Sporting CP  (CH2fr) (CH125de) (CH145pt)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "21:30",
+      "datetime": "26-04-2026 21:30",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        },
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (21:30) NBA : Portland Trail Blazers - San Antonio Spurs  (CH188us) (CH157es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:05",
+      "datetime": "26-04-2026 22:05",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - San Diego Padres",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:05) MLB : Arizona Diamondbacks - San Diego Padres  (CH189us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:05",
+      "datetime": "26-04-2026 22:05",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Miami Marlins",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:05) MLB : San Francisco Giants - Miami Marlins  (CH190us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:10",
+      "datetime": "26-04-2026 22:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Chicago Cubs",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:10) MLB : Los Angeles Dodgers - Chicago Cubs  (CH191us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:30",
+      "datetime": "26-04-2026 22:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Guayaquil City - Tecnico U.",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:30) Ecuador Ligapro : Guayaquil City - Tecnico U.  (CH86es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:30",
+      "datetime": "26-04-2026 22:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Grau - Alianza Lima",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:30) Liga 1 Te Apuesto : Grau - Alianza Lima  (CH84es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:30",
+      "datetime": "26-04-2026 22:30",
+      "league": "NHL",
+      "teams": "Los Angeles Kings - Colorado Avalanche",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:30) NHL : Los Angeles Kings - Colorado Avalanche  (CH4fr) (CH192us)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:30",
+      "datetime": "26-04-2026 22:30",
+      "league": "Torneo LPF",
+      "teams": "Belgrano - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:30) Torneo LPF : Belgrano - Gimnasia L.P.  (CH76es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "22:30",
+      "datetime": "26-04-2026 22:30",
+      "league": "Torneo LPF",
+      "teams": "Newells Old Boys - Instituto",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (22:30) Torneo LPF : Newells Old Boys - Instituto  (CH75es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "23:00",
+      "datetime": "26-04-2026 23:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Aguilas - Once Caldas",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (23:00) Liga Betplay Dimayor : Aguilas - Once Caldas  (CH81es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "23:30",
+      "datetime": "26-04-2026 23:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Everton - Cobresal",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-04-2026 (23:30) Campeonato Itaú Chile : Everton - Cobresal  (CH83es)"
+    },
+    {
+      "date": "26-04-2026",
+      "time": "23:30",
+      "datetime": "26-04-2026 23:30",
+      "league": "Serie A Bresil",
+      "teams": "Bragantino - Palmeiras",
+      "channels": [
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "26-04-2026 (23:30) Serie A Bresil : Bragantino - Palmeiras  (CH125de)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "00:00",
+      "datetime": "27-04-2026 00:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Wanderers - Penarol",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (00:00) Liga AUF Uruguaya : Wanderers - Penarol  (CH109es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "U. de Deportes - Alianza Atl.",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) Liga 1 Te Apuesto : U. de Deportes - Alianza Atl.  (CH84es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Tepatitlan de Morelos - Atlante",
+      "channels": [
+        {
+          "id": "99",
+          "lang": "es"
+        },
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) Liga De Expansion Mx : Tepatitlan de Morelos - Atlante  (CH99es) (CH105es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "Liga Mx",
+      "teams": "Santos Laguna - Monterrey",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) Liga Mx : Santos Laguna - Monterrey  (CH68es) (CH98es) (CH106es) (CH107es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "MLS",
+      "teams": "Los Angeles Galaxy - Real Salt Lake",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) MLS : Los Angeles Galaxy - Real Salt Lake  (CH160us)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "NBA",
+      "teams": "Philadelphia 76ers - Boston Celtics",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) NBA : Philadelphia 76ers - Boston Celtics  (CH1fr) (CH127gb) (CH193us)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "NHL",
+      "teams": "Montreal Canadiens - Tampa Bay Lightning",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) NHL : Montreal Canadiens - Tampa Bay Lightning  (CH6fr) (CH194us)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:00",
+      "datetime": "27-04-2026 01:00",
+      "league": "Torneo LPF",
+      "teams": "Atl. Tucuman - Banfield",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:00) Torneo LPF : Atl. Tucuman - Banfield  (CH76es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:10",
+      "datetime": "27-04-2026 01:10",
+      "league": "Ecuador Ligapro",
+      "teams": "Orense - Barcelona SC",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:10) Ecuador Ligapro : Orense - Barcelona SC  (CH86es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:10",
+      "datetime": "27-04-2026 01:10",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Llaneros - Alianza",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:10) Liga Betplay Dimayor : Llaneros - Alianza  (CH81es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:20",
+      "datetime": "27-04-2026 01:20",
+      "league": "MLB",
+      "teams": "Kansas City Royals - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:20) MLB : Kansas City Royals - Los Angeles Angels  (CH4fr) (CH195us)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "01:30",
+      "datetime": "27-04-2026 01:30",
+      "league": "Serie A Bresil",
+      "teams": "Atletico-MG - Flamengo RJ",
+      "channels": [
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (01:30) Serie A Bresil : Atletico-MG - Flamengo RJ  (CH61es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "03:00",
+      "datetime": "27-04-2026 03:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Cancun - Tapatio",
+      "channels": [
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (03:00) Liga De Expansion Mx : Cancun - Tapatio  (CH98es) (CH105es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "03:05",
+      "datetime": "27-04-2026 03:05",
+      "league": "Liga Mx",
+      "teams": "Cruz Azul - Necaxa",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (03:05) Liga Mx : Cruz Azul - Necaxa  (CH68es) (CH106es) (CH107es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "03:20",
+      "datetime": "27-04-2026 03:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Inter Bogotá - Chico",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-04-2026 (03:20) Liga Betplay Dimayor : Inter Bogotá - Chico  (CH81es)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "03:30",
+      "datetime": "27-04-2026 03:30",
+      "league": "NBA",
+      "teams": "Houston Rockets - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (03:30) NBA : Houston Rockets - Los Angeles Lakers  (CH1fr) (CH127gb) (CH196us)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "03:30",
+      "datetime": "27-04-2026 03:30",
+      "league": "NHL",
+      "teams": "Anaheim Ducks - Edmonton Oilers",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (03:30) NHL : Anaheim Ducks - Edmonton Oilers  (CH4fr) (CH197us)"
+    },
+    {
+      "date": "27-04-2026",
+      "time": "04:00",
+      "datetime": "27-04-2026 04:00",
+      "league": "NHL",
+      "teams": "Utah Mammoth - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-04-2026 (04:00) NHL : Utah Mammoth - Vegas Golden Knights  (CH198us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +1851,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-26T07:54:22.187720"
+      "extracted_at": "2026-04-26T08:54:54.220708"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +1859,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-26T07:54:23.675492"
+      "extracted_at": "2026-04-26T08:54:55.597287"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +1867,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-26T07:54:24.950588"
+      "extracted_at": "2026-04-26T08:54:56.946415"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +1875,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-26T07:54:26.256160"
+      "extracted_at": "2026-04-26T08:54:58.290913"
     }
   },
   "player_urls": {

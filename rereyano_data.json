@@ -1,45 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-29T04:48:52.941442",
-  "total_events": 2,
+  "last_updated": "2026-04-29T07:20:39.294297",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "29-04-2026",
-      "time": "04:00",
-      "datetime": "29-04-2026 04:00",
-      "league": "NHL",
-      "teams": "Edmonton Oilers - Anaheim Ducks",
-      "channels": [
-        {
-          "id": "7",
-          "lang": "fr"
-        },
-        {
-          "id": "199",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-04-2026 (04:00) NHL : Edmonton Oilers - Anaheim Ducks  (CH7fr) (CH199us)"
-    },
-    {
-      "date": "29-04-2026",
-      "time": "04:10",
-      "datetime": "29-04-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Miami Marlins",
-      "channels": [
-        {
-          "id": "200",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-04-2026 (04:10) MLB : Los Angeles Dodgers - Miami Marlins  (CH200us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -47,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-29T04:48:48.024026"
+      "extracted_at": "2026-04-29T07:20:34.350953"
     },
     "hoca": {
       "name": "hoca",
@@ -55,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-29T04:48:49.366745"
+      "extracted_at": "2026-04-29T07:20:35.699867"
     },
     "Caster": {
       "name": "Caster",
@@ -63,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-29T04:48:50.708824"
+      "extracted_at": "2026-04-29T07:20:36.939104"
     },
     "WIGI": {
       "name": "WIGI",
@@ -71,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-29T04:48:51.941296"
+      "extracted_at": "2026-04-29T07:20:38.294127"
     }
   },
   "player_urls": {

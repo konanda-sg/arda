@@ -1,103 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-04-30T04:02:48.328389",
-  "total_events": 5,
+  "last_updated": "2026-04-30T06:41:04.833127",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "30-04-2026",
-      "time": "03:40",
-      "datetime": "30-04-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Kansas City Royals",
-      "channels": [
-        {
-          "id": "99",
-          "lang": "es"
-        },
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-04-2026 (03:40) MLB : Athletics - Kansas City Royals  (CH99es) (CH198us)"
-    },
-    {
-      "date": "30-04-2026",
-      "time": "04:00",
-      "datetime": "30-04-2026 04:00",
-      "league": "NBA",
-      "teams": "Los Angeles Lakers - Houston Rockets",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        },
-        {
-          "id": "199",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-04-2026 (04:00) NBA : Los Angeles Lakers - Houston Rockets  (CH1fr) (CH89es) (CH97es) (CH199us)"
-    },
-    {
-      "date": "30-04-2026",
-      "time": "04:00",
-      "datetime": "30-04-2026 04:00",
-      "league": "NHL",
-      "teams": "Vegas Golden Knights - Utah Mammoth",
-      "channels": [
-        {
-          "id": "6",
-          "lang": "fr"
-        },
-        {
-          "id": "200",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-04-2026 (04:00) NHL : Vegas Golden Knights - Utah Mammoth  (CH6fr) (CH200us)"
-    },
-    {
-      "date": "30-04-2026",
-      "time": "04:30",
-      "datetime": "30-04-2026 04:30",
-      "league": "Concacaf Champions Cup",
-      "teams": "Los Angeles FC - Toluca",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-04-2026 (04:30) Concacaf Champions Cup : Los Angeles FC - Toluca  (CH68es)"
-    },
-    {
-      "date": "30-04-2026",
-      "time": "05:00",
-      "datetime": "30-04-2026 05:00",
-      "league": "Liga Mx Women",
-      "teams": "Juarez W - Club America W",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-04-2026 (05:00) Liga Mx Women : Juarez W - Club America W  (CH70es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -105,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-30T04:02:43.390232"
+      "extracted_at": "2026-04-30T06:40:59.545432"
     },
     "hoca": {
       "name": "hoca",
@@ -113,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-30T04:02:44.746740"
+      "extracted_at": "2026-04-30T06:41:01.037811"
     },
     "Caster": {
       "name": "Caster",
@@ -121,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-30T04:02:45.973526"
+      "extracted_at": "2026-04-30T06:41:02.332053"
     },
     "WIGI": {
       "name": "WIGI",
@@ -129,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-04-30T04:02:47.328239"
+      "extracted_at": "2026-04-30T06:41:03.832963"
     }
   },
   "player_urls": {

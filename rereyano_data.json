@@ -1,160 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-05-01T21:07:01.883975",
-  "total_events": 31,
+  "last_updated": "2026-05-01T22:05:01.992301",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-05-2026",
-      "time": "20:20",
-      "datetime": "01-05-2026 20:20",
-      "league": "MLB",
-      "teams": "Chicago Cubs - Arizona Diamondbacks",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-05-2026 (20:20) MLB : Chicago Cubs - Arizona Diamondbacks  (CH180us)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "20:45",
-      "datetime": "01-05-2026 20:45",
-      "league": "EuroLeague",
-      "teams": "Real Madrid - Hapoel Tel Aviv",
-      "channels": [
-        {
-          "id": "62",
-          "lang": "fr"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        }
-      ],
-      "raw_line": "01-05-2026 (20:45) EuroLeague : Real Madrid - Hapoel Tel Aviv  (CH62fr) (CH150gr)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "20:45",
-      "datetime": "01-05-2026 20:45",
-      "league": "Premiership",
-      "teams": "Livingston - Aberdeen",
-      "channels": [
-        {
-          "id": "130",
-          "lang": "gb"
-        }
-      ],
-      "raw_line": "01-05-2026 (20:45) Premiership : Livingston - Aberdeen  (CH130gb)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "20:45",
-      "datetime": "01-05-2026 20:45",
-      "league": "Pro League",
-      "teams": "Cercle Brugge KSV - Waregem",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "01-05-2026 (20:45) Pro League : Cercle Brugge KSV - Waregem  (CH153fr)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "20:45",
-      "datetime": "01-05-2026 20:45",
-      "league": "Serie A",
-      "teams": "Pisa - Lecce",
-      "channels": [
-        {
-          "id": "137",
-          "lang": "it"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-05-2026 (20:45) Serie A : Pisa - Lecce  (CH137it) (CH70es)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "21:00",
-      "datetime": "01-05-2026 21:00",
-      "league": "Laliga",
-      "teams": "Girona - Mallorca",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "49",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "95",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-05-2026 (21:00) Laliga : Girona - Mallorca  (CH4fr) (CH49es) (CH71es) (CH95es)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "21:00",
-      "datetime": "01-05-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Zaragoza - Granada CF",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-05-2026 (21:00) Laliga 2 : Zaragoza - Granada CF  (CH53es)"
-    },
-    {
-      "date": "01-05-2026",
-      "time": "21:00",
-      "datetime": "01-05-2026 21:00",
-      "league": "Premier League",
-      "teams": "Leeds - Burnley",
-      "channels": [
-        {
-          "id": "12",
-          "lang": "fr"
-        },
-        {
-          "id": "127",
-          "lang": "gb"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-05-2026 (21:00) Premier League : Leeds - Burnley  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH158es)"
-    },
     {
       "date": "01-05-2026",
       "time": "22:15",
@@ -246,6 +98,20 @@
         }
       ],
       "raw_line": "02-05-2026 (01:00) Liga Betplay Dimayor : Once Caldas - Atl. Nacional  (CH81es)"
+    },
+    {
+      "date": "02-05-2026",
+      "time": "01:00",
+      "datetime": "02-05-2026 01:00",
+      "league": "NBA",
+      "teams": "Orlando Magic - Detroit Pistons",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-05-2026 (01:00) NBA : Orlando Magic - Detroit Pistons  (CH184us)"
     },
     {
       "date": "02-05-2026",
@@ -517,7 +383,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-01T21:06:56.785295"
+      "extracted_at": "2026-05-01T22:04:56.525786"
     },
     "hoca": {
       "name": "hoca",
@@ -525,7 +391,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-01T21:06:58.104564"
+      "extracted_at": "2026-05-01T22:04:58.017868"
     },
     "Caster": {
       "name": "Caster",
@@ -533,7 +399,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-01T21:06:59.462616"
+      "extracted_at": "2026-05-01T22:04:59.479099"
     },
     "WIGI": {
       "name": "WIGI",
@@ -541,7 +407,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-01T21:07:00.883822"
+      "extracted_at": "2026-05-01T22:05:00.992155"
     }
   },
   "player_urls": {

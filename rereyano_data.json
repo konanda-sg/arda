@@ -1,194 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://zonalive.click/vip3.php",
-  "last_updated": "2026-05-02T21:24:43.298521",
-  "total_events": 55,
+  "last_updated": "2026-05-02T22:05:37.145859",
+  "total_events": 44,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "02-05-2026",
-      "time": "20:30",
-      "datetime": "02-05-2026 20:30",
-      "league": "Bundesliga 2",
-      "teams": "Schalke - Dusseldorf",
-      "channels": [
-        {
-          "id": "112",
-          "lang": "de"
-        },
-        {
-          "id": "79",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (20:30) Bundesliga 2 : Schalke - Dusseldorf  (CH112de) (CH79es)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "20:30",
-      "datetime": "02-05-2026 20:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "CA Cerro - Maldonado",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (20:30) Liga AUF Uruguaya : CA Cerro - Maldonado  (CH109es)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "20:30",
-      "datetime": "02-05-2026 20:30",
-      "league": "MLS",
-      "teams": "Sporting Kansas City - Seattle Sounders",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "174",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-05-2026 (20:30) MLS : Sporting Kansas City - Seattle Sounders  (CH70es) (CH174us)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "20:45",
-      "datetime": "02-05-2026 20:45",
-      "league": "Pro League",
-      "teams": "St. Truiden - Royale Union SG",
-      "channels": [
-        {
-          "id": "153",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "02-05-2026 (20:45) Pro League : St. Truiden - Royale Union SG  (CH153fr)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "20:45",
-      "datetime": "02-05-2026 20:45",
-      "league": "Serie A",
-      "teams": "Atalanta - Genoa",
-      "channels": [
-        {
-          "id": "138",
-          "lang": "it"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (20:45) Serie A : Atalanta - Genoa  (CH138it) (CH97es)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "21:00",
-      "datetime": "02-05-2026 21:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Tecnico U.",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (21:00) Ecuador Ligapro : Dep. Cuenca - Tecnico U.  (CH86es)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "21:00",
-      "datetime": "02-05-2026 21:00",
-      "league": "Eredivisie",
-      "teams": "Nijmegen - Telstar",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "02-05-2026 (21:00) Eredivisie : Nijmegen - Telstar  (CH142nl)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "21:00",
-      "datetime": "02-05-2026 21:00",
-      "league": "Laliga",
-      "teams": "Osasuna - Barcelona",
-      "channels": [
-        {
-          "id": "9",
-          "lang": "fr"
-        },
-        {
-          "id": "51",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        }
-      ],
-      "raw_line": "02-05-2026 (21:00) Laliga : Osasuna - Barcelona  (CH9fr) (CH51es) (CH71es) (CH87es) (CH124de)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "21:00",
-      "datetime": "02-05-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Eibar - Malaga",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (21:00) Laliga 2 : Eibar - Malaga  (CH53es)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "21:00",
-      "datetime": "02-05-2026 21:00",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Chico - Llaneros",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (21:00) Liga Betplay Dimayor : Chico - Llaneros  (CH81es)"
-    },
-    {
-      "date": "02-05-2026",
-      "time": "21:00",
-      "datetime": "02-05-2026 21:00",
-      "league": "Liga Endesa",
-      "teams": "San Pablo Burgos - Forca Lleida",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-05-2026 (21:00) Liga Endesa : San Pablo Burgos - Forca Lleida  (CH155es)"
-    },
     {
       "date": "02-05-2026",
       "time": "21:05",
@@ -869,7 +687,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-02T21:24:38.095666"
+      "extracted_at": "2026-05-02T22:05:31.541980"
     },
     "hoca": {
       "name": "hoca",
@@ -877,7 +695,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-02T21:24:39.432529"
+      "extracted_at": "2026-05-02T22:05:33.029763"
     },
     "Caster": {
       "name": "Caster",
@@ -885,7 +703,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-02T21:24:40.946889"
+      "extracted_at": "2026-05-02T22:05:34.661202"
     },
     "WIGI": {
       "name": "WIGI",
@@ -893,7 +711,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-02T21:24:42.298352"
+      "extracted_at": "2026-05-02T22:05:36.145697"
     }
   },
   "player_urls": {

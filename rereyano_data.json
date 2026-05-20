@@ -1,72 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-05-20T03:55:33.357442",
-  "total_events": 32,
+  "last_updated": "2026-05-20T07:39:39.421233",
+  "total_events": 28,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "20-05-2026",
-      "time": "03:38",
-      "datetime": "20-05-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Athletics",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-05-2026 (03:38) MLB : Los Angeles Angels - Athletics  (CH191us)"
-    },
-    {
-      "date": "20-05-2026",
-      "time": "03:40",
-      "datetime": "20-05-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - San Francisco Giants",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-05-2026 (03:40) MLB : Arizona Diamondbacks - San Francisco Giants  (CH192us)"
-    },
-    {
-      "date": "20-05-2026",
-      "time": "03:40",
-      "datetime": "20-05-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Los Angeles Dodgers",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-05-2026 (03:40) MLB : San Diego Padres - Los Angeles Dodgers  (CH4fr) (CH193us)"
-    },
-    {
-      "date": "20-05-2026",
-      "time": "03:40",
-      "datetime": "20-05-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Chicago White Sox",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-05-2026 (03:40) MLB : Seattle Mariners - Chicago White Sox  (CH194us)"
-    },
     {
       "date": "20-05-2026",
       "time": "09:55",
@@ -467,7 +407,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-20T03:55:28.219691"
+      "extracted_at": "2026-05-20T07:39:34.322183"
     },
     "hoca": {
       "name": "hoca",
@@ -475,7 +415,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-20T03:55:29.673111"
+      "extracted_at": "2026-05-20T07:39:35.766434"
     },
     "Caster": {
       "name": "Caster",
@@ -483,7 +423,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-20T03:55:30.882454"
+      "extracted_at": "2026-05-20T07:39:36.969285"
     },
     "WIGI": {
       "name": "WIGI",
@@ -491,7 +431,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-20T03:55:32.357287"
+      "extracted_at": "2026-05-20T07:39:38.421120"
     }
   },
   "player_urls": {

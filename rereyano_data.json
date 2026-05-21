@@ -1,91 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-05-21T02:49:28.152120",
-  "total_events": 5,
+  "last_updated": "2026-05-21T06:50:15.064226",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "21-05-2026",
-      "time": "02:00",
-      "datetime": "21-05-2026 02:00",
-      "league": "NHL",
-      "teams": "Colorado Avalanche - Vegas Golden Knights",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-05-2026 (02:00) NHL : Colorado Avalanche - Vegas Golden Knights  (CH1fr) (CH194us)"
-    },
-    {
-      "date": "21-05-2026",
-      "time": "02:30",
-      "datetime": "21-05-2026 02:30",
-      "league": "NBA",
-      "teams": "Oklahoma City Thunder - San Antonio Spurs",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-05-2026 (02:30) NBA : Oklahoma City Thunder - San Antonio Spurs  (CH195us)"
-    },
-    {
-      "date": "21-05-2026",
-      "time": "02:40",
-      "datetime": "21-05-2026 02:40",
-      "league": "Copa Colombia",
-      "teams": "Dep. Cali - Alianza",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-05-2026 (02:40) Copa Colombia : Dep. Cali - Alianza  (CH81es) (CH82es)"
-    },
-    {
-      "date": "21-05-2026",
-      "time": "02:40",
-      "datetime": "21-05-2026 02:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Los Angeles Dodgers",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-05-2026 (02:40) MLB : San Diego Padres - Los Angeles Dodgers  (CH196us)"
-    },
-    {
-      "date": "21-05-2026",
-      "time": "03:38",
-      "datetime": "21-05-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Athletics",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "21-05-2026 (03:38) MLB : Los Angeles Angels - Athletics  (CH197us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -93,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-21T02:49:22.898872"
+      "extracted_at": "2026-05-21T06:50:09.970083"
     },
     "hoca": {
       "name": "hoca",
@@ -101,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-21T02:49:24.366827"
+      "extracted_at": "2026-05-21T06:50:11.222721"
     },
     "Caster": {
       "name": "Caster",
@@ -109,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-21T02:49:25.592966"
+      "extracted_at": "2026-05-21T06:50:12.811955"
     },
     "WIGI": {
       "name": "WIGI",
@@ -117,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-21T02:49:27.151962"
+      "extracted_at": "2026-05-21T06:50:14.064070"
     }
   },
   "player_urls": {

@@ -1,12 +1,545 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-05-22T13:42:02.377351",
-  "total_events": 0,
+  "last_updated": "2026-05-22T16:06:32.812954",
+  "total_events": 32,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "22-05-2026",
+      "time": "17:00",
+      "datetime": "22-05-2026 17:00",
+      "league": "EuroLeague",
+      "teams": "Olympiacos - Fenerbahce",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "22-05-2026 (17:00) EuroLeague : Olympiacos - Fenerbahce  (CH65es) (CH150gr)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "18:15",
+      "datetime": "22-05-2026 18:15",
+      "league": "formula 1",
+      "teams": "Grand Prix du Canada - Essais libres 1 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (18:15) formula 1 : Grand Prix du Canada - Essais libres 1 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "19:45",
+      "datetime": "22-05-2026 19:45",
+      "league": "Coupe De Turquie",
+      "teams": "Trabzonspor - Konyaspor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "22-05-2026 (19:45) Coupe De Turquie : Trabzonspor - Konyaspor  (CH151tr)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "20:00",
+      "datetime": "22-05-2026 20:00",
+      "league": "EuroLeague",
+      "teams": "Valencia - Real Madrid",
+      "channels": [
+        {
+          "id": "65",
+          "lang": "es"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "22-05-2026 (20:00) EuroLeague : Valencia - Real Madrid  (CH65es) (CH150gr)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "20:20",
+      "datetime": "22-05-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - Houston Astros",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "22-05-2026 (20:20) MLB : Chicago Cubs - Houston Astros  (CH180us)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "20:30",
+      "datetime": "22-05-2026 20:30",
+      "league": "Bundesliga 2",
+      "teams": "RW Essen - Greuther Furth",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (20:30) Bundesliga 2 : RW Essen - Greuther Furth  (CH111de) (CH80es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "20:45",
+      "datetime": "22-05-2026 20:45",
+      "league": "Serie A",
+      "teams": "Fiorentina - Atalanta",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (20:45) Serie A : Fiorentina - Atalanta  (CH137it) (CH89es) (CH97es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "21:00",
+      "datetime": "22-05-2026 21:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Everton - Coquimbo",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (21:00) Campeonato Itaú Chile : Everton - Coquimbo  (CH75es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "21:00",
+      "datetime": "22-05-2026 21:00",
+      "league": "Challenge Cup",
+      "teams": "Montpellier - Ulster",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "30",
+          "lang": "fr"
+        },
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (21:00) Challenge Cup : Montpellier - Ulster  (CH2fr) (CH30fr) (CH64es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "21:00",
+      "datetime": "22-05-2026 21:00",
+      "league": "Coupe De France",
+      "teams": "Lens - Nice",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "28",
+          "lang": "fr"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (21:00) Coupe De France : Lens - Nice  (CH1fr) (CH28fr) (CH70es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "22:00",
+      "datetime": "22-05-2026 22:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Juan Pablo II - FBC Melgar",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (22:00) Liga 1 Te Apuesto : Juan Pablo II - FBC Melgar  (CH84es)"
+    },
+    {
+      "date": "22-05-2026",
+      "time": "22:15",
+      "datetime": "22-05-2026 22:15",
+      "league": "formula 1",
+      "teams": "Grand Prix du Canada - Qualifications sprint -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "22-05-2026 (22:15) formula 1 : Grand Prix du Canada - Qualifications sprint -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "00:30",
+      "datetime": "23-05-2026 00:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Liverpool M. - Racing Montevideo",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (00:30) Liga AUF Uruguaya : Liverpool M. - Racing Montevideo  (CH109es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "00:40",
+      "datetime": "23-05-2026 00:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (00:40) MLB : Cincinnati Reds - St.Louis Cardinals  (CH181us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "00:40",
+      "datetime": "23-05-2026 00:40",
+      "league": "MLB",
+      "teams": "Philadelphia Phillies - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "182",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (00:40) MLB : Philadelphia Phillies - Cleveland Guardians  (CH4fr) (CH182us) (CH98es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:00",
+      "datetime": "23-05-2026 01:00",
+      "league": "Copa Argentina",
+      "teams": "Union de Santa Fe - Independiente",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:00) Copa Argentina : Union de Santa Fe - Independiente  (CH77es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:05",
+      "datetime": "23-05-2026 01:05",
+      "league": "MLB",
+      "teams": "New York Yankees - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:05) MLB : New York Yankees - Tampa Bay Rays  (CH183us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:07",
+      "datetime": "23-05-2026 01:07",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:07) MLB : Toronto Blue Jays - Pittsburgh Pirates  (CH184us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:10",
+      "datetime": "23-05-2026 01:10",
+      "league": "MLB",
+      "teams": "Boston Red Sox - Minnesota Twins",
+      "channels": [
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "185",
+          "lang": "us"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:10) MLB : Boston Red Sox - Minnesota Twins  (CH91es) (CH185us) (CH91es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:10",
+      "datetime": "23-05-2026 01:10",
+      "league": "MLB",
+      "teams": "Miami Marlins - New York Mets",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:10) MLB : Miami Marlins - New York Mets  (CH186us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:15",
+      "datetime": "23-05-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Washington Nationals",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:15) MLB : Atlanta Braves - Washington Nationals  (CH187us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:15",
+      "datetime": "23-05-2026 01:15",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Detroit Tigers",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:15) MLB : Baltimore Orioles - Detroit Tigers  (CH188us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:40",
+      "datetime": "23-05-2026 01:40",
+      "league": "MLB",
+      "teams": "Kansas City Royals - Seattle Mariners",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:40) MLB : Kansas City Royals - Seattle Mariners  (CH189us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "01:40",
+      "datetime": "23-05-2026 01:40",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (01:40) MLB : Milwaukee Brewers - Los Angeles Dodgers  (CH190us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "02:00",
+      "datetime": "23-05-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Ind. del Valle - Libertad",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (02:00) Ecuador Ligapro : Ind. del Valle - Libertad  (CH86es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "02:00",
+      "datetime": "23-05-2026 02:00",
+      "league": "NHL",
+      "teams": "Colorado Avalanche - Vegas Golden Knights",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (02:00) NHL : Colorado Avalanche - Vegas Golden Knights  (CH1fr) (CH191us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "02:30",
+      "datetime": "23-05-2026 02:30",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (02:30) NBA : San Antonio Spurs - Oklahoma City Thunder  (CH192us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "03:38",
+      "datetime": "23-05-2026 03:38",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Texas Rangers",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (03:38) MLB : Los Angeles Angels - Texas Rangers  (CH193us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "03:40",
+      "datetime": "23-05-2026 03:40",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - Colorado Rockies",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (03:40) MLB : Arizona Diamondbacks - Colorado Rockies  (CH194us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "03:40",
+      "datetime": "23-05-2026 03:40",
+      "league": "MLB",
+      "teams": "San Diego Padres - Athletics",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (03:40) MLB : San Diego Padres - Athletics  (CH195us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "04:00",
+      "datetime": "23-05-2026 04:00",
+      "league": "Amical International",
+      "teams": "Mexico - Ghana",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (04:00) Amical International : Mexico - Ghana  (CH55es) (CH68es) (CH70es) (CH106es) (CH107es) (CH108es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "04:15",
+      "datetime": "23-05-2026 04:15",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Chicago White Sox",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (04:15) MLB : San Francisco Giants - Chicago White Sox  (CH196us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +547,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-22T13:41:57.075010"
+      "extracted_at": "2026-05-22T16:06:27.289305"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +555,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-22T13:41:58.511740"
+      "extracted_at": "2026-05-22T16:06:28.918752"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +563,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-22T13:41:59.940518"
+      "extracted_at": "2026-05-22T16:06:30.191686"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +571,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-22T13:42:01.377185"
+      "extracted_at": "2026-05-22T16:06:31.812798"
     }
   },
   "player_urls": {

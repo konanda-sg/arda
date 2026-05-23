@@ -1,12 +1,1217 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-05-23T11:35:11.361832",
-  "total_events": 0,
+  "last_updated": "2026-05-23T12:41:52.644923",
+  "total_events": 76,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "23-05-2026",
+      "time": "15:00",
+      "datetime": "23-05-2026 15:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Progreso - Montevideo City",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (15:00) Liga AUF Uruguaya : Progreso - Montevideo City  (CH109es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "15:45",
+      "datetime": "23-05-2026 15:45",
+      "league": "Champions Cup",
+      "teams": "Leinster - Bordeaux Begles",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "28",
+          "lang": "fr"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "64",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (15:45) Champions Cup : Leinster - Bordeaux Begles  (CH1fr) (CH28fr) (CH55es) (CH64es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "16:00",
+      "datetime": "23-05-2026 16:00",
+      "league": "Scottish Cup",
+      "teams": "Celtic - Dunfermline",
+      "channels": [
+        {
+          "id": "130",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "23-05-2026 (16:00) Scottish Cup : Celtic - Dunfermline  (CH130gb)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "16:30",
+      "datetime": "23-05-2026 16:30",
+      "league": "Championship",
+      "teams": "Hull - Middlesbrough",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (16:30) Championship : Hull - Middlesbrough  (CH2fr) (CH127gb) (CH98es) (CH91es) (CH79es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "17:40",
+      "datetime": "23-05-2026 17:40",
+      "league": "formula 1",
+      "teams": "Grand Prix du Canada. La course Sprint -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (17:40) formula 1 : Grand Prix du Canada. La course Sprint -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "18:00",
+      "datetime": "23-05-2026 18:00",
+      "league": "Liga Endesa",
+      "teams": "Unicaja - Breogan",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (18:00) Liga Endesa : Unicaja - Breogan  (CH155es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "18:00",
+      "datetime": "23-05-2026 18:00",
+      "league": "Ligue Des Champions Femmes",
+      "teams": "Barcelona W - Lyon W",
+      "channels": [
+        {
+          "id": "19",
+          "lang": "fr"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (18:00) Ligue Des Champions Femmes : Barcelona W - Lyon W  (CH19fr) (CH71es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "18:00",
+      "datetime": "23-05-2026 18:00",
+      "league": "Serie A",
+      "teams": "Bologna - Inter",
+      "channels": [
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (18:00) Serie A : Bologna - Inter  (CH137it) (CH123de) (CH87es) (CH97es) (CH70es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "18:15",
+      "datetime": "23-05-2026 18:15",
+      "league": "Pro League",
+      "teams": "Dender - Lommel SK",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-05-2026 (18:15) Pro League : Dender - Lommel SK  (CH153fr)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "18:30",
+      "datetime": "23-05-2026 18:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "A. Italiano - Cobresal",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (18:30) Campeonato Itaú Chile : A. Italiano - Cobresal  (CH83es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "18:30",
+      "datetime": "23-05-2026 18:30",
+      "league": "Pro D2",
+      "teams": "Provence Rugby - CA Brive",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-05-2026 (18:30) Pro D2 : Provence Rugby - CA Brive  (CH11fr)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "19:35",
+      "datetime": "23-05-2026 19:35",
+      "league": "MLB",
+      "teams": "New York Yankees - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (19:35) MLB : New York Yankees - Tampa Bay Rays  (CH10fr) (CH170us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "19:45",
+      "datetime": "23-05-2026 19:45",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Moquegua - U. de Deportes",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (19:45) Liga 1 Te Apuesto : Moquegua - U. de Deportes  (CH84es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:00",
+      "datetime": "23-05-2026 20:00",
+      "league": "DFB Pokal",
+      "teams": "Bayern Munich - Stuttgart",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:00) DFB Pokal : Bayern Munich - Stuttgart  (CH1fr) (CH71es) (CH87es) (CH97es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:00",
+      "datetime": "23-05-2026 20:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Cerro Largo - Boston River",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:00) Liga AUF Uruguaya : Cerro Largo - Boston River  (CH109es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:00",
+      "datetime": "23-05-2026 20:00",
+      "league": "Liga Endesa",
+      "teams": "Gran Canaria - Manresa",
+      "channels": [
+        {
+          "id": "156",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:00) Liga Endesa : Gran Canaria - Manresa  (CH156es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:20",
+      "datetime": "23-05-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - Houston Astros",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:20) MLB : Chicago Cubs - Houston Astros  (CH171us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:45",
+      "datetime": "23-05-2026 20:45",
+      "league": "MLS",
+      "teams": "St. Louis City - Austin FC",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        },
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:45) MLS : St. Louis City - Austin FC  (CH70es) (CH172us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:45",
+      "datetime": "23-05-2026 20:45",
+      "league": "Pro League",
+      "teams": "Antwerp - Westerlo",
+      "channels": [
+        {
+          "id": "154",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:45) Pro League : Antwerp - Westerlo  (CH154fr)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:45",
+      "datetime": "23-05-2026 20:45",
+      "league": "Pro League",
+      "teams": "Leuven - Genk",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:45) Pro League : Leuven - Genk  (CH153fr)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:45",
+      "datetime": "23-05-2026 20:45",
+      "league": "Pro League",
+      "teams": "St. Liege - Charleroi",
+      "channels": [
+        {
+          "id": "152",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:45) Pro League : St. Liege - Charleroi  (CH152fr)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "20:45",
+      "datetime": "23-05-2026 20:45",
+      "league": "Serie A",
+      "teams": "Lazio - Pisa",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (20:45) Serie A : Lazio - Pisa  (CH138it) (CH98es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Nublense - U. De Concepcion",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Campeonato Itaú Chile : Nublense - U. De Concepcion  (CH83es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Mushuc Runa - Guayaquil City",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Ecuador Ligapro : Mushuc Runa - Guayaquil City  (CH86es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Alaves - Rayo Vallecano",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Alaves - Rayo Vallecano  (CH7es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Betis - Levante",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "es"
+        },
+        {
+          "id": "91",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Betis - Levante  (CH6es) (CH91es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Celta Vigo - Sevilla",
+      "channels": [
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Celta Vigo - Sevilla  (CH90es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Espanyol - Real Sociedad",
+      "channels": [
+        {
+          "id": "93",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Espanyol - Real Sociedad  (CH93es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Getafe - Osasuna",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "es"
+        },
+        {
+          "id": "96",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Getafe - Osasuna  (CH8es) (CH96es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Girona - Elche",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "52",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Girona - Elche  (CH5fr) (CH52es) (CH107es) (CH71es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "LaLiga Multigoal -",
+      "channels": [
+        {
+          "id": "49",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : LaLiga Multigoal -   (CH49es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Mallorca - Oviedo",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Mallorca - Oviedo  (CH9es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Real Madrid - Ath Bilbao",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "50",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Real Madrid - Ath Bilbao  (CH2fr) (CH50es) (CH94es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Laliga",
+      "teams": "Valencia - Barcelona",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Laliga : Valencia - Barcelona  (CH4fr) (CH51es) (CH123de) (CH89es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:00",
+      "datetime": "23-05-2026 21:00",
+      "league": "Liga Endesa",
+      "teams": "Granada - Tenerife",
+      "channels": [
+        {
+          "id": "157",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:00) Liga Endesa : Granada - Tenerife  (CH157es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:07",
+      "datetime": "23-05-2026 21:07",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:07) MLB : Toronto Blue Jays - Pittsburgh Pirates  (CH173us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "21:40",
+      "datetime": "23-05-2026 21:40",
+      "league": "formula 1",
+      "teams": "Grand Prix du Canada. Essais qualificatifs -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (21:40) formula 1 : Grand Prix du Canada. Essais qualificatifs -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:00",
+      "datetime": "23-05-2026 22:00",
+      "league": "Copa Colombia",
+      "teams": "Millonarios - Chico",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:00) Copa Colombia : Millonarios - Chico  (CH81es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:00",
+      "datetime": "23-05-2026 22:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cajamarca - Sport Boys",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:00) Liga 1 Te Apuesto : Cajamarca - Sport Boys  (CH84es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:00",
+      "datetime": "23-05-2026 22:00",
+      "league": "Serie A Bresil",
+      "teams": "Sao Paulo - Botafogo RJ",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:00) Serie A Bresil : Sao Paulo - Botafogo RJ  (CH55es) (CH61es) (CH125de)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:05",
+      "datetime": "23-05-2026 22:05",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Detroit Tigers",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:05) MLB : Baltimore Orioles - Detroit Tigers  (CH174us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:05",
+      "datetime": "23-05-2026 22:05",
+      "league": "MLB",
+      "teams": "Philadelphia Phillies - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:05) MLB : Philadelphia Phillies - Cleveland Guardians  (CH175us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:05",
+      "datetime": "23-05-2026 22:05",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Chicago White Sox",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:05) MLB : San Francisco Giants - Chicago White Sox  (CH176us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:10",
+      "datetime": "23-05-2026 22:10",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Washington Nationals",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:10) MLB : Atlanta Braves - Washington Nationals  (CH177us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:10",
+      "datetime": "23-05-2026 22:10",
+      "league": "MLB",
+      "teams": "Boston Red Sox - Minnesota Twins",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:10) MLB : Boston Red Sox - Minnesota Twins  (CH178us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:10",
+      "datetime": "23-05-2026 22:10",
+      "league": "MLB",
+      "teams": "Kansas City Royals - Seattle Mariners",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:10) MLB : Kansas City Royals - Seattle Mariners  (CH179us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:10",
+      "datetime": "23-05-2026 22:10",
+      "league": "MLB",
+      "teams": "Miami Marlins - New York Mets",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:10) MLB : Miami Marlins - New York Mets  (CH180us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "22:30",
+      "datetime": "23-05-2026 22:30",
+      "league": "MLS",
+      "teams": "Minnesota United - Real Salt Lake",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "23-05-2026 (22:30) MLS : Minnesota United - Real Salt Lake  (CH181us)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "23:30",
+      "datetime": "23-05-2026 23:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Orense - U. Catolica",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (23:30) Ecuador Ligapro : Orense - U. Catolica  (CH86es)"
+    },
+    {
+      "date": "23-05-2026",
+      "time": "23:30",
+      "datetime": "23-05-2026 23:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Nacional - Albion",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "23-05-2026 (23:30) Liga AUF Uruguaya : Nacional - Albion  (CH109es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "00:00",
+      "datetime": "24-05-2026 00:00",
+      "league": "Serie A Bresil",
+      "teams": "Gremio - Santos",
+      "channels": [
+        {
+          "id": "85",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "24-05-2026 (00:00) Serie A Bresil : Gremio - Santos  (CH85es) (CH125de)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "00:15",
+      "datetime": "24-05-2026 00:15",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cusco - Grau",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (00:15) Liga 1 Te Apuesto : Cusco - Grau  (CH84es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:00",
+      "datetime": "24-05-2026 01:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Atl. Nacional - Deportes Tolima",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:00) Liga Betplay Dimayor : Atl. Nacional - Deportes Tolima  (CH81es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:00",
+      "datetime": "24-05-2026 01:00",
+      "league": "NHL",
+      "teams": "Carolina Hurricanes - Montreal Canadiens",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:00) NHL : Carolina Hurricanes - Montreal Canadiens  (CH2fr) (CH182us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:15",
+      "datetime": "24-05-2026 01:15",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:15) MLB : Cincinnati Reds - St.Louis Cardinals  (CH183us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:15",
+      "datetime": "24-05-2026 01:15",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:15) MLB : Milwaukee Brewers - Los Angeles Dodgers  (CH184us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:30",
+      "datetime": "24-05-2026 01:30",
+      "league": "MLS",
+      "teams": "Charlotte - New England Revolution",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:30) MLS : Charlotte - New England Revolution  (CH185us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:30",
+      "datetime": "24-05-2026 01:30",
+      "league": "MLS",
+      "teams": "DC United - CF Montreal",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:30) MLS : DC United - CF Montreal  (CH186us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "01:30",
+      "datetime": "24-05-2026 01:30",
+      "league": "MLS",
+      "teams": "FC Cincinnati - Orlando City",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (01:30) MLS : FC Cincinnati - Orlando City  (CH187us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:00",
+      "datetime": "24-05-2026 02:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Union La Calera - Palestino",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:00) Campeonato Itaú Chile : Union La Calera - Palestino  (CH83es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:00",
+      "datetime": "24-05-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Dep. Cuenca - LDU Quito",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:00) Ecuador Ligapro : Dep. Cuenca - LDU Quito  (CH86es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:00",
+      "datetime": "24-05-2026 02:00",
+      "league": "NBA",
+      "teams": "Cleveland Cavaliers - New York Knicks",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:00) NBA : Cleveland Cavaliers - New York Knicks  (CH1fr) (CH188us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:00",
+      "datetime": "24-05-2026 02:00",
+      "league": "Serie A Bresil",
+      "teams": "Flamengo RJ - Palmeiras",
+      "channels": [
+        {
+          "id": "147",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:00) Serie A Bresil : Flamengo RJ - Palmeiras  (CH147pt)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:30",
+      "datetime": "24-05-2026 02:30",
+      "league": "MLS",
+      "teams": "Chicago Fire - Toronto FC",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:30) MLS : Chicago Fire - Toronto FC  (CH189us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:30",
+      "datetime": "24-05-2026 02:30",
+      "league": "MLS",
+      "teams": "Nashville SC - New York City",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:30) MLS : Nashville SC - New York City  (CH190us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "02:30",
+      "datetime": "24-05-2026 02:30",
+      "league": "MLS",
+      "teams": "Sporting Kansas City - New York Red Bulls",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (02:30) MLS : Sporting Kansas City - New York Red Bulls  (CH191us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:00",
+      "datetime": "24-05-2026 03:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Tepatitlan de Morelos - Jaiba Brava",
+      "channels": [
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:00) Liga De Expansion Mx : Tepatitlan de Morelos - Jaiba Brava  (CH99es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:30",
+      "datetime": "24-05-2026 03:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Alianza Lima - Los Chankas",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:30) Liga 1 Te Apuesto : Alianza Lima - Los Chankas  (CH84es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:30",
+      "datetime": "24-05-2026 03:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Junior - Santa Fe",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:30) Liga Betplay Dimayor : Junior - Santa Fe  (CH81es)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:30",
+      "datetime": "24-05-2026 03:30",
+      "league": "MLS",
+      "teams": "Colorado Rapids - FC Dallas",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:30) MLS : Colorado Rapids - FC Dallas  (CH192us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:30",
+      "datetime": "24-05-2026 03:30",
+      "league": "MLS",
+      "teams": "Portland Timbers - San Jose Earthquakes",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:30) MLS : Portland Timbers - San Jose Earthquakes  (CH193us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:30",
+      "datetime": "24-05-2026 03:30",
+      "league": "MLS",
+      "teams": "San Diego FC - Vancouver Whitecaps",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:30) MLS : San Diego FC - Vancouver Whitecaps  (CH194us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "03:40",
+      "datetime": "24-05-2026 03:40",
+      "league": "MLB",
+      "teams": "San Diego Padres - Athletics",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (03:40) MLB : San Diego Padres - Athletics  (CH195us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "04:05",
+      "datetime": "24-05-2026 04:05",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Texas Rangers",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (04:05) MLB : Los Angeles Angels - Texas Rangers  (CH196us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "04:10",
+      "datetime": "24-05-2026 04:10",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - Colorado Rockies",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (04:10) MLB : Arizona Diamondbacks - Colorado Rockies  (CH197us)"
+    },
+    {
+      "date": "24-05-2026",
+      "time": "04:30",
+      "datetime": "24-05-2026 04:30",
+      "league": "MLS",
+      "teams": "Los Angeles Galaxy - Houston Dynamo",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "24-05-2026 (04:30) MLS : Los Angeles Galaxy - Houston Dynamo  (CH198us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +1219,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-23T11:35:06.330982"
+      "extracted_at": "2026-05-23T12:41:47.267754"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +1227,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-23T11:35:07.754370"
+      "extracted_at": "2026-05-23T12:41:48.828519"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +1235,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-23T11:35:08.940088"
+      "extracted_at": "2026-05-23T12:41:50.384237"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +1243,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-23T11:35:10.361651"
+      "extracted_at": "2026-05-23T12:41:51.644776"
     }
   },
   "player_urls": {

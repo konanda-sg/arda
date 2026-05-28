@@ -1,12 +1,183 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-05-28T08:31:16.846879",
-  "total_events": 0,
+  "last_updated": "2026-05-28T12:05:27.300737",
+  "total_events": 11,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "28-05-2026",
+      "time": "14:00",
+      "datetime": "28-05-2026 14:00",
+      "league": "Amical International",
+      "teams": "Egypt - Russia",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "eg"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-05-2026 (14:00) Amical International : Egypt - Russia  (CH111eg) (CH70es)"
+    },
+    {
+      "date": "28-05-2026",
+      "time": "19:10",
+      "datetime": "28-05-2026 19:10",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-05-2026 (19:10) MLB : Detroit Tigers - Los Angeles Angels  (CH181us)"
+    },
+    {
+      "date": "28-05-2026",
+      "time": "20:10",
+      "datetime": "28-05-2026 20:10",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Minnesota Twins",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-05-2026 (20:10) MLB : Chicago White Sox - Minnesota Twins  (CH182us)"
+    },
+    {
+      "date": "28-05-2026",
+      "time": "20:45",
+      "datetime": "28-05-2026 20:45",
+      "league": "Amical International",
+      "teams": "Ireland - Qatar",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "us"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "139",
+          "lang": "it"
+        }
+      ],
+      "raw_line": "28-05-2026 (20:45) Amical International : Ireland - Qatar  (CH112us) (CH123de) (CH139it)"
+    },
+    {
+      "date": "28-05-2026",
+      "time": "21:00",
+      "datetime": "28-05-2026 21:00",
+      "league": "Liga Portugal",
+      "teams": "Casa Pia - Torreense",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "28-05-2026 (21:00) Liga Portugal : Casa Pia - Torreense  (CH144pt)"
+    },
+    {
+      "date": "28-05-2026",
+      "time": "21:00",
+      "datetime": "28-05-2026 21:00",
+      "league": "Pro D2",
+      "teams": "Vannes - US Oyonnax",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-05-2026 (21:00) Pro D2 : Vannes - US Oyonnax  (CH13fr)"
+    },
+    {
+      "date": "28-05-2026",
+      "time": "22:10",
+      "datetime": "28-05-2026 22:10",
+      "league": "MLB",
+      "teams": "Boston Red Sox - Atlanta Braves",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-05-2026 (22:10) MLB : Boston Red Sox - Atlanta Braves  (CH183us)"
+    },
+    {
+      "date": "29-05-2026",
+      "time": "00:35",
+      "datetime": "29-05-2026 00:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-05-2026 (00:35) MLB : Baltimore Orioles - Toronto Blue Jays  (CH184us)"
+    },
+    {
+      "date": "29-05-2026",
+      "time": "00:40",
+      "datetime": "29-05-2026 00:40",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Chicago Cubs",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-05-2026 (00:40) MLB : Pittsburgh Pirates - Chicago Cubs  (CH4fr) (CH185us)"
+    },
+    {
+      "date": "29-05-2026",
+      "time": "02:05",
+      "datetime": "29-05-2026 02:05",
+      "league": "MLB",
+      "teams": "Texas Rangers - Houston Astros",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-05-2026 (02:05) MLB : Texas Rangers - Houston Astros  (CH186us)"
+    },
+    {
+      "date": "29-05-2026",
+      "time": "02:30",
+      "datetime": "29-05-2026 02:30",
+      "league": "NBA",
+      "teams": "San Antonio Spurs - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-05-2026 (02:30) NBA : San Antonio Spurs - Oklahoma City Thunder  (CH180us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +185,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-28T08:31:11.845127"
+      "extracted_at": "2026-05-28T12:05:22.231515"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +193,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-28T08:31:13.032110"
+      "extracted_at": "2026-05-28T12:05:23.657071"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +201,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-28T08:31:14.439942"
+      "extracted_at": "2026-05-28T12:05:24.841420"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +209,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-28T08:31:15.846710"
+      "extracted_at": "2026-05-28T12:05:26.300593"
     }
   },
   "player_urls": {

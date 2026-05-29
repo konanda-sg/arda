@@ -1,73 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-05-29T00:07:15.966283",
-  "total_events": 4,
+  "last_updated": "2026-05-29T04:41:30.956031",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "29-05-2026",
-      "time": "00:35",
-      "datetime": "29-05-2026 00:35",
-      "league": "MLB",
-      "teams": "Baltimore Orioles - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-05-2026 (00:35) MLB : Baltimore Orioles - Toronto Blue Jays  (CH184us)"
-    },
-    {
-      "date": "29-05-2026",
-      "time": "00:40",
-      "datetime": "29-05-2026 00:40",
-      "league": "MLB",
-      "teams": "Pittsburgh Pirates - Chicago Cubs",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-05-2026 (00:40) MLB : Pittsburgh Pirates - Chicago Cubs  (CH4fr) (CH185us)"
-    },
-    {
-      "date": "29-05-2026",
-      "time": "02:05",
-      "datetime": "29-05-2026 02:05",
-      "league": "MLB",
-      "teams": "Texas Rangers - Houston Astros",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-05-2026 (02:05) MLB : Texas Rangers - Houston Astros  (CH186us)"
-    },
-    {
-      "date": "29-05-2026",
-      "time": "02:30",
-      "datetime": "29-05-2026 02:30",
-      "league": "NBA",
-      "teams": "San Antonio Spurs - Oklahoma City Thunder",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "29-05-2026 (02:30) NBA : San Antonio Spurs - Oklahoma City Thunder  (CH180us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -75,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-29T00:07:10.925990"
+      "extracted_at": "2026-05-29T04:41:25.778008"
     },
     "hoca": {
       "name": "hoca",
@@ -83,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-29T00:07:12.109050"
+      "extracted_at": "2026-05-29T04:41:27.258639"
     },
     "Caster": {
       "name": "Caster",
@@ -91,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-29T00:07:13.536855"
+      "extracted_at": "2026-05-29T04:41:28.752470"
     },
     "WIGI": {
       "name": "WIGI",
@@ -99,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-05-29T00:07:14.966128"
+      "extracted_at": "2026-05-29T04:41:29.955890"
     }
   },
   "player_urls": {

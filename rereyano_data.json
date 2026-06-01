@@ -1,83 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-01T01:38:14.717082",
-  "total_events": 5,
+  "last_updated": "2026-06-01T06:33:31.433731",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "01-06-2026",
-      "time": "01:10",
-      "datetime": "01-06-2026 01:10",
-      "league": "Ecuador Ligapro",
-      "teams": "Emelec - U. Catolica",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-06-2026 (01:10) Ecuador Ligapro : Emelec - U. Catolica  (CH86es)"
-    },
-    {
-      "date": "01-06-2026",
-      "time": "01:20",
-      "datetime": "01-06-2026 01:20",
-      "league": "MLB",
-      "teams": "St.Louis Cardinals - Chicago Cubs",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-06-2026 (01:20) MLB : St.Louis Cardinals - Chicago Cubs  (CH194us)"
-    },
-    {
-      "date": "01-06-2026",
-      "time": "01:30",
-      "datetime": "01-06-2026 01:30",
-      "league": "Serie A Bresil",
-      "teams": "Cruzeiro - Fluminense",
-      "channels": [
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-06-2026 (01:30) Serie A Bresil : Cruzeiro - Fluminense  (CH82es)"
-    },
-    {
-      "date": "01-06-2026",
-      "time": "01:30",
-      "datetime": "01-06-2026 01:30",
-      "league": "Serie A Bresil",
-      "teams": "Remo - Sao Paulo",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "pt"
-        }
-      ],
-      "raw_line": "01-06-2026 (01:30) Serie A Bresil : Remo - Sao Paulo  (CH160pt)"
-    },
-    {
-      "date": "01-06-2026",
-      "time": "02:00",
-      "datetime": "01-06-2026 02:00",
-      "league": "Campeonato Itaú Chile",
-      "teams": "Palestino - A. Italiano",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-06-2026 (02:00) Campeonato Itaú Chile : Palestino - A. Italiano  (CH83es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -85,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-01T01:38:09.628909"
+      "extracted_at": "2026-06-01T06:33:25.562685"
     },
     "hoca": {
       "name": "hoca",
@@ -93,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-01T01:38:10.829984"
+      "extracted_at": "2026-06-01T06:33:27.177230"
     },
     "Caster": {
       "name": "Caster",
@@ -101,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-01T01:38:12.272911"
+      "extracted_at": "2026-06-01T06:33:28.843711"
     },
     "WIGI": {
       "name": "WIGI",
@@ -109,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-01T01:38:13.716926"
+      "extracted_at": "2026-06-01T06:33:30.433562"
     }
   },
   "player_urls": {

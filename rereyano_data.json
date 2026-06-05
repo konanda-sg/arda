@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-04T23:12:37.809726",
-  "total_events": 8,
+  "last_updated": "2026-06-05T00:20:52.355316",
+  "total_events": 12,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -134,6 +134,86 @@
         }
       ],
       "raw_line": "05-06-2026 (04:00) Amical International : Mexico - Serbia  (CH68es) (CH106es) (CH107es) (CH108es)"
+    },
+    {
+      "date": "05-06-2026",
+      "time": "13:30",
+      "datetime": "05-06-2026 13:30",
+      "league": "formula 1",
+      "teams": "Grand Prix de Monaco Essais libres 1 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-06-2026 (13:30) formula 1 : Grand Prix de Monaco Essais libres 1 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "05-06-2026",
+      "time": "14:30",
+      "datetime": "05-06-2026 14:30",
+      "league": "Roland-Garros",
+      "teams": "Mensik - Zverev",
+      "channels": [
+        {
+          "id": "28",
+          "lang": "fr"
+        },
+        {
+          "id": "66",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-06-2026 (14:30) Roland-Garros : Mensik - Zverev  (CH28fr) (CH66es) (CH88es)"
+    },
+    {
+      "date": "05-06-2026",
+      "time": "17:00",
+      "datetime": "05-06-2026 17:00",
+      "league": "formula 1",
+      "teams": "Grand Prix de Monaco Essais libres 2 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-06-2026 (17:00) formula 1 : Grand Prix de Monaco Essais libres 2 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "05-06-2026",
+      "time": "19:00",
+      "datetime": "05-06-2026 19:00",
+      "league": "Roland-Garros",
+      "teams": "Arnaldi - Cobolli",
+      "channels": [
+        {
+          "id": "29",
+          "lang": "fr"
+        },
+        {
+          "id": "66",
+          "lang": "es"
+        },
+        {
+          "id": "88",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "05-06-2026 (19:00) Roland-Garros : Arnaldi - Cobolli  (CH29fr) (CH66es) (CH88es)"
     }
   ],
   "player_streams": {
@@ -143,7 +223,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-04T23:12:32.423639"
+      "extracted_at": "2026-06-05T00:20:46.731943"
     },
     "hoca": {
       "name": "hoca",
@@ -151,7 +231,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-04T23:12:33.986691"
+      "extracted_at": "2026-06-05T00:20:48.281839"
     },
     "Caster": {
       "name": "Caster",
@@ -159,7 +239,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-04T23:12:35.256423"
+      "extracted_at": "2026-06-05T00:20:49.851103"
     },
     "WIGI": {
       "name": "WIGI",
@@ -167,7 +247,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-04T23:12:36.809577"
+      "extracted_at": "2026-06-05T00:20:51.355158"
     }
   },
   "player_urls": {

@@ -1,138 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-06T20:06:47.913912",
-  "total_events": 41,
+  "last_updated": "2026-06-06T21:17:23.771350",
+  "total_events": 34,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-06-2026",
-      "time": "19:10",
-      "datetime": "06-06-2026 19:10",
-      "league": "MLB",
-      "teams": "Detroit Tigers - Seattle Mariners",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-06-2026 (19:10) MLB : Detroit Tigers - Seattle Mariners  (CH181us)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "19:45",
-      "datetime": "06-06-2026 19:45",
-      "league": "Amical International",
-      "teams": "Portugal - Chile",
-      "channels": [
-        {
-          "id": "41",
-          "lang": "fr"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "150",
-          "lang": "gr"
-        },
-        {
-          "id": "124",
-          "lang": "de"
-        },
-        {
-          "id": "115",
-          "lang": "es"
-        },
-        {
-          "id": "85",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (19:45) Amical International : Portugal - Chile  (CH41fr) (CH144pt) (CH150gr) (CH124de) (CH115es) (CH85es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "19:45",
-      "datetime": "06-06-2026 19:45",
-      "league": "Amical International",
-      "teams": "Romania - Wales",
-      "channels": [
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "123",
-          "lang": "de"
-        },
-        {
-          "id": "116",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (19:45) Amical International : Romania - Wales  (CH130gb) (CH123de) (CH116es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "20:00",
-      "datetime": "06-06-2026 20:00",
-      "league": "Amical International",
-      "teams": "Albania - Luxembourg",
-      "channels": [
-        {
-          "id": "117",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (20:00) Amical International : Albania - Luxembourg  (CH117es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "20:00",
-      "datetime": "06-06-2026 20:00",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Montevideo City - Maldonado",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (20:00) Liga AUF Uruguaya : Montevideo City - Maldonado  (CH109es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "20:10",
-      "datetime": "06-06-2026 20:10",
-      "league": "MLB",
-      "teams": "Minnesota Twins - Kansas City Royals",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-06-2026 (20:10) MLB : Minnesota Twins - Kansas City Royals  (CH182us)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "20:15",
-      "datetime": "06-06-2026 20:15",
-      "league": "MLB",
-      "teams": "St.Louis Cardinals - Cincinnati Reds",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-06-2026 (20:15) MLB : St.Louis Cardinals - Cincinnati Reds  (CH183us)"
-    },
     {
       "date": "06-06-2026",
       "time": "20:20",
@@ -713,7 +587,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T20:06:43.086452"
+      "extracted_at": "2026-06-06T21:17:18.541061"
     },
     "hoca": {
       "name": "hoca",
@@ -721,7 +595,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T20:06:44.335941"
+      "extracted_at": "2026-06-06T21:17:19.798760"
     },
     "Caster": {
       "name": "Caster",
@@ -729,7 +603,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T20:06:45.624750"
+      "extracted_at": "2026-06-06T21:17:21.092986"
     },
     "WIGI": {
       "name": "WIGI",
@@ -737,7 +611,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T20:06:46.913760"
+      "extracted_at": "2026-06-06T21:17:22.771144"
     }
   },
   "player_urls": {

@@ -1,254 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-06T21:17:23.771350",
-  "total_events": 34,
+  "last_updated": "2026-06-06T22:35:14.157486",
+  "total_events": 19,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "06-06-2026",
-      "time": "20:20",
-      "datetime": "06-06-2026 20:20",
-      "league": "MLB",
-      "teams": "Chicago Cubs - San Francisco Giants",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-06-2026 (20:20) MLB : Chicago Cubs - San Francisco Giants  (CH184us)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "20:30",
-      "datetime": "06-06-2026 20:30",
-      "league": "Amical International",
-      "teams": "USA - Germany",
-      "channels": [
-        {
-          "id": "42",
-          "lang": "fr"
-        },
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "120",
-          "lang": "de"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (20:30) Amical International : USA - Germany  (CH42fr) (CH61es) (CH120de) (CH72es) (CH73es) (CH97es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:00",
-      "datetime": "06-06-2026 21:00",
-      "league": "Amical International",
-      "teams": "Panama - Bosnia &amp; Herzegovina",
-      "channels": [
-        {
-          "id": "111",
-          "lang": "es"
-        },
-        {
-          "id": "112",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:00) Amical International : Panama - Bosnia &amp; Herzegovina  (CH111es) (CH112es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:00",
-      "datetime": "06-06-2026 21:00",
-      "league": "Amical International",
-      "teams": "Switzerland - Australia",
-      "channels": [
-        {
-          "id": "43",
-          "lang": "fr"
-        },
-        {
-          "id": "113",
-          "lang": "de"
-        },
-        {
-          "id": "114",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:00) Amical International : Switzerland - Australia  (CH43fr) (CH113de) (CH114es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:00",
-      "datetime": "06-06-2026 21:00",
-      "league": "Laliga 2",
-      "teams": "Castellon - Almeria",
-      "channels": [
-        {
-          "id": "53",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:00) Laliga 2 : Castellon - Almeria  (CH53es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:00",
-      "datetime": "06-06-2026 21:00",
-      "league": "Liga Endesa",
-      "teams": "Murcia - Barcelona",
-      "channels": [
-        {
-          "id": "156",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:00) Liga Endesa : Murcia - Barcelona  (CH156es)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Aviron Bayonnais - USA Perpignan",
-      "channels": [
-        {
-          "id": "35",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Aviron Bayonnais - USA Perpignan  (CH35fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Bordeaux Begles - Clermont",
-      "channels": [
-        {
-          "id": "32",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Bordeaux Begles - Clermont  (CH32fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Castres Olympique - RC Toulonnais",
-      "channels": [
-        {
-          "id": "34",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Castres Olympique - RC Toulonnais  (CH34fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Lyon - Montpellier",
-      "channels": [
-        {
-          "id": "36",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Lyon - Montpellier  (CH36fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Multirugby -",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Multirugby -   (CH11fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Racing 92 - Stade Toulousain",
-      "channels": [
-        {
-          "id": "33",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Racing 92 - Stade Toulousain  (CH33fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Section Paloise - Montauban",
-      "channels": [
-        {
-          "id": "37",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Section Paloise - Montauban  (CH37fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:05",
-      "datetime": "06-06-2026 21:05",
-      "league": "Top 14",
-      "teams": "Stade Rochelais - Stade Francais Paris",
-      "channels": [
-        {
-          "id": "13",
-          "lang": "fr"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:05) Top 14 : Stade Rochelais - Stade Francais Paris  (CH13fr)"
-    },
-    {
-      "date": "06-06-2026",
-      "time": "21:07",
-      "datetime": "06-06-2026 21:07",
-      "league": "MLB",
-      "teams": "Toronto Blue Jays - Baltimore Orioles",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "06-06-2026 (21:07) MLB : Toronto Blue Jays - Baltimore Orioles  (CH185us)"
-    },
     {
       "date": "06-06-2026",
       "time": "22:00",
@@ -587,7 +345,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T21:17:18.541061"
+      "extracted_at": "2026-06-06T22:35:08.869730"
     },
     "hoca": {
       "name": "hoca",
@@ -595,7 +353,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T21:17:19.798760"
+      "extracted_at": "2026-06-06T22:35:10.158025"
     },
     "Caster": {
       "name": "Caster",
@@ -603,7 +361,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T21:17:21.092986"
+      "extracted_at": "2026-06-06T22:35:11.867640"
     },
     "WIGI": {
       "name": "WIGI",
@@ -611,7 +369,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-06T21:17:22.771144"
+      "extracted_at": "2026-06-06T22:35:13.157314"
     }
   },
   "player_urls": {

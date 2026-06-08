@@ -1,67 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-08T00:15:48.414287",
-  "total_events": 3,
+  "last_updated": "2026-06-08T05:03:26.353669",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "07-06-2026",
-      "time": "23:30",
-      "datetime": "07-06-2026 23:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Defensor Sp. - Boston River",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-06-2026 (23:30) Liga AUF Uruguaya : Defensor Sp. - Boston River  (CH109es)"
-    },
-    {
-      "date": "08-06-2026",
-      "time": "01:00",
-      "datetime": "08-06-2026 01:00",
-      "league": "Amical International",
-      "teams": "Colombia - Jordan",
-      "channels": [
-        {
-          "id": "61",
-          "lang": "es"
-        },
-        {
-          "id": "144",
-          "lang": "pt"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        },
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "08-06-2026 (01:00) Amical International : Colombia - Jordan  (CH61es) (CH144pt) (CH158es) (CH159es)"
-    },
-    {
-      "date": "08-06-2026",
-      "time": "02:30",
-      "datetime": "08-06-2026 02:30",
-      "league": "MLB",
-      "teams": "Chicago Cubs - San Francisco Giants",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-06-2026 (02:30) MLB : Chicago Cubs - San Francisco Giants  (CH194us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -69,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-08T00:15:43.019610"
+      "extracted_at": "2026-06-08T05:03:20.707962"
     },
     "hoca": {
       "name": "hoca",
@@ -77,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-08T00:15:44.601337"
+      "extracted_at": "2026-06-08T05:03:22.249397"
     },
     "Caster": {
       "name": "Caster",
@@ -85,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-08T00:15:46.177088"
+      "extracted_at": "2026-06-08T05:03:24.121889"
     },
     "WIGI": {
       "name": "WIGI",
@@ -93,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-08T00:15:47.414137"
+      "extracted_at": "2026-06-08T05:03:25.353520"
     }
   },
   "player_urls": {

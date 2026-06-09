@@ -1,103 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-09T04:32:57.634622",
-  "total_events": 5,
+  "last_updated": "2026-06-09T08:20:42.610278",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "09-06-2026",
-      "time": "03:38",
-      "datetime": "09-06-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Houston Astros",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-06-2026 (03:38) MLB : Los Angeles Angels - Houston Astros  (CH195us)"
-    },
-    {
-      "date": "09-06-2026",
-      "time": "03:40",
-      "datetime": "09-06-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Cincinnati Reds",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-06-2026 (03:40) MLB : San Diego Padres - Cincinnati Reds  (CH196us)"
-    },
-    {
-      "date": "09-06-2026",
-      "time": "03:45",
-      "datetime": "09-06-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Washington Nationals",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-06-2026 (03:45) MLB : San Francisco Giants - Washington Nationals  (CH197us)"
-    },
-    {
-      "date": "09-06-2026",
-      "time": "04:00",
-      "datetime": "09-06-2026 04:00",
-      "league": "Amical International",
-      "teams": "Peru - Spain",
-      "channels": [
-        {
-          "id": "40",
-          "lang": "fr"
-        },
-        {
-          "id": "60",
-          "lang": "es"
-        },
-        {
-          "id": "158",
-          "lang": "es"
-        },
-        {
-          "id": "159",
-          "lang": "es"
-        },
-        {
-          "id": "87",
-          "lang": "es"
-        },
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "09-06-2026 (04:00) Amical International : Peru - Spain  (CH40fr) (CH60es) (CH158es) (CH159es) (CH87es) (CH97es)"
-    },
-    {
-      "date": "09-06-2026",
-      "time": "04:05",
-      "datetime": "09-06-2026 04:05",
-      "league": "MLB",
-      "teams": "Athletics - Milwaukee Brewers",
-      "channels": [
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "09-06-2026 (04:05) MLB : Athletics - Milwaukee Brewers  (CH198us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -105,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-09T04:32:52.525430"
+      "extracted_at": "2026-06-09T08:20:37.322614"
     },
     "hoca": {
       "name": "hoca",
@@ -113,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-09T04:32:53.972848"
+      "extracted_at": "2026-06-09T08:20:38.754194"
     },
     "Caster": {
       "name": "Caster",
@@ -121,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-09T04:32:55.431573"
+      "extracted_at": "2026-06-09T08:20:40.172970"
     },
     "WIGI": {
       "name": "WIGI",
@@ -129,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-09T04:32:56.634469"
+      "extracted_at": "2026-06-09T08:20:41.610123"
     }
   },
   "player_urls": {

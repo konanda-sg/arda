@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-10T20:37:43.162551",
-  "total_events": 18,
+  "last_updated": "2026-06-10T21:29:46.211644",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "10-06-2026",
-      "time": "20:00",
-      "datetime": "10-06-2026 20:00",
-      "league": "Liga Endesa",
-      "teams": "Valencia - Joventut Badalona",
-      "channels": [
-        {
-          "id": "155",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-06-2026 (20:00) Liga Endesa : Valencia - Joventut Badalona  (CH155es)"
-    },
     {
       "date": "10-06-2026",
       "time": "21:00",
@@ -89,8 +75,22 @@
     },
     {
       "date": "10-06-2026",
-      "time": "22:00",
-      "datetime": "10-06-2026 22:00",
+      "time": "22:10",
+      "datetime": "10-06-2026 22:10",
+      "league": "MLB",
+      "teams": "San Diego Padres - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "10-06-2026 (22:10) MLB : San Diego Padres - Cincinnati Reds  (CH183us)"
+    },
+    {
+      "date": "10-06-2026",
+      "time": "23:00",
+      "datetime": "10-06-2026 23:00",
       "league": "Amical International",
       "teams": "England - Costa Rica",
       "channels": [
@@ -107,21 +107,7 @@
           "lang": "es"
         }
       ],
-      "raw_line": "10-06-2026 (22:00) Amical International : England - Costa Rica  (CH19fr) (CH130gb) (CH158es)"
-    },
-    {
-      "date": "10-06-2026",
-      "time": "22:10",
-      "datetime": "10-06-2026 22:10",
-      "league": "MLB",
-      "teams": "San Diego Padres - Cincinnati Reds",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-06-2026 (22:10) MLB : San Diego Padres - Cincinnati Reds  (CH183us)"
+      "raw_line": "10-06-2026 (23:00) Amical International : England - Costa Rica  (CH19fr) (CH130gb) (CH158es)"
     },
     {
       "date": "11-06-2026",
@@ -303,7 +289,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T20:37:37.615635"
+      "extracted_at": "2026-06-10T21:29:40.523733"
     },
     "hoca": {
       "name": "hoca",
@@ -311,7 +297,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T20:37:39.182065"
+      "extracted_at": "2026-06-10T21:29:42.237925"
     },
     "Caster": {
       "name": "Caster",
@@ -319,7 +305,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T20:37:40.898297"
+      "extracted_at": "2026-06-10T21:29:43.798486"
     },
     "WIGI": {
       "name": "WIGI",
@@ -327,7 +313,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T20:37:42.162411"
+      "extracted_at": "2026-06-10T21:29:45.211483"
     }
   },
   "player_urls": {

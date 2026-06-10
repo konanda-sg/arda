@@ -1,101 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-10T03:46:10.298778",
-  "total_events": 6,
+  "last_updated": "2026-06-10T05:32:37.931513",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-06-2026",
-      "time": "03:00",
-      "datetime": "10-06-2026 03:00",
-      "league": "Amical International",
-      "teams": "Argentina - Iceland",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        },
-        {
-          "id": "71",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-06-2026 (03:00) Amical International : Argentina - Iceland  (CH158es) (CH71es)"
-    },
-    {
-      "date": "10-06-2026",
-      "time": "03:00",
-      "datetime": "10-06-2026 03:00",
-      "league": "Amical International",
-      "teams": "Iraq - Venezuela",
-      "channels": [
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "10-06-2026 (03:00) Amical International : Iraq - Venezuela  (CH159es)"
-    },
-    {
-      "date": "10-06-2026",
-      "time": "03:38",
-      "datetime": "10-06-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Houston Astros",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-06-2026 (03:38) MLB : Los Angeles Angels - Houston Astros  (CH192us)"
-    },
-    {
-      "date": "10-06-2026",
-      "time": "03:40",
-      "datetime": "10-06-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Cincinnati Reds",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-06-2026 (03:40) MLB : San Diego Padres - Cincinnati Reds  (CH193us)"
-    },
-    {
-      "date": "10-06-2026",
-      "time": "03:45",
-      "datetime": "10-06-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Washington Nationals",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-06-2026 (03:45) MLB : San Francisco Giants - Washington Nationals  (CH194us)"
-    },
-    {
-      "date": "10-06-2026",
-      "time": "04:05",
-      "datetime": "10-06-2026 04:05",
-      "league": "MLB",
-      "teams": "Athletics - Milwaukee Brewers",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-06-2026 (04:05) MLB : Athletics - Milwaukee Brewers  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -103,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T03:46:04.668582"
+      "extracted_at": "2026-06-10T05:32:32.228961"
     },
     "hoca": {
       "name": "hoca",
@@ -111,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T03:46:06.217737"
+      "extracted_at": "2026-06-10T05:32:33.955644"
     },
     "Caster": {
       "name": "Caster",
@@ -119,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T03:46:07.711385"
+      "extracted_at": "2026-06-10T05:32:35.646506"
     },
     "WIGI": {
       "name": "WIGI",
@@ -127,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-10T03:46:09.298626"
+      "extracted_at": "2026-06-10T05:32:36.931353"
     }
   },
   "player_urls": {

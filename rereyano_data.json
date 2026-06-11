@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-11T22:23:22.819648",
-  "total_events": 5,
+  "last_updated": "2026-06-11T23:02:55.578725",
+  "total_events": 7,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -108,6 +108,42 @@
         }
       ],
       "raw_line": "12-06-2026 (04:00) Coupe Du Monde : Corée du Sud - République Tchèque  (CH1fr) (CH56es) (CH130gb) (CH112de) (CH94es) (CH73es) (CH81es)"
+    },
+    {
+      "date": "12-06-2026",
+      "time": "13:30",
+      "datetime": "12-06-2026 13:30",
+      "league": "formula 1",
+      "teams": "Grand Prix de Barcelone Essais libres 1 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-06-2026 (13:30) formula 1 : Grand Prix de Barcelone Essais libres 1 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "12-06-2026",
+      "time": "17:00",
+      "datetime": "12-06-2026 17:00",
+      "league": "formula 1",
+      "teams": "Grand Prix de Barcelone Essais libres 2 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-06-2026 (17:00) formula 1 : Grand Prix de Barcelone Essais libres 2 -   (CH13fr) (CH60es)"
     }
   ],
   "player_streams": {
@@ -117,7 +153,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-11T22:23:17.384826"
+      "extracted_at": "2026-06-11T23:02:50.761900"
     },
     "hoca": {
       "name": "hoca",
@@ -125,7 +161,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-11T22:23:18.945676"
+      "extracted_at": "2026-06-11T23:02:52.199891"
     },
     "Caster": {
       "name": "Caster",
@@ -133,7 +169,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-11T22:23:20.250758"
+      "extracted_at": "2026-06-11T23:02:53.390066"
     },
     "WIGI": {
       "name": "WIGI",
@@ -141,7 +177,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-11T22:23:21.819512"
+      "extracted_at": "2026-06-11T23:02:54.578566"
     }
   },
   "player_urls": {

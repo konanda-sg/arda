@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-13T04:15:19.052496",
-  "total_events": 3,
+  "last_updated": "2026-06-13T05:48:04.179448",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "13-06-2026",
-      "time": "03:38",
-      "datetime": "13-06-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Tampa Bay Rays",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-06-2026 (03:38) MLB : Los Angeles Angels - Tampa Bay Rays  (CH192us)"
-    },
-    {
-      "date": "13-06-2026",
-      "time": "04:05",
-      "datetime": "13-06-2026 04:05",
-      "league": "MLB",
-      "teams": "Athletics - Colorado Rockies",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-06-2026 (04:05) MLB : Athletics - Colorado Rockies  (CH193us)"
-    },
-    {
-      "date": "13-06-2026",
-      "time": "04:15",
-      "datetime": "13-06-2026 04:15",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Chicago Cubs",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-06-2026 (04:15) MLB : San Francisco Giants - Chicago Cubs  (CH194us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -57,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T04:15:13.518462"
+      "extracted_at": "2026-06-13T05:47:59.079930"
     },
     "hoca": {
       "name": "hoca",
@@ -65,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T04:15:14.938854"
+      "extracted_at": "2026-06-13T05:48:00.348702"
     },
     "Caster": {
       "name": "Caster",
@@ -73,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T04:15:16.496968"
+      "extracted_at": "2026-06-13T05:48:01.620535"
     },
     "WIGI": {
       "name": "WIGI",
@@ -81,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T04:15:18.052364"
+      "extracted_at": "2026-06-13T05:48:03.179291"
     }
   },
   "player_urls": {

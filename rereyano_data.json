@@ -1,12 +1,49 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-13T11:37:10.516389",
-  "total_events": 0,
+  "last_updated": "2026-06-13T12:15:36.726420",
+  "total_events": 2,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "13-06-2026",
+      "time": "12:30",
+      "datetime": "13-06-2026 12:30",
+      "league": "formula 1",
+      "teams": "Grand Prix de Barcelone Essais libres 3 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-06-2026 (12:30) formula 1 : Grand Prix de Barcelone Essais libres 3 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "13-06-2026",
+      "time": "16:00",
+      "datetime": "13-06-2026 16:00",
+      "league": "formula 1",
+      "teams": "Grand Prix de Barcelone Essais qualificatifs -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-06-2026 (16:00) formula 1 : Grand Prix de Barcelone Essais qualificatifs -   (CH13fr) (CH60es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +51,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T11:37:04.371512"
+      "extracted_at": "2026-06-13T12:15:31.568719"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +59,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T11:37:05.678557"
+      "extracted_at": "2026-06-13T12:15:33.110781"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +67,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T11:37:07.921116"
+      "extracted_at": "2026-06-13T12:15:34.539916"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +75,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-13T11:37:09.516271"
+      "extracted_at": "2026-06-13T12:15:35.726202"
     }
   },
   "player_urls": {

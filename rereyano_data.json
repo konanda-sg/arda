@@ -1,12 +1,31 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-14T11:06:11.408235",
-  "total_events": 0,
+  "last_updated": "2026-06-14T11:54:16.733236",
+  "total_events": 1,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "14-06-2026",
+      "time": "15:00",
+      "datetime": "14-06-2026 15:00",
+      "league": "formula 1",
+      "teams": "Grand Prix de Barcelone -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-06-2026 (15:00) formula 1 : Grand Prix de Barcelone -   (CH11fr) (CH60es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +33,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-14T11:06:06.317437"
+      "extracted_at": "2026-06-14T11:54:11.055883"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +41,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-14T11:06:07.513313"
+      "extracted_at": "2026-06-14T11:54:12.679532"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +49,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-14T11:06:08.941434"
+      "extracted_at": "2026-06-14T11:54:14.281988"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +57,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-14T11:06:10.408088"
+      "extracted_at": "2026-06-14T11:54:15.733078"
     }
   },
   "player_urls": {

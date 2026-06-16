@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-16T04:08:51.684129",
-  "total_events": 3,
+  "last_updated": "2026-06-16T06:08:03.254169",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "16-06-2026",
-      "time": "03:40",
-      "datetime": "16-06-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-06-2026 (03:40) MLB : Arizona Diamondbacks - Los Angeles Angels  (CH197us)"
-    },
-    {
-      "date": "16-06-2026",
-      "time": "03:40",
-      "datetime": "16-06-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Pittsburgh Pirates",
-      "channels": [
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-06-2026 (03:40) MLB : Athletics - Pittsburgh Pirates  (CH198us)"
-    },
-    {
-      "date": "16-06-2026",
-      "time": "04:10",
-      "datetime": "16-06-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Tampa Bay Rays",
-      "channels": [
-        {
-          "id": "199",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-06-2026 (04:10) MLB : Los Angeles Dodgers - Tampa Bay Rays  (CH199us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -57,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-16T04:08:46.020483"
+      "extracted_at": "2026-06-16T06:07:58.027017"
     },
     "hoca": {
       "name": "hoca",
@@ -65,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-16T04:08:47.574180"
+      "extracted_at": "2026-06-16T06:07:59.456641"
     },
     "Caster": {
       "name": "Caster",
@@ -73,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-16T04:08:49.114501"
+      "extracted_at": "2026-06-16T06:08:00.699962"
     },
     "WIGI": {
       "name": "WIGI",
@@ -81,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-16T04:08:50.683980"
+      "extracted_at": "2026-06-16T06:08:02.254017"
     }
   },
   "player_urls": {

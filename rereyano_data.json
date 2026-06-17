@@ -1,12 +1,189 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-17T07:29:47.596381",
-  "total_events": 0,
+  "last_updated": "2026-06-17T09:13:59.316361",
+  "total_events": 4,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "17-06-2026",
+      "time": "19:00",
+      "datetime": "17-06-2026 19:00",
+      "league": "Coupe Du Monde",
+      "teams": "Portugal - D.R. Congo",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-06-2026 (19:00) Coupe Du Monde : Portugal - D.R. Congo  (CH1fr) (CH26fr) (CH56es) (CH111de) (CH114de) (CH131gb) (CH94es) (CH73es)"
+    },
+    {
+      "date": "17-06-2026",
+      "time": "22:00",
+      "datetime": "17-06-2026 22:00",
+      "league": "Coupe Du Monde",
+      "teams": "England - Croatia",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-06-2026 (22:00) Coupe Du Monde : England - Croatia  (CH1fr) (CH26fr) (CH56es) (CH49es) (CH137it) (CH111de) (CH114de) (CH130gb) (CH94es) (CH73es) (CH81es) (CH85es)"
+    },
+    {
+      "date": "18-06-2026",
+      "time": "01:00",
+      "datetime": "18-06-2026 01:00",
+      "league": "Coupe Du Monde",
+      "teams": "Ghana - Panama",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-06-2026 (01:00) Coupe Du Monde : Ghana - Panama  (CH1fr) (CH56es) (CH114de) (CH130gb) (CH94es) (CH73es)"
+    },
+    {
+      "date": "18-06-2026",
+      "time": "04:00",
+      "datetime": "18-06-2026 04:00",
+      "league": "Coupe Du Monde",
+      "teams": "Uzbekistan - Colombia",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-06-2026 (04:00) Coupe Du Monde : Uzbekistan - Colombia  (CH1fr) (CH56es) (CH114de) (CH131gb) (CH94es) (CH73es) (CH158es) (CH159es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +191,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-17T07:29:42.526087"
+      "extracted_at": "2026-06-17T09:13:54.237564"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +199,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-17T07:29:44.111854"
+      "extracted_at": "2026-06-17T09:13:55.673983"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +207,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-17T07:29:45.354262"
+      "extracted_at": "2026-06-17T09:13:56.868471"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +215,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-17T07:29:46.596230"
+      "extracted_at": "2026-06-17T09:13:58.316186"
     }
   },
   "player_urls": {

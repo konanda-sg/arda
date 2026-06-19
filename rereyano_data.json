@@ -1,12 +1,569 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-19T14:27:15.089945",
-  "total_events": 0,
+  "last_updated": "2026-06-19T16:37:40.739992",
+  "total_events": 28,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "19-06-2026",
+      "time": "20:20",
+      "datetime": "19-06-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "19-06-2026 (20:20) MLB : Chicago Cubs - Toronto Blue Jays  (CH180us)"
+    },
+    {
+      "date": "19-06-2026",
+      "time": "21:00",
+      "datetime": "19-06-2026 21:00",
+      "league": "Coupe Du Monde",
+      "teams": "USA - Australia",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "19-06-2026 (21:00) Coupe Du Monde : USA - Australia  (CH1fr) (CH26fr) (CH56es) (CH49es) (CH131gb) (CH114de) (CH137it) (CH94es) (CH73es)"
+    },
+    {
+      "date": "19-06-2026",
+      "time": "21:05",
+      "datetime": "19-06-2026 21:05",
+      "league": "Top 14",
+      "teams": "Stade Toulousain - Racing 92",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "19-06-2026 (21:05) Top 14 : Stade Toulousain - Racing 92  (CH11fr)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "00:00",
+      "datetime": "20-06-2026 00:00",
+      "league": "Coupe Du Monde",
+      "teams": "Scotland - Morocco",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (00:00) Coupe Du Monde : Scotland - Morocco  (CH1fr) (CH26fr) (CH56es) (CH130gb) (CH114de) (CH137it) (CH94es) (CH73es) (CH158es) (CH159es) (CH85es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "00:40",
+      "datetime": "20-06-2026 00:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Chicago White Sox",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (00:40) MLB : Detroit Tigers - Chicago White Sox  (CH181us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "01:00",
+      "datetime": "20-06-2026 01:00",
+      "league": "Copa Chili",
+      "teams": "A. Italiano - CD Santa Cruz",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (01:00) Copa Chili : A. Italiano - CD Santa Cruz  (CH83es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "01:05",
+      "datetime": "20-06-2026 01:05",
+      "league": "MLB",
+      "teams": "New York Yankees - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (01:05) MLB : New York Yankees - Cincinnati Reds  (CH182us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "01:10",
+      "datetime": "20-06-2026 01:10",
+      "league": "MLB",
+      "teams": "Miami Marlins - San Francisco Giants",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (01:10) MLB : Miami Marlins - San Francisco Giants  (CH183us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "01:10",
+      "datetime": "20-06-2026 01:10",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Washington Nationals",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (01:10) MLB : Tampa Bay Rays - Washington Nationals  (CH184us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "01:15",
+      "datetime": "20-06-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "90",
+          "lang": "es"
+        },
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (01:15) MLB : Atlanta Braves - Milwaukee Brewers  (CH90es) (CH185us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "02:00",
+      "datetime": "20-06-2026 02:00",
+      "league": "Copa Chili",
+      "teams": "San Marcos de Arica - Limache",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (02:00) Copa Chili : San Marcos de Arica - Limache  (CH83es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "02:05",
+      "datetime": "20-06-2026 02:05",
+      "league": "MLB",
+      "teams": "Texas Rangers - San Diego Padres",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (02:05) MLB : Texas Rangers - San Diego Padres  (CH186us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "02:10",
+      "datetime": "20-06-2026 02:10",
+      "league": "MLB",
+      "teams": "Houston Astros - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (02:10) MLB : Houston Astros - Cleveland Guardians  (CH187us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "02:15",
+      "datetime": "20-06-2026 02:15",
+      "league": "MLB",
+      "teams": "Kansas City Royals - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (02:15) MLB : Kansas City Royals - St.Louis Cardinals  (CH188us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "02:30",
+      "datetime": "20-06-2026 02:30",
+      "league": "Coupe Du Monde",
+      "teams": "Brazil - Haiti",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (02:30) Coupe Du Monde : Brazil - Haiti  (CH1fr) (CH56es) (CH130gb) (CH114de) (CH137it) (CH94es) (CH73es) (CH107es) (CH108es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "02:40",
+      "datetime": "20-06-2026 02:40",
+      "league": "MLB",
+      "teams": "Colorado Rockies - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (02:40) MLB : Colorado Rockies - Pittsburgh Pirates  (CH189us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "03:40",
+      "datetime": "20-06-2026 03:40",
+      "league": "MLB",
+      "teams": "Athletics - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (03:40) MLB : Athletics - Los Angeles Angels  (CH190us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "03:45",
+      "datetime": "20-06-2026 03:45",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - Minnesota Twins",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (03:45) MLB : Arizona Diamondbacks - Minnesota Twins  (CH191us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "04:10",
+      "datetime": "20-06-2026 04:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (04:10) MLB : Los Angeles Dodgers - Baltimore Orioles  (CH192us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "04:10",
+      "datetime": "20-06-2026 04:10",
+      "league": "MLB",
+      "teams": "Seattle Mariners - Boston Red Sox",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "20-06-2026 (04:10) MLB : Seattle Mariners - Boston Red Sox  (CH193us)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "05:00",
+      "datetime": "20-06-2026 05:00",
+      "league": "Coupe Du Monde",
+      "teams": "Turkey - Paraguay",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "114",
+          "lang": "de"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (05:00) Coupe Du Monde : Turkey - Paraguay  (CH1fr) (CH56es) (CH130gb) (CH114de) (CH137it) (CH94es) (CH73es) (CH81es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "08:45",
+      "datetime": "20-06-2026 08:45",
+      "league": "Moto3",
+      "teams": "Essais libres 2 des Moto 3 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (08:45) Moto3 : Essais libres 2 des Moto 3 -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "09:25",
+      "datetime": "20-06-2026 09:25",
+      "league": "Moto2",
+      "teams": "Essais libres 2 des Moto 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (09:25) Moto2 : Essais libres 2 des Moto 2 -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "10:10",
+      "datetime": "20-06-2026 10:10",
+      "league": "MotoGP",
+      "teams": "Essais libres 2 des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (10:10) MotoGP : Essais libres 2 des Moto GP -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "10:50",
+      "datetime": "20-06-2026 10:50",
+      "league": "MotoGP",
+      "teams": "Essais qualificatifs 1 et 2 des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (10:50) MotoGP : Essais qualificatifs 1 et 2 des Moto GP -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "12:45",
+      "datetime": "20-06-2026 12:45",
+      "league": "Moto3",
+      "teams": "Essais qualificatifs 1 et 2 des Moto 3 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (12:45) Moto3 : Essais qualificatifs 1 et 2 des Moto 3 -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "13:40",
+      "datetime": "20-06-2026 13:40",
+      "league": "Moto2",
+      "teams": "Essais qualificatifs 1 &amp; 2 des Moto 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (13:40) Moto2 : Essais qualificatifs 1 &amp; 2 des Moto 2 -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "20-06-2026",
+      "time": "15:00",
+      "datetime": "20-06-2026 15:00",
+      "league": "MotoGP",
+      "teams": "La course Sprint des Moto GP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "20-06-2026 (15:00) MotoGP : La course Sprint des Moto GP -   (CH14fr) (CH67es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +571,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-19T14:27:09.886229"
+      "extracted_at": "2026-06-19T16:37:35.609808"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +579,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-19T14:27:11.387735"
+      "extracted_at": "2026-06-19T16:37:36.901605"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +587,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-19T14:27:12.880898"
+      "extracted_at": "2026-06-19T16:37:38.465511"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +595,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-19T14:27:14.089796"
+      "extracted_at": "2026-06-19T16:37:39.739841"
     }
   },
   "player_urls": {

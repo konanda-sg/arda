@@ -1,12 +1,401 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-25T15:28:07.749058",
-  "total_events": 0,
+  "last_updated": "2026-06-25T16:20:25.721464",
+  "total_events": 16,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "25-06-2026",
+      "time": "18:10",
+      "datetime": "25-06-2026 18:10",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Kansas City Royals",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-06-2026 (18:10) MLB : Tampa Bay Rays - Kansas City Royals  (CH2fr) (CH190us)"
+    },
+    {
+      "date": "25-06-2026",
+      "time": "18:35",
+      "datetime": "25-06-2026 18:35",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Seattle Mariners",
+      "channels": [
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-06-2026 (18:35) MLB : Pittsburgh Pirates - Seattle Mariners  (CH89es) (CH191us)"
+    },
+    {
+      "date": "25-06-2026",
+      "time": "21:45",
+      "datetime": "25-06-2026 21:45",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Athletics",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "25-06-2026 (21:45) MLB : San Francisco Giants - Athletics  (CH192us)"
+    },
+    {
+      "date": "25-06-2026",
+      "time": "22:00",
+      "datetime": "25-06-2026 22:00",
+      "league": "Coupe Du Monde",
+      "teams": "Curacao - Ivory Coast",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "133",
+          "lang": "gb"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-06-2026 (22:00) Coupe Du Monde : Curacao - Ivory Coast  (CH1fr) (CH57es) (CH133gb) (CH95es) (CH72es)"
+    },
+    {
+      "date": "25-06-2026",
+      "time": "22:00",
+      "datetime": "25-06-2026 22:00",
+      "league": "Coupe Du Monde",
+      "teams": "Ecuador - Germany",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-06-2026 (22:00) Coupe Du Monde : Ecuador - Germany  (CH2fr) (CH26fr) (CH56es) (CH49es) (CH131gb) (CH137it) (CH111de) (CH94es) (CH158es) (CH159es) (CH107es) (CH108es) (CH85es) (CH73es)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "00:40",
+      "datetime": "26-06-2026 00:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Houston Astros",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-06-2026 (00:40) MLB : Detroit Tigers - Houston Astros  (CH193us)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "00:45",
+      "datetime": "26-06-2026 00:45",
+      "league": "MLB",
+      "teams": "Washington Nationals - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-06-2026 (00:45) MLB : Washington Nationals - Philadelphia Phillies  (CH194us)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:00",
+      "datetime": "26-06-2026 01:00",
+      "league": "Coupe Du Monde",
+      "teams": "Japan - Sweden",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "96",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:00) Coupe Du Monde : Japan - Sweden  (CH1fr) (CH57es) (CH131gb) (CH111de) (CH96es) (CH73es)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:00",
+      "datetime": "26-06-2026 01:00",
+      "league": "Coupe Du Monde",
+      "teams": "Tunisia - Netherlands",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "133",
+          "lang": "gb"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "81",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:00) Coupe Du Monde : Tunisia - Netherlands  (CH2fr) (CH26fr) (CH56es) (CH133gb) (CH94es) (CH81es) (CH72es)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:07",
+      "datetime": "26-06-2026 01:07",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Texas Rangers",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:07) MLB : Toronto Blue Jays - Texas Rangers  (CH195us)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:10",
+      "datetime": "26-06-2026 01:10",
+      "league": "MLB",
+      "teams": "Boston Red Sox - New York Yankees",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:10) MLB : Boston Red Sox - New York Yankees  (CH196us)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:10",
+      "datetime": "26-06-2026 01:10",
+      "league": "MLB",
+      "teams": "New York Mets - Chicago Cubs",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:10) MLB : New York Mets - Chicago Cubs  (CH197us)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:30",
+      "datetime": "26-06-2026 01:30",
+      "league": "Copa Chili",
+      "teams": "Colo Colo - O'Higgins",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:30) Copa Chili : Colo Colo - O'Higgins  (CH83es)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "01:45",
+      "datetime": "26-06-2026 01:45",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "91",
+          "lang": "es"
+        },
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-06-2026 (01:45) MLB : St.Louis Cardinals - Arizona Diamondbacks  (CH91es) (CH198us)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "04:00",
+      "datetime": "26-06-2026 04:00",
+      "league": "Coupe Du Monde",
+      "teams": "Paraguay - Australia",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "57",
+          "lang": "es"
+        },
+        {
+          "id": "132",
+          "lang": "gb"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (04:00) Coupe Du Monde : Paraguay - Australia  (CH2fr) (CH57es) (CH132gb) (CH95es) (CH85es) (CH72es)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "04:00",
+      "datetime": "26-06-2026 04:00",
+      "league": "Coupe Du Monde",
+      "teams": "Turkey - USA",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (04:00) Coupe Du Monde : Turkey - USA  (CH1fr) (CH56es) (CH130gb) (CH111de) (CH94es) (CH73es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +403,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-25T15:28:02.066527"
+      "extracted_at": "2026-06-25T16:20:20.068019"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +411,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-25T15:28:03.554273"
+      "extracted_at": "2026-06-25T16:20:21.343812"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +419,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-25T15:28:05.142465"
+      "extracted_at": "2026-06-25T16:20:23.091778"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +427,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-25T15:28:06.748901"
+      "extracted_at": "2026-06-25T16:20:24.721303"
     }
   },
   "player_urls": {

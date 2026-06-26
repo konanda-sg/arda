@@ -1,12 +1,49 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-26T12:30:58.441429",
-  "total_events": 0,
+  "last_updated": "2026-06-26T13:26:04.627712",
+  "total_events": 2,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "26-06-2026",
+      "time": "13:15",
+      "datetime": "26-06-2026 13:15",
+      "league": "formula 1",
+      "teams": "Grand Prix d'Autriche Essais libres 1 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (13:15) formula 1 : Grand Prix d'Autriche Essais libres 1 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "26-06-2026",
+      "time": "16:45",
+      "datetime": "26-06-2026 16:45",
+      "league": "formula 1",
+      "teams": "Grand Prix d'Autriche Essais libres 2 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-06-2026 (16:45) formula 1 : Grand Prix d'Autriche Essais libres 2 -   (CH13fr) (CH60es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +51,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T12:30:52.820532"
+      "extracted_at": "2026-06-26T13:25:59.584887"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +59,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T12:30:54.434471"
+      "extracted_at": "2026-06-26T13:26:00.790823"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +67,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T12:30:55.949594"
+      "extracted_at": "2026-06-26T13:26:02.382986"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +75,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T12:30:57.441263"
+      "extracted_at": "2026-06-26T13:26:03.627568"
     }
   },
   "player_urls": {

@@ -1,81 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-26T04:07:58.408018",
-  "total_events": 2,
+  "last_updated": "2026-06-26T05:40:45.696500",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "26-06-2026",
-      "time": "04:00",
-      "datetime": "26-06-2026 04:00",
-      "league": "Coupe Du Monde",
-      "teams": "Paraguay - Australia",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "57",
-          "lang": "es"
-        },
-        {
-          "id": "132",
-          "lang": "gb"
-        },
-        {
-          "id": "95",
-          "lang": "es"
-        },
-        {
-          "id": "85",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-06-2026 (04:00) Coupe Du Monde : Paraguay - Australia  (CH2fr) (CH57es) (CH132gb) (CH95es) (CH85es) (CH72es)"
-    },
-    {
-      "date": "26-06-2026",
-      "time": "04:00",
-      "datetime": "26-06-2026 04:00",
-      "league": "Coupe Du Monde",
-      "teams": "Turkey - USA",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-06-2026 (04:00) Coupe Du Monde : Turkey - USA  (CH1fr) (CH56es) (CH130gb) (CH111de) (CH94es) (CH73es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -83,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T04:07:53.262548"
+      "extracted_at": "2026-06-26T05:40:40.320110"
     },
     "hoca": {
       "name": "hoca",
@@ -91,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T04:07:54.511759"
+      "extracted_at": "2026-06-26T05:40:41.907061"
     },
     "Caster": {
       "name": "Caster",
@@ -99,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T04:07:55.769886"
+      "extracted_at": "2026-06-26T05:40:43.118324"
     },
     "WIGI": {
       "name": "WIGI",
@@ -107,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-26T04:07:57.407853"
+      "extracted_at": "2026-06-26T05:40:44.696346"
     }
   },
   "player_urls": {

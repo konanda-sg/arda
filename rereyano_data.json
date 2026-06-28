@@ -1,109 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-28T03:46:15.785999",
-  "total_events": 4,
+  "last_updated": "2026-06-28T05:33:12.970684",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "28-06-2026",
-      "time": "03:05",
-      "datetime": "28-06-2026 03:05",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Atlanta Braves",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-06-2026 (03:05) MLB : San Francisco Giants - Atlanta Braves  (CH193us)"
-    },
-    {
-      "date": "28-06-2026",
-      "time": "03:38",
-      "datetime": "28-06-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Athletics",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-06-2026 (03:38) MLB : Los Angeles Angels - Athletics  (CH194us)"
-    },
-    {
-      "date": "28-06-2026",
-      "time": "04:00",
-      "datetime": "28-06-2026 04:00",
-      "league": "Coupe Du Monde",
-      "teams": "Algeria - Austria",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "133",
-          "lang": "gb"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "95",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-06-2026 (04:00) Coupe Du Monde : Algeria - Austria  (CH1fr) (CH56es) (CH133gb) (CH111de) (CH95es) (CH73es)"
-    },
-    {
-      "date": "28-06-2026",
-      "time": "04:00",
-      "datetime": "28-06-2026 04:00",
-      "league": "Coupe Du Monde",
-      "teams": "Jordan - Argentina",
-      "channels": [
-        {
-          "id": "2",
-          "lang": "fr"
-        },
-        {
-          "id": "57",
-          "lang": "es"
-        },
-        {
-          "id": "131",
-          "lang": "gb"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "72",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-06-2026 (04:00) Coupe Du Monde : Jordan - Argentina  (CH2fr) (CH57es) (CH131gb) (CH94es) (CH81es) (CH72es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -111,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T03:46:09.943335"
+      "extracted_at": "2026-06-28T05:33:07.687696"
     },
     "hoca": {
       "name": "hoca",
@@ -119,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T03:46:11.711413"
+      "extracted_at": "2026-06-28T05:33:09.349541"
     },
     "Caster": {
       "name": "Caster",
@@ -127,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T03:46:13.458089"
+      "extracted_at": "2026-06-28T05:33:10.652516"
     },
     "WIGI": {
       "name": "WIGI",
@@ -135,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T03:46:14.785872"
+      "extracted_at": "2026-06-28T05:33:11.970567"
     }
   },
   "player_urls": {

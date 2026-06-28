@@ -1,12 +1,433 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-28T05:33:12.970684",
-  "total_events": 0,
+  "last_updated": "2026-06-28T07:07:07.603553",
+  "total_events": 26,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "28-06-2026",
+      "time": "09:35",
+      "datetime": "28-06-2026 09:35",
+      "league": "MotoGP",
+      "teams": "GP des Pays-Bas\tMotoGP Warm Up -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (09:35) MotoGP : GP des Pays-Bas\tMotoGP Warm Up -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "10:00",
+      "datetime": "28-06-2026 10:00",
+      "league": "MotoGP",
+      "teams": "GP des Pays-Bas\tMotoGP -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (10:00) MotoGP : GP des Pays-Bas\tMotoGP -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "10:55",
+      "datetime": "28-06-2026 10:55",
+      "league": "Moto3",
+      "teams": "GP des Pays-Bas\tMoto3 La course -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (10:55) Moto3 : GP des Pays-Bas\tMoto3 La course -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "12:12",
+      "datetime": "28-06-2026 12:12",
+      "league": "Moto2",
+      "teams": "GP des Pays-Bas\tMoto2 La course -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (12:12) Moto2 : GP des Pays-Bas\tMoto2 La course -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "13:55",
+      "datetime": "28-06-2026 13:55",
+      "league": "MotoGP",
+      "teams": "GP des Pays-Bas\tMotoGP La course -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (13:55) MotoGP : GP des Pays-Bas\tMotoGP La course -   (CH11fr) (CH67es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "15:00",
+      "datetime": "28-06-2026 15:00",
+      "league": "formula 1",
+      "teams": "Grand Prix d'Autriche 2026 F1 -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (15:00) formula 1 : Grand Prix d'Autriche 2026 F1 -   (CH11fr) (CH60es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "18:30",
+      "datetime": "28-06-2026 18:30",
+      "league": "Copa Chili",
+      "teams": "La Serena - Cobreloa",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (18:30) Copa Chili : La Serena - Cobreloa  (CH83es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:35",
+      "datetime": "28-06-2026 19:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Washington Nationals",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:35) MLB : Baltimore Orioles - Washington Nationals  (CH180us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:35",
+      "datetime": "28-06-2026 19:35",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:35) MLB : Pittsburgh Pirates - Cincinnati Reds  (CH181us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:37",
+      "datetime": "28-06-2026 19:37",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Texas Rangers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:37) MLB : Toronto Blue Jays - Texas Rangers  (CH182us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:40",
+      "datetime": "28-06-2026 19:40",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - Seattle Mariners",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:40) MLB : Cleveland Guardians - Seattle Mariners  (CH183us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:40",
+      "datetime": "28-06-2026 19:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Houston Astros",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:40) MLB : Detroit Tigers - Houston Astros  (CH184us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:40",
+      "datetime": "28-06-2026 19:40",
+      "league": "MLB",
+      "teams": "New York Mets - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:40) MLB : New York Mets - Philadelphia Phillies  (CH185us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "19:40",
+      "datetime": "28-06-2026 19:40",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (19:40) MLB : Tampa Bay Rays - Arizona Diamondbacks  (CH186us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "20:10",
+      "datetime": "28-06-2026 20:10",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Kansas City Royals",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (20:10) MLB : Chicago White Sox - Kansas City Royals  (CH187us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "20:10",
+      "datetime": "28-06-2026 20:10",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Chicago Cubs",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (20:10) MLB : Milwaukee Brewers - Chicago Cubs  (CH188us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "20:10",
+      "datetime": "28-06-2026 20:10",
+      "league": "MLB",
+      "teams": "Minnesota Twins - Colorado Rockies",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (20:10) MLB : Minnesota Twins - Colorado Rockies  (CH189us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "20:15",
+      "datetime": "28-06-2026 20:15",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Miami Marlins",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (20:15) MLB : St.Louis Cardinals - Miami Marlins  (CH190us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "21:00",
+      "datetime": "28-06-2026 21:00",
+      "league": "Copa Chili",
+      "teams": "Union La Calera - S. Wanderers",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (21:00) Copa Chili : Union La Calera - S. Wanderers  (CH83es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "21:00",
+      "datetime": "28-06-2026 21:00",
+      "league": "Coupe Du Monde",
+      "teams": "South Africa - Canada",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (21:00) Coupe Du Monde : South Africa - Canada  (CH1fr) (CH26fr) (CH56es) (CH49es) (CH130gb) (CH137it) (CH111de) (CH94es) (CH72es)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "21:15",
+      "datetime": "28-06-2026 21:15",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Athletics",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (21:15) MLB : Los Angeles Angels - Athletics  (CH191us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "22:05",
+      "datetime": "28-06-2026 22:05",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Atlanta Braves",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (22:05) MLB : San Francisco Giants - Atlanta Braves  (CH192us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "22:10",
+      "datetime": "28-06-2026 22:10",
+      "league": "MLB",
+      "teams": "San Diego Padres - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "28-06-2026 (22:10) MLB : San Diego Padres - Los Angeles Dodgers  (CH193us)"
+    },
+    {
+      "date": "28-06-2026",
+      "time": "23:30",
+      "datetime": "28-06-2026 23:30",
+      "league": "Copa Chili",
+      "teams": "U. De Chile - San Felipe",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-06-2026 (23:30) Copa Chili : U. De Chile - San Felipe  (CH83es)"
+    },
+    {
+      "date": "29-06-2026",
+      "time": "01:20",
+      "datetime": "29-06-2026 01:20",
+      "league": "MLB",
+      "teams": "Boston Red Sox - New York Yankees",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-06-2026 (01:20) MLB : Boston Red Sox - New York Yankees  (CH194us)"
+    },
+    {
+      "date": "29-06-2026",
+      "time": "02:00",
+      "datetime": "29-06-2026 02:00",
+      "league": "Copa Chili",
+      "teams": "D. Puerto Montt - D. Concepcion",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-06-2026 (02:00) Copa Chili : D. Puerto Montt - D. Concepcion  (CH83es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +435,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T05:33:07.687696"
+      "extracted_at": "2026-06-28T07:07:02.031741"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +443,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T05:33:09.349541"
+      "extracted_at": "2026-06-28T07:07:03.669739"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +451,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T05:33:10.652516"
+      "extracted_at": "2026-06-28T07:07:05.310102"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +459,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-28T05:33:11.970567"
+      "extracted_at": "2026-06-28T07:07:06.603396"
     }
   },
   "player_urls": {

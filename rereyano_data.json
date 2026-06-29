@@ -1,12 +1,343 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-29T12:45:39.520601",
-  "total_events": 0,
+  "last_updated": "2026-06-29T14:15:08.058785",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "29-06-2026",
+      "time": "19:00",
+      "datetime": "29-06-2026 19:00",
+      "league": "Coupe Du Monde",
+      "teams": "Brazil - Japan",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-06-2026 (19:00) Coupe Du Monde : Brazil - Japan  (CH1fr) (CH26fr) (CH56es) (CH49es) (CH130gb) (CH137it) (CH111de) (CH94es) (CH73es) (CH158es) (CH159es)"
+    },
+    {
+      "date": "29-06-2026",
+      "time": "22:30",
+      "datetime": "29-06-2026 22:30",
+      "league": "Coupe Du Monde",
+      "teams": "Germany - Paraguay",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-06-2026 (22:30) Coupe Du Monde : Germany - Paraguay  (CH1fr) (CH26fr) (CH56es) (CH131gb) (CH111de) (CH94es) (CH73es) (CH158es) (CH159es)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "00:35",
+      "datetime": "30-06-2026 00:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Chicago White Sox",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (00:35) MLB : Baltimore Orioles - Chicago White Sox  (CH180us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "00:40",
+      "datetime": "30-06-2026 00:40",
+      "league": "MLB",
+      "teams": "Philadelphia Phillies - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (00:40) MLB : Philadelphia Phillies - Pittsburgh Pirates  (CH181us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "01:00",
+      "datetime": "30-06-2026 01:00",
+      "league": "Copa Chili",
+      "teams": "U. Espanola - Colo Colo",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-06-2026 (01:00) Copa Chili : U. Espanola - Colo Colo  (CH83es)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "01:05",
+      "datetime": "30-06-2026 01:05",
+      "league": "MLB",
+      "teams": "New York Yankees - Detroit Tigers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (01:05) MLB : New York Yankees - Detroit Tigers  (CH182us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "01:07",
+      "datetime": "30-06-2026 01:07",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - New York Mets",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (01:07) MLB : Toronto Blue Jays - New York Mets  (CH183us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "01:10",
+      "datetime": "30-06-2026 01:10",
+      "league": "MLB",
+      "teams": "Boston Red Sox - Washington Nationals",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (01:10) MLB : Boston Red Sox - Washington Nationals  (CH184us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "01:10",
+      "datetime": "30-06-2026 01:10",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - Texas Rangers",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (01:10) MLB : Cleveland Guardians - Texas Rangers  (CH185us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "01:40",
+      "datetime": "30-06-2026 01:40",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (01:40) MLB : Milwaukee Brewers - Cincinnati Reds  (CH186us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "02:05",
+      "datetime": "30-06-2026 02:05",
+      "league": "MLB",
+      "teams": "Chicago Cubs - San Diego Padres",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (02:05) MLB : Chicago Cubs - San Diego Padres  (CH187us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "02:10",
+      "datetime": "30-06-2026 02:10",
+      "league": "MLB",
+      "teams": "Houston Astros - Minnesota Twins",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (02:10) MLB : Houston Astros - Minnesota Twins  (CH188us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "02:40",
+      "datetime": "30-06-2026 02:40",
+      "league": "MLB",
+      "teams": "Colorado Rockies - Miami Marlins",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (02:40) MLB : Colorado Rockies - Miami Marlins  (CH189us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "03:00",
+      "datetime": "30-06-2026 03:00",
+      "league": "Coupe Du Monde",
+      "teams": "Netherlands - Morocco",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "30-06-2026 (03:00) Coupe Du Monde : Netherlands - Morocco  (CH1fr) (CH56es) (CH130gb) (CH111de) (CH94es) (CH73es)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "03:40",
+      "datetime": "30-06-2026 03:40",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - San Francisco Giants",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (03:40) MLB : Arizona Diamondbacks - San Francisco Giants  (CH190us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "03:40",
+      "datetime": "30-06-2026 03:40",
+      "league": "MLB",
+      "teams": "Athletics - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (03:40) MLB : Athletics - Los Angeles Dodgers  (CH191us)"
+    },
+    {
+      "date": "30-06-2026",
+      "time": "03:40",
+      "datetime": "30-06-2026 03:40",
+      "league": "MLB",
+      "teams": "Seattle Mariners - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "30-06-2026 (03:40) MLB : Seattle Mariners - Los Angeles Angels  (CH192us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +345,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-29T12:45:34.018250"
+      "extracted_at": "2026-06-29T14:15:02.444305"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +353,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-29T12:45:35.295190"
+      "extracted_at": "2026-06-29T14:15:03.749627"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +361,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-29T12:45:36.842729"
+      "extracted_at": "2026-06-29T14:15:05.468099"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +369,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-29T12:45:38.520461"
+      "extracted_at": "2026-06-29T14:15:07.058612"
     }
   },
   "player_urls": {

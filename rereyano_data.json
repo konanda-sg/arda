@@ -1,89 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-06-30T03:45:48.603903",
-  "total_events": 4,
+  "last_updated": "2026-06-30T05:14:12.431951",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "30-06-2026",
-      "time": "03:00",
-      "datetime": "30-06-2026 03:00",
-      "league": "Coupe Du Monde",
-      "teams": "Netherlands - Morocco",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "30-06-2026 (03:00) Coupe Du Monde : Netherlands - Morocco  (CH1fr) (CH56es) (CH130gb) (CH111de) (CH94es) (CH73es)"
-    },
-    {
-      "date": "30-06-2026",
-      "time": "03:40",
-      "datetime": "30-06-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - San Francisco Giants",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-06-2026 (03:40) MLB : Arizona Diamondbacks - San Francisco Giants  (CH190us)"
-    },
-    {
-      "date": "30-06-2026",
-      "time": "03:40",
-      "datetime": "30-06-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Los Angeles Dodgers",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-06-2026 (03:40) MLB : Athletics - Los Angeles Dodgers  (CH191us)"
-    },
-    {
-      "date": "30-06-2026",
-      "time": "03:40",
-      "datetime": "30-06-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "30-06-2026 (03:40) MLB : Seattle Mariners - Los Angeles Angels  (CH192us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -91,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-30T03:45:43.033474"
+      "extracted_at": "2026-06-30T05:14:06.393000"
     },
     "hoca": {
       "name": "hoca",
@@ -99,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-30T03:45:44.471168"
+      "extracted_at": "2026-06-30T05:14:07.987258"
     },
     "Caster": {
       "name": "Caster",
@@ -107,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-30T03:45:46.033844"
+      "extracted_at": "2026-06-30T05:14:09.692440"
     },
     "WIGI": {
       "name": "WIGI",
@@ -115,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-06-30T03:45:47.603741"
+      "extracted_at": "2026-06-30T05:14:11.431769"
     }
   },
   "player_urls": {

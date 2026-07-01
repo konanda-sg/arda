@@ -1,109 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-01T03:46:11.007267",
-  "total_events": 4,
+  "last_updated": "2026-07-01T05:33:22.765728",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "01-07-2026",
-      "time": "03:00",
-      "datetime": "01-07-2026 03:00",
-      "league": "Coupe Du Monde",
-      "teams": "Mexico - Ecuador",
-      "channels": [
-        {
-          "id": "1",
-          "lang": "fr"
-        },
-        {
-          "id": "56",
-          "lang": "es"
-        },
-        {
-          "id": "130",
-          "lang": "gb"
-        },
-        {
-          "id": "111",
-          "lang": "de"
-        },
-        {
-          "id": "94",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        },
-        {
-          "id": "85",
-          "lang": "es"
-        },
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        },
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-07-2026 (03:00) Coupe Du Monde : Mexico - Ecuador  (CH1fr) (CH56es) (CH130gb) (CH111de) (CH94es) (CH73es) (CH85es) (CH81es) (CH107es) (CH109es)"
-    },
-    {
-      "date": "01-07-2026",
-      "time": "03:40",
-      "datetime": "01-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - San Francisco Giants",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-07-2026 (03:40) MLB : Arizona Diamondbacks - San Francisco Giants  (CH192us)"
-    },
-    {
-      "date": "01-07-2026",
-      "time": "03:40",
-      "datetime": "01-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Los Angeles Dodgers",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-07-2026 (03:40) MLB : Athletics - Los Angeles Dodgers  (CH193us)"
-    },
-    {
-      "date": "01-07-2026",
-      "time": "03:40",
-      "datetime": "01-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "01-07-2026 (03:40) MLB : Seattle Mariners - Los Angeles Angels  (CH4fr) (CH194us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -111,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-01T03:46:05.604893"
+      "extracted_at": "2026-07-01T05:33:17.424074"
     },
     "hoca": {
       "name": "hoca",
@@ -119,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-01T03:46:07.190099"
+      "extracted_at": "2026-07-01T05:33:18.869452"
     },
     "Caster": {
       "name": "Caster",
@@ -127,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-01T03:46:08.766884"
+      "extracted_at": "2026-07-01T05:33:20.305279"
     },
     "WIGI": {
       "name": "WIGI",
@@ -135,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-01T03:46:10.007112"
+      "extracted_at": "2026-07-01T05:33:21.765577"
     }
   },
   "player_urls": {

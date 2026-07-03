@@ -1,12 +1,359 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-03T15:28:28.736564",
-  "total_events": 0,
+  "last_updated": "2026-07-03T16:05:53.880648",
+  "total_events": 17,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "03-07-2026",
+      "time": "20:00",
+      "datetime": "03-07-2026 20:00",
+      "league": "Coupe Du Monde",
+      "teams": "Australia - Egypt",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-07-2026 (20:00) Coupe Du Monde : Australia - Egypt  (CH1fr) (CH26fr) (CH56es) (CH131gb) (CH111de) (CH137it) (CH94es) (CH73es)"
+    },
+    {
+      "date": "03-07-2026",
+      "time": "22:05",
+      "datetime": "03-07-2026 22:05",
+      "league": "MLB",
+      "teams": "Chicago Cubs - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "03-07-2026 (22:05) MLB : Chicago Cubs - St.Louis Cardinals  (CH180us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "00:00",
+      "datetime": "04-07-2026 00:00",
+      "league": "Coupe Du Monde",
+      "teams": "Argentina - Cape Verde",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-07-2026 (00:00) Coupe Du Monde : Argentina - Cape Verde  (CH1fr) (CH26fr) (CH56es) (CH49es) (CH130gb) (CH111de) (CH94es) (CH73es) (CH85es) (CH158es) (CH159es) (CH107es) (CH108es)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "00:45",
+      "datetime": "04-07-2026 00:45",
+      "league": "MLB",
+      "teams": "Washington Nationals - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (00:45) MLB : Washington Nationals - Pittsburgh Pirates  (CH181us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "01:05",
+      "datetime": "04-07-2026 01:05",
+      "league": "MLB",
+      "teams": "New York Yankees - Minnesota Twins",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (01:05) MLB : New York Yankees - Minnesota Twins  (CH182us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "01:10",
+      "datetime": "04-07-2026 01:10",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (01:10) MLB : Cincinnati Reds - Baltimore Orioles  (CH183us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "01:10",
+      "datetime": "04-07-2026 01:10",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - Chicago White Sox",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (01:10) MLB : Cleveland Guardians - Chicago White Sox  (CH184us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "01:15",
+      "datetime": "04-07-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - New York Mets",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (01:15) MLB : Atlanta Braves - New York Mets  (CH185us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "02:00",
+      "datetime": "04-07-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Ind. del Valle - Manta",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-07-2026 (02:00) Ecuador Ligapro : Ind. del Valle - Manta  (CH86es)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "02:10",
+      "datetime": "04-07-2026 02:10",
+      "league": "MLB",
+      "teams": "Colorado Rockies - San Francisco Giants",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (02:10) MLB : Colorado Rockies - San Francisco Giants  (CH186us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "02:15",
+      "datetime": "04-07-2026 02:15",
+      "league": "MLB",
+      "teams": "Houston Astros - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (02:15) MLB : Houston Astros - Tampa Bay Rays  (CH187us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "03:30",
+      "datetime": "04-07-2026 03:30",
+      "league": "Coupe Du Monde",
+      "teams": "Colombia - Ghana",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "130",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "04-07-2026 (03:30) Coupe Du Monde : Colombia - Ghana  (CH1fr) (CH56es) (CH130gb) (CH111de) (CH94es) (CH73es) (CH85es) (CH158es) (CH159es)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "03:38",
+      "datetime": "04-07-2026 03:38",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Boston Red Sox",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (03:38) MLB : Los Angeles Angels - Boston Red Sox  (CH188us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "03:40",
+      "datetime": "04-07-2026 03:40",
+      "league": "MLB",
+      "teams": "Athletics - Miami Marlins",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (03:40) MLB : Athletics - Miami Marlins  (CH189us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "03:45",
+      "datetime": "04-07-2026 03:45",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (03:45) MLB : Arizona Diamondbacks - Milwaukee Brewers  (CH190us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "04:10",
+      "datetime": "04-07-2026 04:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - San Diego Padres",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (04:10) MLB : Los Angeles Dodgers - San Diego Padres  (CH191us)"
+    },
+    {
+      "date": "04-07-2026",
+      "time": "04:10",
+      "datetime": "04-07-2026 04:10",
+      "league": "MLB",
+      "teams": "Seattle Mariners - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "04-07-2026 (04:10) MLB : Seattle Mariners - Toronto Blue Jays  (CH192us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +361,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-03T15:28:23.077955"
+      "extracted_at": "2026-07-03T16:05:48.557180"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +369,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-03T15:28:24.628119"
+      "extracted_at": "2026-07-03T16:05:50.289103"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +377,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-03T15:28:26.179905"
+      "extracted_at": "2026-07-03T16:05:51.584466"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +385,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-03T15:28:27.736443"
+      "extracted_at": "2026-07-03T16:05:52.880511"
     }
   },
   "player_urls": {

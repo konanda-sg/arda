@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-04T04:49:45.676844",
-  "total_events": 2,
+  "last_updated": "2026-07-04T07:40:58.087589",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "04-07-2026",
-      "time": "04:10",
-      "datetime": "04-07-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - San Diego Padres",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-07-2026 (04:10) MLB : Los Angeles Dodgers - San Diego Padres  (CH191us)"
-    },
-    {
-      "date": "04-07-2026",
-      "time": "04:10",
-      "datetime": "04-07-2026 04:10",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "04-07-2026 (04:10) MLB : Seattle Mariners - Toronto Blue Jays  (CH192us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-04T04:49:39.919170"
+      "extracted_at": "2026-07-04T07:40:52.603027"
     },
     "hoca": {
       "name": "hoca",
@@ -51,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-04T04:49:41.635336"
+      "extracted_at": "2026-07-04T07:40:54.147584"
     },
     "Caster": {
       "name": "Caster",
@@ -59,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-04T04:49:43.383957"
+      "extracted_at": "2026-07-04T07:40:55.401534"
     },
     "WIGI": {
       "name": "WIGI",
@@ -67,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-04T04:49:44.676658"
+      "extracted_at": "2026-07-04T07:40:57.087428"
     }
   },
   "player_urls": {

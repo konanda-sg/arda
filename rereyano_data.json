@@ -1,12 +1,243 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-06T14:03:08.788193",
-  "total_events": 0,
+  "last_updated": "2026-07-06T17:14:39.519299",
+  "total_events": 11,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "06-07-2026",
+      "time": "20:10",
+      "datetime": "06-07-2026 20:10",
+      "league": "MLB",
+      "teams": "Kansas City Royals - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "06-07-2026 (20:10) MLB : Kansas City Royals - Philadelphia Phillies  (CH180us)"
+    },
+    {
+      "date": "06-07-2026",
+      "time": "21:00",
+      "datetime": "06-07-2026 21:00",
+      "league": "Coupe Du Monde",
+      "teams": "Portugal - Spain",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "26",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        },
+        {
+          "id": "108",
+          "lang": "es"
+        },
+        {
+          "id": "158",
+          "lang": "es"
+        },
+        {
+          "id": "159",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-07-2026 (21:00) Coupe Du Monde : Portugal - Spain  (CH1fr) (CH26fr) (CH56es) (CH49es) (CH131gb) (CH111de) (CH137it) (CH94es) (CH73es) (CH107es) (CH108es) (CH158es) (CH159es)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "00:40",
+      "datetime": "07-07-2026 00:40",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - New York Yankees",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (00:40) MLB : Tampa Bay Rays - New York Yankees  (CH181us)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "00:45",
+      "datetime": "07-07-2026 00:45",
+      "league": "MLB",
+      "teams": "Washington Nationals - Houston Astros",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (00:45) MLB : Washington Nationals - Houston Astros  (CH182us)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "01:15",
+      "datetime": "07-07-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - New York Mets",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (01:15) MLB : Atlanta Braves - New York Mets  (CH183us)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "01:30",
+      "datetime": "07-07-2026 01:30",
+      "league": "Copa Chili",
+      "teams": "Colo Colo - Recoleta",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-07-2026 (01:30) Copa Chili : Colo Colo - Recoleta  (CH83es)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "01:45",
+      "datetime": "07-07-2026 01:45",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (01:45) MLB : St.Louis Cardinals - Milwaukee Brewers  (CH184us)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "02:00",
+      "datetime": "07-07-2026 02:00",
+      "league": "Coupe Du Monde",
+      "teams": "USA - Belgium",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "131",
+          "lang": "gb"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        },
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "07-07-2026 (02:00) Coupe Du Monde : USA - Belgium  (CH1fr) (CH56es) (CH131gb) (CH111de) (CH94es) (CH73es) (CH85es)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "03:40",
+      "datetime": "07-07-2026 03:40",
+      "league": "MLB",
+      "teams": "San Diego Padres - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (03:40) MLB : San Diego Padres - Arizona Diamondbacks  (CH185us)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "03:45",
+      "datetime": "07-07-2026 03:45",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (03:45) MLB : San Francisco Giants - Toronto Blue Jays  (CH186us)"
+    },
+    {
+      "date": "07-07-2026",
+      "time": "04:10",
+      "datetime": "07-07-2026 04:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Colorado Rockies",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "07-07-2026 (04:10) MLB : Los Angeles Dodgers - Colorado Rockies  (CH4fr) (CH187us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +245,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-06T14:03:03.270714"
+      "extracted_at": "2026-07-06T17:14:34.006350"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +253,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-06T14:03:04.900242"
+      "extracted_at": "2026-07-06T17:14:35.620785"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +261,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-06T14:03:06.517713"
+      "extracted_at": "2026-07-06T17:14:36.918493"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +269,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-06T14:03:07.788043"
+      "extracted_at": "2026-07-06T17:14:38.519140"
     }
   },
   "player_urls": {

@@ -1,143 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-08T02:09:59.019495",
-  "total_events": 9,
+  "last_updated": "2026-07-08T05:30:56.797329",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "08-07-2026",
-      "time": "01:10",
-      "datetime": "08-07-2026 01:10",
-      "league": "MLB",
-      "teams": "Cincinnati Reds - Philadelphia Phillies",
-      "channels": [
-        {
-          "id": "90",
-          "lang": "es"
-        },
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (01:10) MLB : Cincinnati Reds - Philadelphia Phillies  (CH90es) (CH187us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "01:10",
-      "datetime": "08-07-2026 01:10",
-      "league": "MLB",
-      "teams": "New York Mets - Kansas City Royals",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (01:10) MLB : New York Mets - Kansas City Royals  (CH188us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "01:40",
-      "datetime": "08-07-2026 01:40",
-      "league": "MLB",
-      "teams": "Chicago White Sox - Boston Red Sox",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (01:40) MLB : Chicago White Sox - Boston Red Sox  (CH189us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "01:40",
-      "datetime": "08-07-2026 01:40",
-      "league": "MLB",
-      "teams": "Minnesota Twins - Cleveland Guardians",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (01:40) MLB : Minnesota Twins - Cleveland Guardians  (CH190us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "01:45",
-      "datetime": "08-07-2026 01:45",
-      "league": "MLB",
-      "teams": "St.Louis Cardinals - Milwaukee Brewers",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (01:45) MLB : St.Louis Cardinals - Milwaukee Brewers  (CH191us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "02:05",
-      "datetime": "08-07-2026 02:05",
-      "league": "MLB",
-      "teams": "Texas Rangers - Los Angeles Angels",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (02:05) MLB : Texas Rangers - Los Angeles Angels  (CH192us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "03:40",
-      "datetime": "08-07-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Arizona Diamondbacks",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (03:40) MLB : San Diego Padres - Arizona Diamondbacks  (CH193us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "03:45",
-      "datetime": "08-07-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (03:45) MLB : San Francisco Giants - Toronto Blue Jays  (CH194us)"
-    },
-    {
-      "date": "08-07-2026",
-      "time": "04:10",
-      "datetime": "08-07-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Colorado Rockies",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "08-07-2026 (04:10) MLB : Los Angeles Dodgers - Colorado Rockies  (CH195us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -145,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-08T02:09:53.976325"
+      "extracted_at": "2026-07-08T05:30:51.275446"
     },
     "hoca": {
       "name": "hoca",
@@ -153,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-08T02:09:55.399195"
+      "extracted_at": "2026-07-08T05:30:52.931154"
     },
     "Caster": {
       "name": "Caster",
@@ -161,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-08T02:09:56.825050"
+      "extracted_at": "2026-07-08T05:30:54.199647"
     },
     "WIGI": {
       "name": "WIGI",
@@ -169,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-08T02:09:58.019368"
+      "extracted_at": "2026-07-08T05:30:55.797180"
     }
   },
   "player_urls": {

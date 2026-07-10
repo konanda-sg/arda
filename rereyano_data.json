@@ -1,41 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-10T04:31:37.241924",
-  "total_events": 2,
+  "last_updated": "2026-07-10T08:03:27.472889",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "10-07-2026",
-      "time": "03:40",
-      "datetime": "10-07-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Arizona Diamondbacks",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-07-2026 (03:40) MLB : San Diego Padres - Arizona Diamondbacks  (CH191us)"
-    },
-    {
-      "date": "10-07-2026",
-      "time": "03:45",
-      "datetime": "10-07-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Colorado Rockies",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "10-07-2026 (03:45) MLB : San Francisco Giants - Colorado Rockies  (CH192us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -43,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-10T04:31:31.263243"
+      "extracted_at": "2026-07-10T08:03:22.354295"
     },
     "hoca": {
       "name": "hoca",
@@ -51,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-10T04:31:32.940215"
+      "extracted_at": "2026-07-10T08:03:23.814829"
     },
     "Caster": {
       "name": "Caster",
@@ -59,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-10T04:31:34.587479"
+      "extracted_at": "2026-07-10T08:03:25.014768"
     },
     "WIGI": {
       "name": "WIGI",
@@ -67,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-10T04:31:36.241743"
+      "extracted_at": "2026-07-10T08:03:26.472753"
     }
   },
   "player_urls": {

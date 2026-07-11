@@ -1,69 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-11T04:26:47.380688",
-  "total_events": 4,
+  "last_updated": "2026-07-11T06:34:28.142900",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "11-07-2026",
-      "time": "03:40",
-      "datetime": "11-07-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Toronto Blue Jays",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-07-2026 (03:40) MLB : San Diego Padres - Toronto Blue Jays  (CH195us)"
-    },
-    {
-      "date": "11-07-2026",
-      "time": "04:10",
-      "datetime": "11-07-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Arizona Diamondbacks",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-07-2026 (04:10) MLB : Los Angeles Dodgers - Arizona Diamondbacks  (CH196us)"
-    },
-    {
-      "date": "11-07-2026",
-      "time": "04:15",
-      "datetime": "11-07-2026 04:15",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Colorado Rockies",
-      "channels": [
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-07-2026 (04:15) MLB : San Francisco Giants - Colorado Rockies  (CH197us)"
-    },
-    {
-      "date": "11-07-2026",
-      "time": "05:00",
-      "datetime": "11-07-2026 05:00",
-      "league": "NBA",
-      "teams": "Phoenix Suns - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "11-07-2026 (05:00) NBA : Phoenix Suns - Portland Trail Blazers  (CH198us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -71,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-11T04:26:41.716118"
+      "extracted_at": "2026-07-11T06:34:22.916211"
     },
     "hoca": {
       "name": "hoca",
@@ -79,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-11T04:26:43.017018"
+      "extracted_at": "2026-07-11T06:34:24.542087"
     },
     "Caster": {
       "name": "Caster",
@@ -87,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-11T04:26:44.638574"
+      "extracted_at": "2026-07-11T06:34:25.826793"
     },
     "WIGI": {
       "name": "WIGI",
@@ -95,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-11T04:26:46.380534"
+      "extracted_at": "2026-07-11T06:34:27.142764"
     }
   },
   "player_urls": {

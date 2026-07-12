@@ -1,12 +1,477 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-12T11:33:41.331282",
-  "total_events": 0,
+  "last_updated": "2026-07-12T12:36:28.155664",
+  "total_events": 32,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "12-07-2026",
+      "time": "12:15",
+      "datetime": "12-07-2026 12:15",
+      "league": "Moto2",
+      "teams": "Grand Prix d’Allemagne La course des Moto 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (12:15) Moto2 : Grand Prix d’Allemagne La course des Moto 2 -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "14:00",
+      "datetime": "12-07-2026 14:00",
+      "league": "MotoGP",
+      "teams": "Grand Prix d’Allemagne La course des Moto GP -",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (14:00) MotoGP : Grand Prix d’Allemagne La course des Moto GP -   (CH11fr) (CH67es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "17:00",
+      "datetime": "12-07-2026 17:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Liverpool M. - CA Cerro",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (17:00) Liga AUF Uruguaya : Liverpool M. - CA Cerro  (CH109es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "18:15",
+      "datetime": "12-07-2026 18:15",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (18:15) MLB : Pittsburgh Pirates - Milwaukee Brewers  (CH170us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "18:30",
+      "datetime": "12-07-2026 18:30",
+      "league": "Copa Chili",
+      "teams": "Cobreloa - La Serena",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (18:30) Copa Chili : Cobreloa - La Serena  (CH83es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:00",
+      "datetime": "12-07-2026 19:00",
+      "league": "Ecuador Ligapro",
+      "teams": "LDU Quito - Libertad",
+      "channels": [
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:00) Ecuador Ligapro : LDU Quito - Libertad  (CH85es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:35",
+      "datetime": "12-07-2026 19:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Kansas City Royals",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:35) MLB : Baltimore Orioles - Kansas City Royals  (CH171us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:35",
+      "datetime": "12-07-2026 19:35",
+      "league": "MLB",
+      "teams": "Washington Nationals - New York Yankees",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:35) MLB : Washington Nationals - New York Yankees  (CH172us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:40",
+      "datetime": "12-07-2026 19:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - Chicago Cubs",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:40) MLB : Cincinnati Reds - Chicago Cubs  (CH173us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:40",
+      "datetime": "12-07-2026 19:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:40) MLB : Detroit Tigers - Philadelphia Phillies  (CH174us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:40",
+      "datetime": "12-07-2026 19:40",
+      "league": "MLB",
+      "teams": "Miami Marlins - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:40) MLB : Miami Marlins - Cleveland Guardians  (CH175us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:40",
+      "datetime": "12-07-2026 19:40",
+      "league": "MLB",
+      "teams": "New York Mets - Boston Red Sox",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:40) MLB : New York Mets - Boston Red Sox  (CH176us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "19:40",
+      "datetime": "12-07-2026 19:40",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Seattle Mariners",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (19:40) MLB : Tampa Bay Rays - Seattle Mariners  (CH177us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "20:00",
+      "datetime": "12-07-2026 20:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Boston River - Central Esp.",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (20:00) Liga AUF Uruguaya : Boston River - Central Esp.  (CH109es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "20:10",
+      "datetime": "12-07-2026 20:10",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Athletics",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (20:10) MLB : Chicago White Sox - Athletics  (CH178us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "20:10",
+      "datetime": "12-07-2026 20:10",
+      "league": "MLB",
+      "teams": "Minnesota Twins - Los Angeles Angels",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (20:10) MLB : Minnesota Twins - Los Angeles Angels  (CH179us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "20:15",
+      "datetime": "12-07-2026 20:15",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Atlanta Braves",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (20:15) MLB : St.Louis Cardinals - Atlanta Braves  (CH180us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "20:35",
+      "datetime": "12-07-2026 20:35",
+      "league": "MLB",
+      "teams": "Texas Rangers - Houston Astros",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (20:35) MLB : Texas Rangers - Houston Astros  (CH181us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "21:00",
+      "datetime": "12-07-2026 21:00",
+      "league": "NBA",
+      "teams": "New Orleans Pelicans - Phoenix Suns",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (21:00) NBA : New Orleans Pelicans - Phoenix Suns  (CH4fr) (CH182us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "21:15",
+      "datetime": "12-07-2026 21:15",
+      "league": "Copa Argentina",
+      "teams": "Ind. Rivadavia - Tigre",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (21:15) Copa Argentina : Ind. Rivadavia - Tigre  (CH77es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "22:00",
+      "datetime": "12-07-2026 22:00",
+      "league": "NBA",
+      "teams": "Detroit Pistons - Cleveland Cavaliers",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (22:00) NBA : Detroit Pistons - Cleveland Cavaliers  (CH183us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "22:05",
+      "datetime": "12-07-2026 22:05",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Colorado Rockies",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (22:05) MLB : San Francisco Giants - Colorado Rockies  (CH184us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "22:10",
+      "datetime": "12-07-2026 22:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (22:10) MLB : Los Angeles Dodgers - Arizona Diamondbacks  (CH185us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "22:10",
+      "datetime": "12-07-2026 22:10",
+      "league": "MLB",
+      "teams": "San Diego Padres - Toronto Blue Jays",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (22:10) MLB : San Diego Padres - Toronto Blue Jays  (CH186us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "23:00",
+      "datetime": "12-07-2026 23:00",
+      "league": "NBA",
+      "teams": "Boston Celtics - Charlotte Hornets",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-07-2026 (23:00) NBA : Boston Celtics - Charlotte Hornets  (CH4fr) (CH187us)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "23:30",
+      "datetime": "12-07-2026 23:30",
+      "league": "Copa Chili",
+      "teams": "D. Concepcion - D. Puerto Montt",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (23:30) Copa Chili : D. Concepcion - D. Puerto Montt  (CH83es)"
+    },
+    {
+      "date": "12-07-2026",
+      "time": "23:30",
+      "datetime": "12-07-2026 23:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Racing Montevideo - Penarol",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-07-2026 (23:30) Liga AUF Uruguaya : Racing Montevideo - Penarol  (CH109es)"
+    },
+    {
+      "date": "13-07-2026",
+      "time": "00:00",
+      "datetime": "13-07-2026 00:00",
+      "league": "NBA",
+      "teams": "Golden State Warriors - Oklahoma City Thunder",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-07-2026 (00:00) NBA : Golden State Warriors - Oklahoma City Thunder  (CH188us)"
+    },
+    {
+      "date": "13-07-2026",
+      "time": "01:00",
+      "datetime": "13-07-2026 01:00",
+      "league": "NBA",
+      "teams": "Portland Trail Blazers - Orlando Magic",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-07-2026 (01:00) NBA : Portland Trail Blazers - Orlando Magic  (CH189us)"
+    },
+    {
+      "date": "13-07-2026",
+      "time": "02:00",
+      "datetime": "13-07-2026 02:00",
+      "league": "NBA",
+      "teams": "Washington Wizards - Sacramento Kings",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-07-2026 (02:00) NBA : Washington Wizards - Sacramento Kings  (CH190us)"
+    },
+    {
+      "date": "13-07-2026",
+      "time": "03:00",
+      "datetime": "13-07-2026 03:00",
+      "league": "NBA",
+      "teams": "Milwaukee Bucks - San Antonio Spurs",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-07-2026 (03:00) NBA : Milwaukee Bucks - San Antonio Spurs  (CH191us)"
+    },
+    {
+      "date": "13-07-2026",
+      "time": "04:00",
+      "datetime": "13-07-2026 04:00",
+      "league": "NBA",
+      "teams": "Utah Jazz - Los Angeles Clippers",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-07-2026 (04:00) NBA : Utah Jazz - Los Angeles Clippers  (CH192us)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +479,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T11:32:39.010454"
+      "extracted_at": "2026-07-12T12:36:22.603633"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +487,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T11:32:59.486762"
+      "extracted_at": "2026-07-12T12:36:24.291578"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +495,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T11:33:19.900552"
+      "extracted_at": "2026-07-12T12:36:25.877308"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +503,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T11:33:40.331130"
+      "extracted_at": "2026-07-12T12:36:27.155511"
     }
   },
   "player_urls": {

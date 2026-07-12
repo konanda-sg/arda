@@ -1,103 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-12T08:38:58.576326",
-  "total_events": 5,
+  "last_updated": "2026-07-12T10:15:33.090401",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "12-07-2026",
-      "time": "09:40",
-      "datetime": "12-07-2026 09:40",
-      "league": "MotoGP",
-      "teams": "Grand Prix d’Allemagne de MotoGP Warm up des Moto GP -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-07-2026 (09:40) MotoGP : Grand Prix d’Allemagne de MotoGP Warm up des Moto GP -   (CH14fr) (CH67es)"
-    },
-    {
-      "date": "12-07-2026",
-      "time": "10:00",
-      "datetime": "12-07-2026 10:00",
-      "league": "MotoGP",
-      "teams": "Grand Prix d’Allemagne La parade des pllotes -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-07-2026 (10:00) MotoGP : Grand Prix d’Allemagne La parade des pllotes -   (CH14fr) (CH67es)"
-    },
-    {
-      "date": "12-07-2026",
-      "time": "11:00",
-      "datetime": "12-07-2026 11:00",
-      "league": "Moto3",
-      "teams": "Grand Prix d’Allemagne La course des Moto 3 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-07-2026 (11:00) Moto3 : Grand Prix d’Allemagne La course des Moto 3 -   (CH14fr) (CH67es)"
-    },
-    {
-      "date": "12-07-2026",
-      "time": "12:15",
-      "datetime": "12-07-2026 12:15",
-      "league": "Moto2",
-      "teams": "Grand Prix d’Allemagne La course des Moto 2 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-07-2026 (12:15) Moto2 : Grand Prix d’Allemagne La course des Moto 2 -   (CH14fr) (CH67es)"
-    },
-    {
-      "date": "12-07-2026",
-      "time": "14:00",
-      "datetime": "12-07-2026 14:00",
-      "league": "MotoGP",
-      "teams": "Grand Prix d’Allemagne La course des Moto GP -",
-      "channels": [
-        {
-          "id": "11",
-          "lang": "fr"
-        },
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "12-07-2026 (14:00) MotoGP : Grand Prix d’Allemagne La course des Moto GP -   (CH11fr) (CH67es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -105,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T08:38:53.066290"
+      "extracted_at": "2026-07-12T10:14:29.709324"
     },
     "hoca": {
       "name": "hoca",
@@ -113,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T08:38:54.612889"
+      "extracted_at": "2026-07-12T10:14:50.618913"
     },
     "Caster": {
       "name": "Caster",
@@ -121,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T08:38:56.043090"
+      "extracted_at": "2026-07-12T10:15:11.260664"
     },
     "WIGI": {
       "name": "WIGI",
@@ -129,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-12T08:38:57.576152"
+      "extracted_at": "2026-07-12T10:15:32.090246"
     }
   },
   "player_urls": {

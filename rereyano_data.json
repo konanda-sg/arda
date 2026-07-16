@@ -1,58 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-15T23:54:52.782104",
-  "total_events": 8,
+  "last_updated": "2026-07-16T02:05:49.098545",
+  "total_events": 5,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "15-07-2026",
-      "time": "23:30",
-      "datetime": "15-07-2026 23:30",
-      "league": "NBA",
-      "teams": "Cleveland Cavaliers - New Orleans Pelicans",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "15-07-2026 (23:30) NBA : Cleveland Cavaliers - New Orleans Pelicans  (CH182us)"
-    },
-    {
-      "date": "16-07-2026",
-      "time": "00:00",
-      "datetime": "16-07-2026 00:00",
-      "league": "Ecuador Ligapro",
-      "teams": "U. Catolica - LDU Quito",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "16-07-2026 (00:00) Ecuador Ligapro : U. Catolica - LDU Quito  (CH86es)"
-    },
-    {
-      "date": "16-07-2026",
-      "time": "00:00",
-      "datetime": "16-07-2026 00:00",
-      "league": "NBA",
-      "teams": "Detroit Pistons - Phoenix Suns",
-      "channels": [
-        {
-          "id": "89",
-          "lang": "es"
-        },
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "16-07-2026 (00:00) NBA : Detroit Pistons - Phoenix Suns  (CH89es) (CH183us)"
-    },
     {
       "date": "16-07-2026",
       "time": "01:30",
@@ -135,7 +89,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-15T23:54:47.649490"
+      "extracted_at": "2026-07-16T02:05:43.375954"
     },
     "hoca": {
       "name": "hoca",
@@ -143,7 +97,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-15T23:54:48.907920"
+      "extracted_at": "2026-07-16T02:05:44.634593"
     },
     "Caster": {
       "name": "Caster",
@@ -151,7 +105,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-15T23:54:50.517006"
+      "extracted_at": "2026-07-16T02:05:46.363207"
     },
     "WIGI": {
       "name": "WIGI",
@@ -159,7 +113,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-15T23:54:51.781908"
+      "extracted_at": "2026-07-16T02:05:48.098387"
     }
   },
   "player_urls": {

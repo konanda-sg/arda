@@ -1,12 +1,277 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-16T17:50:46.897002",
-  "total_events": 0,
+  "last_updated": "2026-07-16T19:02:14.085043",
+  "total_events": 18,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "16-07-2026",
+      "time": "22:00",
+      "datetime": "16-07-2026 22:00",
+      "league": "NBA",
+      "teams": "Oklahoma City Thunder - Dallas Mavericks",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-07-2026 (22:00) NBA : Oklahoma City Thunder - Dallas Mavericks  (CH180us)"
+    },
+    {
+      "date": "16-07-2026",
+      "time": "22:30",
+      "datetime": "16-07-2026 22:30",
+      "league": "NBA",
+      "teams": "Houston Rockets - Brooklyn Nets",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "16-07-2026 (22:30) NBA : Houston Rockets - Brooklyn Nets  (CH4fr) (CH181us)"
+    },
+    {
+      "date": "16-07-2026",
+      "time": "23:30",
+      "datetime": "16-07-2026 23:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Aucas - Ind. del Valle",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-07-2026 (23:30) Ecuador Ligapro : Aucas - Ind. del Valle  (CH86es)"
+    },
+    {
+      "date": "16-07-2026",
+      "time": "23:45",
+      "datetime": "16-07-2026 23:45",
+      "league": "Copa Argentina",
+      "teams": "Racing Club - Defensa y Justicia",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "16-07-2026 (23:45) Copa Argentina : Racing Club - Defensa y Justicia  (CH77es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "00:00",
+      "datetime": "17-07-2026 00:00",
+      "league": "NBA",
+      "teams": "Chicago Bulls - Los Angeles Lakers",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-07-2026 (00:00) NBA : Chicago Bulls - Los Angeles Lakers  (CH182us)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "01:00",
+      "datetime": "17-07-2026 01:00",
+      "league": "NBA",
+      "teams": "New York Knicks - Golden State Warriors",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-07-2026 (01:00) NBA : New York Knicks - Golden State Warriors  (CH183us)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "01:10",
+      "datetime": "17-07-2026 01:10",
+      "league": "MLB",
+      "teams": "Philadelphia Phillies - New York Mets",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        },
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-07-2026 (01:10) MLB : Philadelphia Phillies - New York Mets  (CH6fr) (CH89es) (CH184us)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "01:30",
+      "datetime": "17-07-2026 01:30",
+      "league": "MLS",
+      "teams": "CF Montreal - Toronto FC",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (01:30) MLS : CF Montreal - Toronto FC  (CH170es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "02:00",
+      "datetime": "17-07-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Orense - Emelec",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (02:00) Ecuador Ligapro : Orense - Emelec  (CH86es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "02:00",
+      "datetime": "17-07-2026 02:00",
+      "league": "NBA",
+      "teams": "Atlanta Hawks - Memphis Grizzlies",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-07-2026 (02:00) NBA : Atlanta Hawks - Memphis Grizzlies  (CH185us)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "02:30",
+      "datetime": "17-07-2026 02:30",
+      "league": "MLS",
+      "teams": "Chicago Fire - Vancouver Whitecaps",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (02:30) MLS : Chicago Fire - Vancouver Whitecaps  (CH171es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "02:30",
+      "datetime": "17-07-2026 02:30",
+      "league": "MLS",
+      "teams": "St. Louis City - Sporting Kansas City",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (02:30) MLS : St. Louis City - Sporting Kansas City  (CH172es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "02:45",
+      "datetime": "17-07-2026 02:45",
+      "league": "Copa Argentina",
+      "teams": "Sarmiento Junin - Boca Juniors",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (02:45) Copa Argentina : Sarmiento Junin - Boca Juniors  (CH77es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "03:00",
+      "datetime": "17-07-2026 03:00",
+      "league": "Liga Mx",
+      "teams": "Necaxa - Atlante",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (03:00) Liga Mx : Necaxa - Atlante  (CH160es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "03:00",
+      "datetime": "17-07-2026 03:00",
+      "league": "NBA",
+      "teams": "Miami Heat - Toronto Raptors",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-07-2026 (03:00) NBA : Miami Heat - Toronto Raptors  (CH186us)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "04:00",
+      "datetime": "17-07-2026 04:00",
+      "league": "NBA",
+      "teams": "Denver Nuggets - Portland Trail Blazers",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-07-2026 (04:00) NBA : Denver Nuggets - Portland Trail Blazers  (CH187us)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "04:30",
+      "datetime": "17-07-2026 04:30",
+      "league": "MLS",
+      "teams": "Seattle Sounders - Portland Timbers",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (04:30) MLS : Seattle Sounders - Portland Timbers  (CH173es)"
+    },
+    {
+      "date": "17-07-2026",
+      "time": "05:10",
+      "datetime": "17-07-2026 05:10",
+      "league": "Liga Mx",
+      "teams": "Club Tijuana - Tigres UANL",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-07-2026 (05:10) Liga Mx : Club Tijuana - Tigres UANL  (CH160es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +279,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-16T17:50:41.359220"
+      "extracted_at": "2026-07-16T19:02:08.996975"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +287,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-16T17:50:42.799113"
+      "extracted_at": "2026-07-16T19:02:10.447778"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +295,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-16T17:50:44.346190"
+      "extracted_at": "2026-07-16T19:02:11.894053"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +303,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-16T17:50:45.896794"
+      "extracted_at": "2026-07-16T19:02:13.084873"
     }
   },
   "player_urls": {

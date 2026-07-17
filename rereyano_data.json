@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-17T04:07:21.907894",
-  "total_events": 3,
+  "last_updated": "2026-07-17T06:26:30.034624",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "17-07-2026",
-      "time": "04:00",
-      "datetime": "17-07-2026 04:00",
-      "league": "NBA",
-      "teams": "Denver Nuggets - Portland Trail Blazers",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "17-07-2026 (04:00) NBA : Denver Nuggets - Portland Trail Blazers  (CH187us)"
-    },
-    {
-      "date": "17-07-2026",
-      "time": "04:30",
-      "datetime": "17-07-2026 04:30",
-      "league": "MLS",
-      "teams": "Seattle Sounders - Portland Timbers",
-      "channels": [
-        {
-          "id": "173",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-07-2026 (04:30) MLS : Seattle Sounders - Portland Timbers  (CH173es)"
-    },
-    {
-      "date": "17-07-2026",
-      "time": "05:10",
-      "datetime": "17-07-2026 05:10",
-      "league": "Liga Mx",
-      "teams": "Club Tijuana - Tigres UANL",
-      "channels": [
-        {
-          "id": "160",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "17-07-2026 (05:10) Liga Mx : Club Tijuana - Tigres UANL  (CH160es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -57,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-17T04:07:16.180885"
+      "extracted_at": "2026-07-17T06:26:24.656636"
     },
     "hoca": {
       "name": "hoca",
@@ -65,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-17T04:07:17.882535"
+      "extracted_at": "2026-07-17T06:26:26.179562"
     },
     "Caster": {
       "name": "Caster",
@@ -73,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-17T04:07:19.243046"
+      "extracted_at": "2026-07-17T06:26:27.603101"
     },
     "WIGI": {
       "name": "WIGI",
@@ -81,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-17T04:07:20.907698"
+      "extracted_at": "2026-07-17T06:26:29.034462"
     }
   },
   "player_urls": {

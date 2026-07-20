@@ -1,87 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-20T01:13:07.879621",
-  "total_events": 5,
+  "last_updated": "2026-07-20T04:52:45.286168",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "20-07-2026",
-      "time": "00:30",
-      "datetime": "20-07-2026 00:30",
-      "league": "NBA",
-      "teams": "Toronto Raptors - Denver Nuggets",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-07-2026 (00:30) NBA : Toronto Raptors - Denver Nuggets  (CH196us)"
-    },
-    {
-      "date": "20-07-2026",
-      "time": "01:20",
-      "datetime": "20-07-2026 01:20",
-      "league": "MLB",
-      "teams": "New York Yankees - Los Angeles Dodgers",
-      "channels": [
-        {
-          "id": "5",
-          "lang": "fr"
-        },
-        {
-          "id": "197",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-07-2026 (01:20) MLB : New York Yankees - Los Angeles Dodgers  (CH5fr) (CH197us)"
-    },
-    {
-      "date": "20-07-2026",
-      "time": "02:00",
-      "datetime": "20-07-2026 02:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Alianza Lima - Sport Huancayo",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-07-2026 (02:00) Liga 1 Te Apuesto : Alianza Lima - Sport Huancayo  (CH84es)"
-    },
-    {
-      "date": "20-07-2026",
-      "time": "02:15",
-      "datetime": "20-07-2026 02:15",
-      "league": "Ecuador Ligapro",
-      "teams": "Ind. del Valle - Emelec",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "20-07-2026 (02:15) Ecuador Ligapro : Ind. del Valle - Emelec  (CH86es)"
-    },
-    {
-      "date": "20-07-2026",
-      "time": "03:00",
-      "datetime": "20-07-2026 03:00",
-      "league": "NBA",
-      "teams": "Memphis Grizzlies - Golden State Warriors",
-      "channels": [
-        {
-          "id": "198",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "20-07-2026 (03:00) NBA : Memphis Grizzlies - Golden State Warriors  (CH198us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -89,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-20T01:13:02.796548"
+      "extracted_at": "2026-07-20T04:52:39.630833"
     },
     "hoca": {
       "name": "hoca",
@@ -97,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-20T01:13:04.388669"
+      "extracted_at": "2026-07-20T04:52:41.093490"
     },
     "Caster": {
       "name": "Caster",
@@ -105,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-20T01:13:05.634273"
+      "extracted_at": "2026-07-20T04:52:42.659020"
     },
     "WIGI": {
       "name": "WIGI",
@@ -113,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-20T01:13:06.879471"
+      "extracted_at": "2026-07-20T04:52:44.286008"
     }
   },
   "player_urls": {

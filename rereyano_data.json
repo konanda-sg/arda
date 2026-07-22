@@ -1,77 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-22T04:33:04.439844",
-  "total_events": 4,
+  "last_updated": "2026-07-22T07:20:55.144617",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "22-07-2026",
-      "time": "03:38",
-      "datetime": "22-07-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - St.Louis Cardinals",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-07-2026 (03:38) MLB : Los Angeles Angels - St.Louis Cardinals  (CH192us)"
-    },
-    {
-      "date": "22-07-2026",
-      "time": "03:40",
-      "datetime": "22-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - Athletics",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-07-2026 (03:40) MLB : Arizona Diamondbacks - Athletics  (CH193us)"
-    },
-    {
-      "date": "22-07-2026",
-      "time": "03:40",
-      "datetime": "22-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Cincinnati Reds",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "22-07-2026 (03:40) MLB : Seattle Mariners - Cincinnati Reds  (CH4fr) (CH194us)"
-    },
-    {
-      "date": "22-07-2026",
-      "time": "05:05",
-      "datetime": "22-07-2026 05:05",
-      "league": "Liga Mx",
-      "teams": "Toluca - UNAM Pumas",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "22-07-2026 (05:05) Liga Mx : Toluca - UNAM Pumas  (CH68es) (CH108es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -79,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-22T04:32:59.105313"
+      "extracted_at": "2026-07-22T07:20:49.568051"
     },
     "hoca": {
       "name": "hoca",
@@ -87,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-22T04:33:00.663028"
+      "extracted_at": "2026-07-22T07:20:50.833392"
     },
     "Caster": {
       "name": "Caster",
@@ -95,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-22T04:33:01.891853"
+      "extracted_at": "2026-07-22T07:20:52.500888"
     },
     "WIGI": {
       "name": "WIGI",
@@ -103,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-22T04:33:03.439694"
+      "extracted_at": "2026-07-22T07:20:54.144465"
     }
   },
   "player_urls": {

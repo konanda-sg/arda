@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-24T22:00:18.026322",
+  "last_updated": "2026-07-24T23:08:22.880790",
   "total_events": 30,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "24-07-2026",
-      "time": "21:45",
-      "datetime": "24-07-2026 21:45",
-      "league": "Torneo LPF",
-      "teams": "Gimnasia Mendoza - Central Cordoba",
-      "channels": [
-        {
-          "id": "75",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-07-2026 (21:45) Torneo LPF : Gimnasia Mendoza - Central Cordoba  (CH75es)"
-    },
-    {
-      "date": "24-07-2026",
-      "time": "22:00",
-      "datetime": "24-07-2026 22:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Alianza Atl. - Los Chankas",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "24-07-2026 (22:00) Liga 1 Te Apuesto : Alianza Atl. - Los Chankas  (CH84es)"
-    },
     {
       "date": "24-07-2026",
       "time": "22:10",
@@ -355,11 +327,11 @@
       "teams": "Zacatecas Mineros - Correcaminos",
       "channels": [
         {
-          "id": "74",
+          "id": "85",
           "lang": "es"
         }
       ],
-      "raw_line": "25-07-2026 (03:00) Liga De Expansion Mx : Zacatecas Mineros - Correcaminos  (CH74es)"
+      "raw_line": "25-07-2026 (03:00) Liga De Expansion Mx : Zacatecas Mineros - Correcaminos  (CH85es)"
     },
     {
       "date": "25-07-2026",
@@ -438,6 +410,42 @@
         }
       ],
       "raw_line": "25-07-2026 (05:00) Liga Mx : Club Tijuana - Club Leon  (CH158es)"
+    },
+    {
+      "date": "25-07-2026",
+      "time": "12:15",
+      "datetime": "25-07-2026 12:15",
+      "league": "formula 1",
+      "teams": "GP de Hongrie Essais libres 3 -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-07-2026 (12:15) formula 1 : GP de Hongrie Essais libres 3 -   (CH13fr) (CH60es)"
+    },
+    {
+      "date": "25-07-2026",
+      "time": "15:40",
+      "datetime": "25-07-2026 15:40",
+      "league": "formula 1",
+      "teams": "GP de Hongrie Essais qualificatifs -",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        },
+        {
+          "id": "60",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-07-2026 (15:40) formula 1 : GP de Hongrie Essais qualificatifs -   (CH13fr) (CH60es)"
     }
   ],
   "player_streams": {
@@ -447,7 +455,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-24T22:00:12.429166"
+      "extracted_at": "2026-07-24T23:08:17.984289"
     },
     "hoca": {
       "name": "hoca",
@@ -455,7 +463,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-24T22:00:13.925337"
+      "extracted_at": "2026-07-24T23:08:19.218940"
     },
     "Caster": {
       "name": "Caster",
@@ -463,7 +471,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-24T22:00:15.475561"
+      "extracted_at": "2026-07-24T23:08:20.451363"
     },
     "WIGI": {
       "name": "WIGI",
@@ -471,7 +479,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-24T22:00:17.026144"
+      "extracted_at": "2026-07-24T23:08:21.880625"
     }
   },
   "player_urls": {

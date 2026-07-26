@@ -1,91 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-26T04:44:12.613519",
-  "total_events": 5,
+  "last_updated": "2026-07-26T07:20:59.024737",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "26-07-2026",
-      "time": "04:30",
-      "datetime": "26-07-2026 04:30",
-      "league": "MLS",
-      "teams": "Los Angeles FC - Sporting Kansas City",
-      "channels": [
-        {
-          "id": "170",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-07-2026 (04:30) MLS : Los Angeles FC - Sporting Kansas City  (CH170es)"
-    },
-    {
-      "date": "26-07-2026",
-      "time": "04:30",
-      "datetime": "26-07-2026 04:30",
-      "league": "MLS",
-      "teams": "Portland Timbers - Real Salt Lake",
-      "channels": [
-        {
-          "id": "171",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-07-2026 (04:30) MLS : Portland Timbers - Real Salt Lake  (CH171es)"
-    },
-    {
-      "date": "26-07-2026",
-      "time": "04:30",
-      "datetime": "26-07-2026 04:30",
-      "league": "MLS",
-      "teams": "San Jose Earthquakes - Los Angeles Galaxy",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-07-2026 (04:30) MLS : San Jose Earthquakes - Los Angeles Galaxy  (CH172es)"
-    },
-    {
-      "date": "26-07-2026",
-      "time": "05:00",
-      "datetime": "26-07-2026 05:00",
-      "league": "Liga Mx",
-      "teams": "Santos Laguna - Atlas",
-      "channels": [
-        {
-          "id": "97",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-07-2026 (05:00) Liga Mx : Santos Laguna - Atlas  (CH97es)"
-    },
-    {
-      "date": "26-07-2026",
-      "time": "05:00",
-      "datetime": "26-07-2026 05:00",
-      "league": "Liga Mx",
-      "teams": "Tigres UANL - Atl. San Luis",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        },
-        {
-          "id": "73",
-          "lang": "es"
-        },
-        {
-          "id": "108",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "26-07-2026 (05:00) Liga Mx : Tigres UANL - Atl. San Luis  (CH70es) (CH73es) (CH108es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -93,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-26T04:44:07.209127"
+      "extracted_at": "2026-07-26T07:20:54.021121"
     },
     "hoca": {
       "name": "hoca",
@@ -101,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-26T04:44:08.626741"
+      "extracted_at": "2026-07-26T07:20:55.246720"
     },
     "Caster": {
       "name": "Caster",
@@ -109,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-26T04:44:10.058467"
+      "extracted_at": "2026-07-26T07:20:56.792186"
     },
     "WIGI": {
       "name": "WIGI",
@@ -117,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-26T04:44:11.613371"
+      "extracted_at": "2026-07-26T07:20:58.024594"
     }
   },
   "player_urls": {

@@ -1,101 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-28T02:39:17.393641",
-  "total_events": 6,
+  "last_updated": "2026-07-28T05:33:39.615108",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "28-07-2026",
-      "time": "01:40",
-      "datetime": "28-07-2026 01:40",
-      "league": "MLB",
-      "teams": "Chicago White Sox - New York Yankees",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-07-2026 (01:40) MLB : Chicago White Sox - New York Yankees  (CH187us)"
-    },
-    {
-      "date": "28-07-2026",
-      "time": "01:45",
-      "datetime": "28-07-2026 01:45",
-      "league": "MLB",
-      "teams": "St.Louis Cardinals - Chicago Cubs",
-      "channels": [
-        {
-          "id": "4",
-          "lang": "fr"
-        },
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-07-2026 (01:45) MLB : St.Louis Cardinals - Chicago Cubs  (CH4fr) (CH188us)"
-    },
-    {
-      "date": "28-07-2026",
-      "time": "02:00",
-      "datetime": "28-07-2026 02:00",
-      "league": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Emelec",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-07-2026 (02:00) Ecuador Ligapro : Dep. Cuenca - Emelec  (CH86es)"
-    },
-    {
-      "date": "28-07-2026",
-      "time": "03:38",
-      "datetime": "28-07-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Houston Astros",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-07-2026 (03:38) MLB : Los Angeles Angels - Houston Astros  (CH189us)"
-    },
-    {
-      "date": "28-07-2026",
-      "time": "03:40",
-      "datetime": "28-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Boston Red Sox",
-      "channels": [
-        {
-          "id": "190",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-07-2026 (03:40) MLB : Athletics - Boston Red Sox  (CH190us)"
-    },
-    {
-      "date": "28-07-2026",
-      "time": "03:45",
-      "datetime": "28-07-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Milwaukee Brewers",
-      "channels": [
-        {
-          "id": "191",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-07-2026 (03:45) MLB : San Francisco Giants - Milwaukee Brewers  (CH191us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -103,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-28T02:39:11.982914"
+      "extracted_at": "2026-07-28T05:33:34.281931"
     },
     "hoca": {
       "name": "hoca",
@@ -111,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-28T02:39:13.404670"
+      "extracted_at": "2026-07-28T05:33:35.515881"
     },
     "Caster": {
       "name": "Caster",
@@ -119,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-28T02:39:14.954082"
+      "extracted_at": "2026-07-28T05:33:37.126098"
     },
     "WIGI": {
       "name": "WIGI",
@@ -127,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-28T02:39:16.393488"
+      "extracted_at": "2026-07-28T05:33:38.614931"
     }
   },
   "player_urls": {

@@ -1,55 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-07-31T04:40:12.620142",
-  "total_events": 3,
+  "last_updated": "2026-07-31T07:34:04.401500",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "31-07-2026",
-      "time": "03:40",
-      "datetime": "31-07-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Boston Red Sox",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-07-2026 (03:40) MLB : Athletics - Boston Red Sox  (CH194us)"
-    },
-    {
-      "date": "31-07-2026",
-      "time": "03:40",
-      "datetime": "31-07-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - San Francisco Giants",
-      "channels": [
-        {
-          "id": "195",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-07-2026 (03:40) MLB : San Diego Padres - San Francisco Giants  (CH195us)"
-    },
-    {
-      "date": "31-07-2026",
-      "time": "04:10",
-      "datetime": "31-07-2026 04:10",
-      "league": "MLB",
-      "teams": "Los Angeles Dodgers - Seattle Mariners",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "31-07-2026 (04:10) MLB : Los Angeles Dodgers - Seattle Mariners  (CH196us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -57,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-31T04:40:07.624805"
+      "extracted_at": "2026-07-31T07:33:59.179524"
     },
     "hoca": {
       "name": "hoca",
@@ -65,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-31T04:40:08.852726"
+      "extracted_at": "2026-07-31T07:34:00.651511"
     },
     "Caster": {
       "name": "Caster",
@@ -73,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-31T04:40:10.077132"
+      "extracted_at": "2026-07-31T07:34:01.889668"
     },
     "WIGI": {
       "name": "WIGI",
@@ -81,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-07-31T04:40:11.619987"
+      "extracted_at": "2026-07-31T07:34:03.401347"
     }
   },
   "player_urls": {

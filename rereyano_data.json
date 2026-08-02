@@ -1,12 +1,629 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-02T09:31:12.733243",
-  "total_events": 0,
+  "last_updated": "2026-08-02T11:06:48.177288",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "02-08-2026",
+      "time": "15:00",
+      "datetime": "02-08-2026 15:00",
+      "league": "Premiership",
+      "teams": "St Johnstone - Kilmarnock",
+      "channels": [
+        {
+          "id": "128",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "02-08-2026 (15:00) Premiership : St Johnstone - Kilmarnock  (CH128gb)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "17:00",
+      "datetime": "02-08-2026 17:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Racing Montevideo - Boston River",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "zs"
+        }
+      ],
+      "raw_line": "02-08-2026 (17:00) Liga AUF Uruguaya : Racing Montevideo - Boston River  (CH109zs)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "17:30",
+      "datetime": "02-08-2026 17:30",
+      "league": "Premiership",
+      "teams": "Hibernian - Motherwell",
+      "channels": [
+        {
+          "id": "128",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "02-08-2026 (17:30) Premiership : Hibernian - Motherwell  (CH128gb)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "18:00",
+      "datetime": "02-08-2026 18:00",
+      "league": "Johan Cruyff Shield",
+      "teams": "PSV - AZ Alkmaar",
+      "channels": [
+        {
+          "id": "141",
+          "lang": "nl"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (18:00) Johan Cruyff Shield : PSV - AZ Alkmaar  (CH141nl) (CH94es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "18:00",
+      "datetime": "02-08-2026 18:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Sporting Cristal - Juan Pablo II",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (18:00) Liga 1 Te Apuesto : Sporting Cristal - Juan Pablo II  (CH84es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "18:30",
+      "datetime": "02-08-2026 18:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "D. Concepcion - U. Catolica",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (18:30) Campeonato Itaú Chile : D. Concepcion - U. Catolica  (CH83es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:30",
+      "datetime": "02-08-2026 19:30",
+      "league": "Torneo LPF",
+      "teams": "Aldosivi - Gimnasia L.P.",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:30) Torneo LPF : Aldosivi - Gimnasia L.P.  (CH75es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:30",
+      "datetime": "02-08-2026 19:30",
+      "league": "Torneo LPF",
+      "teams": "Dep. Riestra - Barracas Central",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:30) Torneo LPF : Dep. Riestra - Barracas Central  (CH76es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:35",
+      "datetime": "02-08-2026 19:35",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Washington Nationals",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:35) MLB : Atlanta Braves - Washington Nationals  (CH180us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:35",
+      "datetime": "02-08-2026 19:35",
+      "league": "MLB",
+      "teams": "Baltimore Orioles - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:35) MLB : Baltimore Orioles - Philadelphia Phillies  (CH181us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:37",
+      "datetime": "02-08-2026 19:37",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:37) MLB : Toronto Blue Jays - St.Louis Cardinals  (CH182us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:40",
+      "datetime": "02-08-2026 19:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:40) MLB : Cincinnati Reds - Pittsburgh Pirates  (CH183us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:40",
+      "datetime": "02-08-2026 19:40",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:40) MLB : Cleveland Guardians - Arizona Diamondbacks  (CH184us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:40",
+      "datetime": "02-08-2026 19:40",
+      "league": "MLB",
+      "teams": "New York Mets - Miami Marlins",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:40) MLB : New York Mets - Miami Marlins  (CH185us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "19:40",
+      "datetime": "02-08-2026 19:40",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Chicago White Sox",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (19:40) MLB : Tampa Bay Rays - Chicago White Sox  (CH186us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "20:00",
+      "datetime": "02-08-2026 20:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Ind. del Valle - Dep. Cuenca",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (20:00) Ecuador Ligapro : Ind. del Valle - Dep. Cuenca  (CH86es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "20:00",
+      "datetime": "02-08-2026 20:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Central Esp. - Liverpool M.",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "zs"
+        }
+      ],
+      "raw_line": "02-08-2026 (20:00) Liga AUF Uruguaya : Central Esp. - Liverpool M.  (CH109zs)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "20:10",
+      "datetime": "02-08-2026 20:10",
+      "league": "MLB",
+      "teams": "Houston Astros - Texas Rangers",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (20:10) MLB : Houston Astros - Texas Rangers  (CH187us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "20:15",
+      "datetime": "02-08-2026 20:15",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "AD Tarma - Deportivo Garcilaso",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (20:15) Liga 1 Te Apuesto : AD Tarma - Deportivo Garcilaso  (CH84es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "20:20",
+      "datetime": "02-08-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - New York Yankees",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (20:20) MLB : Chicago Cubs - New York Yankees  (CH188us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "21:00",
+      "datetime": "02-08-2026 21:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "La Serena - O'Higgins",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (21:00) Campeonato Itaú Chile : La Serena - O'Higgins  (CH83es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "21:10",
+      "datetime": "02-08-2026 21:10",
+      "league": "MLB",
+      "teams": "Colorado Rockies - Kansas City Royals",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (21:10) MLB : Colorado Rockies - Kansas City Royals  (CH189us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "21:15",
+      "datetime": "02-08-2026 21:15",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (21:15) MLB : Los Angeles Angels - Milwaukee Brewers  (CH190us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:00",
+      "datetime": "02-08-2026 22:00",
+      "league": "Torneo LPF",
+      "teams": "Newells Old Boys - Boca Juniors",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:00) Torneo LPF : Newells Old Boys - Boca Juniors  (CH75es) (CH61es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:05",
+      "datetime": "02-08-2026 22:05",
+      "league": "MLB",
+      "teams": "Athletics - Detroit Tigers",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:05) MLB : Athletics - Detroit Tigers  (CH191us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:10",
+      "datetime": "02-08-2026 22:10",
+      "league": "MLB",
+      "teams": "San Diego Padres - San Francisco Giants",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:10) MLB : San Diego Padres - San Francisco Giants  (CH192us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:10",
+      "datetime": "02-08-2026 22:10",
+      "league": "MLB",
+      "teams": "Seattle Mariners - Minnesota Twins",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:10) MLB : Seattle Mariners - Minnesota Twins  (CH193us)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:30",
+      "datetime": "02-08-2026 22:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Macara - Guayaquil City",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:30) Ecuador Ligapro : Macara - Guayaquil City  (CH86es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:30",
+      "datetime": "02-08-2026 22:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Moquegua - FBC Melgar",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:30) Liga 1 Te Apuesto : Moquegua - FBC Melgar  (CH84es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "22:45",
+      "datetime": "02-08-2026 22:45",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Jaguares de Cordoba - Atl. Nacional",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (22:45) Liga Betplay Dimayor : Jaguares de Cordoba - Atl. Nacional  (CH81es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "23:30",
+      "datetime": "02-08-2026 23:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. De Chile - Huachipato",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "02-08-2026 (23:30) Campeonato Itaú Chile : U. De Chile - Huachipato  (CH83es)"
+    },
+    {
+      "date": "02-08-2026",
+      "time": "23:30",
+      "datetime": "02-08-2026 23:30",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Nacional - Progreso",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "zs"
+        }
+      ],
+      "raw_line": "02-08-2026 (23:30) Liga AUF Uruguaya : Nacional - Progreso  (CH109zs)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "00:15",
+      "datetime": "03-08-2026 00:15",
+      "league": "Torneo LPF",
+      "teams": "River Plate - Rosario Central",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (00:15) Torneo LPF : River Plate - Rosario Central  (CH76es) (CH55es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "00:30",
+      "datetime": "03-08-2026 00:30",
+      "league": "Coupe Du Bresil",
+      "teams": "Internacional - Corinthians",
+      "channels": [
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (00:30) Coupe Du Bresil : Internacional - Corinthians  (CH94es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "00:45",
+      "datetime": "03-08-2026 00:45",
+      "league": "Liga Betplay Dimayor",
+      "teams": "America De Cali - Chico",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (00:45) Liga Betplay Dimayor : America De Cali - Chico  (CH81es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "01:00",
+      "datetime": "03-08-2026 01:00",
+      "league": "Liga Mx",
+      "teams": "Club America - Santos Laguna",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (01:00) Liga Mx : Club America - Santos Laguna  (CH68es) (CH106es) (CH107es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "01:10",
+      "datetime": "03-08-2026 01:10",
+      "league": "Ecuador Ligapro",
+      "teams": "Leones del Norte - Barcelona SC",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (01:10) Ecuador Ligapro : Leones del Norte - Barcelona SC  (CH86es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "01:20",
+      "datetime": "03-08-2026 01:20",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Boston Red Sox",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "03-08-2026 (01:20) MLB : Los Angeles Dodgers - Boston Red Sox  (CH194us)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "01:30",
+      "datetime": "03-08-2026 01:30",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cienciano - U. de Deportes",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (01:30) Liga 1 Te Apuesto : Cienciano - U. de Deportes  (CH84es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "02:30",
+      "datetime": "03-08-2026 02:30",
+      "league": "Torneo LPF",
+      "teams": "Lanus - Instituto",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (02:30) Torneo LPF : Lanus - Instituto  (CH75es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "03:00",
+      "datetime": "03-08-2026 03:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Santa Fe - Once Caldas",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (03:00) Liga Betplay Dimayor : Santa Fe - Once Caldas  (CH81es)"
+    },
+    {
+      "date": "03-08-2026",
+      "time": "03:10",
+      "datetime": "03-08-2026 03:10",
+      "league": "Liga Mx",
+      "teams": "Toluca - Necaxa",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        },
+        {
+          "id": "107",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "03-08-2026 (03:10) Liga Mx : Toluca - Necaxa  (CH68es) (CH106es) (CH107es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +631,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T09:31:07.988861"
+      "extracted_at": "2026-08-02T11:06:42.840117"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +639,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T09:31:09.239164"
+      "extracted_at": "2026-08-02T11:06:44.135740"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +647,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T09:31:10.484089"
+      "extracted_at": "2026-08-02T11:06:45.919701"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +655,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T09:31:11.733089"
+      "extracted_at": "2026-08-02T11:06:47.177140"
     }
   },
   "player_urls": {

@@ -1,110 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-01T23:40:17.040399",
-  "total_events": 47,
+  "last_updated": "2026-08-02T01:14:59.632203",
+  "total_events": 40,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "01-08-2026",
-      "time": "23:00",
-      "datetime": "01-08-2026 23:00",
-      "league": "Torneo LPF",
-      "teams": "Belgrano - Argentinos Jrs",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:00) Torneo LPF : Belgrano - Argentinos Jrs  (CH76es)"
-    },
-    {
-      "date": "01-08-2026",
-      "time": "23:00",
-      "datetime": "01-08-2026 23:00",
-      "league": "Torneo LPF",
-      "teams": "Estudiantes L.P. - Defensa y Justicia",
-      "channels": [
-        {
-          "id": "76",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:00) Torneo LPF : Estudiantes L.P. - Defensa y Justicia  (CH76es)"
-    },
-    {
-      "date": "01-08-2026",
-      "time": "23:05",
-      "datetime": "01-08-2026 23:05",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Alianza - Deportes Tolima",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:05) Liga Betplay Dimayor : Alianza - Deportes Tolima  (CH81es)"
-    },
-    {
-      "date": "01-08-2026",
-      "time": "23:30",
-      "datetime": "01-08-2026 23:30",
-      "league": "Campeonato Itaú Chile",
-      "teams": "Palestino - Coquimbo",
-      "channels": [
-        {
-          "id": "83",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:30) Campeonato Itaú Chile : Palestino - Coquimbo  (CH83es)"
-    },
-    {
-      "date": "01-08-2026",
-      "time": "23:30",
-      "datetime": "01-08-2026 23:30",
-      "league": "Ecuador Ligapro",
-      "teams": "U. Catolica - Tecnico U.",
-      "channels": [
-        {
-          "id": "86",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:30) Ecuador Ligapro : U. Catolica - Tecnico U.  (CH86es)"
-    },
-    {
-      "date": "01-08-2026",
-      "time": "23:30",
-      "datetime": "01-08-2026 23:30",
-      "league": "Liga AUF Uruguaya",
-      "teams": "Penarol - Cerro Largo",
-      "channels": [
-        {
-          "id": "109",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:30) Liga AUF Uruguaya : Penarol - Cerro Largo  (CH109es)"
-    },
-    {
-      "date": "01-08-2026",
-      "time": "23:45",
-      "datetime": "01-08-2026 23:45",
-      "league": "Liga De Expansion Mx",
-      "teams": "Cruz Azul Hidalgo - Venados",
-      "channels": [
-        {
-          "id": "74",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "01-08-2026 (23:45) Liga De Expansion Mx : Cruz Azul Hidalgo - Venados  (CH74es)"
-    },
     {
       "date": "02-08-2026",
       "time": "00:40",
@@ -351,11 +253,15 @@
       "teams": "Racing Club - Tigre",
       "channels": [
         {
+          "id": "75",
+          "lang": "es"
+        },
+        {
           "id": "144",
           "lang": "pt"
         }
       ],
-      "raw_line": "02-08-2026 (01:30) Torneo LPF : Racing Club - Tigre  (CH144pt)"
+      "raw_line": "02-08-2026 (01:30) Torneo LPF : Racing Club - Tigre  (CH75es) (CH144pt)"
     },
     {
       "date": "02-08-2026",
@@ -689,7 +595,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-01T23:40:11.468915"
+      "extracted_at": "2026-08-02T01:14:54.111614"
     },
     "hoca": {
       "name": "hoca",
@@ -697,7 +603,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-01T23:40:12.715604"
+      "extracted_at": "2026-08-02T01:14:55.405044"
     },
     "Caster": {
       "name": "Caster",
@@ -705,7 +611,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-01T23:40:14.443065"
+      "extracted_at": "2026-08-02T01:14:57.015995"
     },
     "WIGI": {
       "name": "WIGI",
@@ -713,7 +619,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-01T23:40:16.040233"
+      "extracted_at": "2026-08-02T01:14:58.632013"
     }
   },
   "player_urls": {

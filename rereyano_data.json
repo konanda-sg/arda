@@ -1,77 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-02T04:40:11.367903",
-  "total_events": 4,
+  "last_updated": "2026-08-02T07:17:40.855005",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "02-08-2026",
-      "time": "03:40",
-      "datetime": "02-08-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Detroit Tigers",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "02-08-2026 (03:40) MLB : Athletics - Detroit Tigers  (CH194us)"
-    },
-    {
-      "date": "02-08-2026",
-      "time": "04:30",
-      "datetime": "02-08-2026 04:30",
-      "league": "MLS",
-      "teams": "Los Angeles Galaxy - FC Dallas",
-      "channels": [
-        {
-          "id": "172",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-08-2026 (04:30) MLS : Los Angeles Galaxy - FC Dallas  (CH172es)"
-    },
-    {
-      "date": "02-08-2026",
-      "time": "04:45",
-      "datetime": "02-08-2026 04:45",
-      "league": "MLS",
-      "teams": "Portland Timbers - Seattle Sounders",
-      "channels": [
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-08-2026 (04:45) MLS : Portland Timbers - Seattle Sounders  (CH70es)"
-    },
-    {
-      "date": "02-08-2026",
-      "time": "05:05",
-      "datetime": "02-08-2026 05:05",
-      "league": "Liga Mx",
-      "teams": "Cruz Azul - Atlante",
-      "channels": [
-        {
-          "id": "68",
-          "lang": "es"
-        },
-        {
-          "id": "106",
-          "lang": "es"
-        },
-        {
-          "id": "107",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "02-08-2026 (05:05) Liga Mx : Cruz Azul - Atlante  (CH68es) (CH106es) (CH107es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -79,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T04:40:06.048216"
+      "extracted_at": "2026-08-02T07:17:36.147949"
     },
     "hoca": {
       "name": "hoca",
@@ -87,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T04:40:07.595580"
+      "extracted_at": "2026-08-02T07:17:37.384773"
     },
     "Caster": {
       "name": "Caster",
@@ -95,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T04:40:09.136899"
+      "extracted_at": "2026-08-02T07:17:38.620067"
     },
     "WIGI": {
       "name": "WIGI",
@@ -103,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-02T04:40:10.367737"
+      "extracted_at": "2026-08-02T07:17:39.854859"
     }
   },
   "player_urls": {

@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-05T21:31:43.575419",
-  "total_events": 25,
+  "last_updated": "2026-08-05T22:42:26.332303",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "05-08-2026",
-      "time": "20:35",
-      "datetime": "05-08-2026 20:35",
-      "league": "MLB",
-      "teams": "Texas Rangers - San Francisco Giants",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (20:35) MLB : Texas Rangers - San Francisco Giants  (CH182us)"
-    },
-    {
-      "date": "05-08-2026",
-      "time": "21:10",
-      "datetime": "05-08-2026 21:10",
-      "league": "MLB",
-      "teams": "Colorado Rockies - Tampa Bay Rays",
-      "channels": [
-        {
-          "id": "183",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (21:10) MLB : Colorado Rockies - Tampa Bay Rays  (CH183us)"
-    },
     {
       "date": "06-08-2026",
       "time": "00:00",
@@ -201,11 +173,11 @@
       "teams": "Monterrey - Orlando City",
       "channels": [
         {
-          "id": "160",
+          "id": "161",
           "lang": "es"
         }
       ],
-      "raw_line": "06-08-2026 (01:30) Leagues Cup : Monterrey - Orlando City  (CH160es)"
+      "raw_line": "06-08-2026 (01:30) Leagues Cup : Monterrey - Orlando City  (CH161es)"
     },
     {
       "date": "06-08-2026",
@@ -275,11 +247,11 @@
       "teams": "FC Dallas - Queretaro",
       "channels": [
         {
-          "id": "160",
+          "id": "162",
           "lang": "es"
         }
       ],
-      "raw_line": "06-08-2026 (02:30) Leagues Cup : FC Dallas - Queretaro  (CH160es)"
+      "raw_line": "06-08-2026 (02:30) Leagues Cup : FC Dallas - Queretaro  (CH162es)"
     },
     {
       "date": "06-08-2026",
@@ -289,11 +261,11 @@
       "teams": "Nashville SC - Club Leon",
       "channels": [
         {
-          "id": "160",
+          "id": "163",
           "lang": "es"
         }
       ],
-      "raw_line": "06-08-2026 (02:30) Leagues Cup : Nashville SC - Club Leon  (CH160es)"
+      "raw_line": "06-08-2026 (02:30) Leagues Cup : Nashville SC - Club Leon  (CH163es)"
     },
     {
       "date": "06-08-2026",
@@ -359,11 +331,29 @@
       "teams": "Los Angeles FC - Guadalajara Chivas",
       "channels": [
         {
-          "id": "160",
+          "id": "164",
           "lang": "es"
         }
       ],
-      "raw_line": "06-08-2026 (04:30) Leagues Cup : Los Angeles FC - Guadalajara Chivas  (CH160es)"
+      "raw_line": "06-08-2026 (04:30) Leagues Cup : Los Angeles FC - Guadalajara Chivas  (CH164es)"
+    },
+    {
+      "date": "06-08-2026",
+      "time": "12:45",
+      "datetime": "06-08-2026 12:45",
+      "league": "MotoGP",
+      "teams": "Grand Prix de Grande-Bretagne Essais libres 1 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "06-08-2026 (12:45) MotoGP : Grand Prix de Grande-Bretagne Essais libres 1 -   (CH14fr) (CH67es)"
     }
   ],
   "player_streams": {
@@ -373,7 +363,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T21:31:38.670242"
+      "extracted_at": "2026-08-05T22:42:20.606284"
     },
     "hoca": {
       "name": "hoca",
@@ -381,7 +371,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T21:31:39.902564"
+      "extracted_at": "2026-08-05T22:42:21.927151"
     },
     "Caster": {
       "name": "Caster",
@@ -389,7 +379,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T21:31:41.135048"
+      "extracted_at": "2026-08-05T22:42:23.583736"
     },
     "WIGI": {
       "name": "WIGI",
@@ -397,7 +387,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T21:31:42.575237"
+      "extracted_at": "2026-08-05T22:42:25.332137"
     }
   },
   "player_urls": {

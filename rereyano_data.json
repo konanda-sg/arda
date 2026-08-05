@@ -1,101 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-05T03:30:20.476607",
-  "total_events": 6,
+  "last_updated": "2026-08-05T06:08:10.256207",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "05-08-2026",
-      "time": "02:40",
-      "datetime": "05-08-2026 02:40",
-      "league": "MLB",
-      "teams": "Colorado Rockies - Tampa Bay Rays",
-      "channels": [
-        {
-          "id": "192",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (02:40) MLB : Colorado Rockies - Tampa Bay Rays  (CH192us)"
-    },
-    {
-      "date": "05-08-2026",
-      "time": "03:20",
-      "datetime": "05-08-2026 03:20",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Millonarios - Dep. Pasto",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        },
-        {
-          "id": "82",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "05-08-2026 (03:20) Liga Betplay Dimayor : Millonarios - Dep. Pasto  (CH81es) (CH82es)"
-    },
-    {
-      "date": "05-08-2026",
-      "time": "03:40",
-      "datetime": "05-08-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - San Diego Padres",
-      "channels": [
-        {
-          "id": "193",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (03:40) MLB : Arizona Diamondbacks - San Diego Padres  (CH193us)"
-    },
-    {
-      "date": "05-08-2026",
-      "time": "03:40",
-      "datetime": "05-08-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Detroit Tigers",
-      "channels": [
-        {
-          "id": "194",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (03:40) MLB : Seattle Mariners - Detroit Tigers  (CH194us)"
-    },
-    {
-      "date": "05-08-2026",
-      "time": "04:00",
-      "datetime": "05-08-2026 04:00",
-      "league": "Leagues Cup",
-      "teams": "Tigres UANL - Real Salt Lake",
-      "channels": [
-        {
-          "id": "164",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (04:00) Leagues Cup : Tigres UANL - Real Salt Lake  (CH164us)"
-    },
-    {
-      "date": "05-08-2026",
-      "time": "04:30",
-      "datetime": "05-08-2026 04:30",
-      "league": "Leagues Cup",
-      "teams": "Vancouver Whitecaps - Atlante",
-      "channels": [
-        {
-          "id": "165",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "05-08-2026 (04:30) Leagues Cup : Vancouver Whitecaps - Atlante  (CH165us)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -103,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T03:30:15.076976"
+      "extracted_at": "2026-08-05T06:08:05.360276"
     },
     "hoca": {
       "name": "hoca",
@@ -111,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T03:30:16.695355"
+      "extracted_at": "2026-08-05T06:08:06.808877"
     },
     "Caster": {
       "name": "Caster",
@@ -119,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T03:30:18.216630"
+      "extracted_at": "2026-08-05T06:08:08.045632"
     },
     "WIGI": {
       "name": "WIGI",
@@ -127,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-05T03:30:19.476451"
+      "extracted_at": "2026-08-05T06:08:09.256042"
     }
   },
   "player_urls": {

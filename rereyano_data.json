@@ -1,40 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-07T20:21:24.107938",
-  "total_events": 131,
+  "last_updated": "2026-08-07T21:08:26.124691",
+  "total_events": 130,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "07-08-2026",
-      "time": "20:00",
-      "datetime": "07-08-2026 20:00",
-      "league": "Eredivisie",
-      "teams": "Cambuur - Excelsior",
-      "channels": [
-        {
-          "id": "142",
-          "lang": "nl"
-        }
-      ],
-      "raw_line": "07-08-2026 (20:00) Eredivisie : Cambuur - Excelsior  (CH142nl)"
-    },
-    {
-      "date": "07-08-2026",
-      "time": "20:00",
-      "datetime": "07-08-2026 20:00",
-      "league": "Liga 1 Te Apuesto",
-      "teams": "Sport Huancayo - Los Chankas",
-      "channels": [
-        {
-          "id": "84",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "07-08-2026 (20:00) Liga 1 Te Apuesto : Sport Huancayo - Los Chankas  (CH84es)"
-    },
     {
       "date": "07-08-2026",
       "time": "20:30",
@@ -722,6 +694,24 @@
         }
       ],
       "raw_line": "08-08-2026 (12:05) Tournée Automne : Japan - Australia  (CH11fr) (CH62es)"
+    },
+    {
+      "date": "08-08-2026",
+      "time": "12:45",
+      "datetime": "08-08-2026 12:45",
+      "league": "MotoGP",
+      "teams": "Grand Prix de Grande-Bretagne Essais qualificatifs 1 et 2 -",
+      "channels": [
+        {
+          "id": "14",
+          "lang": "fr"
+        },
+        {
+          "id": "67",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "08-08-2026 (12:45) MotoGP : Grand Prix de Grande-Bretagne Essais qualificatifs 1 et 2 -   (CH14fr) (CH67es)"
     },
     {
       "date": "08-08-2026",
@@ -1949,7 +1939,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-07T20:21:18.875304"
+      "extracted_at": "2026-08-07T21:08:21.083712"
     },
     "hoca": {
       "name": "hoca",
@@ -1957,7 +1947,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-07T20:21:20.123576"
+      "extracted_at": "2026-08-07T21:08:22.506119"
     },
     "Caster": {
       "name": "Caster",
@@ -1965,7 +1955,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-07T20:21:21.673653"
+      "extracted_at": "2026-08-07T21:08:23.934061"
     },
     "WIGI": {
       "name": "WIGI",
@@ -1973,7 +1963,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-07T20:21:23.107766"
+      "extracted_at": "2026-08-07T21:08:25.124540"
     }
   },
   "player_urls": {

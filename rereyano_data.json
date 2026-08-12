@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-12T10:56:28.048442",
-  "total_events": 23,
+  "last_updated": "2026-08-12T11:42:23.067946",
+  "total_events": 24,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -38,6 +38,44 @@
         }
       ],
       "raw_line": "12-08-2026 (20:15) MLB : St.Louis Cardinals - Philadelphia Phillies  (CH181us) (CH80es)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "21:00",
+      "datetime": "12-08-2026 21:00",
+      "league": "UEFA Super Cup",
+      "teams": "PSG - Aston Villa",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "126",
+          "lang": "gb"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        },
+        {
+          "id": "123",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "148",
+          "lang": "gr"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-08-2026 (21:00) UEFA Super Cup : PSG - Aston Villa  (CH11fr) (CH126gb) (CH61es) (CH123de) (CH138it) (CH148gr) (CH87es)"
     },
     {
       "date": "12-08-2026",
@@ -341,7 +379,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-12T10:56:22.543657"
+      "extracted_at": "2026-08-12T11:42:17.549984"
     },
     "hoca": {
       "name": "hoca",
@@ -349,7 +387,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-12T10:56:24.196270"
+      "extracted_at": "2026-08-12T11:42:19.158653"
     },
     "Caster": {
       "name": "Caster",
@@ -357,7 +395,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-12T10:56:25.792928"
+      "extracted_at": "2026-08-12T11:42:20.458032"
     },
     "WIGI": {
       "name": "WIGI",
@@ -365,7 +403,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-12T10:56:27.048272"
+      "extracted_at": "2026-08-12T11:42:22.067863"
     }
   },
   "player_urls": {

@@ -1,54 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-11T23:58:17.186980",
-  "total_events": 22,
+  "last_updated": "2026-08-12T02:00:19.009094",
+  "total_events": 42,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "12-08-2026",
-      "time": "00:40",
-      "datetime": "12-08-2026 00:40",
-      "league": "MLB",
-      "teams": "Detroit Tigers - Cleveland Guardians",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-08-2026 (00:40) MLB : Detroit Tigers - Cleveland Guardians  (CH180us)"
-    },
-    {
-      "date": "12-08-2026",
-      "time": "00:40",
-      "datetime": "12-08-2026 00:40",
-      "league": "MLB",
-      "teams": "Miami Marlins - Pittsburgh Pirates",
-      "channels": [
-        {
-          "id": "181",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-08-2026 (00:40) MLB : Miami Marlins - Pittsburgh Pirates  (CH181us)"
-    },
-    {
-      "date": "12-08-2026",
-      "time": "00:45",
-      "datetime": "12-08-2026 00:45",
-      "league": "MLB",
-      "teams": "Washington Nationals - Chicago Cubs",
-      "channels": [
-        {
-          "id": "182",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "12-08-2026 (00:45) MLB : Washington Nationals - Chicago Cubs  (CH182us)"
-    },
     {
       "date": "12-08-2026",
       "time": "01:05",
@@ -318,6 +276,332 @@
         }
       ],
       "raw_line": "12-08-2026 (04:10) MLB : Los Angeles Dodgers - Kansas City Royals  (CH194us)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "19:40",
+      "datetime": "12-08-2026 19:40",
+      "league": "MLB",
+      "teams": "Minnesota Twins - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-08-2026 (19:40) MLB : Minnesota Twins - Baltimore Orioles  (CH180us)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "20:15",
+      "datetime": "12-08-2026 20:15",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "12-08-2026 (20:15) MLB : St.Louis Cardinals - Philadelphia Phillies  (CH181us) (CH80es)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "21:05",
+      "datetime": "12-08-2026 21:05",
+      "league": "MLB",
+      "teams": "Athletics - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-08-2026 (21:05) MLB : Athletics - Tampa Bay Rays  (CH182us)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "21:40",
+      "datetime": "12-08-2026 21:40",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - Colorado Rockies",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-08-2026 (21:40) MLB : Arizona Diamondbacks - Colorado Rockies  (CH183us)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "21:45",
+      "datetime": "12-08-2026 21:45",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Houston Astros",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-08-2026 (21:45) MLB : San Francisco Giants - Houston Astros  (CH184us)"
+    },
+    {
+      "date": "12-08-2026",
+      "time": "22:10",
+      "datetime": "12-08-2026 22:10",
+      "league": "MLB",
+      "teams": "San Diego Padres - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "12-08-2026 (22:10) MLB : San Diego Padres - Milwaukee Brewers  (CH185us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "00:15",
+      "datetime": "13-08-2026 00:15",
+      "league": "Copa Argentina",
+      "teams": "Atl. Tucuman - Independiente",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (00:15) Copa Argentina : Atl. Tucuman - Independiente  (CH77es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "00:40",
+      "datetime": "13-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (00:40) MLB : Detroit Tigers - Cleveland Guardians  (CH186us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "00:40",
+      "datetime": "13-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Miami Marlins - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (00:40) MLB : Miami Marlins - Pittsburgh Pirates  (CH187us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "00:45",
+      "datetime": "13-08-2026 00:45",
+      "league": "MLB",
+      "teams": "Washington Nationals - Chicago Cubs",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (00:45) MLB : Washington Nationals - Chicago Cubs  (CH188us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "01:05",
+      "datetime": "13-08-2026 01:05",
+      "league": "MLB",
+      "teams": "New York Yankees - Seattle Mariners",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (01:05) MLB : New York Yankees - Seattle Mariners  (CH189us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "01:07",
+      "datetime": "13-08-2026 01:07",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Boston Red Sox",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (01:07) MLB : Toronto Blue Jays - Boston Red Sox  (CH190us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "01:15",
+      "datetime": "13-08-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - New York Mets",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (01:15) MLB : Atlanta Braves - New York Mets  (CH191us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "01:30",
+      "datetime": "13-08-2026 01:30",
+      "league": "Leagues Cup",
+      "teams": "Inter Miami - Club Leon",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (01:30) Leagues Cup : Inter Miami - Club Leon  (CH160es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "01:30",
+      "datetime": "13-08-2026 01:30",
+      "league": "Leagues Cup",
+      "teams": "Orlando City - Atl. San Luis",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (01:30) Leagues Cup : Orlando City - Atl. San Luis  (CH161es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "01:40",
+      "datetime": "13-08-2026 01:40",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (01:40) MLB : Chicago White Sox - Cincinnati Reds  (CH192us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "02:00",
+      "datetime": "13-08-2026 02:00",
+      "league": "Leagues Cup",
+      "teams": "Monterrey - Nashville SC",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (02:00) Leagues Cup : Monterrey - Nashville SC  (CH68es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "04:00",
+      "datetime": "13-08-2026 04:00",
+      "league": "Leagues Cup",
+      "teams": "Toluca - FC Dallas",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (04:00) Leagues Cup : Toluca - FC Dallas  (CH162es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "04:10",
+      "datetime": "13-08-2026 04:10",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Texas Rangers",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (04:10) MLB : Los Angeles Angels - Texas Rangers  (CH193us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "04:10",
+      "datetime": "13-08-2026 04:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Kansas City Royals",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "13-08-2026 (04:10) MLB : Los Angeles Dodgers - Kansas City Royals  (CH194us)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "04:15",
+      "datetime": "13-08-2026 04:15",
+      "league": "Leagues Cup",
+      "teams": "San Diego FC - Puebla",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (04:15) Leagues Cup : San Diego FC - Puebla  (CH163es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "04:30",
+      "datetime": "13-08-2026 04:30",
+      "league": "Leagues Cup",
+      "teams": "Los Angeles FC - Queretaro",
+      "channels": [
+        {
+          "id": "164",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (04:30) Leagues Cup : Los Angeles FC - Queretaro  (CH164es)"
+    },
+    {
+      "date": "13-08-2026",
+      "time": "04:30",
+      "datetime": "13-08-2026 04:30",
+      "league": "Leagues Cup",
+      "teams": "Seattle Sounders - Guadalajara Chivas",
+      "channels": [
+        {
+          "id": "165",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "13-08-2026 (04:30) Leagues Cup : Seattle Sounders - Guadalajara Chivas  (CH165es)"
     }
   ],
   "player_streams": {
@@ -327,7 +611,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-11T23:58:11.376256"
+      "extracted_at": "2026-08-12T02:00:12.784774"
     },
     "hoca": {
       "name": "hoca",
@@ -335,7 +619,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-11T23:58:13.021700"
+      "extracted_at": "2026-08-12T02:00:14.457484"
     },
     "Caster": {
       "name": "Caster",
@@ -343,7 +627,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-11T23:58:14.682349"
+      "extracted_at": "2026-08-12T02:00:16.263901"
     },
     "WIGI": {
       "name": "WIGI",
@@ -351,7 +635,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-11T23:58:16.186829"
+      "extracted_at": "2026-08-12T02:00:18.008936"
     }
   },
   "player_urls": {

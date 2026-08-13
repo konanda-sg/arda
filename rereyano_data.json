@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-13T21:29:21.536200",
-  "total_events": 11,
+  "last_updated": "2026-08-13T22:11:12.882365",
+  "total_events": 72,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "13-08-2026",
-      "time": "21:07",
-      "datetime": "13-08-2026 21:07",
-      "league": "MLB",
-      "teams": "Toronto Blue Jays - Boston Red Sox",
-      "channels": [
-        {
-          "id": "180",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "13-08-2026 (21:07) MLB : Toronto Blue Jays - Boston Red Sox  (CH180us)"
-    },
     {
       "date": "13-08-2026",
       "time": "22:05",
@@ -160,6 +146,942 @@
         }
       ],
       "raw_line": "14-08-2026 (04:10) MLB : Los Angeles Dodgers - Milwaukee Brewers  (CH184us)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "18:00",
+      "datetime": "14-08-2026 18:00",
+      "league": "Coppa Italia",
+      "teams": "Parma - Catania",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "14-08-2026 (18:00) Coppa Italia : Parma - Catania  (CH139it) (CH94es) (CH145pt)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "18:30",
+      "datetime": "14-08-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "multiplex 2. Bundesliga -",
+      "channels": [
+        {
+          "id": "111",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-08-2026 (18:30) Bundesliga 2 : multiplex 2. Bundesliga -   (CH111de)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "18:30",
+      "datetime": "14-08-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Braunschweig - Bochum",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-08-2026 (18:30) Bundesliga 2 : Braunschweig - Bochum  (CH113de)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "18:30",
+      "datetime": "14-08-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Holstein Kiel - St. Pauli",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-08-2026 (18:30) Bundesliga 2 : Holstein Kiel - St. Pauli  (CH5fr) (CH79es) (CH112de)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "18:30",
+      "datetime": "14-08-2026 18:30",
+      "league": "Coppa Italia",
+      "teams": "Cagliari - Arezzo",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-08-2026 (18:30) Coppa Italia : Cagliari - Arezzo  (CH138it) (CH95es)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "multiplex Ligue 3 -",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : multiplex Ligue 3 -   (CH20fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Amiens - La Roche",
+      "channels": [
+        {
+          "id": "39",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Amiens - La Roche  (CH39fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Aubagne - Bastia",
+      "channels": [
+        {
+          "id": "34",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Aubagne - Bastia  (CH34fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Cannes - Fleury-Merogis",
+      "channels": [
+        {
+          "id": "37",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Cannes - Fleury-Merogis  (CH37fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Orleans - Rouen",
+      "channels": [
+        {
+          "id": "35",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Orleans - Rouen  (CH35fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Quevilly Rouen - Concarneau",
+      "channels": [
+        {
+          "id": "41",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Quevilly Rouen - Concarneau  (CH41fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Thionville - Caen",
+      "channels": [
+        {
+          "id": "38",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Thionville - Caen  (CH38fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Valenciennes - Bourg en Bresse",
+      "channels": [
+        {
+          "id": "36",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Valenciennes - Bourg en Bresse  (CH36fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Versailles - Le Puy-en-Velay",
+      "channels": [
+        {
+          "id": "33",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Versailles - Le Puy-en-Velay  (CH33fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "19:00",
+      "datetime": "14-08-2026 19:00",
+      "league": "National",
+      "teams": "Villefranche - Paris 13 Atl.",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (19:00) National : Villefranche - Paris 13 Atl.  (CH20fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:00",
+      "datetime": "14-08-2026 20:00",
+      "league": "Eredivisie",
+      "teams": "Telstar - Sparta Rotterdam",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:00) Eredivisie : Telstar - Sparta Rotterdam  (CH142nl)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:00",
+      "datetime": "14-08-2026 20:00",
+      "league": "Saudi Pro League",
+      "teams": "Al Hilal - Al-Faisaly",
+      "channels": [
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:00) Saudi Pro League : Al Hilal - Al-Faisaly  (CH55es) (CH61es)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:20",
+      "datetime": "14-08-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:20) MLB : Chicago Cubs - St.Louis Cardinals  (CH180us)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:30",
+      "datetime": "14-08-2026 20:30",
+      "league": "Laliga 2",
+      "teams": "Real Sociedad B - Castellon",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:30) Laliga 2 : Real Sociedad B - Castellon  (CH53es)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:30",
+      "datetime": "14-08-2026 20:30",
+      "league": "Super Lig",
+      "teams": "Galatasaray - Corum",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:30) Super Lig : Galatasaray - Corum  (CH151tr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Coppa Italia",
+      "teams": "Monza - Avellino",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Coppa Italia : Monza - Avellino  (CH139it) (CH95es)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "multiplex Ligue 2 -",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : multiplex Ligue 2 -   (CH2fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Annecy - Rodez",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Annecy - Rodez  (CH4fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Dijon - Pau FC",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Dijon - Pau FC  (CH5fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Grenoble - Metz",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Grenoble - Metz  (CH6fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Guingamp - Boulogne",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Guingamp - Boulogne  (CH7fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Laval - Nantes",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Laval - Nantes  (CH8fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Nancy - Montpellier",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Nancy - Montpellier  (CH9fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Red Star - Sochaux",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Red Star - Sochaux  (CH10fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "Reims - Dunkerque",
+      "channels": [
+        {
+          "id": "3",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : Reims - Dunkerque  (CH3fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Ligue 2",
+      "teams": "St Etienne - Clermont",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Ligue 2 : St Etienne - Clermont  (CH1fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "20:45",
+      "datetime": "14-08-2026 20:45",
+      "league": "Pro League",
+      "teams": "Cercle Brugge KSV - St. Truiden",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "14-08-2026 (20:45) Pro League : Cercle Brugge KSV - St. Truiden  (CH153fr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "21:00",
+      "datetime": "14-08-2026 21:00",
+      "league": "Championship",
+      "teams": "Wolves - Blackburn",
+      "channels": [
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "14-08-2026 (21:00) Championship : Wolves - Blackburn  (CH127gb) (CH79es) (CH97es) (CH120de)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "21:15",
+      "datetime": "14-08-2026 21:15",
+      "league": "Coppa Italia",
+      "teams": "Fiorentina - Benevento",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        },
+        {
+          "id": "150",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-08-2026 (21:15) Coppa Italia : Fiorentina - Benevento  (CH138it) (CH94es) (CH145pt) (CH150gr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "21:15",
+      "datetime": "14-08-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "Sporting CP - Vitoria Guimaraes",
+      "channels": [
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "14-08-2026 (21:15) Liga Portugal : Sporting CP - Vitoria Guimaraes  (CH144pt) (CH149gr)"
+    },
+    {
+      "date": "14-08-2026",
+      "time": "22:00",
+      "datetime": "14-08-2026 22:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Grau - Comerciantes Unidos",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "14-08-2026 (22:00) Liga 1 Te Apuesto : Grau - Comerciantes Unidos  (CH84es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "00:00",
+      "datetime": "15-08-2026 00:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Boston River - Danubio",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (00:00) Liga AUF Uruguaya : Boston River - Danubio  (CH109es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "00:10",
+      "datetime": "15-08-2026 00:10",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - Miami Marlins",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (00:10) MLB : Cincinnati Reds - Miami Marlins  (CH181us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "00:40",
+      "datetime": "15-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Chicago White Sox",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (00:40) MLB : Detroit Tigers - Chicago White Sox  (CH182us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "00:40",
+      "datetime": "15-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Boston Red Sox",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (00:40) MLB : Pittsburgh Pirates - Boston Red Sox  (CH183us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:00",
+      "datetime": "15-08-2026 01:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "U. De Concepcion - La Serena",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:00) Campeonato Itaú Chile : U. De Concepcion - La Serena  (CH83es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:00",
+      "datetime": "15-08-2026 01:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Cusco - Juan Pablo II",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:00) Liga 1 Te Apuesto : Cusco - Juan Pablo II  (CH84es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:00",
+      "datetime": "15-08-2026 01:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Llaneros - Deportes Tolima",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        },
+        {
+          "id": "82",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:00) Liga Betplay Dimayor : Llaneros - Deportes Tolima  (CH81es) (CH82es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:00",
+      "datetime": "15-08-2026 01:00",
+      "league": "NFL",
+      "teams": "Atlanta Falcons - Denver Broncos",
+      "channels": [
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:00) NFL : Atlanta Falcons - Denver Broncos  (CH175us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:00",
+      "datetime": "15-08-2026 01:00",
+      "league": "NFL",
+      "teams": "New York Jets - Tampa Bay Buccaneers",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:00) NFL : New York Jets - Tampa Bay Buccaneers  (CH176us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:00",
+      "datetime": "15-08-2026 01:00",
+      "league": "NFL",
+      "teams": "Washington Commanders - Miami Dolphins",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:00) NFL : Washington Commanders - Miami Dolphins  (CH177us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:10",
+      "datetime": "15-08-2026 01:10",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - San Diego Padres",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:10) MLB : Cleveland Guardians - San Diego Padres  (CH184us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:10",
+      "datetime": "15-08-2026 01:10",
+      "league": "MLB",
+      "teams": "New York Mets - Washington Nationals",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:10) MLB : New York Mets - Washington Nationals  (CH185us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:10",
+      "datetime": "15-08-2026 01:10",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:10) MLB : Tampa Bay Rays - Baltimore Orioles  (CH186us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:15",
+      "datetime": "15-08-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:15) MLB : Atlanta Braves - Arizona Diamondbacks  (CH187us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:15",
+      "datetime": "15-08-2026 01:15",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - New York Yankees",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:15) MLB : Toronto Blue Jays - New York Yankees  (CH188us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "01:30",
+      "datetime": "15-08-2026 01:30",
+      "league": "Torneo LPF",
+      "teams": "Racing Club - Banfield",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (01:30) Torneo LPF : Racing Club - Banfield  (CH76es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "02:00",
+      "datetime": "15-08-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Ind. del Valle - Delfin",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (02:00) Ecuador Ligapro : Ind. del Valle - Delfin  (CH86es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "02:10",
+      "datetime": "15-08-2026 02:10",
+      "league": "MLB",
+      "teams": "Houston Astros - Seattle Mariners",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (02:10) MLB : Houston Astros - Seattle Mariners  (CH189us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "03:00",
+      "datetime": "15-08-2026 03:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Correcaminos - Tapatio",
+      "channels": [
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (03:00) Liga De Expansion Mx : Correcaminos - Tapatio  (CH100es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "03:00",
+      "datetime": "15-08-2026 03:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Zacatecas Mineros - Venados",
+      "channels": [
+        {
+          "id": "74",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (03:00) Liga De Expansion Mx : Zacatecas Mineros - Venados  (CH74es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "03:38",
+      "datetime": "15-08-2026 03:38",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Kansas City Royals",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (03:38) MLB : Los Angeles Angels - Kansas City Royals  (CH190us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "03:40",
+      "datetime": "15-08-2026 03:40",
+      "league": "MLB",
+      "teams": "Athletics - Texas Rangers",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (03:40) MLB : Athletics - Texas Rangers  (CH191us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "04:10",
+      "datetime": "15-08-2026 04:10",
+      "league": "MLB",
+      "teams": "Los Angeles Dodgers - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (04:10) MLB : Los Angeles Dodgers - Milwaukee Brewers  (CH192us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "04:15",
+      "datetime": "15-08-2026 04:15",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Colorado Rockies",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "15-08-2026 (04:15) MLB : San Francisco Giants - Colorado Rockies  (CH193us)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "05:00",
+      "datetime": "15-08-2026 05:00",
+      "league": "Liga De Expansion Mx",
+      "teams": "Atletico La Paz - Piratas",
+      "channels": [
+        {
+          "id": "105",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (05:00) Liga De Expansion Mx : Atletico La Paz - Piratas  (CH105es)"
+    },
+    {
+      "date": "15-08-2026",
+      "time": "07:00",
+      "datetime": "15-08-2026 07:00",
+      "league": "Tournée Automne",
+      "teams": "Australia - Japan",
+      "channels": [
+        {
+          "id": "11",
+          "lang": "fr"
+        },
+        {
+          "id": "55",
+          "lang": "es"
+        },
+        {
+          "id": "62",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "15-08-2026 (07:00) Tournée Automne : Australia - Japan  (CH11fr) (CH55es) (CH62es)"
     }
   ],
   "player_streams": {
@@ -169,7 +1091,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-13T21:29:15.590047"
+      "extracted_at": "2026-08-13T22:11:07.480754"
     },
     "hoca": {
       "name": "hoca",
@@ -177,7 +1099,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-13T21:29:17.392350"
+      "extracted_at": "2026-08-13T22:11:09.119192"
     },
     "Caster": {
       "name": "Caster",
@@ -185,7 +1107,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-13T21:29:19.179665"
+      "extracted_at": "2026-08-13T22:11:10.647169"
     },
     "WIGI": {
       "name": "WIGI",
@@ -193,7 +1115,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-13T21:29:20.536048"
+      "extracted_at": "2026-08-13T22:11:11.882200"
     }
   },
   "player_urls": {

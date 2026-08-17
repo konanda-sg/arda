@@ -1,12 +1,559 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-17T11:49:06.002299",
-  "total_events": 0,
+  "last_updated": "2026-08-17T12:33:07.706902",
+  "total_events": 35,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "17-08-2026",
+      "time": "17:00",
+      "datetime": "17-08-2026 17:00",
+      "league": "Coupe De Grèce",
+      "teams": "Karditsa - Aris",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "17-08-2026 (17:00) Coupe De Grèce : Karditsa - Aris  (CH160gr)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "18:00",
+      "datetime": "17-08-2026 18:00",
+      "league": "Coppa Italia",
+      "teams": "Pisa - Empoli",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        }
+      ],
+      "raw_line": "17-08-2026 (18:00) Coppa Italia : Pisa - Empoli  (CH139it)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "18:00",
+      "datetime": "17-08-2026 18:00",
+      "league": "Saudi King Cup",
+      "teams": "Al Anwar - Al Ahli SC",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "ar"
+        }
+      ],
+      "raw_line": "17-08-2026 (18:00) Saudi King Cup : Al Anwar - Al Ahli SC  (CH161ar)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "18:15",
+      "datetime": "17-08-2026 18:15",
+      "league": "Saudi King Cup",
+      "teams": "Al Taee - Al Qadsiah",
+      "channels": [
+        {
+          "id": "163",
+          "lang": "ar"
+        }
+      ],
+      "raw_line": "17-08-2026 (18:15) Saudi King Cup : Al Taee - Al Qadsiah  (CH163ar)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "18:30",
+      "datetime": "17-08-2026 18:30",
+      "league": "Coppa Italia",
+      "teams": "Sassuolo - Cesena",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (18:30) Coppa Italia : Sassuolo - Cesena  (CH138it) (CH95es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "19:00",
+      "datetime": "17-08-2026 19:00",
+      "league": "Laliga 2",
+      "teams": "Gijon - Sabadell",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (19:00) Laliga 2 : Gijon - Sabadell  (CH53es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "19:40",
+      "datetime": "17-08-2026 19:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "17-08-2026 (19:40) MLB : Cincinnati Reds - St.Louis Cardinals  (CH180us)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "19:45",
+      "datetime": "17-08-2026 19:45",
+      "league": "Torneo LPF",
+      "teams": "Estudiantes Rio Cuarto - Atl. Tucuman",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (19:45) Torneo LPF : Estudiantes Rio Cuarto - Atl. Tucuman  (CH76es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "20:00",
+      "datetime": "17-08-2026 20:00",
+      "league": "Coupe De Grèce",
+      "teams": "Iraklis 1908 - Volos",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "17-08-2026 (20:00) Coupe De Grèce : Iraklis 1908 - Volos  (CH160gr)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "20:00",
+      "datetime": "17-08-2026 20:00",
+      "league": "Saudi King Cup",
+      "teams": "Al Raed - Al Hilal",
+      "channels": [
+        {
+          "id": "162",
+          "lang": "ar"
+        }
+      ],
+      "raw_line": "17-08-2026 (20:00) Saudi King Cup : Al Raed - Al Hilal  (CH162ar)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "20:30",
+      "datetime": "17-08-2026 20:30",
+      "league": "Super Lig",
+      "teams": "Samsunspor - Goztepe",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "17-08-2026 (20:30) Super Lig : Samsunspor - Goztepe  (CH151tr)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "20:45",
+      "datetime": "17-08-2026 20:45",
+      "league": "Coppa Italia",
+      "teams": "Cremonese - Sampdoria",
+      "channels": [
+        {
+          "id": "139",
+          "lang": "it"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (20:45) Coppa Italia : Cremonese - Sampdoria  (CH139it) (CH95es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "21:00",
+      "datetime": "17-08-2026 21:00",
+      "league": "Championship",
+      "teams": "Cardiff - Wrexham",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "78",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        }
+      ],
+      "raw_line": "17-08-2026 (21:00) Championship : Cardiff - Wrexham  (CH4fr) (CH78es) (CH99es) (CH120de) (CH127gb)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "21:00",
+      "datetime": "17-08-2026 21:00",
+      "league": "Laliga",
+      "teams": "Dep. A Coruna - Elche",
+      "channels": [
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "94",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (21:00) Laliga : Dep. A Coruna - Elche  (CH51es) (CH71es) (CH94es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "21:15",
+      "datetime": "17-08-2026 21:15",
+      "league": "Coppa Italia",
+      "teams": "Palermo - Lecce",
+      "channels": [
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "96",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (21:15) Coppa Italia : Palermo - Lecce  (CH138it) (CH56es) (CH96es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "21:15",
+      "datetime": "17-08-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "Casa Pia - Benfica",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        },
+        {
+          "id": "125",
+          "lang": "de"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "149",
+          "lang": "gr"
+        }
+      ],
+      "raw_line": "17-08-2026 (21:15) Liga Portugal : Casa Pia - Benfica  (CH2fr) (CH95es) (CH125de) (CH144pt) (CH149gr)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "21:30",
+      "datetime": "17-08-2026 21:30",
+      "league": "Laliga 2",
+      "teams": "Almeria - Eldense",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (21:30) Laliga 2 : Almeria - Eldense  (CH53es)"
+    },
+    {
+      "date": "17-08-2026",
+      "time": "22:00",
+      "datetime": "17-08-2026 22:00",
+      "league": "Torneo LPF",
+      "teams": "Lanus - Independiente",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "17-08-2026 (22:00) Torneo LPF : Lanus - Independiente  (CH75es)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "00:05",
+      "datetime": "18-08-2026 00:05",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (00:05) MLB : Tampa Bay Rays - Baltimore Orioles  (CH181us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "00:15",
+      "datetime": "18-08-2026 00:15",
+      "league": "Torneo LPF",
+      "teams": "Velez Sarsfield - Defensa y Justicia",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-08-2026 (00:15) Torneo LPF : Velez Sarsfield - Defensa y Justicia  (CH75es)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "00:40",
+      "datetime": "18-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Cincinnati Reds - St.Louis Cardinals",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (00:40) MLB : Cincinnati Reds - St.Louis Cardinals  (CH182us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "00:40",
+      "datetime": "18-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Philadelphia Phillies - Miami Marlins",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (00:40) MLB : Philadelphia Phillies - Miami Marlins  (CH183us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "01:00",
+      "datetime": "18-08-2026 01:00",
+      "league": "Serie A Bresil",
+      "teams": "Internacional - Remo",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "18-08-2026 (01:00) Serie A Bresil : Internacional - Remo  (CH155pt)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "01:05",
+      "datetime": "18-08-2026 01:05",
+      "league": "MLB",
+      "teams": "Pittsburgh Pirates - Detroit Tigers",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (01:05) MLB : Pittsburgh Pirates - Detroit Tigers  (CH184us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "01:10",
+      "datetime": "18-08-2026 01:10",
+      "league": "MLB",
+      "teams": "Boston Red Sox - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (01:10) MLB : Boston Red Sox - Arizona Diamondbacks  (CH185us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "01:10",
+      "datetime": "18-08-2026 01:10",
+      "league": "MLB",
+      "teams": "New York Mets - San Diego Padres",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (01:10) MLB : New York Mets - San Diego Padres  (CH186us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "01:40",
+      "datetime": "18-08-2026 01:40",
+      "league": "MLB",
+      "teams": "Kansas City Royals - Athletics",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (01:40) MLB : Kansas City Royals - Athletics  (CH187us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "01:40",
+      "datetime": "18-08-2026 01:40",
+      "league": "MLB",
+      "teams": "Minnesota Twins - Atlanta Braves",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (01:40) MLB : Minnesota Twins - Atlanta Braves  (CH188us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "02:00",
+      "datetime": "18-08-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Macara - U. Catolica",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-08-2026 (02:00) Ecuador Ligapro : Macara - U. Catolica  (CH86es)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "02:05",
+      "datetime": "18-08-2026 02:05",
+      "league": "MLB",
+      "teams": "Chicago Cubs - Chicago White Sox",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (02:05) MLB : Chicago Cubs - Chicago White Sox  (CH189us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "02:30",
+      "datetime": "18-08-2026 02:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Palestino - Huachipato",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-08-2026 (02:30) Campeonato Itaú Chile : Palestino - Huachipato  (CH83es)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "02:30",
+      "datetime": "18-08-2026 02:30",
+      "league": "Torneo LPF",
+      "teams": "Gimnasia Mendoza - Talleres Cordoba",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-08-2026 (02:30) Torneo LPF : Gimnasia Mendoza - Talleres Cordoba  (CH76es)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "02:40",
+      "datetime": "18-08-2026 02:40",
+      "league": "MLB",
+      "teams": "Colorado Rockies - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "18-08-2026 (02:40) MLB : Colorado Rockies - Los Angeles Dodgers  (CH190us)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "03:00",
+      "datetime": "18-08-2026 03:00",
+      "league": "Liga Mx",
+      "teams": "Necaxa - Club Leon",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-08-2026 (03:00) Liga Mx : Necaxa - Club Leon  (CH70es)"
+    },
+    {
+      "date": "18-08-2026",
+      "time": "05:06",
+      "datetime": "18-08-2026 05:06",
+      "league": "Liga Mx",
+      "teams": "Pachuca - Puebla",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "18-08-2026 (05:06) Liga Mx : Pachuca - Puebla  (CH68es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +561,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-17T11:49:00.495387"
+      "extracted_at": "2026-08-17T12:33:02.117171"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +569,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-17T11:49:02.024076"
+      "extracted_at": "2026-08-17T12:33:03.744927"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +577,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-17T11:49:03.442800"
+      "extracted_at": "2026-08-17T12:33:05.446238"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +585,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-17T11:49:05.002146"
+      "extracted_at": "2026-08-17T12:33:06.706753"
     }
   },
   "player_urls": {

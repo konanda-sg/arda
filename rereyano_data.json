@@ -1,8 +1,8 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-21T23:17:54.407587",
-  "total_events": 263,
+  "last_updated": "2026-08-21T23:46:45.278059",
+  "total_events": 264,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
@@ -4208,6 +4208,20 @@
         }
       ],
       "raw_line": "25-08-2026 (00:00) Torneo LPF : Tigre - Central Cordoba  (CH75es)"
+    },
+    {
+      "date": "25-08-2026",
+      "time": "01:30",
+      "datetime": "25-08-2026 01:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Everton - U. De Concepcion",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-08-2026 (01:30) Campeonato Itaú Chile : Everton - U. De Concepcion  (CH83es)"
     }
   ],
   "player_streams": {
@@ -4217,7 +4231,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:17:48.948817"
+      "extracted_at": "2026-08-21T23:46:39.577232"
     },
     "hoca": {
       "name": "hoca",
@@ -4225,7 +4239,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:17:50.555572"
+      "extracted_at": "2026-08-21T23:46:41.130340"
     },
     "Caster": {
       "name": "Caster",
@@ -4233,7 +4247,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:17:51.810467"
+      "extracted_at": "2026-08-21T23:46:42.681328"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4241,7 +4255,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:17:53.407446"
+      "extracted_at": "2026-08-21T23:46:44.277903"
     }
   },
   "player_urls": {

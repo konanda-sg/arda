@@ -1,26 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-21T23:46:45.278059",
-  "total_events": 264,
+  "last_updated": "2026-08-22T00:55:02.595786",
+  "total_events": 266,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "21-08-2026",
-      "time": "23:05",
-      "datetime": "21-08-2026 23:05",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Jaguares de Cordoba - Chico",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "21-08-2026 (23:05) Liga Betplay Dimayor : Jaguares de Cordoba - Chico  (CH81es)"
-    },
     {
       "date": "22-08-2026",
       "time": "00:00",
@@ -4222,6 +4208,48 @@
         }
       ],
       "raw_line": "25-08-2026 (01:30) Campeonato Itaú Chile : Everton - U. De Concepcion  (CH83es)"
+    },
+    {
+      "date": "25-08-2026",
+      "time": "02:00",
+      "datetime": "25-08-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Libertad - Macara",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-08-2026 (02:00) Ecuador Ligapro : Libertad - Macara  (CH86es)"
+    },
+    {
+      "date": "25-08-2026",
+      "time": "02:15",
+      "datetime": "25-08-2026 02:15",
+      "league": "Torneo LPF",
+      "teams": "Lanus - Argentinos Jrs",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-08-2026 (02:15) Torneo LPF : Lanus - Argentinos Jrs  (CH75es)"
+    },
+    {
+      "date": "25-08-2026",
+      "time": "02:15",
+      "datetime": "25-08-2026 02:15",
+      "league": "Torneo LPF",
+      "teams": "Talleres Cordoba - Rosario Central",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "25-08-2026 (02:15) Torneo LPF : Talleres Cordoba - Rosario Central  (CH76es)"
     }
   ],
   "player_streams": {
@@ -4231,7 +4259,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:46:39.577232"
+      "extracted_at": "2026-08-22T00:54:57.229518"
     },
     "hoca": {
       "name": "hoca",
@@ -4239,7 +4267,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:46:41.130340"
+      "extracted_at": "2026-08-22T00:54:58.719231"
     },
     "Caster": {
       "name": "Caster",
@@ -4247,7 +4275,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:46:42.681328"
+      "extracted_at": "2026-08-22T00:55:00.319746"
     },
     "WIGI": {
       "name": "WIGI",
@@ -4255,7 +4283,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-21T23:46:44.277903"
+      "extracted_at": "2026-08-22T00:55:01.595647"
     }
   },
   "player_urls": {

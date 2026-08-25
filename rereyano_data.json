@@ -1,105 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-25T04:22:51.268806",
-  "total_events": 6,
+  "last_updated": "2026-08-25T05:03:25.994976",
+  "total_events": 0,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [
-    {
-      "date": "25-08-2026",
-      "time": "03:38",
-      "datetime": "25-08-2026 03:38",
-      "league": "MLB",
-      "teams": "Los Angeles Angels - Cleveland Guardians",
-      "channels": [
-        {
-          "id": "184",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-08-2026 (03:38) MLB : Los Angeles Angels - Cleveland Guardians  (CH184us)"
-    },
-    {
-      "date": "25-08-2026",
-      "time": "03:40",
-      "datetime": "25-08-2026 03:40",
-      "league": "MLB",
-      "teams": "Arizona Diamondbacks - Chicago Cubs",
-      "channels": [
-        {
-          "id": "185",
-          "lang": "us"
-        },
-        {
-          "id": "89",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-08-2026 (03:40) MLB : Arizona Diamondbacks - Chicago Cubs  (CH185us) (CH89es)"
-    },
-    {
-      "date": "25-08-2026",
-      "time": "03:40",
-      "datetime": "25-08-2026 03:40",
-      "league": "MLB",
-      "teams": "Athletics - Minnesota Twins",
-      "channels": [
-        {
-          "id": "186",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-08-2026 (03:40) MLB : Athletics - Minnesota Twins  (CH186us)"
-    },
-    {
-      "date": "25-08-2026",
-      "time": "03:40",
-      "datetime": "25-08-2026 03:40",
-      "league": "MLB",
-      "teams": "San Diego Padres - Pittsburgh Pirates",
-      "channels": [
-        {
-          "id": "187",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-08-2026 (03:40) MLB : San Diego Padres - Pittsburgh Pirates  (CH187us)"
-    },
-    {
-      "date": "25-08-2026",
-      "time": "03:40",
-      "datetime": "25-08-2026 03:40",
-      "league": "MLB",
-      "teams": "Seattle Mariners - Philadelphia Phillies",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "25-08-2026 (03:40) MLB : Seattle Mariners - Philadelphia Phillies  (CH188us)"
-    },
-    {
-      "date": "25-08-2026",
-      "time": "03:45",
-      "datetime": "25-08-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Cincinnati Reds",
-      "channels": [
-        {
-          "id": "189",
-          "lang": "us"
-        },
-        {
-          "id": "70",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "25-08-2026 (03:45) MLB : San Francisco Giants - Cincinnati Reds  (CH189us) (CH70es)"
-    }
-  ],
+  "events": [],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -107,7 +14,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-25T04:22:45.543386"
+      "extracted_at": "2026-08-25T05:03:19.771305"
     },
     "hoca": {
       "name": "hoca",
@@ -115,7 +22,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-25T04:22:47.260621"
+      "extracted_at": "2026-08-25T05:03:21.532925"
     },
     "Caster": {
       "name": "Caster",
@@ -123,7 +30,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-25T04:22:48.546058"
+      "extracted_at": "2026-08-25T05:03:23.313513"
     },
     "WIGI": {
       "name": "WIGI",
@@ -131,7 +38,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-25T04:22:50.268650"
+      "extracted_at": "2026-08-25T05:03:24.994834"
     }
   },
   "player_urls": {

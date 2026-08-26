@@ -1,12 +1,511 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-26T15:54:17.735553",
-  "total_events": 0,
+  "last_updated": "2026-08-26T16:44:24.795103",
+  "total_events": 31,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
-  "events": [],
+  "events": [
+    {
+      "date": "26-08-2026",
+      "time": "19:10",
+      "datetime": "26-08-2026 19:10",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Tampa Bay Rays",
+      "channels": [
+        {
+          "id": "180",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (19:10) MLB : Detroit Tigers - Tampa Bay Rays  (CH180us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "20:45",
+      "datetime": "26-08-2026 20:45",
+      "league": "Efl Cup",
+      "teams": "Bradford City - Burnley",
+      "channels": [
+        {
+          "id": "133",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (20:45) Efl Cup : Bradford City - Burnley  (CH133us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "20:45",
+      "datetime": "26-08-2026 20:45",
+      "league": "Efl Cup",
+      "teams": "Newcastle - West Brom",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "130",
+          "lang": "us"
+        },
+        {
+          "id": "145",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-08-2026 (20:45) Efl Cup : Newcastle - West Brom  (CH2fr) (CH130us) (CH145pt)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "20:45",
+      "datetime": "26-08-2026 20:45",
+      "league": "Efl Cup",
+      "teams": "Tottenham - Charlton",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "131",
+          "lang": "us"
+        },
+        {
+          "id": "98",
+          "lang": "es"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "26-08-2026 (20:45) Efl Cup : Tottenham - Charlton  (CH1fr) (CH131us) (CH98es) (CH144pt)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "21:00",
+      "datetime": "26-08-2026 21:00",
+      "league": "Efl Cup",
+      "teams": "Preston - Everton",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "132",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (21:00) Efl Cup : Preston - Everton  (CH4fr) (CH132us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "21:00",
+      "datetime": "26-08-2026 21:00",
+      "league": "Laliga",
+      "teams": "Real Madrid - Real Sociedad",
+      "channels": [
+        {
+          "id": "45",
+          "lang": "fr"
+        },
+        {
+          "id": "49",
+          "lang": "es"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-08-2026 (21:00) Laliga : Real Madrid - Real Sociedad  (CH45fr) (CH49es) (CH137it) (CH71es) (CH87es)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "21:40",
+      "datetime": "26-08-2026 21:40",
+      "league": "MLB",
+      "teams": "Arizona Diamondbacks - Chicago Cubs",
+      "channels": [
+        {
+          "id": "181",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (21:40) MLB : Arizona Diamondbacks - Chicago Cubs  (CH181us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "21:45",
+      "datetime": "26-08-2026 21:45",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "182",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (21:45) MLB : San Francisco Giants - Cincinnati Reds  (CH182us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "22:07",
+      "datetime": "26-08-2026 22:07",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Cleveland Guardians",
+      "channels": [
+        {
+          "id": "183",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (22:07) MLB : Los Angeles Angels - Cleveland Guardians  (CH183us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "22:10",
+      "datetime": "26-08-2026 22:10",
+      "league": "MLB",
+      "teams": "San Diego Padres - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "184",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (22:10) MLB : San Diego Padres - Pittsburgh Pirates  (CH184us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "22:10",
+      "datetime": "26-08-2026 22:10",
+      "league": "MLB",
+      "teams": "Seattle Mariners - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "26-08-2026 (22:10) MLB : Seattle Mariners - Philadelphia Phillies  (CH185us)"
+    },
+    {
+      "date": "26-08-2026",
+      "time": "23:00",
+      "datetime": "26-08-2026 23:00",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Chico - Fortaleza",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "26-08-2026 (23:00) Liga Betplay Dimayor : Chico - Fortaleza  (CH81es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "00:00",
+      "datetime": "27-08-2026 00:00",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Coquimbo - U. Catolica",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (00:00) Campeonato Itaú Chile : Coquimbo - U. Catolica  (CH83es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "00:15",
+      "datetime": "27-08-2026 00:15",
+      "league": "Copa Argentina",
+      "teams": "Aldosivi - Ind. Rivadavia",
+      "channels": [
+        {
+          "id": "77",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (00:15) Copa Argentina : Aldosivi - Ind. Rivadavia  (CH77es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "00:40",
+      "datetime": "27-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Miami Marlins - Boston Red Sox",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (00:40) MLB : Miami Marlins - Boston Red Sox  (CH186us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "00:45",
+      "datetime": "27-08-2026 00:45",
+      "league": "MLB",
+      "teams": "Washington Nationals - Colorado Rockies",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (00:45) MLB : Washington Nationals - Colorado Rockies  (CH187us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:05",
+      "datetime": "27-08-2026 01:05",
+      "league": "MLB",
+      "teams": "New York Yankees - Houston Astros",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:05) MLB : New York Yankees - Houston Astros  (CH188us) (CH89es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:07",
+      "datetime": "27-08-2026 01:07",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Kansas City Royals",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:07) MLB : Toronto Blue Jays - Kansas City Royals  (CH189us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:10",
+      "datetime": "27-08-2026 01:10",
+      "league": "MLB",
+      "teams": "New York Mets - Milwaukee Brewers",
+      "channels": [
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:10) MLB : New York Mets - Milwaukee Brewers  (CH190us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:15",
+      "datetime": "27-08-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:15) MLB : Atlanta Braves - Los Angeles Dodgers  (CH191us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:20",
+      "datetime": "27-08-2026 01:20",
+      "league": "Liga Betplay Dimayor",
+      "teams": "America De Cali - Junior",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:20) Liga Betplay Dimayor : America De Cali - Junior  (CH81es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:40",
+      "datetime": "27-08-2026 01:40",
+      "league": "MLB",
+      "teams": "Chicago White Sox - Texas Rangers",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:40) MLB : Chicago White Sox - Texas Rangers  (CH192us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "01:45",
+      "datetime": "27-08-2026 01:45",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (01:45) MLB : St.Louis Cardinals - Baltimore Orioles  (CH193us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "02:30",
+      "datetime": "27-08-2026 02:30",
+      "league": "Copa Chili",
+      "teams": "Colo Colo - U. Espanola",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (02:30) Copa Chili : Colo Colo - U. Espanola  (CH83es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "02:30",
+      "datetime": "27-08-2026 02:30",
+      "league": "Copa Chili",
+      "teams": "Recoleta - O'Higgins",
+      "channels": [
+        {
+          "id": "85",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (02:30) Copa Chili : Recoleta - O'Higgins  (CH85es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "02:30",
+      "datetime": "27-08-2026 02:30",
+      "league": "Coupe Du Bresil",
+      "teams": "Palmeiras - Santos",
+      "channels": [
+        {
+          "id": "95",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        },
+        {
+          "id": "156",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "27-08-2026 (02:30) Coupe Du Bresil : Palmeiras - Santos  (CH95es) (CH97es) (CH156pt)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "02:30",
+      "datetime": "27-08-2026 02:30",
+      "league": "Coupe Du Bresil",
+      "teams": "Vasco - Vitoria",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "pt"
+        }
+      ],
+      "raw_line": "27-08-2026 (02:30) Coupe Du Bresil : Vasco - Vitoria  (CH155pt)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "02:30",
+      "datetime": "27-08-2026 02:30",
+      "league": "Leagues Cup",
+      "teams": "Toluca - Austin FC",
+      "channels": [
+        {
+          "id": "160",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (02:30) Leagues Cup : Toluca - Austin FC  (CH160es) (CH68es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "03:05",
+      "datetime": "27-08-2026 03:05",
+      "league": "MLB",
+      "teams": "Athletics - Minnesota Twins",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "27-08-2026 (03:05) MLB : Athletics - Minnesota Twins  (CH194us)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "03:30",
+      "datetime": "27-08-2026 03:30",
+      "league": "Liga Betplay Dimayor",
+      "teams": "Atl. Nacional - Dep. Cali",
+      "channels": [
+        {
+          "id": "81",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (03:30) Liga Betplay Dimayor : Atl. Nacional - Dep. Cali  (CH81es)"
+    },
+    {
+      "date": "27-08-2026",
+      "time": "04:45",
+      "datetime": "27-08-2026 04:45",
+      "league": "Leagues Cup",
+      "teams": "Club America - Columbus Crew",
+      "channels": [
+        {
+          "id": "161",
+          "lang": "es"
+        },
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "106",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "27-08-2026 (04:45) Leagues Cup : Club America - Columbus Crew  (CH161es) (CH68es) (CH106es)"
+    }
+  ],
   "player_streams": {
     "Cartel": {
       "name": "Cartel",
@@ -14,7 +513,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-26T15:54:12.144375"
+      "extracted_at": "2026-08-26T16:44:19.353060"
     },
     "hoca": {
       "name": "hoca",
@@ -22,7 +521,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-26T15:54:13.883581"
+      "extracted_at": "2026-08-26T16:44:20.890238"
     },
     "Caster": {
       "name": "Caster",
@@ -30,7 +529,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-26T15:54:15.492056"
+      "extracted_at": "2026-08-26T16:44:22.165603"
     },
     "WIGI": {
       "name": "WIGI",
@@ -38,7 +537,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-26T15:54:16.735406"
+      "extracted_at": "2026-08-26T16:44:23.794990"
     }
   },
   "player_urls": {

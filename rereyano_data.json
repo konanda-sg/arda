@@ -1,104 +1,12 @@
 {
   "extractor": "RereYano",
   "website": "https://embedme.click/vip4.php",
-  "last_updated": "2026-08-28T03:35:38.697096",
-  "total_events": 11,
+  "last_updated": "2026-08-28T15:40:34.909027",
+  "total_events": 64,
   "total_players": 4,
   "m3u8_extracted": 0,
   "accessible_streams": 0,
   "events": [
-    {
-      "date": "28-08-2026",
-      "time": "03:00",
-      "datetime": "28-08-2026 03:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Alebrijes Oaxaca - Tapatio",
-      "channels": [
-        {
-          "id": "99",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-08-2026 (03:00) Liga De Expansion Mx : Alebrijes Oaxaca - Tapatio  (CH99es)"
-    },
-    {
-      "date": "28-08-2026",
-      "time": "03:00",
-      "datetime": "28-08-2026 03:00",
-      "league": "Liga De Expansion Mx",
-      "teams": "Cancun - Atletico La Paz",
-      "channels": [
-        {
-          "id": "158",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-08-2026 (03:00) Liga De Expansion Mx : Cancun - Atletico La Paz  (CH158es)"
-    },
-    {
-      "date": "28-08-2026",
-      "time": "03:15",
-      "datetime": "28-08-2026 03:15",
-      "league": "Liga Betplay Dimayor",
-      "teams": "Inter Bogotá - Dep. Pasto",
-      "channels": [
-        {
-          "id": "81",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-08-2026 (03:15) Liga Betplay Dimayor : Inter Bogotá - Dep. Pasto  (CH81es)"
-    },
-    {
-      "date": "28-08-2026",
-      "time": "03:45",
-      "datetime": "28-08-2026 03:45",
-      "league": "MLB",
-      "teams": "San Francisco Giants - Arizona Diamondbacks",
-      "channels": [
-        {
-          "id": "196",
-          "lang": "us"
-        }
-      ],
-      "raw_line": "28-08-2026 (03:45) MLB : San Francisco Giants - Arizona Diamondbacks  (CH196us)"
-    },
-    {
-      "date": "28-08-2026",
-      "time": "04:00",
-      "datetime": "28-08-2026 04:00",
-      "league": "NFL",
-      "teams": "Los Angeles Chargers - Los Angeles Rams",
-      "channels": [
-        {
-          "id": "188",
-          "lang": "us"
-        },
-        {
-          "id": "159",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-08-2026 (04:00) NFL : Los Angeles Chargers - Los Angeles Rams  (CH188us) (CH159es)"
-    },
-    {
-      "date": "28-08-2026",
-      "time": "10:45",
-      "datetime": "28-08-2026 10:45",
-      "league": "MotoGP",
-      "teams": "Grand Prix d’Aragon Essais libres 1 -",
-      "channels": [
-        {
-          "id": "14",
-          "lang": "fr"
-        },
-        {
-          "id": "67",
-          "lang": "es"
-        }
-      ],
-      "raw_line": "28-08-2026 (10:45) MotoGP : Grand Prix d’Aragon Essais libres 1 -   (CH14fr) (CH67es)"
-    },
     {
       "date": "28-08-2026",
       "time": "15:00",
@@ -116,6 +24,948 @@
         }
       ],
       "raw_line": "28-08-2026 (15:00) MotoGP : Grand Prix d’Aragon Essais des Moto GP -   (CH14fr) (CH67es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "18:30",
+      "datetime": "28-08-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "multiplex 2. Bundesliga -",
+      "channels": [
+        {
+          "id": "112",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "28-08-2026 (18:30) Bundesliga 2 : multiplex 2. Bundesliga -   (CH112de)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "18:30",
+      "datetime": "28-08-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Bochum - VfL Osnabruck",
+      "channels": [
+        {
+          "id": "113",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "28-08-2026 (18:30) Bundesliga 2 : Bochum - VfL Osnabruck  (CH113de)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "18:30",
+      "datetime": "28-08-2026 18:30",
+      "league": "Bundesliga 2",
+      "teams": "Braunschweig - Hertha Berlin",
+      "channels": [
+        {
+          "id": "114",
+          "lang": "de"
+        }
+      ],
+      "raw_line": "28-08-2026 (18:30) Bundesliga 2 : Braunschweig - Hertha Berlin  (CH114de)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "19:00",
+      "datetime": "28-08-2026 19:00",
+      "league": "Laliga",
+      "teams": "Racing Santander - Elche",
+      "channels": [
+        {
+          "id": "52",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (19:00) Laliga : Racing Santander - Elche  (CH52es) (CH71es) (CH90es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Eredivisie",
+      "teams": "Groningen - Sittard",
+      "channels": [
+        {
+          "id": "142",
+          "lang": "nl"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Eredivisie : Groningen - Sittard  (CH142nl)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "multiplex Ligue 2 -",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Ligue 2 : multiplex Ligue 2 -   (CH1es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Clermont - Sochaux",
+      "channels": [
+        {
+          "id": "5",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Ligue 2 : Clermont - Sochaux  (CH5fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Laval - Grenoble",
+      "channels": [
+        {
+          "id": "8",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Ligue 2 : Laval - Grenoble  (CH8fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Montpellier - Boulogne",
+      "channels": [
+        {
+          "id": "6",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Ligue 2 : Montpellier - Boulogne  (CH6fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Nancy - Dunkerque",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Ligue 2 : Nancy - Dunkerque  (CH4fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Ligue 2",
+      "teams": "Rodez - Pau FC",
+      "channels": [
+        {
+          "id": "7",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Ligue 2 : Rodez - Pau FC  (CH7fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Saudi Pro League",
+      "teams": "Al Khaleej - Al Hilal",
+      "channels": [
+        {
+          "id": "155",
+          "lang": "ar"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Saudi Pro League : Al Khaleej - Al Hilal  (CH155ar)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:00",
+      "datetime": "28-08-2026 20:00",
+      "league": "Saudi Pro League",
+      "teams": "Al Nassr - Al Taawon",
+      "channels": [
+        {
+          "id": "60",
+          "lang": "es"
+        },
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:00) Saudi Pro League : Al Nassr - Al Taawon  (CH60es) (CH70es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:20",
+      "datetime": "28-08-2026 20:20",
+      "league": "MLB",
+      "teams": "Chicago Cubs - Cincinnati Reds",
+      "channels": [
+        {
+          "id": "185",
+          "lang": "us"
+        },
+        {
+          "id": "80",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:20) MLB : Chicago Cubs - Cincinnati Reds  (CH185us) (CH80es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:30",
+      "datetime": "28-08-2026 20:30",
+      "league": "Bundesliga",
+      "teams": "Bayern Munich - Stuttgart",
+      "channels": [
+        {
+          "id": "2",
+          "lang": "fr"
+        },
+        {
+          "id": "111",
+          "lang": "de"
+        },
+        {
+          "id": "73",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:30) Bundesliga : Bayern Munich - Stuttgart  (CH2fr) (CH111de) (CH73es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:30",
+      "datetime": "28-08-2026 20:30",
+      "league": "Super Lig",
+      "teams": "Genclerbirligi - Erzurumspor",
+      "channels": [
+        {
+          "id": "151",
+          "lang": "tr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:30) Super Lig : Genclerbirligi - Erzurumspor  (CH151tr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:45",
+      "datetime": "28-08-2026 20:45",
+      "league": "Ligue 1",
+      "teams": "Lille - PSG",
+      "channels": [
+        {
+          "id": "20",
+          "lang": "fr"
+        },
+        {
+          "id": "69",
+          "lang": "es"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:45) Ligue 1 : Lille - PSG  (CH20fr) (CH69es) (CH89es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:45",
+      "datetime": "28-08-2026 20:45",
+      "league": "Pro League",
+      "teams": "Genk - Beveren",
+      "channels": [
+        {
+          "id": "153",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:45) Pro League : Genk - Beveren  (CH153fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "20:45",
+      "datetime": "28-08-2026 20:45",
+      "league": "Serie A",
+      "teams": "AC Milan - Venezia",
+      "channels": [
+        {
+          "id": "46",
+          "lang": "fr"
+        },
+        {
+          "id": "137",
+          "lang": "it"
+        },
+        {
+          "id": "72",
+          "lang": "es"
+        },
+        {
+          "id": "87",
+          "lang": "es"
+        },
+        {
+          "id": "99",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (20:45) Serie A : AC Milan - Venezia  (CH46fr) (CH137it) (CH72es) (CH87es) (CH99es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "21:00",
+      "datetime": "28-08-2026 21:00",
+      "league": "Championship",
+      "teams": "Wrexham - Birmingham",
+      "channels": [
+        {
+          "id": "10",
+          "lang": "fr"
+        },
+        {
+          "id": "128",
+          "lang": "gb"
+        },
+        {
+          "id": "93",
+          "lang": "es"
+        },
+        {
+          "id": "100",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (21:00) Championship : Wrexham - Birmingham  (CH10fr) (CH128gb) (CH93es) (CH100es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "21:00",
+      "datetime": "28-08-2026 21:00",
+      "league": "Laliga 2",
+      "teams": "Tenerife - Gijon",
+      "channels": [
+        {
+          "id": "53",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (21:00) Laliga 2 : Tenerife - Gijon  (CH53es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "21:00",
+      "datetime": "28-08-2026 21:00",
+      "league": "Premier League",
+      "teams": "Crystal Palace - Manchester City",
+      "channels": [
+        {
+          "id": "12",
+          "lang": "fr"
+        },
+        {
+          "id": "127",
+          "lang": "gb"
+        },
+        {
+          "id": "56",
+          "lang": "es"
+        },
+        {
+          "id": "120",
+          "lang": "de"
+        },
+        {
+          "id": "138",
+          "lang": "it"
+        },
+        {
+          "id": "61",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (21:00) Premier League : Crystal Palace - Manchester City  (CH12fr) (CH127gb) (CH56es) (CH120de) (CH138it) (CH61es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "21:00",
+      "datetime": "28-08-2026 21:00",
+      "league": "Pro D2",
+      "teams": "CA Brive - Valence Romans",
+      "channels": [
+        {
+          "id": "13",
+          "lang": "fr"
+        }
+      ],
+      "raw_line": "28-08-2026 (21:00) Pro D2 : CA Brive - Valence Romans  (CH13fr)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "21:15",
+      "datetime": "28-08-2026 21:15",
+      "league": "Liga Portugal",
+      "teams": "Rio Ave - Sporting CP",
+      "channels": [
+        {
+          "id": "9",
+          "lang": "fr"
+        },
+        {
+          "id": "144",
+          "lang": "pt"
+        },
+        {
+          "id": "95",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (21:15) Liga Portugal : Rio Ave - Sporting CP  (CH9fr) (CH144pt) (CH95es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "21:30",
+      "datetime": "28-08-2026 21:30",
+      "league": "Laliga",
+      "teams": "Alaves - Villarreal",
+      "channels": [
+        {
+          "id": "51",
+          "lang": "es"
+        },
+        {
+          "id": "71",
+          "lang": "es"
+        },
+        {
+          "id": "90",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (21:30) Laliga : Alaves - Villarreal  (CH51es) (CH71es) (CH90es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "22:00",
+      "datetime": "28-08-2026 22:00",
+      "league": "Liga 1 Te Apuesto",
+      "teams": "Comerciantes Unidos - FC Cajamarca",
+      "channels": [
+        {
+          "id": "84",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (22:00) Liga 1 Te Apuesto : Comerciantes Unidos - FC Cajamarca  (CH84es)"
+    },
+    {
+      "date": "28-08-2026",
+      "time": "22:30",
+      "datetime": "28-08-2026 22:30",
+      "league": "Ecuador Ligapro",
+      "teams": "Mushuc Runa - Delfin",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "28-08-2026 (22:30) Ecuador Ligapro : Mushuc Runa - Delfin  (CH86es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "00:00",
+      "datetime": "29-08-2026 00:00",
+      "league": "Liga AUF Uruguaya",
+      "teams": "Wanderers - Central Esp.",
+      "channels": [
+        {
+          "id": "109",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (00:00) Liga AUF Uruguaya : Wanderers - Central Esp.  (CH109es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "00:00",
+      "datetime": "29-08-2026 00:00",
+      "league": "NFL",
+      "teams": "Baltimore Ravens - Washington Commanders",
+      "channels": [
+        {
+          "id": "170",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (00:00) NFL : Baltimore Ravens - Washington Commanders  (CH170us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "00:00",
+      "datetime": "29-08-2026 00:00",
+      "league": "Torneo LPF",
+      "teams": "Union de Santa Fe - Sarmiento Junin",
+      "channels": [
+        {
+          "id": "76",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (00:00) Torneo LPF : Union de Santa Fe - Sarmiento Junin  (CH76es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "00:30",
+      "datetime": "29-08-2026 00:30",
+      "league": "Campeonato Itaú Chile",
+      "teams": "Cobresal - Palestino",
+      "channels": [
+        {
+          "id": "83",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (00:30) Campeonato Itaú Chile : Cobresal - Palestino  (CH83es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "00:40",
+      "datetime": "29-08-2026 00:40",
+      "league": "MLB",
+      "teams": "Detroit Tigers - Los Angeles Dodgers",
+      "channels": [
+        {
+          "id": "186",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (00:40) MLB : Detroit Tigers - Los Angeles Dodgers  (CH186us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "00:45",
+      "datetime": "29-08-2026 00:45",
+      "league": "MLB",
+      "teams": "Washington Nationals - Miami Marlins",
+      "channels": [
+        {
+          "id": "187",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (00:45) MLB : Washington Nationals - Miami Marlins  (CH187us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:00",
+      "datetime": "29-08-2026 01:00",
+      "league": "NFL",
+      "teams": "Carolina Panthers - Houston Texans",
+      "channels": [
+        {
+          "id": "171",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:00) NFL : Carolina Panthers - Houston Texans  (CH171us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:00",
+      "datetime": "29-08-2026 01:00",
+      "league": "NFL",
+      "teams": "Miami Dolphins - Atlanta Falcons",
+      "channels": [
+        {
+          "id": "172",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:00) NFL : Miami Dolphins - Atlanta Falcons  (CH172us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:10",
+      "datetime": "29-08-2026 01:10",
+      "league": "MLB",
+      "teams": "Cleveland Guardians - Kansas City Royals",
+      "channels": [
+        {
+          "id": "188",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:10) MLB : Cleveland Guardians - Kansas City Royals  (CH188us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:10",
+      "datetime": "29-08-2026 01:10",
+      "league": "MLB",
+      "teams": "New York Mets - Houston Astros",
+      "channels": [
+        {
+          "id": "189",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:10) MLB : New York Mets - Houston Astros  (CH189us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:10",
+      "datetime": "29-08-2026 01:10",
+      "league": "MLB",
+      "teams": "Tampa Bay Rays - San Diego Padres",
+      "channels": [
+        {
+          "id": "4",
+          "lang": "fr"
+        },
+        {
+          "id": "190",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:10) MLB : Tampa Bay Rays - San Diego Padres  (CH4fr) (CH190us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:15",
+      "datetime": "29-08-2026 01:15",
+      "league": "MLB",
+      "teams": "Atlanta Braves - Colorado Rockies",
+      "channels": [
+        {
+          "id": "191",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:15) MLB : Atlanta Braves - Colorado Rockies  (CH191us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:15",
+      "datetime": "29-08-2026 01:15",
+      "league": "MLB",
+      "teams": "New York Yankees - Boston Red Sox",
+      "channels": [
+        {
+          "id": "192",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:15) MLB : New York Yankees - Boston Red Sox  (CH192us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:15",
+      "datetime": "29-08-2026 01:15",
+      "league": "MLB",
+      "teams": "Toronto Blue Jays - Seattle Mariners",
+      "channels": [
+        {
+          "id": "193",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:15) MLB : Toronto Blue Jays - Seattle Mariners  (CH193us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:30",
+      "datetime": "29-08-2026 01:30",
+      "league": "NFL",
+      "teams": "Jacksonville Jaguars - Tampa Bay Buccaneers",
+      "channels": [
+        {
+          "id": "173",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:30) NFL : Jacksonville Jaguars - Tampa Bay Buccaneers  (CH173us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:30",
+      "datetime": "29-08-2026 01:30",
+      "league": "NFL",
+      "teams": "New York Jets - New York Giants",
+      "channels": [
+        {
+          "id": "174",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:30) NFL : New York Jets - New York Giants  (CH174us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "01:40",
+      "datetime": "29-08-2026 01:40",
+      "league": "MLB",
+      "teams": "Milwaukee Brewers - Texas Rangers",
+      "channels": [
+        {
+          "id": "194",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (01:40) MLB : Milwaukee Brewers - Texas Rangers  (CH194us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:00",
+      "datetime": "29-08-2026 02:00",
+      "league": "Ecuador Ligapro",
+      "teams": "Tecnico U. - Dep. Cuenca",
+      "channels": [
+        {
+          "id": "86",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:00) Ecuador Ligapro : Tecnico U. - Dep. Cuenca  (CH86es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:00",
+      "datetime": "29-08-2026 02:00",
+      "league": "NFL",
+      "teams": "Dallas Cowboys - New Orleans Saints",
+      "channels": [
+        {
+          "id": "1",
+          "lang": "fr"
+        },
+        {
+          "id": "175",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:00) NFL : Dallas Cowboys - New Orleans Saints  (CH1fr) (CH175us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:00",
+      "datetime": "29-08-2026 02:00",
+      "league": "NFL",
+      "teams": "Green Bay Packers - Arizona Cardinals",
+      "channels": [
+        {
+          "id": "176",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:00) NFL : Green Bay Packers - Arizona Cardinals  (CH176us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:00",
+      "datetime": "29-08-2026 02:00",
+      "league": "NFL",
+      "teams": "Kansas City Chiefs - Seattle Seahawks",
+      "channels": [
+        {
+          "id": "177",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:00) NFL : Kansas City Chiefs - Seattle Seahawks  (CH177us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:00",
+      "datetime": "29-08-2026 02:00",
+      "league": "NFL",
+      "teams": "Philadelphia Eagles - Cincinnati Bengals",
+      "channels": [
+        {
+          "id": "178",
+          "lang": "us"
+        },
+        {
+          "id": "89",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:00) NFL : Philadelphia Eagles - Cincinnati Bengals  (CH178us) (CH89es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:10",
+      "datetime": "29-08-2026 02:10",
+      "league": "MLB",
+      "teams": "Minnesota Twins - Chicago White Sox",
+      "channels": [
+        {
+          "id": "195",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:10) MLB : Minnesota Twins - Chicago White Sox  (CH195us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:15",
+      "datetime": "29-08-2026 02:15",
+      "league": "MLB",
+      "teams": "St.Louis Cardinals - Pittsburgh Pirates",
+      "channels": [
+        {
+          "id": "196",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:15) MLB : St.Louis Cardinals - Pittsburgh Pirates  (CH196us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "02:30",
+      "datetime": "29-08-2026 02:30",
+      "league": "Torneo LPF",
+      "teams": "Boca Juniors - Lanus",
+      "channels": [
+        {
+          "id": "75",
+          "lang": "es"
+        },
+        {
+          "id": "79",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (02:30) Torneo LPF : Boca Juniors - Lanus  (CH75es) (CH79es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "03:00",
+      "datetime": "29-08-2026 03:00",
+      "league": "Liga Mx",
+      "teams": "Atlante - Club Leon",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        },
+        {
+          "id": "97",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (03:00) Liga Mx : Atlante - Club Leon  (CH68es) (CH97es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "03:00",
+      "datetime": "29-08-2026 03:00",
+      "league": "Liga Mx",
+      "teams": "Necaxa - Cruz Azul",
+      "channels": [
+        {
+          "id": "70",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (03:00) Liga Mx : Necaxa - Cruz Azul  (CH70es)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "03:00",
+      "datetime": "29-08-2026 03:00",
+      "league": "NFL",
+      "teams": "Denver Broncos - Minnesota Vikings",
+      "channels": [
+        {
+          "id": "179",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (03:00) NFL : Denver Broncos - Minnesota Vikings  (CH179us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "03:38",
+      "datetime": "29-08-2026 03:38",
+      "league": "MLB",
+      "teams": "Los Angeles Angels - Philadelphia Phillies",
+      "channels": [
+        {
+          "id": "197",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (03:38) MLB : Los Angeles Angels - Philadelphia Phillies  (CH197us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "03:40",
+      "datetime": "29-08-2026 03:40",
+      "league": "MLB",
+      "teams": "Athletics - Baltimore Orioles",
+      "channels": [
+        {
+          "id": "198",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (03:40) MLB : Athletics - Baltimore Orioles  (CH198us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "04:15",
+      "datetime": "29-08-2026 04:15",
+      "league": "MLB",
+      "teams": "San Francisco Giants - Arizona Diamondbacks",
+      "channels": [
+        {
+          "id": "199",
+          "lang": "us"
+        }
+      ],
+      "raw_line": "29-08-2026 (04:15) MLB : San Francisco Giants - Arizona Diamondbacks  (CH199us)"
+    },
+    {
+      "date": "29-08-2026",
+      "time": "05:10",
+      "datetime": "29-08-2026 05:10",
+      "league": "Liga Mx",
+      "teams": "Club Tijuana - UNAM Pumas",
+      "channels": [
+        {
+          "id": "68",
+          "lang": "es"
+        }
+      ],
+      "raw_line": "29-08-2026 (05:10) Liga Mx : Club Tijuana - UNAM Pumas  (CH68es)"
     },
     {
       "date": "29-08-2026",
@@ -197,7 +1047,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-28T03:35:33.077811"
+      "extracted_at": "2026-08-28T15:40:29.663693"
     },
     "hoca": {
       "name": "hoca",
@@ -205,7 +1055,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-28T03:35:34.814261"
+      "extracted_at": "2026-08-28T15:40:31.213734"
     },
     "Caster": {
       "name": "Caster",
@@ -213,7 +1063,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-28T03:35:36.445646"
+      "extracted_at": "2026-08-28T15:40:32.677781"
     },
     "WIGI": {
       "name": "WIGI",
@@ -221,7 +1071,7 @@
       "iframe_url": null,
       "m3u8_url": null,
       "status": "no_iframe",
-      "extracted_at": "2026-08-28T03:35:37.696913"
+      "extracted_at": "2026-08-28T15:40:33.908898"
     }
   },
   "player_urls": {
